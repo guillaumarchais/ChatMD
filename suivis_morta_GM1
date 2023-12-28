@@ -1,21 +1,22 @@
-# Chatbot : tout sur les suivis mortalité des parcs éoliens terrestres
+# Chatbot : Tout savoir sur les suivis mortalité des parcs éoliens terrestres.
 
-> <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de Guillaume Marchais. [https://mikerobot.netlify.app/](https://gmarchais.free.fr)</span>
+> <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de Guillaume Marchais. [https://gmarchais.free.fr/](gmarchais.free.fr)</span>
 > 
-> Je peux t'aider à comprendre. Quel est ton problème ?
+> Je peux t'aider à comprendre. Que veux-tu savoir exactement ?
 >
-> 1. [L'image est floue](L'image est floue)
+> 1. [Les formules d'estimation](Les formules d'estimation)
 > 2. [L'image est trop claire/sombre](L'image est trop claire ou trop sombre)
 > 3. [Je veux grossir l'image](Je veux grossir l'image)
 > 4. [Je veux me déplacer dans la lame](Je veux me déplacer dans la lame)
 > 5. [Je ne vois rien](Je ne vois rien)
 
-## L'image est floue
-- l'image est floue
-- est flou
-- flou
+## Les formules d'estimation
+- les formules d'estimation
+- les modèles 
+- estimation
+- formule
 
-Es-tu au plus gros objectif ?
+Laquelle veux-tu apprendre entre Huso, Erickson, Dalthorp, Jones ?
 
 1. [Oui](Plus gros objectif : oui)
 2. [Non](Plus gros objectif : non)
