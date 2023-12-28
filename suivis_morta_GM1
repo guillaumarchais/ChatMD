@@ -18,20 +18,20 @@
 
 Laquelle veux-tu apprendre entre :
 
-1. [Huso](formule: Huso)
-2. [Erickson](formule: Erickson)
-3. [Dalthorp](formule: Dalthorp)
-4. [Jones](formule: Jones)
+1. [Huso](formule : Huso)
+2. [Erickson](formule : Erickson)
+3. [Dalthorp](formule : Dalthorp)
+4. [Jones](formule : Jones)
 
-##  Formule: Huso
+## Formule : Huso
 - Huso
 
-Huso et al. (2010) considèrent également une mortalité globalement constante mais, dans leur approche, la probabilité de disparition au milieu de l’intervalle de passage n’est pas égale à la probabilité moyenne de persistance d’un cadavre. 
+Huso et al. (2010) considèrent une mortalité globalement constante mais, dans leur approche, la probabilité de disparition au milieu de l’intervalle de passage n’est pas égale à la probabilité moyenne de persistance d’un cadavre. 
 La formule est donc différente. 
 Néanmoins, les travaux de Huso sont basés sur des données américaines où les taux de persistance moyens seraient plus élevés qu’en Europe. 
 Les biais sont donc plus importants pour cette approche lorsque les durées de persistance sont courtes.
 
-![](https://onlinelibrary.wiley.com/doi/10.1002/env.1052)
+![lien vers la publication](https://onlinelibrary.wiley.com/doi/10.1002/env.1052)
 
 As-tu bien compris ?
 
