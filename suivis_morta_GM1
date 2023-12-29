@@ -55,7 +55,7 @@ Tu veux en savoir davantage ?
 C'est l'auteur programmeur de l'application open source GenEst développé entre autres avec M. Huso qui reprend les modèles statistiques pour permettre à l'utilisateur de les adapter et affiner aux différentes conditions du suivi selon les dates de passage réalisées et les surfaces prospectées.
 Disponible depuis le site web de l'USGS et Github, il s'utilise avec R et plusieurs packages associés.
 Le mode d'emploi en anglais est consultable depuis 
-Depuis 2018, c'est la solution la plus aboutie internationalement pour estimer les mortalités pour un nombre de cadavre minimale (> 5 en général).
+Depuis 2018, c'est la solution la plus aboutie internationalement pour estimer les mortalités pour un nombre de cadavre minimale (> 5 en général). In the remainder of the text, we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines.
 Source : https://www.usgs.gov/software/genest-a-generalized-estimator-mortality
 Tu veux en savoir davantage ?
 1. [Oui](suite formules)
@@ -86,6 +86,7 @@ Tu veux en apprendre plus ?
 
 ## formule : meilleure
 Il a été montré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est dde s'orienter vers l'application open source GenEst qu'elle a développé avec Dalthorp et al. => https://www.usgs.gov/software/genest-a-generalized-estimator-mortality
+[Voigt et al.2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512): <blockquote class="is-size-5 is-size-6-mobile has-text-justified">"..., we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines."</blockquote>
 Tu veux en apprendre plus ?
 1. [Oui]()
 
