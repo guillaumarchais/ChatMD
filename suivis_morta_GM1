@@ -1,4 +1,5 @@
 ---
+clavier : false
 maths : true
 gestionGrosMots: true
 ---
@@ -29,7 +30,6 @@ Laquelle veux-tu entre :
 
 ## formule : Huso
 - Huso
-
 Huso et al. (2010) considèrent une mortalité globalement constante mais, dans leur approche, la probabilité de disparition au milieu de l’intervalle de passage n’est pas égale à la probabilité moyenne de persistance d’un cadavre. 
 même si la durée de persistance d’un cadavre suit une variable exponentielle négative.
 Néanmoins, les travaux de Huso sont basés sur des données américaines où les taux de persistance moyens seraient plus élevés qu’en Europe. 
@@ -41,7 +41,6 @@ As-tu bien compris ?
 
 ## formule : Jones
 - Jones
-
 La méthode proposée par Jones et al. (2009), pour estimer la mortalité repose sur plusieurs hypothèses :
 •	le taux de mortalité est considéré comme globalement constant sur l’intervalle de recherche ;
 •	la durée de persistance d’un cadavre suit une variable exponentielle négative, le taux de persistance étant calculé ainsi (Tm = durée moyenne de persistance en jours) :
@@ -131,7 +130,8 @@ As-tu bien compris ?
 2. [Non]()
 
 ## J'ai compris
-Bravo, tu en sais un peu plus maintenant ! Tu veux poser une autre question ?
+Bravo, tu en sais un peu plus maintenant ! 
+Tu veux poser une autre question ?
 1. [Oui](retour début)
 2. [Non]()
 
