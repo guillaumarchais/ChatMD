@@ -4,7 +4,7 @@ gestionGrosMots: true
 ---
 # Chatbot : Tout savoir sur les suivis mortalité des parcs éoliens terrestres.
 > <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas lui-même produit.</span>![](https://www.shutterstock.com/image-photo/common-buzzard-buteo-flight-wind-turbines-212637479)
->![](https://media.giphy.com/media/MsjwOAnbFzOXm/giphy.gif)
+>![](https://media.giphy.com/media/4CpdsmxdDpcmQ/giphy.gif)
 > Je peux t'aider à comprendre les aspects scientifiques de ce sujet. Que veux-tu savoir exactement ?
 >
 > 1. [Les formules d'estimation](Les formules d'estimation)
@@ -136,6 +136,7 @@ Tu veux en apprendre plus ?
 - pads
 - protocole roads & pads
 - protocole allégé
+![](https://media.giphy.com/media/aCleCvK8nyFxD5mIxV/giphy.gif)
 Les recherches de cadavres sont focalisés sur les surfaces les plus visibles, lesquelles sont souvent les plateformes et les chemins d'accès au plus loin possible des éoliennes (centaine de mètres). Ils sont plus faciles à parcourir et permettent une rapide détection (temps de parcours < 10 min). Ces passsages "éclairs" peuvent donc être associés à d'autres passages (suivis comportementaux) afin d'augmenter leur fréquence (et ainsi réduire les temps d'intervalles) pour les sites qui font preuve d'une persistance (très) courte. En général, cela ne représente que 10 à 30 % des surfaces à prospecter selon le protocole national 2018 (8000 à 10 000 m²) ; il faut donc les pratiquer en combinaison et alternance avec des passages "standard" complets.
 As-tu bien compris ?
 1. [Oui](J'ai compris)
