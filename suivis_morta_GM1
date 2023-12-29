@@ -19,7 +19,7 @@ gestionGrosMots: true
 - estimation
 - formule
 
-Laquelle veux-tu entre :
+Laquelle veux-tu connaitre entre :
 1. [Huso](formule : Huso)
 2. [Erickson](formule : Erickson)
 3. [Dalthorp](formule : Dalthorp)
@@ -121,7 +121,7 @@ Tu veux en apprendre plus ?
 
 ## corr surfa DWP
 Plus récemment, un calcul savant intègre la densité probable selon la distance au mat => voir le [module DWP développé par l'USGS](https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite)
-![](https://link.springer.com/article/10.1007/s10651-020-00466-0/figures/1)
+![Carcass density](https://link.springer.com/article/10.1007/s10651-020-00466-0/figures/1)
 Tu veux en apprendre plus ?
 1. [Oui]()
 
