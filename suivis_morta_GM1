@@ -1,7 +1,8 @@
----------------
+---
 maths : true
 gestionGrosMots: true
-----------------
+---
+
 # Chatbot : Tout savoir sur les suivis mortalité des parcs éoliens terrestres.
 > <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de Guillaume Marchais => www.linkedin.com/in/gmarchais</span>
 > 
