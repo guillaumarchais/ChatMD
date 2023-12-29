@@ -1,5 +1,5 @@
 ---
-clavier : false
+clavier : true
 maths : true
 gestionGrosMots: true
 ---
@@ -75,6 +75,7 @@ On va plus loin ?
 - simple
 - facile
 - toutes les formules
+Tu voudrais plus basiquement savoir...
 1. [Quelle est la plus simple ou facile ?](formule : simple)
 2. [Quelle est la meilleure ?](formule : meilleure)
 3. [Faut-il toutes les utiliser ?](formule : utiliser)
