@@ -1,13 +1,13 @@
 # Chatbot : Tout savoir sur les suivis mortalité des parcs éoliens terrestres.
 
-> <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de Guillaume Marchais. www.linkedin.com/in/gmarchais</span>
+> <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de Guillaume Marchais => www.linkedin.com/in/gmarchais</span>
 > 
 > Je peux t'aider à comprendre. Que veux-tu savoir exactement ?
 >
 > 1. [Les formules d'estimation](Les formules d'estimation)
-> 2. [Le](Le).
-> 3. [Je](Je)
-> 4. [Je](Je)
+> 2. [Le test de persistance](Le test de persistance).
+> 3. [Le test de détection](Le test de détection)
+> 4. [La correction surfacique](La correction surfacique)
 > 5. [Le protocole allégé "roads & pads"](Le protocole allégé roads & pads)
 
 ## Les formules d'estimation
@@ -61,6 +61,15 @@ As-tu bien compris ?
 
 1. [Oui](J'ai compris)
 2. [Non]()
+
+##Le test de persistance
+- persistance
+- test de persistance
+- taux de persistance
+- temps moyen
+
+Ce test consiste à déposer plusieurs faux cadavres (souvent des souris, rats, gerbies congelées pour animalerie ou aussi des poussins ou autres volailles) sur les surfaces prospectables autour des éoliennes afin de rendre compte du temps de persistance à des périodes différentes (mai et septembre par exemple). Le protocole national 2018 demande d'en déposer au moins 5 par test, mais il est recommandé de le pratiquer sur plusieurs éoliennes et sur les différents types de surface selon leur classe de visibilité (bonne et moyenne).
+
 
 ## Le protocole allégé roads & pads
 - protocole
