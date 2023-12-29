@@ -34,8 +34,10 @@ Huso et al. (2010) considèrent une mortalité globalement constante mais, dans 
 même si la durée de persistance d’un cadavre suit une variable exponentielle négative.
 Néanmoins, les travaux de Huso sont basés sur des données américaines où les taux de persistance moyens seraient plus élevés qu’en Europe. 
 Les biais sont donc plus importants pour cette approche lorsque les durées de persistance sont courtes.
-
 Référence : https://onlinelibrary.wiley.com/doi/10.1002/env.1052
+As-tu bien compris ?
+1. [Oui](J'ai compris)
+2. [Non](suite formules)
 
 ## formule : Jones
 - Jones
@@ -46,6 +48,9 @@ La méthode proposée par Jones et al. (2009), pour estimer la mortalité repose
 •	la probabilité de disparition moyenne sur l’intervalle entier (quand des animaux peuvent aussi bien être impactés et mourir au début ou à la fin de l’intervalle) peut être approximée par la probabilité de disparition à la moitié de l’intervalle.
 Jones utilise la notion d’intervalle effectif pour calculer le coefficient correcteur ê qui correspond au rapport entre la durée avant que 99 % des cadavres soient prédatés/déplacés et la durée de l’intervalle. Il est en effet logique que plus l’intervalle est long, plus le taux de persistance s’approche de 0. L’intervalle effectif correspond ainsi à la durée pour laquelle le taux de persistance est égal à 1 % (100 – 99 %). 
 L’intervalle effectif moyen, Î est donc égal à : - log(0,01) x tm. Dans le calcul, I prend la valeur minimale entre I et Î, notée ê. 
+As-tu bien compris ?
+1. [Oui](J'ai compris)
+2. [Non](suite formules)
 
 ## formule : Dalthorp
 - Dalthorp
@@ -54,15 +59,15 @@ Disponible depuis le site web de l'USGS et Github, il s'utilise avec R et plusie
 Le mode d'emploi en anglais est consultable depuis 
 Depuis 2018, c'est la solution la plus aboutie internationalement pour estimer les mortalités pour un nombre de cadavre minimale (> 5 en général).
 Source : https://www.usgs.gov/software/genest-a-generalized-estimator-mortality
+As-tu bien compris ?
+1. [Oui](J'ai compris)
+2. [Non](suite formules)
 
 ## formule : Erickson
 - Erickson
-
 L’estimateur Erickson et al. (2000) est fréquemment utilisé en France. Ce test a plutôt tendance à sous-estimer les données pour les taux de persistance courts mais pas pour les taux de persistance longs. Cette sous-estimation est aussi constatée par Péron (2018) qui suppose que cela peut être lié au postulat d’effort de recherche constant. La formule intègre la fréquence des passages mais n’est pas demandeuse quant à la durée moyenne entre les passages. 
 Elle considère une diminution exponentielle des temps de disparition des cadavres qui peuvent être trouvés lors des passages ultérieurs au premier passage infructueux.
-
 As-tu bien compris ?
-
 1. [Oui](J'ai compris)
 2. [Non](suite formules)
 
@@ -71,19 +76,22 @@ As-tu bien compris ?
 - simple
 - facile
 - toutes les formules
-1. [Quelle est la plus simple ou facile ?] (formule : simple)
-2. [Quelle est la meilleure ?] (formule : meilleure)
-3. [Faut-il toutes les utiliser ?] (formule : utiliser)
+1. [Quelle est la plus simple ou facile ?](formule : simple)
+2. [Quelle est la meilleure ?](formule : meilleure)
+3. [Faut-il toutes les utiliser ?](formule : utiliser)
 
 ## formule : simple
 C'est celle d'Erickson qui est aussi la plus ancienne mais qui souvent sous-estime la mortalité du fait de ne pas intégrer une appproche modéliséée de la dispartion des cadavres.
 
 ## formule : meilleure
-Il a été ùontré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est dde s'orienter vers l'application open source GenEst qu'elle a développé avec Dalthorp et al. => https://www.usgs.gov/software/genest-a-generalized-estimator-mortality
+Il a été montré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est dde s'orienter vers l'application open source GenEst qu'elle a développé avec Dalthorp et al. => https://www.usgs.gov/software/genest-a-generalized-estimator-mortality
 
 ## formule : utiliser
 Le protocole national 2018 demande d"utiliser celle de Huso 2010 avec deux autres d'entre elles pour montrer la variabilité des résultats selon les conditions.
+As-tu bien compris ?
 
+1. [Oui](J'ai compris)
+2. [Non](suite formules)
 
 ## Le test de persistance
 - persistance
@@ -126,4 +134,4 @@ As-tu bien compris ?
 2. [Non]()
 
 ## J'ai compris
-Bravo, tu en sais un peu plus maintenant !
+Bravo, tu en sais un peu plus maintenant ! Pose-moi une autre question ?
