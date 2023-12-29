@@ -21,14 +21,13 @@ gestionGrosMots: true
 - les modèles 
 - estimation
 - formule
-
 Laquelle veux-tu connaitre entre :
 1. [Huso](formule : Huso)
 2. [Erickson](formule : Erickson)
 3. [Dalthorp](formule : Dalthorp)
 4. [Jones](formule : Jones)
-<div style="width:100%;height:0;padding-bottom:97%;position:relative;"><iframe src="https://giphy.com/embed/24sVlirH2qPTO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/time-statistics-higgs-24sVlirH2qPTO">via GIPHY</a></p>
-![](https://giphy.com/embed/24sVlirH2qPTO)
+![Relative errors of five estimators](https://onlinelibrary.wiley.com/doi/full/10.2981/10-121)
+
 
 ## formule : Huso
 - Huso
@@ -80,6 +79,7 @@ Tu voudrais plus basiquement savoir...
 1. [Quelle est la plus simple ou facile ?](formule : simple)
 2. [Quelle est la meilleure ?](formule : meilleure)
 3. [Faut-il toutes les utiliser ?](formule : utiliser)
+![](https://giphy.com/embed/24sVlirH2qPTO)
 
 ## formule : simple
 C'est celle d'Erickson qui est aussi la plus ancienne mais qui souvent sous-estime la mortalité du fait de ne pas intégrer une appproche modéliséée de la dispartion des cadavres.
