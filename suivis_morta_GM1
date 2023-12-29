@@ -4,7 +4,7 @@ gestionGrosMots: true
 ---
 
 # Chatbot : Tout savoir sur les suivis mortalité des parcs éoliens terrestres.
-> <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de Guillaume Marchais => www.linkedin.com/in/gmarchais</span>
+> <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas lui-même produit.</span>
 > 
 > Je peux t'aider à comprendre les aspects scientifiques de ce sujet. Que veux-tu savoir exactement ?
 >
@@ -33,7 +33,8 @@ Huso et al. (2010) considèrent une mortalité globalement constante mais, dans 
 même si la durée de persistance d’un cadavre suit une variable exponentielle négative.
 Néanmoins, les travaux de Huso sont basés sur des données américaines où les taux de persistance moyens seraient plus élevés qu’en Europe. 
 Les biais sont donc plus importants pour cette approche lorsque les durées de persistance sont courtes.
-Référence : https://onlinelibrary.wiley.com/doi/10.1002/env.1052
+Publication de référence consultable [ici]:(https://onlinelibrary.wiley.com/doi/10.1002/env.1052)
+$$N=C\div(a\timesd\timestm\times(1-\exp(-I/tm)/I\timesê)$$
 As-tu bien compris ?
 1. [Oui](suite formules)
 2. [Non]()
@@ -124,6 +125,8 @@ Tu veux en apprendre plus ?
 ## corr surfa DWP
 Plus récemment, un calcul savant intègre la densité probable selon la distance au mat => voir le [module DWP développé par l'USGS](https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite)
 ![](https://link.springer.com/article/10.1007/s10651-020-00466-0/figures/1)
+Tu veux en apprendre plus ?
+1. [Oui]()
 
 ## Le protocole allégé roads & pads
 - protocole
@@ -137,7 +140,9 @@ As-tu bien compris ?
 2. [Non](reference rp)
 
 ## reference rp
-Alors je t'invite à lire au moins le résumé de cette publication sur ce sujet :  "Comparing methods to estimate the proportion of turbine-induced bird and bat mortality in the search area under a road and pad search protocol." : https://link.springer.com/article/10.1007/s10651-020-00466-0
+Alors je t'invite à lire au moins le résumé de cette publication sur ce sujet :  ["Comparing methods to estimate the proportion of turbine-induced bird and bat mortality in the search area under a road and pad search protocol."](https://link.springer.com/article/10.1007/s10651-020-00466-0)
+Tu veux en apprendre plus ?
+1. [Oui]()
 
 ## J'ai compris
 Bravo, tu en sais un peu plus maintenant ! 
