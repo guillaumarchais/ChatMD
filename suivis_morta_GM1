@@ -119,9 +119,13 @@ Tu veux en apprendre plus ?
 1. [Oui]()
 
 ## La correction surfacique
-Le protocole national demande de couvrir une surface homogène autour du mat de l'éolienne basé sur la longueur de la pale avec un rayon minimal de 50 m. Lorsque l'occupation du sol est trop dense en cultures (blé, maïs, betterave), il devient très difficile de pouvoir prospecter sans les endommager. Ainsi, il est généralement admis de ne pas du tout les prospecter afin de limiter la pénibilité et les dommages associés. La présence de bétail dans les pâtures peut aussi conduire à cette décision. Soit on retient un pourcentage simple sur l'ensemble de la surface théorique, soit on applique une méthode des cercles concentriques tous les 5 ou 10 m. Plus récemment, un calcul savant intègre la densité probable selon la distance au mat => voir le module DWP développé par l'USGS https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite
+Le protocole national demande de couvrir une surface homogène autour du mat de l'éolienne basé sur la longueur de la pale avec un rayon minimal de 50 m. Lorsque l'occupation du sol est trop dense en cultures (blé, maïs, betterave), il devient très difficile de pouvoir prospecter sans les endommager. Ainsi, il est généralement admis de ne pas du tout les prospecter afin de limiter la pénibilité et les dommages associés. La présence de bétail dans les pâtures peut aussi conduire à cette décision. Soit on retient un pourcentage simple sur l'ensemble de la surface théorique, soit on applique une méthode des cercles concentriques tous les 5 ou 10 m.
 Tu veux en apprendre plus ?
-1. [Oui]()
+1. [Oui](corr surfa DWP)
+2. [Non]()
+
+## corr surfa DWP
+Plus récemment, un calcul savant intègre la densité probable selon la distance au mat => voir le module DWP développé par l'USGS https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite
 
 ## Le protocole allégé roads & pads
 - protocole
