@@ -55,7 +55,6 @@ Tu veux en savoir davantage ?
 C'est l'auteur programmeur de l'application open source GenEst développé entre autres avec M. Huso qui reprend les modèles statistiques pour permettre à l'utilisateur de les adapter et affiner aux différentes conditions du suivi selon les dates de passage réalisées et les surfaces prospectées.
 Disponible depuis le site web de l'USGS et Github, il s'utilise avec R et plusieurs packages associés.
 Depuis 2018, c'est la solution la plus aboutie internationalement pour estimer les mortalités pour un nombre de cadavre minimale (> 5 en général). 
-In the remainder of the text, we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines.
 Le mode d'emploi en anglais est consultable depuis ce [lien](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
 Tu veux en savoir davantage ?
 1. [Oui](suite formules)
@@ -124,6 +123,7 @@ Tu veux en apprendre plus ?
 
 ## corr surfa DWP
 Plus récemment, un calcul savant intègre la densité probable selon la distance au mat => voir le module DWP développé par l'USGS https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite
+![](https://link.springer.com/article/10.1007/s10651-020-00466-0/figures/1)
 
 ## Le protocole allégé roads & pads
 - protocole
