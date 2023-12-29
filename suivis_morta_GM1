@@ -67,9 +67,13 @@ As-tu bien compris ?
 2. [Non](suite formules)
 
 ## suite formules
-1. Quelle est la plus simple ou facile ? (formule : simple)
-2. Quelle est la meilleure (formule : meilleure)
-3. Faut-il toutes les utiliser ? (formule : utiliser)
+- meilleure
+- simple
+- facile
+- toutes les formules
+1. [Quelle est la plus simple ou facile ?] (formule : simple)
+2. [Quelle est la meilleure ?] (formule : meilleure)
+3. [Faut-il toutes les utiliser ?] (formule : utiliser)
 
 ## formule : simple
 C'est celle d'Erickson qui est aussi la plus ancienne mais qui souvent sous-estime la mortalité du fait de ne pas intégrer une appproche modéliséée de la dispartion des cadavres.
