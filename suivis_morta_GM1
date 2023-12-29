@@ -54,9 +54,9 @@ Tu veux en savoir davantage ?
 - Dalthorp
 C'est l'auteur programmeur de l'application open source GenEst développé entre autres avec M. Huso qui reprend les modèles statistiques pour permettre à l'utilisateur de les adapter et affiner aux différentes conditions du suivi selon les dates de passage réalisées et les surfaces prospectées.
 Disponible depuis le site web de l'USGS et Github, il s'utilise avec R et plusieurs packages associés.
-Le mode d'emploi en anglais est consultable depuis 
-Depuis 2018, c'est la solution la plus aboutie internationalement pour estimer les mortalités pour un nombre de cadavre minimale (> 5 en général). In the remainder of the text, we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines.
-Source : https://www.usgs.gov/software/genest-a-generalized-estimator-mortality
+Depuis 2018, c'est la solution la plus aboutie internationalement pour estimer les mortalités pour un nombre de cadavre minimale (> 5 en général). 
+In the remainder of the text, we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines.
+Le mode d'emploi en anglais est consultable depuis ce [lien](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
 Tu veux en savoir davantage ?
 1. [Oui](suite formules)
 2. [Non]()
