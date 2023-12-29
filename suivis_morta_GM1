@@ -21,7 +21,6 @@ gestionGrosMots: true
 - formule
 
 Laquelle veux-tu entre :
-
 1. [Huso](formule : Huso)
 2. [Erickson](formule : Erickson)
 3. [Dalthorp](formule : Dalthorp)
@@ -34,7 +33,6 @@ même si la durée de persistance d’un cadavre suit une variable exponentielle
 Néanmoins, les travaux de Huso sont basés sur des données américaines où les taux de persistance moyens seraient plus élevés qu’en Europe. 
 Les biais sont donc plus importants pour cette approche lorsque les durées de persistance sont courtes.
 Publication de référence consultable [ici]:(https://onlinelibrary.wiley.com/doi/10.1002/env.1052)
-$$N=C\div(a\timesd\timestm\times(1-\exp(-I/tm)/I\timesê)$$
 As-tu bien compris ?
 1. [Oui](suite formules)
 2. [Non]()
