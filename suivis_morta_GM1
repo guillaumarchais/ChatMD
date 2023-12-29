@@ -3,8 +3,7 @@ maths : true
 gestionGrosMots: true
 ---
 # Chatbot : Tout savoir sur les suivis mortalité des parcs éoliens terrestres.
-> <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas lui-même produit.</span>
->![](https://www.shutterstock.com/image-photo/common-buzzard-buteo-flight-wind-turbines-212637479)
+> <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas lui-même produit.</span>![](https://www.shutterstock.com/image-photo/common-buzzard-buteo-flight-wind-turbines-212637479)
 >
 > Je peux t'aider à comprendre les aspects scientifiques de ce sujet. Que veux-tu savoir exactement ?
 >
@@ -151,6 +150,14 @@ Tu veux en apprendre plus ?
 - collision chiroptères
 Pour les oiseaux, le spectre d'espèces qui rentrent en collision est large mais celles qui se reproduisent en petite quantité sur une année sont particulièrement. Cela inclut la plupart des rapaces qui ont de grands domaines vitaux et plus souvent en petits effectifs que les passereaux par exemple, même en période migratoire; ainsi que les laridés (mouettes et goélands) plus proches du littoral, et les grues et cigognes qui semblent moins souvent être concernées.
 Pour les chauves-souris, ce sont notamment les espèces migratrices, grandes (noctules) ou petites ([Pipistrelle de Nathusius](https://youtu.be/ImYYqXYfTl0?si=AdOOy4fumnpiI9bx) pour la plus connue).
+Tu veux en savoir davantage ?
+1. [Oui](Durr)
+2. [Non]()
+
+## Durr
+- Durr
+- Dürr
+Un allemand, Tobias Dür compile depuis très longtemps les cas de mortalité dans les différents pays d'Europe. Ce recensement n'est pas exhaustif mais il est bien indicatif pour les espèces qui malheureusement se trouve impactées par les éoliennes. Voir le site web du [Landesamt für Umwelt Brandenburg](https://lfu.brandenburg.de/lfu/de/aufgaben/natur/artenschutz/vogelschutzwarte/arbeitsschwerpunkt-entwicklung-und-umsetzung-von-schutzstrategien/auswirkungen-von-windenergieanlagen-auf-voegel-und-fledermaeuse/) pour télécharger les tableurs de données (en bas de page).
 
 ## J'ai compris
 Bravo, tu en sais un peu plus maintenant ! 
