@@ -6,7 +6,7 @@ gestionGrosMots: true
 # Chatbot : Tout savoir sur les suivis mortalité des parcs éoliens terrestres.
 > <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de Guillaume Marchais => www.linkedin.com/in/gmarchais</span>
 > 
-> Je peux t'aider à comprendre. Que veux-tu savoir exactement ?
+> Je peux t'aider à comprendre les aspects scientifiques de ce sujet. Que veux-tu savoir exactement ?
 >
 > 1. [Les formules d'estimation](Les formules d'estimation)
 > 2. [Le test de persistance](Le test de persistance)
@@ -64,7 +64,22 @@ Elle considère une diminution exponentielle des temps de disparition des cadavr
 As-tu bien compris ?
 
 1. [Oui](J'ai compris)
-2. [Non]()
+2. [Non](suite formules)
+
+## suite formules
+1. Quelle est la plus simple ou facile ? (formule : simple)
+2. Quelle est la meilleure (formule : meilleure)
+3. Faut-il toutes les utiliser ? (formule : utiliser)
+
+## formule : simple
+C'est celle d'Erickson qui est aussi la plus ancienne mais qui souvent sous-estime la mortalité du fait de ne pas intégrer une appproche modéliséée de la dispartion des cadavres.
+
+## formule : meilleure
+Il a été ùontré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est dde s'orienter vers l'application open source GenEst qu'elle a développé avec Dalthorp et al. => https://www.usgs.gov/software/genest-a-generalized-estimator-mortality
+
+## formule : utiliser
+Le protocole national 2018 demande d"utiliser celle de Huso 2010 avec deux autres d'entre elles pour montrer la variabilité des résultats selon les conditions.
+
 
 ## Le test de persistance
 - persistance
