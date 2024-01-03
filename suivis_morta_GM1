@@ -33,6 +33,7 @@ Les principales exigences sont les suivantes :
     * un test permettant d'évaluer la détection de l'observateur avec des leurres
     * un test permettant d'évaluer la persistance des cadavres in situ en fonction des charognards présents localement et des pratiques agricoles
 * l'enregistrement de l'activité des chauves-souris à hauteur de nacelle en continu sur une bonne partie de la saison
+**L'objectif est de déterminer les taux de mortalité réels en utilisant des modèles statistiques permettant de les estimer à partir de la mortalité brute constatée sur le terrain.**
 Tu veux en apprendre plus ?
 1. [Oui]()
 
