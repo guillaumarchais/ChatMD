@@ -150,9 +150,12 @@ Tu as compris ?
 2. [Non](Le protocole national 2018)
 
 ## formule : EoA
-Dans ce cas particulier, les différentes formules ne peuvent pas estimer correctement la mortalité réelle car comment **"extrapoler à partir de (quasi) rien ?"**. Une autre approche est nécessaire : celle qui questionne la **__crédibilité__** des différents paramètres du suivi (plutôt que leur probabilité ou degré de confiance selon une distribution a posteriori). Huso et Dalthorp ont développé une autre application pour mieux rendre compte des résultats pour ce type de situation, c'est __**"Evidence of Absence"**__ . Elle est téléchargeable en open source dans sa [version 2.0 sur le site web de l'USGS (Etats-Unis)](https://pubs.usgs.gov/publication/ds1055). Elle fonctionne avec R 4.0 ou supérieur et différents packages, mais aussi elle nécessite gratuitce programme d'analyse et modélisation statistiques  ["JAGS"](https://sourceforge.net/projects/mcmc-jags/).
+Dans ce cas particulier, les différentes formules ne peuvent pas estimer correctement la mortalité réelle car comment __"extrapoler à partir de (quasi) rien ?"__. Une autre approche est nécessaire : celle qui questionne la **__crédibilité__** des différents paramètres du suivi (plutôt que leur probabilité ou degré de confiance selon une distribution a posteriori). Huso et Dalthorp ont développé une autre application pour mieux rendre compte des résultats pour ce type de situation, c'est __**"Evidence of Absence"**__ . Elle est téléchargeable en open source dans sa [version 2.0 sur le site web de l'USGS (Etats-Unis)](https://pubs.usgs.gov/publication/ds1055). Elle fonctionne avec R 4.0 ou supérieur et différents packages, mais aussi elle nécessite gratuitce programme d'analyse et modélisation statistiques  ["JAGS"](https://sourceforge.net/projects/mcmc-jags/).
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1c/USGS_logo_green.svg)
 Enfin, des experts du bureau d'étude "Western Ecosystems Technology" ont développé une extension qui utilise davantage des valeurs des covariables pour affinier les modèles d'estimation. Plus de détails dans leur publication téléchargeable [ici](https://www.biorxiv.org/content/10.1101/2020.01.21.914754v3.full.pdf)
+Tu veux voir un autre sujet ?
+1. [Oui]()
+2. [Non](Non fin)
 
 ## Le test de persistance
 - persistance
