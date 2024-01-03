@@ -126,7 +126,7 @@ Tu voudrais plus basiquement savoir...
 1. [Quelle est la plus simple ou facile ?](formule : simple)
 2. [Quelle est la meilleure ?](formule : meilleure)
 3. [Faut-il toutes les utiliser ?](formule : utiliser)
-4. [Laquelle choisir quand très peu ou aucun cadavre n'a été découvert durant le suivi ?](formule : EoA]
+4. [Laquelle choisir quand très peu ou aucun cadavre n'a été découvert durant le suivi ?](formule : EoA)
 ![](https://giphy.com/embed/24sVlirH2qPTO)
 
 ## formule : simple
@@ -151,7 +151,7 @@ Tu as compris ?
 
 ## formule : EoA
 Dans ce cas particulier, les différentes formules ne peuvent pas estimer correctement la mortalité réelle car comment **"extrapoler à partir de (quasi) rien ?"**. Une autre approche est nécessaire : celle qui questionne la **__crédibilité__** des différents paramètres du suivi (plutôt que leur probabilité ou degré de confiance selon une distribution a posteriori). Huso et Dalthorp ont développé une autre application pour mieux rendre compte des résultats pour ce type de situation, c'est __**"Evidence of Absence"**__ . Elle est téléchargeable en open source dans sa [version 2.0 sur le site web de l'USGS (Etats-Unis)](https://pubs.usgs.gov/publication/ds1055). Elle fonctionne avec R 4.0 ou supérieur et différents packages, mais aussi elle nécessite gratuitce programme d'analyse et modélisation statistiques  ["JAGS"](https://sourceforge.net/projects/mcmc-jags/).
-![](https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AUSGS_logo_green.svg&docid=nsJ22Hfg1PJKCM&w=1280&h=512&q=usgs&ved=2ahUKEwi85IXdl8KDAxUWAvsDHfKNALYQMygDegQIARBb)
+![](https://upload.wikimedia.org/wikipedia/commons/1/1c/USGS_logo_green.svg)
 
 ## Le test de persistance
 - persistance
@@ -247,5 +247,5 @@ Tu veux poser une autre question ?
 
 ## Non fin
 Malgré mes tentatives de vulgarisation, tu n'as pas bien compris. La prochaine étape consiste à se plonger dans les différentes références citées... ou alors,  tu ne veux simplement pas aller plus loin et fermer cette fenêtre ; )
-Dans tous les cas, je t'invite à mieux comprendre ce sujet compliqué mais important dans un contexte actuel de crise climatique et d'érosion de la biodiversité.
+Dans tous les cas, je t'invite à chercher autrement comment comprendre ce sujet compliqué mais important dans un contexte actuel de crise climatique et d'érosion de la biodiversité.
 ![](https://media.giphy.com/media/VHrFbmOtBwysbsYnka/giphy.gif)
