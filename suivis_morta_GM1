@@ -30,7 +30,7 @@ Pour les chauves-souris, ce sont notamment les espèces migratrices, grandes (no
 ![](https://media.giphy.com/media/10I2yiQCXk4aaI/giphy.gif)
 Tu veux en savoir davantage ?
 1. [Oui](Durr)
-2. [Non]()
+2. [Non](Non fin)
 
 ## Durr
 - Durr
@@ -38,6 +38,7 @@ Tu veux en savoir davantage ?
 Un allemand, Tobias Dürr compile depuis très longtemps les cas de mortalité dans les différents pays d'Europe. Ce recensement n'est pas exhaustif mais il est bien indicatif pour les espèces qui malheureusement se trouve impactées par les éoliennes. Voir le site web du [Landesamt für Umwelt Brandenburg](https://lfu.brandenburg.de/lfu/de/aufgaben/natur/artenschutz/vogelschutzwarte/arbeitsschwerpunkt-entwicklung-und-umsetzung-von-schutzstrategien/auswirkungen-von-windenergieanlagen-auf-voegel-und-fledermaeuse/) pour télécharger les tableurs de données (en bas de page).
 Tu veux en apprendre plus ?
 1. [Oui]()
+2. [Non](Non fin)
 
 ## Le protocole national 2018
 - protocole national
@@ -60,6 +61,7 @@ Les principales exigences sont les suivantes :
 ![](https://www.shutterstock.com/image-photo/common-buzzard-buteo-flight-wind-turbines-212637479)
 Tu veux en apprendre plus ?
 1. [Oui]()
+2. [Non](Non fin)
 
 ## Les formules d'estimation
 - les formules d'estimation
@@ -82,7 +84,7 @@ Les biais sont donc plus importants pour cette approche lorsque les durées de p
 Référence : [Huso et al. 2011](https://onlinelibrary.wiley.com/doi/10.1002/env.1052)
 As-tu bien compris ?
 1. [Oui](suite formules)
-2. [Non](Non)
+2. [Non](Non fin)
 
 ## formule : Jones
 - Jones
@@ -94,7 +96,7 @@ Jones utilise la notion d’intervalle effectif pour calculer le coefficient cor
 L’intervalle effectif moyen, Î est donc égal à : - log(0,01) x tm. Dans le calcul, I prend la valeur minimale entre I et Î, notée ê. 
 Tu veux en savoir davantage ?
 1. [Oui](suite formules)
-2. [Non](Non)
+2. [Non](Non fin)
 
 ## formule : Dalthorp
 - Dalthorp
@@ -104,7 +106,7 @@ Depuis 2018, c'est la solution la plus aboutie internationalement pour estimer l
 Le mode d'emploi en anglais est consultable depuis ce [lien](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
 Tu veux en savoir davantage ?
 1. [Oui](suite formules)
-2. [Non](Non)
+2. [Non](Non fin)
 
 ## formule : Erickson
 - Erickson
@@ -130,7 +132,7 @@ Tu voudrais plus basiquement savoir...
 C'est celle d'Erickson qui est aussi la plus ancienne mais qui souvent sous-estime la mortalité du fait de ne pas intégrer une appproche modéliséée de la dispartion des cadavres.
 Tu as compris ?
 1. [Oui](J'ai compris)
-2. [Non](Non)
+2. [Non](Non fin)
 
 ## formule : meilleure
 Il a été montré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est dde s'orienter vers l'application open source GenEst qu'elle a développé avec Dalthorp et al. => [https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
@@ -138,7 +140,7 @@ Il a été montré qu'il n'y a pas une seule formule pertinente ou valide pour t
 ![](hhttps%3A%2F%2Fwww.usgs.gov%2Fsoftware%2Fgenest-a-generalized-estimator-mortality&docid=9EOze6HfLAXL4M&w=340&h=340&q=genest%20dalthorp&ved=2ahUKEwi-lsnpk8KDAxVQQ6QEHSC3CEkQMygAegQIARA0)
 Tu as compris ?
 1. [Oui](J'ai compris)
-2. [Non](Non)
+2. [Non](Non fin)
 
 ## formule : utiliser
 Le protocole national 2018 demande d"utiliser celle de Huso 2010 avec deux autres d'entre elles pour montrer la variabilité des résultats selon les conditions.
@@ -159,31 +161,32 @@ Ce test consiste à déposer plusieurs leurres ou faux cadavres (souvent des sou
 [Pour aller plus loin](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067997)
 Tu veux voir un exemple ?
 1. [Oui](Je veux voir un exemple)
-2. [Non](Non)
+2. [Non](Non fin)
 
 ## Je veux voir un exemple
 Voir Fig 3 de cette [publication](https://www.sciencedirect.com/science/article/pii/S2351989422001512)
 Tu veux en apprendre plus ?
 1. [Oui]()
+2. [Non](Non fin)
 
 ## Le test de détection
 La capacité d'un obersvateur varie grandement selon les conditions de visbilité, l'expérience, la fatigue, etc... Ce test utilise des leurres qui sont déposés par dizaines à proximité d'une bonne partie des éoliennes afin de rendre compte d'un pourcentage d'entre eux retrouvés en situation de recherche normal. Les résultats sont déclinés par observateur, classe de visibilité, gabarit (petite et moyenne taille) et période. Des scores "mauvais" inférieurs à 50 % environ sont à analyser plus particulièrement afin de vérifier qu'ils ne sont pas  surtout liés à un manque d'attention ou concenration. 
 Tu veux en apprendre plus ?
 1. [Oui]()
-2. [Non](Non)
+2. [Non](Non fin)
 
 ## La correction surfacique
 Le [protocole national 2018](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf) demande de couvrir une surface homogène autour du mat de l'éolienne basé sur la longueur de la pale avec un rayon minimal de 50 m. Lorsque l'occupation du sol est trop dense en cultures (blé, maïs, betterave), il devient très difficile de pouvoir prospecter sans les endommager. Ainsi, il est généralement admis de ne pas du tout les prospecter afin de limiter la pénibilité et les dommages associés. La présence de bétail dans les pâtures peut aussi conduire à cette décision. Soit on retient un pourcentage simple sur l'ensemble de la surface théorique, soit on applique une méthode des cercles concentriques tous les 5 ou 10 m.
 Tu veux en apprendre plus ?
 1. [Oui](corr surfa DWP)
-2. [Non](Non)
+2. [Non](Non fin)
 
 ## corr surfa DWP
 Plus récemment, un calcul savant intègre la densité probable selon la distance au mat => voir le [module DWP développé par l'USGS](https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite)
 ![](https://www.researchgate.net/publication/358143833/figure/fig2/AS:1116884825055232@1643297501550/Estimation-of-fraction-of-carcasses-lying-within-the-searched-area-a-carcass-density_Q640.jpg)
 Tu veux en apprendre plus ?
 1. [Oui]()
-2. [Non](Non)
+2. [Non](Non fin)
 
 ## Le protocole allégé roads & pads
 - protocole
@@ -213,7 +216,7 @@ En parallèle des recherches de cadavres de la faune volante, il est demandé d'
 ![](https://media.giphy.com/media/9gqC3kr1MEwxK9YP6T/giphy.gif)
 Tu veux voir des exemples ?
 1. [Oui](suivi chiros 2)
-2. [Non](Non)
+2. [Non](Non fin)
 
 ## suivi chiros 2
 - Probat
@@ -233,14 +236,15 @@ De plus, un projet de recherche, nommé "OPRECH", a compilé les pratiques de br
 ![](https://librairie.ademe.fr/698593-large_default/programme-oprech.jpg)
 Tu veux en apprendre plus ?
 1. [Oui]()
-2. [Non](Non)
+2. [Non](Non fin)
 
 ## J'ai compris
 Bravo, tu en sais un peu plus maintenant ! 
 Tu veux poser une autre question ?
 1. [Oui]()
-2. [Non](Non)
+2. [Non](Non fin)
 
-## Non
-J'espère que tu as pu mieux comprendre ce sujet compliqué mais important dans un contexte actuel de crise climatique et d'érosion de la biodiversité. La prochaine étape consiste à se plonger dans les différentes références citées... ou simplement fermer cette fenêtre ; )
+## Non fin
+Malgré mes tentatives de vulgarisation, tu n'as pas bien compris. La prochaine étape consiste à se plonger dans les différentes références citées... ou alors,  tu ne veux simplement pas aller plus loin et fermer cette fenêtre ; )
+Dans tous les cas, je t'invite à mieux comprendre ce sujet compliqué mais important dans un contexte actuel de crise climatique et d'érosion de la biodiversité.
 ![](https://media.giphy.com/media/VHrFbmOtBwysbsYnka/giphy.gif)
