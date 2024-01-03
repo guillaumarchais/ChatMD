@@ -124,7 +124,8 @@ Tu voudrais plus basiquement savoir...
 1. [Quelle est la plus simple ou facile ?](formule : simple)
 2. [Quelle est la meilleure ?](formule : meilleure)
 3. [Faut-il toutes les utiliser ?](formule : utiliser)
-![](https://giphy.com/embed/24sVlirH2qPTO)
+4. [Laquelle choisir quand très peu ou aucun cadavre n'a été découvert durant le suivi ?](formule : EoA]
+>![](https://giphy.com/embed/24sVlirH2qPTO)
 
 ## formule : simple
 C'est celle d'Erickson qui est aussi la plus ancienne mais qui souvent sous-estime la mortalité du fait de ne pas intégrer une appproche modéliséée de la dispartion des cadavres.
@@ -144,7 +145,11 @@ Tu as compris ?
 Le protocole national 2018 demande d"utiliser celle de Huso 2010 avec deux autres d'entre elles pour montrer la variabilité des résultats selon les conditions.
 Tu as compris ?
 1. [Oui](J'ai compris)
-2. [Non](Non)
+2. [Non](Le protocole national 2018)
+
+## formule : EoA
+Dans ce cas particulier, les différentes formules ne peuvent pas estimer correctement la mortalité réelle car comment **"extrapoler à partir de (quasi) rien ?"**. Une autre approche est nécessaire : celle qui questionne la **__crédibilité__** des différents paramètres du suivi (plutôt que leur probabilité ou degré de confiance selon une distribution a posteriori). Huso et Dalthorp ont développé une autre application pour mieux rendre compte des résultats pour ce type de situation, c'est __**"Evidence of Absence"**__ . Elle est téléchargeable en open source dans sa [version 2.0 sur le site web de l'USGS (Etats-Unis)](https://pubs.usgs.gov/publication/ds1055). Elle fonctionne avec R 4.0 ou supérieur et différents packages, mais aussi elle nécessite gratuitce programme d'analyse et modélisation statistiques  ["JAGS"](https://sourceforge.net/projects/mcmc-jags/).
+![](https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AUSGS_logo_green.svg&docid=nsJ22Hfg1PJKCM&w=1280&h=512&q=usgs&ved=2ahUKEwi85IXdl8KDAxUWAvsDHfKNALYQMygDegQIARBb)
 
 ## Le test de persistance
 - persistance
@@ -235,6 +240,7 @@ Tu veux en apprendre plus ?
 Bravo, tu en sais un peu plus maintenant ! 
 Tu veux poser une autre question ?
 1. [Oui]()
+2. [Non](Non)
 
 ## Non
 J'espère que tu as pu mieux comprendre ce sujet compliqué mais important dans un contexte actuel de crise climatique et d'érosion de la biodiversité. La prochaine étape consiste à se plonger dans les différentes références citées... ou simplement fermer cette fenêtre ; )
