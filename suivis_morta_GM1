@@ -104,7 +104,8 @@ Tu veux en savoir davantage ?
 C'est l'auteur programmeur de l'application open source [GenEst](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality) développé entre autres avec M. Huso qui reprend les modèles statistiques pour permettre à l'utilisateur de les adapter et affiner aux différentes conditions du suivi selon les dates de passage réalisées et les surfaces prospectées.
 Disponible depuis le site web de l'USGS et Github, il s'utilise avec R et plusieurs packages associés.
 Depuis 2018, c'est la solution la plus aboutie internationalement pour estimer les mortalités pour un nombre de cadavre minimale (> 5 en général). 
-Le mode d'emploi en anglais est consultable depuis ce [lien](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
+Le mode d'emploi en anglais est consultable depuis ce [lien](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality).
+Et voici [une vidéo de présentation simple "non officielle" avec un jeu de données exemple fourni avec l'application](https://youtu.be/OjqCAQM6_aY).
 Tu veux en savoir davantage ?
 1. [Oui](suite formules)
 2. [Non](Non fin)
