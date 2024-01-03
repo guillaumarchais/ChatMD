@@ -69,7 +69,7 @@ Laquelle veux-tu connaitre entre :
 2. [Erickson](formule : Erickson)
 3. [Dalthorp](formule : Dalthorp)
 4. [Jones](formule : Jones)
-![Relative errors of five estimators](https://onlinelibrary.wiley.com/doi/full/10.2981/10-121)
+![Relative errors of five estimators](https://onlinelibrary.wiley.com/doi/full/10.2981/10-121 =500x500)
 
 
 ## formule : Huso
@@ -78,7 +78,7 @@ Huso et al. (2010) considèrent une mortalité globalement constante mais, dans 
 même si la durée de persistance d’un cadavre suit une variable exponentielle négative.
 Néanmoins, les travaux de Huso sont basés sur des données américaines où les taux de persistance moyens seraient plus élevés qu’en Europe. 
 Les biais sont donc plus importants pour cette approche lorsque les durées de persistance sont courtes.
-Référence : https://onlinelibrary.wiley.com/doi/10.1002/env.1052
+Référence : [Huso et al. 2011](https://onlinelibrary.wiley.com/doi/10.1002/env.1052)
 As-tu bien compris ?
 1. [Oui](suite formules)
 2. [Non]()
