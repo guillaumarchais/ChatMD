@@ -4,7 +4,7 @@ gestionGrosMots: true
 rechercheContenu: true
 ---
 # Chatbot : Tout savoir sur les suivis environnementaux des parcs éoliens terrestres.
-> <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas lui-même produit.</span>![](https://www.shutterstock.com/image-photo/common-buzzard-buteo-flight-wind-turbines-212637479)
+> <span class="unique">__Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas lui-même produit.__</span>![](https://www.shutterstock.com/image-photo/common-buzzard-buteo-flight-wind-turbines-212637479)
 >![](https://media.giphy.com/media/4CpdsmxdDpcmQ/giphy.gif)
 > Je peux t'aider à comprendre les aspects scientifiques de ce sujet. Que veux-tu savoir exactement ?
 >
@@ -162,7 +162,7 @@ Tu veux en apprendre plus ?
 1. [Oui]()
 
 ## La correction surfacique
-Le protocole national demande de couvrir une surface homogène autour du mat de l'éolienne basé sur la longueur de la pale avec un rayon minimal de 50 m. Lorsque l'occupation du sol est trop dense en cultures (blé, maïs, betterave), il devient très difficile de pouvoir prospecter sans les endommager. Ainsi, il est généralement admis de ne pas du tout les prospecter afin de limiter la pénibilité et les dommages associés. La présence de bétail dans les pâtures peut aussi conduire à cette décision. Soit on retient un pourcentage simple sur l'ensemble de la surface théorique, soit on applique une méthode des cercles concentriques tous les 5 ou 10 m.
+Le [protocole national 2018](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf) demande de couvrir une surface homogène autour du mat de l'éolienne basé sur la longueur de la pale avec un rayon minimal de 50 m. Lorsque l'occupation du sol est trop dense en cultures (blé, maïs, betterave), il devient très difficile de pouvoir prospecter sans les endommager. Ainsi, il est généralement admis de ne pas du tout les prospecter afin de limiter la pénibilité et les dommages associés. La présence de bétail dans les pâtures peut aussi conduire à cette décision. Soit on retient un pourcentage simple sur l'ensemble de la surface théorique, soit on applique une méthode des cercles concentriques tous les 5 ou 10 m.
 Tu veux en apprendre plus ?
 1. [Oui](corr surfa DWP)
 2. [Non]()
