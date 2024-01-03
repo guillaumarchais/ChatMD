@@ -15,6 +15,28 @@ rechercheContenu: true
 > 5. [Le test de persistance](Le test de persistance)
 > 6. [La correction surfacique](La correction surfacique)
 > 7. [Les formules d'estimation](Les formules d'estimation)
+> 8. [Le suivi acoustique des chauves-souris](suivi chiros]
+
+## esp sensibles
+- espèces sensibles
+- sensibilité éolien
+- collisions oiseaux
+- collisions chauves-souris
+- collision chiroptères
+Pour les oiseaux, le spectre d'espèces qui rentrent en collision est large mais celles qui se reproduisent en petite quantité sur une année sont particulièrement. Cela inclut la plupart des rapaces qui ont de grands domaines vitaux et plus souvent en petits effectifs que les passereaux par exemple, même en période migratoire; ainsi que les laridés (mouettes et goélands) plus proches du littoral, et les grues et cigognes qui semblent moins souvent être concernées.
+![](https://media.giphy.com/media/Qz7VpOlWMXYAM/giphy.gif)
+Pour les chauves-souris, ce sont notamment les espèces migratrices, grandes (noctules) ou petites ([Pipistrelle de Nathusius](https://youtu.be/ImYYqXYfTl0?si=AdOOy4fumnpiI9bx) pour la plus connue).
+![](https://media.giphy.com/media/10I2yiQCXk4aaI/giphy.gif)
+Tu veux en savoir davantage ?
+1. [Oui](Durr)
+2. [Non]()
+
+## Durr
+- Durr
+- Dürr
+Un allemand, Tobias Dürr compile depuis très longtemps les cas de mortalité dans les différents pays d'Europe. Ce recensement n'est pas exhaustif mais il est bien indicatif pour les espèces qui malheureusement se trouve impactées par les éoliennes. Voir le site web du [Landesamt für Umwelt Brandenburg](https://lfu.brandenburg.de/lfu/de/aufgaben/natur/artenschutz/vogelschutzwarte/arbeitsschwerpunkt-entwicklung-und-umsetzung-von-schutzstrategien/auswirkungen-von-windenergieanlagen-auf-voegel-und-fledermaeuse/) pour télécharger les tableurs de données (en bas de page).
+Tu veux en apprendre plus ?
+1. [Oui]()
 
 ## Le protocole national 2018
 - protocole national
@@ -169,24 +191,14 @@ Alors je t'invite à lire au moins le résumé de cette publication sur ce sujet
 Tu veux en apprendre plus ?
 1. [Oui]()
 
-## esp sensibles
-- espèces sensibles
-- sensibilité éolien
-- collisions oiseaux
-- collisions chauves-souris
-- collision chiroptères
-Pour les oiseaux, le spectre d'espèces qui rentrent en collision est large mais celles qui se reproduisent en petite quantité sur une année sont particulièrement. Cela inclut la plupart des rapaces qui ont de grands domaines vitaux et plus souvent en petits effectifs que les passereaux par exemple, même en période migratoire; ainsi que les laridés (mouettes et goélands) plus proches du littoral, et les grues et cigognes qui semblent moins souvent être concernées.
-![](https://media.giphy.com/media/Qz7VpOlWMXYAM/giphy.gif)
-Pour les chauves-souris, ce sont notamment les espèces migratrices, grandes (noctules) ou petites ([Pipistrelle de Nathusius](https://youtu.be/ImYYqXYfTl0?si=AdOOy4fumnpiI9bx) pour la plus connue).
-![](https://media.giphy.com/media/10I2yiQCXk4aaI/giphy.gif)
-Tu veux en savoir davantage ?
-1. [Oui](Durr)
-2. [Non]()
-
-## Durr
-- Durr
-- Dürr
-Un allemand, Tobias Dürr compile depuis très longtemps les cas de mortalité dans les différents pays d'Europe. Ce recensement n'est pas exhaustif mais il est bien indicatif pour les espèces qui malheureusement se trouve impactées par les éoliennes. Voir le site web du [Landesamt für Umwelt Brandenburg](https://lfu.brandenburg.de/lfu/de/aufgaben/natur/artenschutz/vogelschutzwarte/arbeitsschwerpunkt-entwicklung-und-umsetzung-von-schutzstrategien/auswirkungen-von-windenergieanlagen-auf-voegel-und-fledermaeuse/) pour télécharger les tableurs de données (en bas de page).
+## suivi chiros
+- suivi acoustique
+- suivi nacelle
+- nacelle
+- suivi chiroptères
+- suivi chauves-souris
+En parallèle des recherches de cadavres de la faune volante, il est demandé d'enregistrer l'activité acoustique des chauves-souris à hauteur de rotation des pales ou de nacelle afin de pouvoir rendre des risques de collision pour ces espèces nocturnes. Des appareils utilisant des micros ultrasonores sophistiqués permettent de "capter" jusqu'à une certaine distance variant selon les espèces et des conditions météo (de 10 à 100 m approximativement). L'ensemble des sons est comptabilisés sous forme d'activité (contacts ou durée des fichiers) et ensuite corrélés aux conditions de vent et température. 
+[](https://media.giphy.com/media/9gqC3kr1MEwxK9YP6T/giphy.gif)
 Tu veux en apprendre plus ?
 1. [Oui]()
 
