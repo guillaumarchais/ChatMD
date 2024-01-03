@@ -1,19 +1,27 @@
 ---
 maths : true
 gestionGrosMots: true
+rechercheContenu: true
 ---
 # Chatbot : Tout savoir sur les suivis environnementaux des parcs éoliens terrestres.
 > <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas lui-même produit.</span>![](https://www.shutterstock.com/image-photo/common-buzzard-buteo-flight-wind-turbines-212637479)
 >![](https://media.giphy.com/media/4CpdsmxdDpcmQ/giphy.gif)
 > Je peux t'aider à comprendre les aspects scientifiques de ce sujet. Que veux-tu savoir exactement ?
 >
-> 1. [Les formules d'estimation](Les formules d'estimation)
-> 2. [Le test de persistance](Le test de persistance)
-> 3. [Le test de détection](Le test de détection)
-> 4. [La correction surfacique](La correction surfacique)
-> 5. [Le protocole allégé "roads & pads"](Le protocole allégé roads & pads)
-> 6. [Les espèces les plus sensibles à l'éolien](esp sensibles)
+> 1. [Les espèces les plus sensibles à l'éolien](esp sensibles)
+> 2. [Le protocole standardisé en France 2018](Le protocole national 2018)
+> 3. [Le protocole allégé "roads & pads"](Le protocole allégé roads & pads)
+> 4. [Le test de détection](Le test de détection)
+> 5. [Le test de persistance](Le test de persistance)
+> 6. [La correction surfacique](La correction surfacique)
+> 7. [Les formules d'estimation](Les formules d'estimation)
 
+## Le protocole national 2018
+- protocole national
+- protocole 2018
+- protocole standardisé
+- protocole France
+En France, un protocole a été élaboré et validé pour fournir un cadre de pratiques à respecter a minima sur la recherches des oiseaux et chauves-souris impactés par les éoliennes. Après une première version produite en 2015, une seconde version plus complète a été publié en 2018 et est téléchargeable [ici](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf).
 
 
 ## Les formules d'estimation
