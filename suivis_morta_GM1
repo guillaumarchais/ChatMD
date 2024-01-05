@@ -140,7 +140,8 @@ Tu voudrais plus basiquement savoir...
 
 ## formule : simple
 C'est celle d'Erickson qui est aussi la plus ancienne mais qui souvent sous-estime la mortalité du fait de ne pas intégrer une appproche modéliséée de la dispartion des cadavres.
-Tu as compris ? Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf).
+Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf).
+Tu as compris ?
 1. [Oui](J'ai compris)
 2. [Non](Non fin)
 
@@ -187,7 +188,7 @@ Tu veux en apprendre plus ?
 2. [Non](Non fin)
 
 ## Le test de détection
-La capacité d'un obersvateur varie grandement selon les conditions de visbilité, l'expérience, la fatigue, etc... Ce test utilise des leurres qui sont déposés par dizaines à proximité d'une bonne partie des éoliennes afin de rendre compte d'un pourcentage d'entre eux retrouvés en situation de recherche normal. Les résultats sont déclinés par observateur, classe de visibilité, gabarit (petite et moyenne taille) et période. Des scores "mauvais" inférieurs à 50 % environ sont à analyser plus particulièrement afin de vérifier qu'ils ne sont pas  surtout liés à un manque d'attention ou concenration. 
+La capacité d'un obeservateur varie grandement selon les conditions de visbilité, l'expérience, la fatigue, etc... Ce test utilise des leurres qui sont déposés par dizaines à proximité d'une bonne partie des éoliennes afin de rendre compte d'un pourcentage d'entre eux retrouvés en situation de recherche normal. Les résultats sont déclinés par observateur, classe de visibilité, gabarit (petite et moyenne taille) et période. Des scores "mauvais" inférieurs à 50 % environ sont à analyser plus particulièrement afin de vérifier qu'ils ne sont pas  surtout liés à un manque d'attention ou concenration. 
 Tu veux en apprendre plus ?
 1. [Oui]()
 2. [Non](Non fin)
@@ -258,9 +259,21 @@ Tu veux en apprendre plus ?
 
 ## J'ai compris
 Bravo, tu en sais un peu plus maintenant ! 
-Tu veux poser une autre question ?
-1. [Oui]()
+Tu savoir comment interpréter les résultats ?
+1. [Oui](interprétation mortalité)
 2. [Non](Non fin)
+
+## interprétation mortalité
+Plusieurs initiatives sont actuellement en cours pour compiler de nombreux résultats afin de pouvoir permettre des comparaisons entre les parcs éoliens selon les pays et régions. Il serait trop long de toutes les lister ici. En voici quelques-unes :
+* Allemangne : [Voigt et al. 2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512)
+* France > région Grand-Ouest : [Ouest Am’][(https://www.genie-ecologique.fr/synthese-des-donnees-de-suivis-post-implantation-deoliennes-dans-le-grand-ouest/)
+* Espagne > région sud : [Salguero et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
+* Etats-Unis : [Lloyd et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
+
+Au-delà des comparaisons, **l'objectif principal est de réduire fortement la mortalité par le biais de différents solutions et mesures qui consistent à optimiser les arrêts des éoliennes aux périodes à risque et lors de situation critique (animaux volant trop proche des pales).**
+Assez basiquement, cela se concrétise par la présence de "surveillants" ou sentinelles sur le terrain qui peuvent d'une manière rapide déclencher un arrêt des turbines (avec une application de téléphonie mobile ou un appel d'urgence par exemple).
+Les progrès technologiques permettent aussi le développement de solutions d'ingénierie basées sur la détection vidéo et/ou audio à distance. Tout l'enjeu consiste à détecter suffisamment tôt l'oiseau de jour pour permettre le ralentissement de la rotation des pales à l'aide d'algorithmes sophistiqués ; et les chuaves-souris avec des micros sensibles et résistant aux intempéries.
+Que ce soit avec des caméras, des radars ou des micros de haute technologie, les ingénieurs tâchent d'améliorer leurs capacités de détection d'analyse automatique de leurs divers systèmes. Ceux-ci sont testés en situation réelle et vérifier grâce aux suivis contrôlés par les services décentralisés de l'Etat.
 
 ## Non fin
 Malgré mes tentatives de vulgarisation, tu n'as pas bien compris. La prochaine étape consiste à se plonger dans les différentes références citées... ou alors,  tu ne veux simplement pas aller plus loin et fermer cette fenêtre ; )
