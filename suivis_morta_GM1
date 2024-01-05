@@ -81,6 +81,10 @@ Laquelle veux-tu connaitre entre :
 ## formule : Huso
 - Huso
 Huso et al. (2010) considèrent une mortalité globalement constante mais, dans leur approche, la probabilité de disparition au milieu de l’intervalle de passage n’est pas égale à la probabilité moyenne de persistance d’un cadavre. 
+\begin{equation}
+\label{eq:huso}
+N = \frac{M}{1 - p(t_m)}
+\end{equation}
 même si la durée de persistance d’un cadavre suit une variable exponentielle négative.
 Néanmoins, les travaux de Huso sont basés sur des données américaines où les taux de persistance moyens seraient plus élevés qu’en Europe. 
 Les biais sont donc plus importants pour cette approche lorsque les durées de persistance sont courtes.
@@ -134,13 +138,14 @@ Tu voudrais plus basiquement savoir...
 
 ## formule : simple
 C'est celle d'Erickson qui est aussi la plus ancienne mais qui souvent sous-estime la mortalité du fait de ne pas intégrer une appproche modéliséée de la dispartion des cadavres.
-Tu as compris ?
+Tu as compris ? Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf).
 1. [Oui](J'ai compris)
 2. [Non](Non fin)
 
 ## formule : meilleure
 Il a été montré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est dde s'orienter vers l'application open source GenEst qu'elle a développé avec Dalthorp et al. => [https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
-[Voigt et al.2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512): <blockquote class="is-size-5 is-size-6-mobile has-text-justified">"..., we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines."</blockquote>
+[Voigt et al.2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512): <blockquote class="is-size-5 is-size-6-mobile has-text-justified">"..., we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines."</blockquote>.
+Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf)
 ![](https://www.usgs.gov/media/images/genest-generalized-mortality-estimations-cover-art)
 Tu as compris ?
 1. [Oui](J'ai compris)
@@ -148,6 +153,7 @@ Tu as compris ?
 
 ## formule : utiliser
 Le protocole national 2018 demande d"utiliser celle de Huso 2010 avec deux autres d'entre elles pour montrer la variabilité des résultats selon les conditions.
+Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf)
 Tu as compris ?
 1. [Oui](J'ai compris)
 2. [Non](Le protocole national 2018)
