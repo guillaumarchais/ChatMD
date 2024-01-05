@@ -16,7 +16,7 @@ rechercheContenu: true
 > 4. [Le test de détection](Le test de détection)
 > 5. [Le test de persistance](Le test de persistance)
 > 6. [La correction surfacique](La correction surfacique)
-> 7. [Les formules d'estimation](Les formules d'estimation)
+> 7. [Les formules d'estimation de la mortalité](Les formules d'estimation)
 > 8. [Le suivi acoustique des chauves-souris](suivi chiros)
 
 ## esp sensibles
@@ -81,12 +81,12 @@ Laquelle veux-tu connaitre entre :
 ## formule : Huso
 - Huso
 Huso et al. (2010) considèrent une mortalité globalement constante mais, dans leur approche, la probabilité de disparition au milieu de l’intervalle de passage n’est pas égale à la probabilité moyenne de persistance d’un cadavre. 
-\documentclass[14pt]{article}
+$$\documentclass[14pt]{article}
 \begin{equation}
 \label{eq:huso}
    N = \frac{M}{1 - p(t_m)}
 \end{equation}
-\end{document}
+\end{document}$$
 même si la durée de persistance d’un cadavre suit une variable exponentielle négative.
 Néanmoins, les travaux de Huso sont basés sur des données américaines où les taux de persistance moyens seraient plus élevés qu’en Europe. 
 Les biais sont donc plus importants pour cette approche lorsque les durées de persistance sont courtes.
