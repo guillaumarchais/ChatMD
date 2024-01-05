@@ -81,12 +81,7 @@ Laquelle veux-tu connaitre entre :
 ## formule : Huso
 - Huso
 Huso et al. (2010) considèrent une mortalité globalement constante mais, dans leur approche, la probabilité de disparition au milieu de l’intervalle de passage n’est pas égale à la probabilité moyenne de persistance d’un cadavre. 
-$$\documentclass[14pt]{article}
-\begin{equation}
-\label{eq:huso}
-   N = \frac{M}{1 - p(t_m)}
-\end{equation}
-\end{document}$$
+$$N = \frac{M}{1 - p(t_m)}$$
 même si la durée de persistance d’un cadavre suit une variable exponentielle négative.
 Néanmoins, les travaux de Huso sont basés sur des données américaines où les taux de persistance moyens seraient plus élevés qu’en Europe. 
 Les biais sont donc plus importants pour cette approche lorsque les durées de persistance sont courtes.
@@ -267,7 +262,7 @@ Tu savoir comment interpréter les résultats ?
 Plusieurs initiatives sont actuellement en cours pour compiler de nombreux résultats afin de pouvoir permettre des comparaisons entre les parcs éoliens selon les pays et régions. Il serait trop long de toutes les lister ici. En voici quelques-unes :
 * Allemagne : [Voigt et al. 2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512)
 * France > région Grand-Est : [CPIE Pays de Soulaines 2018](http://www.plume-de-naturalistes.fr/wp-content/uploads/2019/04/09_TERNOIS_03-2019_Impact-developpement-eolien_Plume3_195-212.pdf)
-* France > région Grand-Ouest : [Ouest Am’][(https://www.genie-ecologique.fr/synthese-des-donnees-de-suivis-post-implantation-deoliennes-dans-le-grand-ouest/)
+* France > région Grand-Ouest : [Ouest Am][(https://www.genie-ecologique.fr/synthese-des-donnees-de-suivis-post-implantation-deoliennes-dans-le-grand-ouest)
 * Espagne > région sud : [Salguero et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
 * Etats-Unis : [Lloyd et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
 
