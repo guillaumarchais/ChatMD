@@ -31,8 +31,8 @@ Les chauves-souris émettent des sons à des fréquences qui sont au-dessus de n
 * **La division de fréquence** : le signal du microphone est ensuite envoyé à un filtre. Le filtre sépare les différentes fréquences du signal d'ultrason. On entend en direct toutes les fréquences simultanément mais avec un son peu claire qui grésille.
 * **L'expansion de temps** fonctionne en échantillonnant le signal audio à une fréquence plus élevée que la fréquence d'échantillonnage normale. Cela donne au signal audio une plus grande résolution temporelle, ce qui permet de ralentir le signal sans perdre de données. En France, le son est ralenti 10 fois en général. On entend un son clair mais en différé car nécessite un enregistrement du direct à repasser.
 [![Pipistrelle Kuhl sigmoïdes](https://youtu.be/I1qYClcPkVs)](https://youtu.be/I1qYClcPkVs)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
- <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=I1qYClcPkVs" target="_blank">
+ <img src="http://img.youtube.com/vi/I1qYClcPkVs/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
 ## sons types
@@ -40,7 +40,7 @@ Les chauves-souris utilisent l'écholocation au cours e l'évolution depuis des 
 D'autres sons sont utilisés soit dans leur gîte pour s'exprimer auprès de leurs congénères (mère / progéniture notmment) ; ils sont plutôt longs et bas en fréquence, soit quand elles s'interagissent en vol sur un territoire de chasse par exemple. On parle de **cris sociaux**.
 Enfin, un animal capturé va émettre des cris d'alerte et de stress quasiment audible pour nous les humains.
 [![Cest pas sorcier chauves-souris](https://youtu.be/8f3Txe6mjag?si=bcIXp3SDU0_uYe4L&t=702)](https://youtu.be/8f3Txe6mjag?si=bcIXp3SDU0_uYe4L&t=702)
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+[![Watch the video](https://img.youtube.com/vi/8f3Txe6mjag?si=bcIXp3SDU0_uYe4L&t=702/default.jpg)](https://youtu.be/8f3Txe6mjag?si=bcIXp3SDU0_uYe4L&t=702)
 
 
 
