@@ -16,7 +16,7 @@ rechercheContenu: true
 > 5. [Les espèces communes qui émettent entre 25 et 80 kHz](esp commune)
 > 6. [Les espèces les](La )
 > 7. [Les espèces les](Les )
-> 8. [Les espèces les](s)
+> 8. [Les techniques d'identification à partir d'enregistrement](analyse ordi)
 
 ## techno
 - technologie
@@ -45,18 +45,24 @@ Enfin, un animal capturé va émettre des cris d'alerte et de stress quasiment a
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8f3Txe6mjag?si=bcIXp3SDU0_uYe4L&t=702" target="_blank">
  <img src="http://img.youtube.com/vi/8f3Txe6mjag/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
 </a>
+Retour au menu principal ?
+1. [Oui]()
 
 ## esp haute
 Les rhinolophes qui ont souvent la tête en bas dans les grottes et les caves émettent des signaux de très haute fréquence constante (> 80 kHz pour l'harmonique la plus "audible").
 En hétérodyne, les sons sonar sont très rapides et aiguës. Voici [un exemple pour le Petit rhinolophe](https://youtube.com/shorts/XgmC_SgB77o) :
 [![Petit rhinolophe heterodyne](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g2N3duc2dhMHg1OHloOW15NG96bGdtM3NjcnJzNW04NXRuNzB5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qyktulx4HtdOQ89CLw/giphy.gif)](https://youtube.com/shorts/XgmC_SgB77o)
 En expansion de temps (x10), les sons ont encore plus aiguës : [![Petit rhinolophe expansion](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG0zYnowOTFpeGxiNzFubThvMHFvdndodXM5YTBtb3ZsYWZneHZzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ref4RmsSoar6ASZBB/giphy.gif)](https://youtube.com/shorts/vgahZM7Np5Y)
+Retour au menu principal ?
+1. [Oui]()
 
 ## esp basse
 Les plus grosses espèces sont connues pour émettre à des fréquences plus basses pour les sons "sonar" ; soit entre 8 et 25 kHz en général (Molosse de Cestoni et les noctules).
 En hétérodyne, les sont plutôt graves et espacés car elles volent souvent à des hauteurs supérieures à 30 m et sur de longues distances (en dizaines de killomètres).
 [![Noc com chasse](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwxajF0MHB2M3h3eXRkZGIwNGFnN3R5aDBpMjhjZWZmaTI1M3ZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7L0SnBtFm5Rz4vjXqZ/giphy.gif)](https://youtube.com/shorts/IbPkGTADIeQ)
 [![Pip com et Noc com](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd6cTMwZHVxM2d5a2I2NDRybzNqZmdlNjFkcHNnY3c4azdwdHRlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I3TpZLlEyQftdbharU/giphy.gif)](https://youtube.com/shorts/o716J1PAqY4)
+Retour au menu principal ?
+1. [Oui]()
 
 ## Non
 J'espère que tu as pu mieux comprendre l'univers sonore des chauves-souris européennes. 
@@ -64,6 +70,8 @@ Pour aller plus loin, je recommande les références suivantes :
 - [Ecologie acoustique des chiroiptères d'Europe de M. Barataud](http://ecologieacoustique.fr/?page_id=13)
 - [les guides produits par les services du Museum National d'Histoire Naturelle de Paris](https://www.vigienature.fr/fr/page/documentations-identification-acoustique)
 ![](https://media.giphy.com/media/VHrFbmOtBwysbsYnka/giphy.gif)
+Retour au menu principal ?
+1. [Oui]()
 
 
 
@@ -71,3 +79,18 @@ Pour aller plus loin, je recommande les références suivantes :
 Les autres qui consituent la majeure partie peuvent grossièrement être séparées en deux catégories : les plus communément et les plus rarement détéctées.
 * **Pipistrelle commune** : l'espèce en général la plus souvent contactée
 [![Pip com chasse](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXg5M3RyMGs0M2VvNXhobGhzYjUyYzFuMjZoNHR3OXd4bHhhMHdkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XLhD3IR0osg6P1dItj/giphy.gif)](https://youtube.com/shorts/fpqj9ydZM4Y)
+Retour au menu principal ?
+1. [Oui]()
+
+## analyse ordi
+Certaines espèces nécessitent un apprentissage avancé pour permettre de discriminer les espèces autant que possible dans les limites de la qualité de l'enregistrement et de la quantité de signaux. 
+Des livres, guides et tutoriels spécialisés permettent de se former dans une certaine mesure de manière autodidacte.
+Voici une liste de sources non exhaustives :
+ - https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former
+
+
+Voici une liste de logiciels gratuits : 
+- [Chirosurf](https://vigie-chiro.forumactif.com/t108-chirosurf-2-2-analyse-bioacoustique-gratuit-portable-01-01-24) : permet d'apprendre à décortiquer un fichier enregistré en expansion de temps  au format WAV
+- [Kaleidoscope Lite](https://www.wildlifeacoustics.com/products/kaleidoscope/kaleidoscope-lite) : permet de "manipuler" les fichiers bruts et les convertir à différents formats (WAV; ZC ; W4C)
+- [AnalookW](https://users.lmi.net/corben/WinAnalook.htm#AnaLookW_Contents) : ne permet l'analyse que de fichiers de format ZC légers mais de pauvre résolution. Utile pour les grtos volumes à traiter.
+
