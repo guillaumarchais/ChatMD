@@ -56,8 +56,10 @@ Voici les principaux critères de détermination des chauves-souris d'Europe sur
 * **Durée** : d'un signal ultrasonore est exprimée en millisecondes (ms). La durée est un critère moins important que la fréquence de pic ou la largeur de bande, mais elle peut être utile pour distinguer certaines espèces.
 * **Rhythme** : nombre de pulsations par seconde. Il est généralement exprimé en pulsations par seconde (pps). Le rythme est un critère moins important que la fréquence de pic ou la largeur de bande, mais il peut être utile pour distinguer certaines espèces.
 * **Type de signal** : il existe deux principaux types de signaux ultrasonores émis par les chauves-souris : les signaux FM (fréquence modulée) et les signaux FC ou QFC (frequence contante ou quasi constante).
-** Les signaux FM sont caractérisés par une fréquence qui augmente rapidement puis diminue brusquement. Ils sont émis par la plupart des chauves-souris insectivores.
-** Les signaux CF sont caractérisés par une fréquence constante. Ils sont émis par les chauves-souris frugivores et nectarivores, mais aussi les rhinolophes en France qui ont la gueule en fer à cheval et pendent par les pieds dans leur gîte.
+       Les signaux FM sont caractérisés par une fréquence qui augmente rapidement puis diminue brusquement. Ils sont émis par 
+       la plupart des chauves-souris insectivores.
+       Les signaux CF sont caractérisés par une fréquence constante. Ils sont émis par les chauves-souris frugivores et 
+       nectarivores, mais aussi les rhinolophes en France qui ont la gueule en fer à cheval et pendent par les pieds dans leur gîte.
 * **Structure du signal** : peu être plus complexe que le simple type de signal. Par exemple, les signaux BF peuvent être composés de plusieurs éléments ou de plusieurs fréquences.
 L'identification des chauves-souris sur la base des fréquences de leurs émissions sonores nécessite une formation et une expérience spécifiques.
 
@@ -76,9 +78,12 @@ Retour au menu principal ?
 
 ## esp haute
 Les rhinolophes qui ont souvent la tête en bas dans les grottes et les caves émettent des signaux de très haute fréquence constante (> 80 kHz pour l'harmonique la plus "audible").
-En hétérodyne, les sons sonar sont très rapides et aiguës. Voici [un exemple pour le Petit rhinolophe](https://youtube.com/shorts/XgmC_SgB77o) :
+En hétérodyne, les sons sonar sont très rapides et aiguës. Voici [un exemple pour le Petit rhinolophe] qui émet entre 15 et 120 kHz (https://youtube.com/shorts/XgmC_SgB77o) :
 [![Petit rhinolophe heterodyne](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g2N3duc2dhMHg1OHloOW15NG96bGdtM3NjcnJzNW04NXRuNzB5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qyktulx4HtdOQ89CLw/giphy.gif)](https://youtube.com/shorts/XgmC_SgB77o) _Guillaume  Marchais_
-En expansion de temps (x10), les sons ont encore plus aiguës : [![Petit rhinolophe expansion](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG0zYnowOTFpeGxiNzFubThvMHFvdndodXM5YTBtb3ZsYWZneHZzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ref4RmsSoar6ASZBB/giphy.gif)](https://youtube.com/shorts/vgahZM7Np5Y) _Guillaume  Marchais_
+En expansion de temps (x10), les sons ont encore plus aiguës : 
+[![Petit rhinolophe expansion](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG0zYnowOTFpeGxiNzFubThvMHFvdndodXM5YTBtb3ZsYWZneHZzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ref4RmsSoar6ASZBB/giphy.gif)](https://youtube.com/shorts/vgahZM7Np5Y) _Guillaume  Marchais_
+Son "grand frère" le [Grand rhinolophe](https://youtube.com/shorts/yqe4rqG5m2M) émet des ultrasons du même type à une fréquence moins élevée : 
+[![Grand rhinolophe expansion](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFrc2NnbjVlcWU5ZzV1NGRoeXZwOXlrdGk5bWo3Nmx0N3M1bmk3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aGnJDGVuknjzaOhHmr/giphy.gif)](https://youtube.com/shorts/yqe4rqG5m2M) _Guillaume  Marchais_
 Retour au menu principal ?
 1. [Oui]()
 
