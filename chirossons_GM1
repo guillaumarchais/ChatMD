@@ -41,10 +41,27 @@ Retour au menu principal ?
 ## sons types
 Les chauves-souris utilisent l'écholocation au cours e l'évolution depuis des millions d'année afin de pouvoir se déplacer dans l'obscurité. Elles émettent donc des sons de type **"sonar"** régulièrement pour sonder leur environnement direct et "voir" tous les obstacles présents dans l'espace arien et détecter les proies que sont les insectes volants. Elles ne sont pas aveugles pour autant mais le sens de la vue est secondaire.
 D'autres sons sont utilisés soit dans leur gîte pour s'exprimer auprès de leurs congénères (mère / progéniture notmment) ; ils sont plutôt longs et bas en fréquence, soit quand elles s'interagissent en vol sur un territoire de chasse par exemple. On parle de **cris sociaux**.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=acT9iogoqyg" target="_blank">
+ <img src="http://img.youtube.com/vi/acT9iogoqyg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5" />
+</a>
 Enfin, un animal capturé va émettre des cris d'alerte et de stress quasiment audible pour nous les humains.
+Voici un extrait de l'ancienne émission "C'est pas sorcier" à ce sujet :
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8f3Txe6mjag?si=bcIXp3SDU0_uYe4L&t=702" target="_blank">
  <img src="http://img.youtube.com/vi/8f3Txe6mjag/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
 </a>
+
+# Critères de détermination des chauves-souris d'Europe sur la base des fréquences de leurs émissions sonores
+
+| Critère | Type de signal | Exemples |
+|---|---|---|
+| **Fréquence de pic** | FM abrupte | Pipistrelle commune (_Pipistrellus pipistrellus_), Pipistrelle de Kuhl (_Pipistrellus kuhlii_), Petit rhinolophe (_Rhinolophus hipposideros_) |
+| **Largeur de bande** | FM abrupte | Pipistrelle commune (_Pipistrellus pipistrellus_), Pipistrelle de Kuhl (_Pipistrellus kuhlii_), Grand rhinolophe (_Rhinolophus ferrumequinum_) |
+| **Durée** | FM abrupte | Pipistrelle commune (_Pipistrellus pipistrellus_), Pipistrelle de Kuhl (_Pipistrellus kuhlii_), Grand murin (_Myotis myotis_) |
+| **Rhythme** | FM abrupte | Petit murin (_Myotis blythii_), Murin à moustaches (_Myotis mystacinus_), Barbastelle (_Barbastella barbastellus_) |
+| **Type de signal** | BF | Grand murin (_Myotis myotis_), Barbastelle (_Barbastella barbastellus_), Minioptère de Schreibers (_Miniopterus schreibersii_) |
+| **Structure du signal** | BF | Minioptère de Schreibers (_Miniopterus schreibersii_), Murin de Daubenton (_Myotis daubentonii_), Grand rhinolophe (_Rhinolophus ferrumequinum_) |
+
+
 Retour au menu principal ?
 1. [Oui]()
 
