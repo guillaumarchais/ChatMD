@@ -50,16 +50,27 @@ Voici un extrait de l'ancienne émission "C'est pas sorcier" à ce sujet :
  <img src="http://img.youtube.com/vi/8f3Txe6mjag/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
 </a>
 
-# Critères de détermination des chauves-souris d'Europe sur la base des fréquences de leurs émissions sonores
+Voici les principaux critères de détermination des chauves-souris d'Europe sur la base des fréquences de leurs émissions sonores qui sont utilisés e n combinaison pour identifier les différentes espèces de chauves-souris.
+* **Fréquence de pic** : la fréquence la plus élevée d'un signal ultrasonore. Elle est généralement exprimée en kHz (kilohertz). La fréquence de pic est un critère important pour l'identification des chauves-souris, car elle est souvent spécifique à une espèce ou à un groupe d'espèces.
+* **Largeur de bande** : la différence entre la fréquence de pic et la fréquence la plus basse du signal ultrasonore. Elle est généralement exprimée en kHz. La largeur de bande est également un critère important pour l'identification des chauves-souris, car elle peut varier en fonction de l'espèce et de la taille de l'animal.
+* **Durée** : d'un signal ultrasonore est exprimée en millisecondes (ms). La durée est un critère moins important que la fréquence de pic ou la largeur de bande, mais elle peut être utile pour distinguer certaines espèces.
+* **Rhythme** : nombre de pulsations par seconde. Il est généralement exprimé en pulsations par seconde (pps). Le rythme est un critère moins important que la fréquence de pic ou la largeur de bande, mais il peut être utile pour distinguer certaines espèces.
+* **Type de signal** : il existe deux principaux types de signaux ultrasonores émis par les chauves-souris : les signaux FM (fréquence modulée) et les signaux FC ou QFC (frequence contante ou quasi constante).
+** Les signaux FM sont caractérisés par une fréquence qui augmente rapidement puis diminue brusquement. Ils sont émis par la plupart des chauves-souris insectivores.
+** Les signaux CF sont caractérisés par une fréquence constante. Ils sont émis par les chauves-souris frugivores et nectarivores, mais aussi les rhinolophes en France qui ont la gueule en fer à cheval et pendent par les pieds dans leur gîte.
+* **Structure du signal** : peu être plus complexe que le simple type de signal. Par exemple, les signaux BF peuvent être composés de plusieurs éléments ou de plusieurs fréquences.
+L'identification des chauves-souris sur la base des fréquences de leurs émissions sonores nécessite une formation et une expérience spécifiques.
 
-| Critère | Type de signal | Exemples |
-|---|---|---|
-| **Fréquence de pic** | FM abrupte | Pipistrelle commune (_Pipistrellus pipistrellus_), Pipistrelle de Kuhl (_Pipistrellus kuhlii_), Petit rhinolophe (_Rhinolophus hipposideros_) |
-| **Largeur de bande** | FM abrupte | Pipistrelle commune (_Pipistrellus pipistrellus_), Pipistrelle de Kuhl (_Pipistrellus kuhlii_), Grand rhinolophe (_Rhinolophus ferrumequinum_) |
-| **Durée** | FM abrupte | Pipistrelle commune (_Pipistrellus pipistrellus_), Pipistrelle de Kuhl (_Pipistrellus kuhlii_), Grand murin (_Myotis myotis_) |
-| **Rhythme** | FM abrupte | Petit murin (_Myotis blythii_), Murin à moustaches (_Myotis mystacinus_), Barbastelle (_Barbastella barbastellus_) |
-| **Type de signal** | BF | Grand murin (_Myotis myotis_), Barbastelle (_Barbastella barbastellus_), Minioptère de Schreibers (_Miniopterus schreibersii_) |
-| **Structure du signal** | BF | Minioptère de Schreibers (_Miniopterus schreibersii_), Murin de Daubenton (_Myotis daubentonii_), Grand rhinolophe (_Rhinolophus ferrumequinum_) |
+_**Groupes de chauves-souris européennes selon leurs émissions sonores**_
+| Groupe | Type de signal | Fréquences (kHz) | Exemples |
+|---|---|---|---|
+| Rhinolophidés | FC | 20-100 | Petit rhinolophe (_Rhinolophus hipposideros_), Grand rhinolophe (_Rhinolophus ferrumequinum_), Rhinolophe euryale (_Rhinolophus euryale_) |
+| Vespertilionidae | FM | 10-100 | Pipistrelle commune (_Pipistrellus pipistrellus_), Pipistrelle de Kuhl (_Pipistrellus kuhlii_), Grand murin (_Myotis myotis_) |
+| Noctilionidés | FM | 15-100 | Noctule commune (_Nyctalus noctula_), Noctule de Leisler (_Nyctalus leisleri_), Grande Noctule (_Nyctalus lasiopterus_) |
+| Myotis | FM | 15-100 | Grand murin (_Myotis myotis_), Murin de Daubenton (_Myotis daubentonii_), Murin à oreilles échancrées (_Myotis emarginatus_) |
+| Plecotus | FM abrupte | 20-100 | Oreillard roux (_Plecotus auritus_), Oreillard gris (_Plecotus austriacus_), Oreillard commun (_Plecotus auritus_) |
+| Scotinomus | FM abrupte | 20-100 | Sérotine commune (_Eptesicus serotinus_), Sérotine bicolore (_Vespertilio murinus_), Sérotine de Daubenton (_Eptesicus bottae_) |
+
 
 
 Retour au menu principal ?
