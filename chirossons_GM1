@@ -13,8 +13,8 @@ rechercheContenu: true
 > 2. [Les différents types de sons](sons types)
 > 3. [Les espèces qui émettent en très hautes fréquences](esp haute)
 > 4. [Les espèces qui émettent en basses fréquences](esp basse)
-> 5. [Les espèces communes qui émettent entre 25 et 80 kHz](esp commune)
-> 6. [Les espèces les](La )
+> 5. [Les espèces qui émettent rarement entre 25 et 80 kHz](esp commune)
+> 6. [Les espèces qui rarement émettent entre 25 et 80 kHz](esp rare)
 > 7. [Les espèces les](Les )
 > 8. [Les techniques d'identification à partir d'enregistrement](analyse ordi)
 
@@ -125,3 +125,7 @@ Voici une liste de logiciels gratuits :
 - [AnalookW](https://users.lmi.net/corben/WinAnalook.htm#AnaLookW_Contents) : ne permet l'analyse que de fichiers de format ZC légers mais de pauvre résolution. Utile pour les grtos volumes à traiter.
 
 Le [programme national de sciences participatives VIGI CHIROS](https://www.vigienature.fr/fr/page/participer-vigie-chiro) offre à tous participants la posibilité de déposer ou téléverser ses enregistremets pour une analyse automatisée par leur classificateur élaborateur TADARIDA.
+
+## esp rare
+Les [murins](https://youtube.com/shorts/ZcZIt625iJ4) regroupent un groupe d'espèces qui émettent des sons dit de fréquence modulée abrupte car chute très rapidement en fréquence en quelques millisecondes.
+[![Murins](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd6cTMwZHVxM2d5a2I2NDRybzNqZmdlNjFkcHNnY3c4azdwdHRlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZcZIt625iJ4/giphy.gif)](https://youtube.com/shorts/ZcZIt625iJ4) _Guillaume  Marchais_
