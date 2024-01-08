@@ -64,14 +64,20 @@ Voici les principaux critères de détermination des chauves-souris d'Europe sur
 L'identification des chauves-souris sur la base des fréquences de leurs émissions sonores nécessite une formation et une expérience spécifiques.
 
 _**Groupes de chauves-souris européennes selon leurs émissions sonores**_
-$| Groupe | Type de signal | Fréquences (kHz) | Exemples |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+| Groupe | Type de signal | Fréquences (kHz) | Exemples |
 |---|---|---|---|
 | Rhinolophidés | FC | 20-100 | Petit rhinolophe (_Rhinolophus hipposideros_), Grand rhinolophe (_Rhinolophus ferrumequinum_), Rhinolophe euryale (_Rhinolophus euryale_) |
 | Vespertilionidae | FM | 10-100 | Pipistrelle commune (_Pipistrellus pipistrellus_), Pipistrelle de Kuhl (_Pipistrellus kuhlii_), Grand murin (_Myotis myotis_) |
 | Noctilionidés | FM | 15-100 | Noctule commune (_Nyctalus noctula_), Noctule de Leisler (_Nyctalus leisleri_), Grande Noctule (_Nyctalus lasiopterus_) |
 | Myotis | FM | 15-100 | Grand murin (_Myotis myotis_), Murin de Daubenton (_Myotis daubentonii_), Murin à oreilles échancrées (_Myotis emarginatus_) |
 | Plecotus | FM abrupte | 20-100 | Oreillard roux (_Plecotus auritus_), Oreillard gris (_Plecotus austriacus_), Oreillard commun (_Plecotus auritus_) |
-| Scotinomus | FM abrupte | 20-100 | Sérotine commune (_Eptesicus serotinus_), Sérotine bicolore (_Vespertilio murinus_), Sérotine de Daubenton (_Eptesicus bottae_) |$
+| Scotinomus | FM abrupte | 20-100 | Sérotine commune (_Eptesicus serotinus_), Sérotine bicolore (_Vespertilio murinus_), Sérotine de Daubenton (_Eptesicus bottae_) |
 
 Retour au menu principal ?
 1. [Oui]()
