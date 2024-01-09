@@ -109,7 +109,7 @@ C'est l'auteur programmeur de l'application open source [GenEst](https://www.usg
 Disponible depuis le site web de l'USGS et Github, il s'utilise avec R et plusieurs packages associés.
 Depuis 2018, c'est la solution la plus aboutie internationalement pour estimer les mortalités pour un nombre de cadavre minimale (> 5 en général). 
 Le mode d'emploi en anglais est consultable depuis ce [lien](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality).
-Et voici [une vidéo de présentation simple "non officielle" avec un jeu de données exemple fourni avec l'application](https://youtu.be/vcdO4L92dDE).
+Et voici [une vidéo de présentation simple "non officielle" avec un jeu de données exemple fourni avec l'application](https://youtu.be/oDNS0zxp_xs?si=FNybJpKAUR5rLZJ2).
 Tu veux en savoir davantage ?
 1. [Oui](suite formules)
 2. [Non](Non fin)
@@ -153,6 +153,7 @@ Tu as compris ?
 ## formule : utiliser
 Le protocole national 2018 demande d"utiliser celle de Huso 2010 avec deux autres d'entre elles pour montrer la variabilité des résultats selon les conditions.
 Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf)
+Une application gratuite développée par des chercheurs du CNRS-CEFE, [EOLAPP](https://shiny.cefe.cnrs.fr/eolapp/), permet d'opérer ces calculs de manière assez simple. [Voici une vidéo qui présente cette application](https://youtu.be/k8VA7JqfjXA).
 Tu as compris ?
 1. [Oui](J'ai compris)
 2. [Non](Le protocole national 2018)
