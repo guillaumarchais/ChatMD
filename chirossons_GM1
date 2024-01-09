@@ -123,7 +123,11 @@ Retour au menu principal ?
 - micro
 - micros
 - appareil
-Il existe de nombreux appareils qui utilisent ou plusieurs technologies utilisés soit de manière "active" (dans la main pour prospecter soi-même) soit de manière "passive" (on le pose pur une ou plusieurs nuits). La plupart sont indépendant, et d'autres se branchent sur un smartphone avec une application dédiée. Un comparatif du matériel a été réalisé au fil des années par l'expert français [ Michel Barataud.
+Il existe de nombreux appareils qui utilisent ou plusieurs technologies utilisés soit de manière "active" (dans la main pour prospecter soi-même) soit de manière "passive" (on le pose pur une ou plusieurs nuits). La plupart sont indépendant, et d'autres se branchent sur un smartphone avec une application dédiée. 
+Un comparatif du détécteurs "actifs" a été réalisé au fil des années par l'expert français [Michel Barataud](http://ecologieacoustique.fr/wp-content/uploads/Comparatif_detecteurs-manuels_MB.pdf).
+Pour les détecteurs passifs, on peut citer des modèles clef-en-main payants les Audiomoth d'Openacoustic, les SMbat de Wildlife Acoustics, les Anabat de Titley scientific.
+En France, une initiative associative propose la fabrication en groupe autogéré
+
 
 ## analyse ordi
 Certaines espèces nécessitent un apprentissage avancé pour permettre de discriminer les espèces autant que possible dans les limites de la qualité de l'enregistrement et de la quantité de signaux. 
@@ -142,8 +146,7 @@ D'autres solutions informatiques élaborées sont disponibles à la vente sous f
 - Sonochiro de Biotope
 - Kaleidoscope pro de Wildlife Acoustics
 - Sonobat (nord américain)
-- Batident de Ecoobs (pour le Batcorder)
-- Batscreen pro (pour le Batmode S)
+
 
 ## esp rare
 Les [murins](https://youtube.com/shorts/ZcZIt625iJ4) regroupent un groupe d'espèces qui émettent des sons dit de fréquence modulée abrupte car chute très rapidement en fréquence en quelques millisecondes.
