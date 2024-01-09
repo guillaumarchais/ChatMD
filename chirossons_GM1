@@ -15,7 +15,7 @@ rechercheContenu: true
 > 4. [Les espèces qui émettent en basses fréquences](esp basse)
 > 5. [Les espèces qui émettent souvent entre 25 et 80 kHz](esp commune)
 > 6. [Les espèces qui rarement émettent entre 25 et 80 kHz](esp rare)
-> 7. [Les espèces les](Les )
+> 7. [Les appareils qui les détectent](détecteurs )
 > 8. [Les techniques d'identification à partir d'enregistrement](analyse ordi)
 
 ## techno
@@ -64,12 +64,6 @@ Voici les principaux critères de détermination des chauves-souris d'Europe sur
 L'identification des chauves-souris sur la base des fréquences de leurs émissions sonores nécessite une formation et une expérience spécifiques.
 
 _**Groupes de chauves-souris européennes selon leurs émissions sonores**_
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
 | Groupe | Type de signal | Fréquences (kHz) | Exemples |
 |---|---|---|---|
 | Rhinolophidés | FC | 20-100 | Petit rhinolophe (_Rhinolophus hipposideros_), Grand rhinolophe (_Rhinolophus ferrumequinum_), Rhinolophe euryale (_Rhinolophus euryale_) |
@@ -123,6 +117,13 @@ Les autres qui consituent la majeure partie peuvent grossièrement être sépar�
 
 Retour au menu principal ?
 1. [Oui]()
+
+## détecteurs
+- détecteurs
+- micro
+- micros
+- appareil
+Il existe de nombreux appareils qui utilisent ou plusieurs technologies utilisés soit de manière "active" (dans la main pour prospecter soi-même) soit de manière "passive" (on le pose pur une ou plusieurs nuits). La plupart sont indépendant, et d'autres se branchent sur un smartphone avec une application dédiée. Un comparatif du matériel a été réalisé au fil des années par l'expert français [ Michel Barataud.
 
 ## analyse ordi
 Certaines espèces nécessitent un apprentissage avancé pour permettre de discriminer les espèces autant que possible dans les limites de la qualité de l'enregistrement et de la quantité de signaux. 
