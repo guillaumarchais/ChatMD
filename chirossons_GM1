@@ -15,7 +15,7 @@ rechercheContenu: true
 > 4. [Les espèces qui émettent en basses fréquences](esp basse)
 > 5. [Les espèces qui émettent souvent entre 25 et 80 kHz](esp commune)
 > 6. [Les espèces qui rarement émettent entre 25 et 80 kHz](esp rare)
-> 7. [Les appareils qui les détectent](détecteurs )
+> 7. [Les appareils qui les détectent](détecteurs)
 > 8. [Les techniques d'identification à partir d'enregistrement](analyse ordi)
 
 ## techno
@@ -123,10 +123,10 @@ Retour au menu principal ?
 - micro
 - micros
 - appareil
-Il existe de nombreux appareils qui utilisent ou plusieurs technologies utilisés soit de manière "active" (dans la main pour prospecter soi-même) soit de manière "passive" (on le pose pur une ou plusieurs nuits). La plupart sont indépendant, et d'autres se branchent sur un smartphone avec une application dédiée. 
+Il existe de nombreux appareils qui utilisent ou plusieurs technologies utilisés soit de manière "active" (dans la main pour prospecter soi-même) soit de manière "passive" (on le pose pur une ou plusieurs nuits). La plupart sont indépendants, et d'autres se branchent sur un smartphone avec une application dédiée. 
 Un comparatif du détécteurs "actifs" a été réalisé au fil des années par l'expert français [Michel Barataud](http://ecologieacoustique.fr/wp-content/uploads/Comparatif_detecteurs-manuels_MB.pdf).
 Pour les détecteurs passifs, on peut citer des modèles clef-en-main payants les Audiomoth d'Openacoustic, les SMbat de Wildlife Acoustics, les Anabat de Titley scientific.
-En France, une initiative associative propose la fabrication en groupe autogéré
+En France, une initiative associative propose la fabrication en groupe autogéré. La démarche est pour un public averti car nécessite de seplonger dans la documentation détaillé [ici](v) et d'y passer un certain temps... mais la récompense est au bout avec des détecteurs de qualité pas chers (environ 100 € pièce).
 
 
 ## analyse ordi
