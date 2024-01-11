@@ -55,6 +55,10 @@ En savoir plus ?
 2. [Non]()
 
 ## sons types 2
+- durée
+- pic
+- signal
+- largeur de bande
 Voici les principaux critères de détermination des chauves-souris d'Europe sur la base des fréquences de leurs émissions sonores qui sont utilisés en combinaison pour identifier les différentes espèces de chauves-souris.
 * **Fréquence de pic** : la fréquence la plus élevée d'un signal ultrasonore. Elle est généralement exprimée en kHz (kilohertz). La fréquence de pic est un critère important pour l'identification des chauves-souris, car elle est souvent spécifique à une espèce ou à un groupe d'espèces.
 * **Largeur de bande** : la différence entre la fréquence de pic et la fréquence la plus basse du signal ultrasonore. Elle est généralement exprimée en kHz. La largeur de bande est également un critère important pour l'identification des chauves-souris, car elle peut varier en fonction de l'espèce et de la taille de l'animal.
@@ -71,7 +75,12 @@ Voir un tableau détaillant des groupes d'espèces ?
 2. [Non]()
 
 ## tableau especes
-
+- espèces
+- Noctule
+- Oreillard
+- rinolophe
+- sérotine
+- pipistrelle
 _**Quelques espèces de chauves-souris européennes selon leurs groupes taxonomiques et fréquences d'ultrasons sonar**_
 | Groupe | Type de signal | Fréquences (kHz) | Exemples |
 |---|---|---|---|
@@ -97,6 +106,9 @@ Retour au menu principal ?
 1. [Oui]()
 
 ## esp basse
+- noctule
+- nyctalus
+- fréquences basses
 Les plus grosses espèces sont connues pour émettre à des fréquences plus basses pour les sons "sonar" ; soit entre 8 et 25 kHz en général (Molosse de Cestoni et les noctules).
 En hétérodyne, les sont plutôt graves et espacés car elles volent souvent à des hauteurs supérieures à 30 m et sur de longues distances (en dizaines de killomètres).
 [![Noc com chasse](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwxajF0MHB2M3h3eXRkZGIwNGFnN3R5aDBpMjhjZWZmaTI1M3ZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7L0SnBtFm5Rz4vjXqZ/giphy.gif)](https://youtube.com/shorts/IbPkGTADIeQ) _Guillaume  Marchais_
@@ -105,6 +117,8 @@ Retour au menu principal ?
 1. [Oui]()
 
 ## Non
+- références
+- guides
 J'espère que tu as pu mieux comprendre l'univers sonore des chauves-souris européennes. 
 Pour aller plus loin, je recommande les références suivantes :
 - [Ecologie acoustique des chiroiptères d'Europe de M. Barataud](http://ecologieacoustique.fr/?page_id=13)
@@ -114,6 +128,11 @@ Retour au menu principal ?
 1. [Oui]()
 
 ## esp commune
+- espèce commune
+- sérotine commune
+- pipistrelle commune
+- souvent
+
 Les autres qui consituent la majeure partie peuvent grossièrement être séparées en deux catégories : les plus communément et les plus rarement détéctées.
 * **Pipistrelle commune** : l'espèce en général la plus souvent contactée
 [![Pip com chasse - expansion x10](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXg5M3RyMGs0M2VvNXhobGhzYjUyYzFuMjZoNHR3OXd4bHhhMHdkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XLhD3IR0osg6P1dItj/giphy.gif)](https://youtube.com/shorts/fpqj9ydZM4Y) _Guillaume  Marchais_
@@ -140,6 +159,11 @@ En France, une initiative associative propose la fabrication en groupe autogér�
 
 
 ## analyse ordi
+- logiciel
+- logiciels
+- ordinateur
+- formation
+- 
 Certaines espèces nécessitent un apprentissage avancé pour permettre de discriminer les espèces autant que possible dans les limites de la qualité de l'enregistrement et de la quantité de signaux. 
 Des livres, guides et tutoriels spécialisés permettent de se former dans une certaine mesure de manière autodidacte.
 Voici une liste de sources non exhaustives :
@@ -159,5 +183,6 @@ D'autres solutions informatiques élaborées sont disponibles à la vente sous f
 
 
 ## esp rare
+- rare
 Les [murins](https://youtube.com/shorts/ZcZIt625iJ4) regroupent un groupe d'espèces qui émettent des sons dit de fréquence modulée abrupte car chute très rapidement en fréquence en quelques millisecondes.
 [![Murins](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jyeng0Y2xyaTR2OWdvZDk2dDNsMXdhcHFqbmpyZG84ZWpsdXc3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BG7cIvh33KDA97BUvf/giphy.gif)](https://youtube.com/shorts/ZcZIt625iJ4) _Guillaume  Marchais_
