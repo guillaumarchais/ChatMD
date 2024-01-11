@@ -40,7 +40,7 @@ Retour au menu principal ?
 
 ## sons types
 Les chauves-souris utilisent l'écholocation au cours de l'évolution depuis des millions d'année afin de pouvoir se déplacer dans l'obscurité. Elles émettent donc des sons de type **"sonar"** régulièrement pour sonder leur environnement direct et "voir" tous les obstacles présents dans l'espace arien et détecter les proies que sont les insectes volants. Elles ne sont pas aveugles pour autant mais le sens de la vue est secondaire.
-D'autres sons sont utilisés soit dans leur gîte pour s'exprimer auprès de leurs congénères (mère / progéniture notmment) ; ils sont plutôt longs et bas en fréquence, soit quand elles s'interagissent en vol sur un territoire de chasse par exemple. On parle de **cris sociaux**.
+D'autres sons sont utilisés soit dans leur gîte pour s'exprimer auprès de leurs congénères (mère / progéniture notamment) ; ils sont plutôt longs et bas en fréquence, soit quand elles s'interagissent en vol sur un territoire de chasse par exemple. On parle de **cris sociaux**.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=acT9iogoqyg" target="_blank">
  <img src="http://img.youtube.com/vi/acT9iogoqyg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5" />
 </a>_Guillaume  Marchais_
@@ -55,20 +55,18 @@ En savoir plus ?
 2. [Non]()
 
 ## sons types 2
-Voici les principaux critères de détermination des chauves-souris d'Europe sur la base des fréquences de leurs émissions sonores qui sont utilisés e n combinaison pour identifier les différentes espèces de chauves-souris.
+Voici les principaux critères de détermination des chauves-souris d'Europe sur la base des fréquences de leurs émissions sonores qui sont utilisés en combinaison pour identifier les différentes espèces de chauves-souris.
 * **Fréquence de pic** : la fréquence la plus élevée d'un signal ultrasonore. Elle est généralement exprimée en kHz (kilohertz). La fréquence de pic est un critère important pour l'identification des chauves-souris, car elle est souvent spécifique à une espèce ou à un groupe d'espèces.
 * **Largeur de bande** : la différence entre la fréquence de pic et la fréquence la plus basse du signal ultrasonore. Elle est généralement exprimée en kHz. La largeur de bande est également un critère important pour l'identification des chauves-souris, car elle peut varier en fonction de l'espèce et de la taille de l'animal.
 * **Durée** : d'un signal ultrasonore est exprimée en millisecondes (ms). La durée est un critère moins important que la fréquence de pic ou la largeur de bande, mais elle peut être utile pour distinguer certaines espèces.
 * **Rhythme** : nombre de pulsations par seconde. Il est généralement exprimé en pulsations par seconde (pps). Le rythme est un critère moins important que la fréquence de pic ou la largeur de bande, mais il peut être utile pour distinguer certaines espèces.
 * **Type de signal** : il existe deux principaux types de signaux ultrasonores émis par les chauves-souris : les signaux FM (fréquence modulée) et les signaux FC ou QFC (frequence contante ou quasi constante).
-       Les signaux FM sont caractérisés par une fréquence qui augmente rapidement puis diminue brusquement. Ils sont émis par 
-       la plupart des chauves-souris insectivores.
-       Les signaux CF sont caractérisés par une fréquence constante. Ils sont émis par les chauves-souris frugivores et 
-       nectarivores, mais aussi les rhinolophes en France qui ont la gueule en fer à cheval et pendent par les pieds dans leur gîte.
+       - Les signaux FM sont caractérisés par une fréquence qui augmente rapidement puis diminue brusquement. Ils sont émis par la plupart des chauves-souris insectivores.
+       - Les signaux CF sont caractérisés par une fréquence constante. Ils sont émis par les chauves-souris frugivores et nectarivores, mais aussi les rhinolophes en France qui ont la gueule en fer à cheval et pendent par les pieds dans leur gîte.
 * **Structure du signal** : peu être plus complexe que le simple type de signal. Par exemple, les signaux BF peuvent être composés de plusieurs éléments ou de plusieurs fréquences.
 L'identification des chauves-souris sur la base des fréquences de leurs émissions sonores nécessite une formation et une expérience spécifiques.
 
-Voir le tableau détaillant le groupes d'espèces ?
+Voir un tableau détaillant des groupes d'espèces ?
 1. [Oui](tableau especes)
 2. [Non]()
 
