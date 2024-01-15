@@ -66,11 +66,11 @@ More?
 2. [No](Non fin)
 
 ## Les formules d'estimation
-- les formules d'estimation
-- les modèles 
 - estimation
-- formule
-Laquelle veux-tu connaitre entre :
+- models 
+- statistical
+- formula
+Which one do you want to see :
 1. [Huso](formule : Huso)
 2. [Erickson](formule : Erickson)
 3. [Dalthorp](formule : Dalthorp)
@@ -79,27 +79,28 @@ Laquelle veux-tu connaitre entre :
 
 ## formule : Huso
 - Huso
-Huso et al. (2010) considèrent une mortalité globalement constante mais, dans leur approche, la probabilité de disparition au milieu de l’intervalle de passage n’est pas égale à la probabilité moyenne de persistance d’un cadavre. 
+Huso et al. (2010) consider a mortality globally constant but with their approach the probability of removal at the middle of the interval between two consecutive visits is not equal to the average probability of persistence of a carcass.
 $$N = \frac{M}{1 - p(t_m)}$$
-même si la durée de persistance d’un cadavre suit une variable exponentielle négative.
-Néanmoins, les travaux de Huso sont basés sur des données américaines où les taux de persistance moyens seraient plus élevés qu’en Europe. 
-Les biais sont donc plus importants pour cette approche lorsque les durées de persistance sont courtes.
-Référence : [Huso et al. 2011](https://onlinelibrary.wiley.com/doi/10.1002/env.1052)
-As-tu bien compris ?
-1. [Oui](suite formules)
-2. [Non](Non fin)
+even if the duration of persistence follows a negative exponantiel function.
+Nevertheless, the Huso models are based on north american data where persistence is usually longer than found in Europe. 
+The biaises are therefore more important with this approach when peristence is short (a few days only).
+Reference : [Huso et al. 2011](https://onlinelibrary.wiley.com/doi/10.1002/env.1052)
+Is that clear?
+1. [Yes](suite formules)
+2. [No](Non fin)
 
 ## formule : Jones
 - Jones
-La méthode proposée par Jones et al. (2009), pour estimer la mortalité repose sur plusieurs hypothèses :
-•	le taux de mortalité est considéré comme globalement constant sur l’intervalle de recherche ;
-•	la durée de persistance d’un cadavre suit une variable exponentielle négative, le taux de persistance étant calculé ainsi (Tm = durée moyenne de persistance en jours) :
-•	la probabilité de disparition moyenne sur l’intervalle entier (quand des animaux peuvent aussi bien être impactés et mourir au début ou à la fin de l’intervalle) peut être approximée par la probabilité de disparition à la moitié de l’intervalle.
-Jones utilise la notion d’intervalle effectif pour calculer le coefficient correcteur ê qui correspond au rapport entre la durée avant que 99 % des cadavres soient prédatés/déplacés et la durée de l’intervalle. Il est en effet logique que plus l’intervalle est long, plus le taux de persistance s’approche de 0. L’intervalle effectif correspond ainsi à la durée pour laquelle le taux de persistance est égal à 1 % (100 – 99 %). 
-L’intervalle effectif moyen, Î est donc égal à : - log(0,01) x tm. Dans le calcul, I prend la valeur minimale entre I et Î, notée ê. 
-Tu veux en savoir davantage ?
-1. [Oui](suite formules)
-2. [Non](Non fin)
+The model from Jones et al. (2009) is based on the following hypothesis :
+* the mortality rate is considered globally constant on the intervall of consecutive searches ;
+* the duration of persistence of a carcass follows a negative exponantiel function, le taux de persistance is calculated as Tm (average duration in days) ;
+* the probability of the average removal on the complete interval (when animals can impacted at the beginning or the end of the interval) can be approximated  by the probability of removal at the middle of the interval.
+Jones uses the notion of the effective interval for calculating the corrective factor ê which corresponds to teh ratio between the duration before taht 99 % of carcasses are removed and the duration of the interval. Indeed, it is quite logic that when the interval is long then the persistance ratio gets closer to 0. The effective interval corresponds to the duration for which the persistance ratio is equal to 1 % (100 - 99 %).
+
+The average effective interval, Î is equal to : - log(0,01) x tm. With I having teh minimal value between I et Î, noted ê. 
+More?
+1. [Yes](suite formules)
+2. [No](Non fin)
 
 ## formule : Dalthorp
 - Dalthorp
@@ -108,17 +109,17 @@ Disponible depuis le site web de l'USGS et Github, il s'utilise avec R et plusie
 Depuis 2018, c'est la solution la plus aboutie internationalement pour estimer les mortalités pour un nombre de cadavre minimale (> 5 en général). 
 Le mode d'emploi en anglais est consultable depuis ce [lien](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality).
 Et voici [une vidéo de présentation simple "non officielle" avec un jeu de données exemple fourni avec l'application](https://youtu.be/oDNS0zxp_xs?si=FNybJpKAUR5rLZJ2).
-Tu veux en savoir davantage ?
-1. [Oui](suite formules)
-2. [Non](Non fin)
+More?
+1. [Yes](suite formules)
+2. [No](Non fin)
 
 ## formule : Erickson
 - Erickson
 L’estimateur Erickson et al. (2000) est fréquemment utilisé en France. Ce test a plutôt tendance à sous-estimer les données pour les taux de persistance courts mais pas pour les taux de persistance longs. Cette sous-estimation est aussi constatée par Péron (2018) qui suppose que cela peut être lié au postulat d’effort de recherche constant. La formule intègre la fréquence des passages mais n’est pas demandeuse quant à la durée moyenne entre les passages. 
 Elle considère une diminution exponentielle des temps de disparition des cadavres qui peuvent être trouvés lors des passages ultérieurs au premier passage infructueux.
-On va plus loin ?
-1. [Oui](suite formules)
-2. [Non]()
+More?
+1. [Yes](suite formules)
+2. [No]()
 
 ## suite formules
 - meilleure
