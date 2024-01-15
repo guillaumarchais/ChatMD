@@ -1,1 +1,293 @@
+---
+maths : true
+gestionGrosMots: true
+rechercheContenu: true
+---
+# Chatbot : About environmental monitoring of onshore wind farms
+> **<span class="unique">I am a Chatbot [ChatMD](https://eyssette.forge.aeif.fr/chatMD) developped by [Guillaume Marchais](www.linkedin.com/in/gmarchais) who compiles various publically-made sources that he did not produced himsel</span>**
+>![](https://media.giphy.com/media/4CpdsmxdDpcmQ/giphy.gif)
+> I can help you understand the scientific aspects of this issue.
+>
+> What do you want know? _**(scroll down for more)**_
+>
+> 1. [Which species are more sensitive to collisions with wind turbines](esp sensibles)
+> 2. [What is the national protocol for post-construction monitoring in France ?](Le protocole national 2018)
+> 3. [What is the "roads & pads" protocol](Le protocole allégé roads & pads)
+> 4. [About the search efficiency test](Le test de détection)
+> 5. [About the persistence test](Le test de persistance)
+> 6. [About the area correction](La correction surfacique)
+> 7. [The statistical models for the estimation of mortality](Les formules d'estimation)
+> 8. [The acoustic monitoring of bat activity at nacelle height](suivi chiros)
+> 9. [The bird activity monitoring](suivi ornitho)
 
+## esp sensibles
+- sensitive species
+- bird collisions
+- bat collisions
+Birds of all species can collide with wind turbines, but those that reproduce in small numbers are particularly vulnerable. This includes most raptors, which have large territories and are often found in small numbers, even during migration. Other species that are at risk include gulls and terns, which are found near coasts, and cranes and storks, which are less common.
+![](https://media.giphy.com/media/Qz7VpOlWMXYAM/giphy.gif)
+Migratory bats are also particurlarly vulnerable such as the ([Nathusius' Pipistrelle ](https://youtu.be/ImYYqXYfTl0?si=AdOOy4fumnpiI9bx) in Europe.
+![](https://media.giphy.com/media/10I2yiQCXk4aaI/giphy.gif)
+More ?
+1. [Yes](Durr)
+2. [No](Non fin)
+
+## Durr
+- Durr
+- Dürr
+A German scientist, Tobias Dürr, has been collecting data on bird mortality at wind turbines in Europe for many years. This data is not complete, but it provides valuable insights into the species that are most at risk from wind turbines. The website [Landesamt für Umwelt Brandenburg](https://lfu.brandenburg.de/lfu/de/aufgaben/natur/artenschutz/vogelschutzwarte/arbeitsschwerpunkt-entwicklung-und-umsetzung-von-schutzstrategien/auswirkungen-von-windenergieanlagen-auf-voegel-und-fledermaeuse/) makes data avaliable for download as Excel spreadsheets (at the bottom of the page).
+
+Beyond the simple number of birds killed, it is important to consider the mortality rates relative to the populations of each species and their conservation status. This is because the impact of wind turbines on bird populations will vary depending on the size of the population, the number of wind turbines, and the conservation status of the species. This is issue is discussed in the article of the French journal "Eolien & Biodiversité" de 2022 (page 23) => [https://www.calameo.com/books/0063425990f6eb7c24b96](https://www.calameo.com/books/0063425990f6eb7c24b96)
+More ?
+1. [Yes]()
+2. [No](Non fin)
+
+## Le protocole national 2018
+- French protocole 
+- French national protocole 2018
+- standardised protocole in France
+- protocole France
+n France, a minimum set of practices for the research of birds and bats impacted by wind turbines has been established and validated. The first version of the protocol was published in 2015, and a more complete version was published in 2018. The second version is available for download [here](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf). 
+The main requirements are as follows: :
+* **The number of visits**
+    * at least 20 visists per year 
+    * between mid-May and the end of October (from week 20 to 43)
+* **The areas to search for carcasses**
+    * A 100 m x 100 m square or concentric circles with a radius equal to the length of the blade (minimum 50 m)
+    * Transect lines spaced 5 to 10 m apart, depending on the condition of the ground and vegetation
+* **The tests**
+    * a test enabling to assess the seacher efficiency
+    * a test enabling to assess the local persistence of the carcasses (scavenger presence and farming practices)
+* Continuous recording of bat activity at nacelle height for a large part of the season
+**The objective is to determine the real mortality rates by using statistical models to estimate them from the observed raw mortality on the ground.**
+![](https://www.shutterstock.com/image-photo/common-buzzard-buteo-flight-wind-turbines-212637479)
+More?
+1. [Yes]()
+2. [No](Non fin)
+
+## Les formules d'estimation
+- les formules d'estimation
+- les modèles 
+- estimation
+- formule
+Laquelle veux-tu connaitre entre :
+1. [Huso](formule : Huso)
+2. [Erickson](formule : Erickson)
+3. [Dalthorp](formule : Dalthorp)
+4. [Jones](formule : Jones)
+
+
+## formule : Huso
+- Huso
+Huso et al. (2010) considèrent une mortalité globalement constante mais, dans leur approche, la probabilité de disparition au milieu de l’intervalle de passage n’est pas égale à la probabilité moyenne de persistance d’un cadavre. 
+$$N = \frac{M}{1 - p(t_m)}$$
+même si la durée de persistance d’un cadavre suit une variable exponentielle négative.
+Néanmoins, les travaux de Huso sont basés sur des données américaines où les taux de persistance moyens seraient plus élevés qu’en Europe. 
+Les biais sont donc plus importants pour cette approche lorsque les durées de persistance sont courtes.
+Référence : [Huso et al. 2011](https://onlinelibrary.wiley.com/doi/10.1002/env.1052)
+As-tu bien compris ?
+1. [Oui](suite formules)
+2. [Non](Non fin)
+
+## formule : Jones
+- Jones
+La méthode proposée par Jones et al. (2009), pour estimer la mortalité repose sur plusieurs hypothèses :
+•	le taux de mortalité est considéré comme globalement constant sur l’intervalle de recherche ;
+•	la durée de persistance d’un cadavre suit une variable exponentielle négative, le taux de persistance étant calculé ainsi (Tm = durée moyenne de persistance en jours) :
+•	la probabilité de disparition moyenne sur l’intervalle entier (quand des animaux peuvent aussi bien être impactés et mourir au début ou à la fin de l’intervalle) peut être approximée par la probabilité de disparition à la moitié de l’intervalle.
+Jones utilise la notion d’intervalle effectif pour calculer le coefficient correcteur ê qui correspond au rapport entre la durée avant que 99 % des cadavres soient prédatés/déplacés et la durée de l’intervalle. Il est en effet logique que plus l’intervalle est long, plus le taux de persistance s’approche de 0. L’intervalle effectif correspond ainsi à la durée pour laquelle le taux de persistance est égal à 1 % (100 – 99 %). 
+L’intervalle effectif moyen, Î est donc égal à : - log(0,01) x tm. Dans le calcul, I prend la valeur minimale entre I et Î, notée ê. 
+Tu veux en savoir davantage ?
+1. [Oui](suite formules)
+2. [Non](Non fin)
+
+## formule : Dalthorp
+- Dalthorp
+C'est l'auteur programmeur de l'application open source [GenEst](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality) développé entre autres avec M. Huso qui reprend les modèles statistiques pour permettre à l'utilisateur de les adapter et affiner aux différentes conditions du suivi selon les dates de passage réalisées et les surfaces prospectées.
+Disponible depuis le site web de l'USGS et Github, il s'utilise avec R et plusieurs packages associés.
+Depuis 2018, c'est la solution la plus aboutie internationalement pour estimer les mortalités pour un nombre de cadavre minimale (> 5 en général). 
+Le mode d'emploi en anglais est consultable depuis ce [lien](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality).
+Et voici [une vidéo de présentation simple "non officielle" avec un jeu de données exemple fourni avec l'application](https://youtu.be/oDNS0zxp_xs?si=FNybJpKAUR5rLZJ2).
+Tu veux en savoir davantage ?
+1. [Oui](suite formules)
+2. [Non](Non fin)
+
+## formule : Erickson
+- Erickson
+L’estimateur Erickson et al. (2000) est fréquemment utilisé en France. Ce test a plutôt tendance à sous-estimer les données pour les taux de persistance courts mais pas pour les taux de persistance longs. Cette sous-estimation est aussi constatée par Péron (2018) qui suppose que cela peut être lié au postulat d’effort de recherche constant. La formule intègre la fréquence des passages mais n’est pas demandeuse quant à la durée moyenne entre les passages. 
+Elle considère une diminution exponentielle des temps de disparition des cadavres qui peuvent être trouvés lors des passages ultérieurs au premier passage infructueux.
+On va plus loin ?
+1. [Oui](suite formules)
+2. [Non]()
+
+## suite formules
+- meilleure
+- simple
+- facile
+- toutes les formules
+- aucun cadavre
+Tu voudrais plus basiquement savoir...
+1. [Quelle est la plus simple ou facile ?](formule : simple)
+2. [Quelle est la meilleure ?](formule : meilleure)
+3. [Faut-il toutes les utiliser ?](formule : utiliser)
+4. [Laquelle choisir quand très peu ou aucun cadavre n'a été découvert durant le suivi ?](formule : EoA)
+
+## formule : simple
+C'est celle d'Erickson qui est aussi la plus ancienne mais qui souvent sous-estime la mortalité du fait de ne pas intégrer une appproche modéliséée de la dispartion des cadavres.
+Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf).
+Tu as compris ?
+1. [Oui](J'ai compris)
+2. [Non](Non fin)
+
+## formule : meilleure
+Il a été montré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est dde s'orienter vers l'application open source GenEst qu'elle a développé avec Dalthorp et al. => [https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
+[Voigt et al.2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512): <blockquote class="is-size-5 is-size-6-mobile has-text-justified">"..., we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines."</blockquote>.
+Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf)
+![](https://www.usgs.gov/media/images/genest-generalized-mortality-estimations-cover-art)
+Tu as compris ?
+1. [Oui](J'ai compris)
+2. [Non](Non fin)
+
+## formule : utiliser
+Le protocole national 2018 demande d"utiliser celle de Huso 2010 avec deux autres d'entre elles pour montrer la variabilité des résultats selon les conditions.
+Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf)
+Une application gratuite développée par des chercheurs du CNRS-CEFE, [EOLAPP](https://shiny.cefe.cnrs.fr/eolapp/), permet d'opérer ces calculs de manière assez simple. [Voici une vidéo qui présente cette application](https://youtu.be/k8VA7JqfjXA).
+Tu as compris ?
+1. [Oui](J'ai compris)
+2. [Non](Le protocole national 2018)
+
+## formule : EoA
+Dans ce cas particulier, les différentes formules ne peuvent pas estimer correctement la mortalité réelle car comment __"extrapoler à partir de (quasi) rien ?"__. Une autre approche est nécessaire : celle qui questionne la **__crédibilité__** des différents paramètres du suivi (plutôt que leur probabilité ou degré de confiance selon une distribution a posteriori). Huso et Dalthorp ont développé une autre application pour mieux rendre compte des résultats pour ce type de situation, c'est __**"Evidence of Absence"**__ . Elle est téléchargeable en open source dans sa [version 2.0 sur le site web de l'USGS (Etats-Unis)](https://pubs.usgs.gov/publication/ds1055). Elle fonctionne avec R 4.0 ou supérieur et différents packages, mais aussi elle nécessite ce programme gratuit d'analyse et modélisation statistiques  ["JAGS"](https://sourceforge.net/projects/mcmc-jags/).
+![](https://upload.wikimedia.org/wikipedia/commons/1/1c/USGS_logo_green.svg)
+Enfin, des experts du bureau d'étude "Western Ecosystems Technology" ont développé une extension qui utilise davantage des valeurs des covariables pour affinier les modèles d'estimation. Plus de détails dans leur publication téléchargeable [ici](https://www.biorxiv.org/content/10.1101/2020.01.21.914754v3.full.pdf)
+Tu veux voir un autre sujet ?
+1. [Oui]()
+2. [Non](Non fin)
+
+## Le test de persistance
+- persistance
+- test de persistance
+- taux de persistance
+- temps moyen
+Ce test consiste à déposer plusieurs leurres ou faux cadavres (souvent des souris, rats, gerbies congelées pour animalerie ou aussi des poussins ou autres volailles) sur les surfaces prospectables autour des éoliennes afin de rendre compte du temps de persistance à des périodes différentes (mai et septembre par exemple). Le protocole national 2018 demande d'en déposer au moins 3 par éolienne pour chaque test, mais il est recommandé de le pratiquer sur plusieurs éoliennes et sur les différents types de surface selon leur classe de visibilité (bonne et moyenne). En France, les persistances constatées sont souvent courtes (< 3 jours) car tous les faux cadavres sont déposés au même moment ; ce qui est un biais par rapport à la situation réelle des collisions (étalée dans le temps). Il est donc d'autant plus pertinent pour le limiter d'appliquer le taux de persistance à la période suivie correspondante avec de la mortalité brute avérée.
+[Pour aller plus loin](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067997)
+Tu veux voir un exemple ?
+1. [Oui](Je veux voir un exemple)
+2. [Non](Non fin)
+
+## Je veux voir un exemple
+Voir Fig 3 de cette [publication](https://www.sciencedirect.com/science/article/pii/S2351989422001512)
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2351989422001512-gr3.jpg)
+Tu veux en apprendre plus ?
+1. [Oui]()
+2. [Non](Non fin)
+
+## Le test de détection
+La capacité d'un obeservateur varie grandement selon les conditions de visbilité, l'expérience, la fatigue, etc... Ce test utilise des leurres qui sont déposés par dizaines à proximité d'une bonne partie des éoliennes afin de rendre compte d'un pourcentage d'entre eux retrouvés en situation de recherche normal. Les résultats sont déclinés par observateur, classe de visibilité, gabarit (petite et moyenne taille) et période. Des scores "mauvais" inférieurs à 50 % environ sont à analyser plus particulièrement afin de vérifier qu'ils ne sont pas  surtout liés à un manque d'attention ou concenration. 
+Tu veux en apprendre plus ?
+1. [Oui]()
+2. [Non](Non fin)
+
+## La correction surfacique
+Le [protocole national 2018](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf) demande de couvrir une surface homogène autour du mat de l'éolienne basé sur la longueur de la pale avec un rayon minimal de 50 m. Lorsque l'occupation du sol est trop dense en cultures (blé, maïs, betterave), il devient très difficile de pouvoir prospecter sans les endommager. Ainsi, il est généralement admis de ne pas du tout les prospecter afin de limiter la pénibilité et les dommages associés. La présence de bétail dans les pâtures peut aussi conduire à cette décision. Soit on retient un pourcentage simple sur l'ensemble de la surface théorique, soit on applique une méthode des cercles concentriques tous les 5 ou 10 m.
+Tu veux en apprendre plus ?
+1. [Oui](corr surfa DWP)
+2. [Non](Non fin)
+
+## corr surfa DWP
+Plus récemment, un calcul savant intègre la densité probable selon la distance au mat => voir le [module DWP développé par l'USGS](https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite)
+![](https://www.researchgate.net/publication/358143833/figure/fig2/AS:1116884825055232@1643297501550/Estimation-of-fraction-of-carcasses-lying-within-the-searched-area-a-carcass-density_Q640.jpg)
+Tu veux en apprendre plus ?
+1. [Oui]()
+2. [Non](Non fin)
+
+## Le protocole allégé roads & pads
+- protocole
+- roads
+- pads
+- protocole roads & pads
+- protocole allégé
+![](https://media.giphy.com/media/aCleCvK8nyFxD5mIxV/giphy.gif)
+Les recherches de cadavres sont focalisées sur les surfaces les plus visibles, lesquelles sont souvent les plateformes et les chemins d'accès au plus loin possible des éoliennes (centaine de mètres). Ils sont plus faciles à parcourir et permettent une rapide détection (temps de parcours < 10 min). Ces passages "éclairs" peuvent donc être associés à d'autres passages (suivis comportementaux) afin d'augmenter leur fréquence (et ainsi réduire les temps d'intervalles) pour les sites qui font preuve d'une persistance (très) courte. 
+En général, cela ne représente que 10 à 30 % des surfaces à prospecter selon le protocole national 2018 (8000 à 10 000 m²) ; il faut donc les pratiquer en combinaison et alternance avec des passages "standard" complets, et sur les éoliennes non suivies pour les grands parcs (> 10  turbines). 
+C'est assez clair ?
+1. [Oui](J'ai compris)
+2. [Non](reference rp)
+
+## reference rp
+Alors je t'invite à lire au moins le résumé de cette publication sur ce sujet :  ["Comparing methods to estimate the proportion of turbine-induced bird and bat mortality in the search area under a road and pad search protocol."](https://link.springer.com/article/10.1007/s10651-020-00466-0)
+Tu veux en apprendre plus ?
+1. [Oui]()
+
+## suivi chiros
+- suivi acoustique
+- suivi nacelle
+- nacelle
+- suivi chiroptères
+- suivi chauves-souris
+En parallèle des recherches de cadavres de la faune volante, il est demandé d'enregistrer l'activité acoustique des chauves-souris à hauteur de rotation des pales ou de nacelle afin de pouvoir rendre des risques de collision pour ces espèces nocturnes. Des appareils utilisant des micros ultrasonores sophistiqués permettent de "capter" jusqu'à une certaine distance variant selon les espèces et des conditions météo (de 10 à 100 m approximativement). L'ensemble des sons est comptabilisés sous forme d'activité (contacts ou durée des fichiers) et ensuite corrélés aux conditions de vent et température. 
+![](https://media.giphy.com/media/9gqC3kr1MEwxK9YP6T/giphy.gif)
+Tu veux voir des exemples ?
+1. [Oui](suivi chiros 2)
+2. [Non](Non fin)
+
+## suivi chiros 2
+- Probat
+- allemand
+- infrarouge
+- Etats-Unis
+En Europe, les allemands ont particulièrement étudié dans le cadre d'un programme de recherche appliquée nommé "RENEBAT" qui s'est déroulé en 3 phases de 2007 à 2015. A partir des résultats de ces travaux, ils ont pu formalisé une modélisation de l'activité selon plusieurs paramètres et mettre à disposition des professionnels une application qui permet de déterminer un algorithme de bridage à partir des données collectées in situ (activité et méto) selon un protocole spécifique. Ils ont aussi pu montré que l'activité en altitude n'était pas significativementdifférente entre des habitats de milieux ouverts en plaine de milieux forestiers. Plus de détails sur leur site web [ici](https://www.probat.org/probat-7).
+![](https://www.probat.org/fileadmin/_processed_/6/2/csm_ProBat_Fledermausaktivitaet_U.Eberius_7c7a0d4eb9.png =600x700)
+**Verteilung der Fledermausaktivität im Rotorbereich einer Windenergieanlage, Grafik: Ulrike Eberius**
+
+Plus récemment et en France, les chercheurs spécialisés du Museum d'Histoire Naturelle de Paris ont publié un article [(Barré et al., 2023)](https://www.sciencedirect.com/science/article/abs/pii/S0048969723000190) précisant davantage les facteurs pouvant influer l'activité et comment les itégrer pour mieux optimiser les algorithmes de bridage nocturne.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969723000190-ga1.jpg).
+De plus, un projet de recherche, nommé "OPRECH", a compilé les pratiques de bridage nocturne en France métroplitaine de 2010 à 2020. Le rapport complet et sa synthèse sont téléchargeables [ici](https://librairie.ademe.fr/energies-renouvelables-reseaux-et-stockage/6242-programme-oprech.html).
+![](https://librairie.ademe.fr/698593-large_default/programme-oprech.jpg)
+
+Aux Etats-Unis, d'autres chercheurs ont parallèlement étudié l'activité à l'aide de caméras infrarouges au sein de la zone de rotation des pales. Publication de Goldenberg et al. 2021 consultable [ici](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7388).
+![](https://onlinelibrary.wiley.com/cms/asset/21e20d0d-c517-45b8-a95c-4f1481624e36/ece37388-fig-0002-m.jpg =500x700).
+
+Tu veux en apprendre plus ?
+1. [Oui]()
+2. [Non](Non fin)
+
+## J'ai compris
+Bravo, tu en sais un peu plus maintenant ! 
+Tu savoir comment interpréter les résultats ?
+1. [Oui](interprétation mortalité)
+2. [Non](Non fin)
+
+## interprétation mortalité
+Plusieurs initiatives sont actuellement en cours pour compiler de nombreux résultats afin de pouvoir permettre des comparaisons entre les parcs éoliens selon les pays et régions. Il serait trop long de toutes les lister ici. En voici quelques-unes :
+* Allemagne : [Voigt et al. 2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512)
+* France > région Grand-Est : [CPIE Pays de Soulaines 2018](http://www.plume-de-naturalistes.fr/wp-content/uploads/2019/04/09_TERNOIS_03-2019_Impact-developpement-eolien_Plume3_195-212.pdf)
+* France > région Grand-Ouest : [Ouest Am](https://www.genie-ecologique.fr/synthese-des-donnees-de-suivis-post-implantation-deoliennes-dans-le-grand-ouest)
+* Espagne > région sud : [Salguero et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
+* Etats-Unis : [Lloyd et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
+
+Au-delà des comparaisons, **l'objectif principal est de réduire fortement la mortalité par le biais de différents solutions et mesures qui consistent à optimiser les arrêts des éoliennes aux périodes à risque et lors de situation critique (animaux volant trop proche des pales).**
+Assez basiquement, cela se concrétise par la présence de "surveillants" ou sentinelles sur le terrain qui peuvent d'une manière rapide déclencher un arrêt des turbines (avec une application de téléphonie mobile ou un appel d'urgence par exemple).
+Les progrès technologiques permettent aussi le développement de solutions d'ingénierie basées sur la détection vidéo et/ou audio à distance. Tout l'enjeu consiste à détecter suffisamment tôt l'oiseau de jour pour permettre le ralentissement de la rotation des pales à l'aide d'algorithmes sophistiqués ; et les chauves-souris avec des micros sensibles et résistants aux intempéries.
+Que ce soit avec des caméras, des radars ou des micros de haute technologie, les ingénieurs tâchent d'améliorer leurs capacités de détection d'analyse automatique de leurs divers systèmes. Ceux-ci sont testés en situation réelle et vérifiés grâce aux suivis contrôlés par les services décentralisés de l'Etat.
+![](https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif)
+
+Tu veux en apprendre plus ?
+1. [Oui]()
+2. [Non](Non fin)
+
+## suivi ornitho
+L'activité des oiseaux fait aussi l'objet de suivi à l'aide de jumelles et longue-vue à partir de points d'observation autour des éoliennes.
+![](https://media.giphy.com/media/404zkerwWxIaOPEnzD/giphy.gif).
+Pour en connaitre davantage sur les méthodes de suivi, voici plusieurs sources :
+* [https://www.lpo.fr/la-lpo-en-actions/connaissance-des-especes-sauvages/suivis-ornithologiques](https://www.lpo.fr/la-lpo-en-actions/connaissance-des-especes-sauvages/suivis-ornithologiques=)
+* [https://www.instinct-animal.fr/guide/ornithologie/inventaires-et-comptages-ornithologiques/](https://www.instinct-animal.fr/guide/ornithologie/inventaires-et-comptages-ornithologiques/=)
+
+Tu veux en apprendre plus ?
+1. [Oui]()
+2. [Non](Non fin)
+
+## Non fin
+Malgré mes tentatives de vulgarisation, tu n'as pas bien compris. La prochaine étape consiste à se plonger dans les différentes références citées... ou alors,  tu ne veux simplement pas aller plus loin et fermer cette fenêtre ; )
+Dans tous les cas, je t'invite à chercher autrement comment comprendre ce sujet compliqué mais important dans un contexte actuel de crise climatique et d'érosion de la biodiversité. [Ce petit moteur de recherche dédié pourra t'y aider.](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/eolien-ecologie)
+![](https://media.giphy.com/media/VHrFbmOtBwysbsYnka/giphy.gif)
