@@ -158,6 +158,9 @@ Pour les détecteurs passifs, on peut citer des modèles clef-en-main payants le
 Ils sont disponibles chez des fournisseurs français spécialisés : [Biotope](https://leclub-biotope.com/fr/124-materiel-de-terrain-logiciels) ; [Wildcare](https://www.wildcare.eu/chauves-souris/detecteurs-portatifs.html) ; [Jama](https://www.jama.fr/boutique/fr/prise-de-son/detecteurs-chauves-souris/batbox-60).
 Alternativement, une initiative associative propose la fabrication de détecteurs à partir de composants en collectif autogéré. La démarche est pour un public averti car nécessite de se plonger dans la documentation détaillée [ici](https://framagit.org/PiBatRecorderPojects/TeensyRecorders) et d'y passer un certain temps... mais la récompense est au bout avec des détecteurs de qualité pas chers (environ 100 € pièce contre 500 à 1500 € pour ceux directement commercialisés).
 
+Retour au menu principal ?
+1. [Oui]()
+
 
 ## analyse ordi
 - logiciel
@@ -189,6 +192,8 @@ Les [murins](https://youtube.com/shorts/ZcZIt625iJ4) regroupent un groupe d'esp�
 [![Murins](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jyeng0Y2xyaTR2OWdvZDk2dDNsMXdhcHFqbmpyZG84ZWpsdXc3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BG7cIvh33KDA97BUvf/giphy.gif)](https://youtube.com/shorts/ZcZIt625iJ4) _Guillaume  Marchais (Echo Meter Touch 2)_
 Les [oreillards](https://youtu.be/PJG16JBDlVA?si=zPHDFKLZ1Pya7s0K) sont des espèces aux grandes oreilles par rapport à leur corps et tendent à émetrre des ultrasons passant par leur nez. Elles sont plus discrètes, donc détectées plus occasionnellement 
 [![Oreillards](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY1cGEzODdzd2llanlxNHF3ZmtobmJtZTUwMm16NWw5aGQ2eDhsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tLHH89M4sa00cytoPA/giphy.gif)](https://youtube.com/shorts/uO6JgctaViE) _Guillaume  Marchais (Echo Meter Touch 2)_
+Retour au menu principal ?
+1. [Oui]()
 
 ## socio
 - sociaux
@@ -201,3 +206,6 @@ Les [oreillards](https://youtu.be/PJG16JBDlVA?si=zPHDFKLZ1Pya7s0K) sont des esp�
 * Une thèse de l'allemand Guido Pfalzer a permis de créer une première compilation pour les espèces européenes ; [sa traduction en anglais par Yann Galger est téléchargeable ici](https://drive.google.com/file/d/1aBBtsV2ezhd907e-sEGQm5Zj2L2OD0pL/view). 
 * En France, [une compilation a été produite par Olivier Vinet en 2023](https://www.vigienature.fr/sites/vigienature/files/documents/baseref_chiros-cs_vinet-bas_v1.pdf).
 * Ce [petit moteur de recherche dédié](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) peut aussi à trouver des exemples de sons visibles sur spectrogramme. (Cliquer sur la recherche d'images une fois sur la page de résultats. Saisir des noms scientifiques permet de récolter davantage d'exemples à partir de sources anglophones).
+
+Retour au menu principal ?
+1. [Oui]()
