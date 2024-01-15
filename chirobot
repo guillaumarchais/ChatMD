@@ -2,6 +2,7 @@
 maths : true
 gestionGrosMots: true
 rechercheContenu: true
+tags: template
 ---
 # Chirobot : Petit guide visuel des sons émis par les chauves-souris présentes en France.
 > **<span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas lui-même produit.</span>**
@@ -217,15 +218,11 @@ Retour au menu principal ?
 ## quizz
 - quizz
 Voici des exemples de sons à identifier (cliquer sur chaque image pour connaitre la réponse)
----
-tags: template
----
-# Flashcards
 
+# Flashcards
 1.
     - Question
     - Réponse
-
 2. 
    - [![Oreillards](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY1cGEzODdzd2llanlxNHF3ZmtobmJtZTUwMm16NWw5aGQ2eDhsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tLHH89M4sa00cytoPA/giphy.gif)](https://youtube.com/shorts/uO6JgctaViE) _Guillaume  Marchais (Echo Meter Touch 2)_
    - Oreillard
