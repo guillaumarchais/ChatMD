@@ -17,6 +17,7 @@ rechercheContenu: true
 > 6. [Les espèces qui rarement émettent entre 25 et 80 kHz](esp rare)
 > 7. [Les appareils qui les détectent](détecteurs)
 > 8. [Les techniques d'identification à partir d'enregistrement](analyse ordi)
+> 9. [Les cris sociaux ou atypiques compliqués](socio)
 
 ## techno
 - technologie
@@ -189,3 +190,14 @@ Les [murins](https://youtube.com/shorts/ZcZIt625iJ4) regroupent un groupe d'esp�
 Les [oreillards](https://youtu.be/PJG16JBDlVA?si=zPHDFKLZ1Pya7s0K) sont des espèces aux grandes oreilles par rapport à leur corps et tendent à émetrre des ultrasons passant par leur nez. Elles sont plus discrètes, donc détectées plus occasionnellement 
 [![Oreillards](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY1cGEzODdzd2llanlxNHF3ZmtobmJtZTUwMm16NWw5aGQ2eDhsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tLHH89M4sa00cytoPA/giphy.gif)](https://youtube.com/shorts/uO6JgctaViE) _Guillaume  Marchais (Echo Meter Touch 2)_
 
+## socio
+- sociaux
+- cris sociaux
+- C1
+- D1
+- C2
+- D2
+* Les cris dit "sociaux" sont des sons d'interaction sociale plus ou moins complexes qui nécessitent un apprentissage spécifique. 
+* Une thèse de l'allemand Guido Pfalzer a permis de créer une première compilation pour les espèces européenes ; [sa traduction en anglais par Yann Galger est téléchargeable ici](https://drive.google.com/file/d/1aBBtsV2ezhd907e-sEGQm5Zj2L2OD0pL/view). 
+* En France, [une compilation a été produite par Olivier Vinet en 2023](https://www.vigienature.fr/sites/vigienature/files/documents/baseref_chiros-cs_vinet-bas_v1.pdf).
+* Ce [petit moteur de recherche dédié](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) peut aussi à trouver des exemples de sons visibles sur spectrogramme. (Cliquer sur la recherche d'images une fois sur la page de résultats. Saisir des noms scientifiques permet de récolter davantage d'exemples à partir de sources anglophones).
