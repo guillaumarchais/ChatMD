@@ -116,9 +116,17 @@ Retour au menu principal ?
 Les plus grosses espèces sont connues pour émettre à des fréquences plus basses pour les sons "sonar" ; soit entre 8 et 25 kHz en général (Molosse de Cestoni et les noctules).
 En hétérodyne, les sont plutôt graves et espacés car elles volent souvent à des hauteurs supérieures à 30 m et sur de longues distances (en dizaines de killomètres).
 [![Noc com chasse](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwxajF0MHB2M3h3eXRkZGIwNGFnN3R5aDBpMjhjZWZmaTI1M3ZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7L0SnBtFm5Rz4vjXqZ/giphy.gif)](https://youtube.com/shorts/IbPkGTADIeQ) _Guillaume  Marchais (Echo Meter Touch 2)_
+Dans l'exemple suivant, on peut bien voir la différence entre deux espèces : la petite (Pipistrelle commune) émet à des fréquences plus élevées que la grosse (Noctule commune) :
 [![Pip com et Noc com](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd6cTMwZHVxM2d5a2I2NDRybzNqZmdlNjFkcHNnY3c4azdwdHRlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I3TpZLlEyQftdbharU/giphy.gif)](https://youtube.com/shorts/o716J1PAqY4) _Guillaume  Marchais (Echo Meter Touch 2)_
-Retour au menu principal ?
-1. [Oui]()
+
+D'autres exemples ?
+1. [Oui](chirossons)
+1. [Non]()
+
+## chirossons
+* [Ce mini site web propose des vidéos de différents sons enregistrés par Guillaume Marchais](https://padlet.com/gmarchais/chirossons-376pej6e7gr67tme)
+<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:480px;height:352px;max-width:100%"><iframe src="https://padlet.com/padlets/376pej6e7gr67tme/embeds/preview_embed" style="width:100%;height:100%;display:block;padding:0;margin:0" frameborder="0"></iframe></div>
+* Et ce [petit moteur de recherche dédié](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) peut aussi aider à trouver des exemples de sons visibles sur spectrogramme. _(Cliquer sur la recherche d'images une fois sur la page de résultats. Saisir des noms scientifiques permet de récolter davantage d'exemples à partir de sources anglophones)_.
 
 ## Non
 - références
@@ -153,7 +161,7 @@ D'autres exemples ?
 ## chirossons
 * [Ce mini site web propose des vidéos de différents sons enregistrés par Guillaume Marchais](https://padlet.com/gmarchais/chirossons-376pej6e7gr67tme)
 <div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:480px;height:352px;max-width:100%"><iframe src="https://padlet.com/padlets/376pej6e7gr67tme/embeds/preview_embed" style="width:100%;height:100%;display:block;padding:0;margin:0" frameborder="0"></iframe></div>
-* Et ce [petit moteur de recherche dédié](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) peut aussi à trouver des exemples de sons visibles sur spectrogramme. (Cliquer sur la recherche d'images une fois sur la page de résultats. Saisir des noms scientifiques permet de récolter davantage d'exemples à partir de sources anglophones).
+* Et ce [petit moteur de recherche dédié](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) peut aussi aider à trouver des exemples de sons visibles sur spectrogramme. _(Cliquer sur la recherche d'images une fois sur la page de résultats. Saisir des noms scientifiques permet de récolter davantage d'exemples à partir de sources anglophones)_.
 
 Retour au menu principal ?
 1. [Oui]()
@@ -203,6 +211,8 @@ D'autres solutions informatiques élaborées sont disponibles à la vente sous f
 [![Murins](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jyeng0Y2xyaTR2OWdvZDk2dDNsMXdhcHFqbmpyZG84ZWpsdXc3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BG7cIvh33KDA97BUvf/giphy.gif)](https://youtube.com/shorts/ZcZIt625iJ4) _Guillaume  Marchais (Echo Meter Touch 2)_
 * Les [oreillards](https://youtu.be/PJG16JBDlVA?si=zPHDFKLZ1Pya7s0K) sont des espèces aux grandes oreilles par rapport à leur corps et tendent à émetrre des ultrasons passant par leur nez. Elles sont plus discrètes, donc détectées plus occasionnellement 
 [![Oreillards](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY1cGEzODdzd2llanlxNHF3ZmtobmJtZTUwMm16NWw5aGQ2eDhsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tLHH89M4sa00cytoPA/giphy.gif)](https://youtube.com/shorts/uO6JgctaViE) _Guillaume  Marchais (Echo Meter Touch 2)_
+La Barbastelle est une autre espèce discrète qui [chasse préférentiellement les papipllons de nuit de la famille des Tympanés](http://ecologieacoustique.fr/wp-content/uploads/Barataud_2011_Adaptation-sonar-B.barbastellus_capture-papillons.pdf) en brouillant les "pistes sonores" avec une alternance de signaux entre 35 KhZ et 43 kHz environ.
+[![Barbastelle](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Zndmh4ZmYybGkycHo1aTFibzI4b3o0aW90aWl4MDJjdWphNXJtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fU5k7LCUBUBs9Y3ptM/giphy.gif)](https://youtube.com/shorts/eA_8P5fo5NI) _Guillaume  Marchais (Echo Meter Touch 2)_
 * Ce [petit moteur de recherche dédié](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) peut aussi à trouver des exemples de sons visibles sur spectrogramme. (Cliquer sur la recherche d'images une fois sur la page de résultats. Saisir des noms scientifiques permet de récolter davantage d'exemples à partir de sources anglophones).
 Retour au menu principal ?
 1. [Oui]()
