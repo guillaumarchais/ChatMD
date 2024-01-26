@@ -3,7 +3,7 @@ maths : true
 gestionGrosMots: true
 rechercheContenu: true
 ---
-# Chatbot : About environmental monitoring of onshore wind farms
+# Chatbot : About environmental monitoring of onshore wind farms in France
 > **<span class="unique">I am a Chatbot [ChatMD](https://eyssette.forge.aeif.fr/chatMD) developped by [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) who compiles various publically-made sources that he did not produced himsel</span>**
 >![](https://media.giphy.com/media/4CpdsmxdDpcmQ/giphy.gif)
 > I can help you understand the scientific aspects of this issue.
@@ -50,7 +50,7 @@ More ?
 n France, a minimum set of practices for the research of birds and bats impacted by wind turbines has been established and validated. The first version of the protocol was published in 2015, and a more complete version was published in 2018. The second version is available for download [here](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf). 
 The main requirements are as follows: :
 * **The number of visits**
-    * at least 20 visists per year 
+    * at least 20 visits per year 
     * between mid-May and the end of October (from week 20 to 43)
 * **The areas to search for carcasses**
     * A 100 m x 100 m square or concentric circles with a radius equal to the length of the blade (minimum 50 m)
