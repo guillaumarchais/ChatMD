@@ -80,7 +80,7 @@ Which one do you want to see :
 ## formule : Huso
 - Huso
 Huso et al. (2010) consider a mortality globally constant but with their approach the probability of removal at the middle of the interval between two consecutive visits is not equal to the average probability of persistence of a carcass.
-$$N = \frac{M}{1 - p(t_m)}$$
+$$N = \frac{C}{d * p * ê} * A$$   with $$p = t * (1-exp^-I/l) / l$$ 
 even if the duration of persistence follows a negative exponantiel function.
 Nevertheless, the Huso models are based on north american data where persistence is usually longer than found in Europe. 
 The biaises are therefore more important with this approach when peristence is short (a few days only).
