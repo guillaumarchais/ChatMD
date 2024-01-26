@@ -105,8 +105,7 @@ More?
 - Dalthorp
 He is the main developer of this open source application [GenEst](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality) with M. Huso 
 which uses the advanced statistical models to enable a tailored approach for calculating the estimatiosn of mortality depending on the various conditions of the fatality search protocol. 
-Available to download for the USGS website and Github, 
-Disponible depuis le site web de l'USGS et Github, it runs on as R software package.
+Available to download for the USGS website and Github, it runs on as R software package.
 Since 2018, this is most advanced international tool when a minimal number of carcasses are found (usually > 5). 
 The user guide in English is downloadable from [here](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality).
 A webinar in English can be viewed on [Youtube](https://youtu.be/pSZDwiApigA?si=sqJF_Dv4HETafarp).
