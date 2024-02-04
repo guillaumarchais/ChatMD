@@ -144,7 +144,7 @@ Tu as compris ?
 2. [Non](Non fin)
 
 ## formule : meilleure
-Il a été montré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est dde s'orienter vers l'application open source GenEst qu'elle a développé avec Dalthorp et al. => [https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
+Il a été montré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est de s'orienter vers l'application open source GenEst qu'elle a développé avec Dalthorp et al. => [https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
 [Voigt et al.2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512): <blockquote class="is-size-5 is-size-6-mobile has-text-justified">"..., we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines."</blockquote>.
 Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf)
 ![](https://www.usgs.gov/media/images/genest-generalized-mortality-estimations-cover-art)
@@ -163,7 +163,7 @@ Tu as compris ?
 ## formule : EoA
 Dans ce cas particulier, les différentes formules ne peuvent pas estimer correctement la mortalité réelle car comment __"extrapoler à partir de (quasi) rien ?"__. Une autre approche est nécessaire : celle qui questionne la **__crédibilité__** des différents paramètres du suivi (plutôt que leur probabilité ou degré de confiance selon une distribution a posteriori). Huso et Dalthorp ont développé une autre application pour mieux rendre compte des résultats pour ce type de situation, c'est __**"Evidence of Absence"**__ . Elle est téléchargeable en open source dans sa [version 2.0 sur le site web de l'USGS (Etats-Unis)](https://pubs.usgs.gov/publication/ds1055). Elle fonctionne avec R 4.0 ou supérieur et différents packages, mais aussi elle nécessite ce programme gratuit d'analyse et modélisation statistiques  ["JAGS"](https://sourceforge.net/projects/mcmc-jags/).
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1c/USGS_logo_green.svg)
-Enfin, des experts du bureau d'étude "Western Ecosystems Technology" ont développé une extension qui utilise davantage des valeurs des covariables pour affinier les modèles d'estimation. Plus de détails dans leur publication téléchargeable [ici](https://www.biorxiv.org/content/10.1101/2020.01.21.914754v3.full.pdf)
+Enfin, des experts du bureau d'étude "Western Ecosystems Technology" ont développé une extension qui utilise davantage des valeurs des covariables pour affiner les modèles d'estimation. Plus de détails dans leur publication téléchargeable [ici](https://www.biorxiv.org/content/10.1101/2020.01.21.914754v3.full.pdf)
 Tu veux voir un autre sujet ?
 1. [Oui]()
 2. [Non](Non fin)
