@@ -115,55 +115,57 @@ More?
 
 ## formule : Erickson
 - Erickson
-L’estimateur Erickson et al. (2000) est fréquemment utilisé en France. Ce test a plutôt tendance à sous-estimer les données pour les taux de persistance courts mais pas pour les taux de persistance longs. Cette sous-estimation est aussi constatée par Péron (2018) qui suppose que cela peut être lié au postulat d’effort de recherche constant. La formule intègre la fréquence des passages mais n’est pas demandeuse quant à la durée moyenne entre les passages. 
-Elle considère une diminution exponentielle des temps de disparition des cadavres qui peuvent être trouvés lors des passages ultérieurs au premier passage infructueux.
+The Erickson's estimator (2000) used to be frequently used in France (previously to 2018). This test tends to underestimate the data for the short persistane rates but not for the long ones. This result is also considered due to the constant sampling effort. The formula takes into account the frequency of the visits but not the average time of intervals (time in-between visits). It considers an explonantial decrease of the removal time of carcasses which can be found during  the visits following the first one without findings.
+
 More?
 1. [Yes](suite formules)
 2. [No]()
 
 ## suite formules
-- meilleure
+- best
 - simple
-- facile
-- toutes les formules
-- aucun cadavre
-Tu voudrais plus basiquement savoir...
-1. [Quelle est la plus simple ou facile ?](formule : simple)
-2. [Quelle est la meilleure ?](formule : meilleure)
-3. [Faut-il toutes les utiliser ?](formule : utiliser)
-4. [Laquelle choisir quand très peu ou aucun cadavre n'a été découvert durant le suivi ?](formule : EoA)
+- easy
+- all formulas
+- no carcasses...
+Basically, you would like to kow...
+1. [Which one is the simplest or easiest?](formule : simple)
+2. [Which one is the best?](formule : best)
+3. [Shall I use them all?](formule : use)
+4. [Which one to choose when there were few carcasses or even none?](formule : EoA)
 
 ## formule : simple
-C'est celle d'Erickson qui est aussi la plus ancienne mais qui souvent sous-estime la mortalité du fait de ne pas intégrer une appproche modéliséée de la dispartion des cadavres.
-Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf).
-Tu as compris ?
-1. [Oui](J'ai compris)
-2. [Non](Non fin)
+Erickson' formula is the simplest and the oldest one but often understimates as it does not use a complex model for the removal of carcasses. 
+For further details, I recommand the reading of this technical guidance by the [French lecturer Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf).
+All clear?
+1. [Yes](Got it)
+2. [No](No the end)
 
-## formule : meilleure
-Il a été montré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est dde s'orienter vers l'application open source GenEst qu'elle a développé avec Dalthorp et al. => [https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
+## formule : best
+It has been shown that there is not only one relevant or valid formula for all cases (long or short persistance etc...). Huso's formula (2010) is often used by dfault but it alo has its limits of validity when few carcasses have been found. It is is recommended to start using the open source R Package "GenEst" which Huso has developped with Dalthorp et al. => [https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
 [Voigt et al.2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512): <blockquote class="is-size-5 is-size-6-mobile has-text-justified">"..., we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines."</blockquote>.
-Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf)
+For further details, I recommand the reading of this technical guidance by the [French lecturer Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf).
 ![](https://www.usgs.gov/media/images/genest-generalized-mortality-estimations-cover-art)
-Tu as compris ?
-1. [Oui](J'ai compris)
-2. [Non](Non fin)
+All clear?
+1. [Yes](Got it)
+2. [No](No the end)
 
-## formule : utiliser
+## formule : use
+The French national protocol (2018) is requesting to use Huso's formula with two others to be able to show the variability of the resultats (median and confidence intervals) owing the various conditions.
 Le protocole national 2018 demande d"utiliser celle de Huso 2010 avec deux autres d'entre elles pour montrer la variabilité des résultats selon les conditions.
-Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercher Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf)
-Une application gratuite développée par des chercheurs du CNRS-CEFE, [EOLAPP](https://shiny.cefe.cnrs.fr/eolapp/), permet d'opérer ces calculs de manière assez simple. [Voici une vidéo qui présente cette application](https://youtu.be/k8VA7JqfjXA).
-Tu as compris ?
-1. [Oui](J'ai compris)
-2. [Non](Le protocole national 2018)
+For further details, I recommand the reading of this technical guidance by the [French lecturer Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf).
+In 2017, a simple and free online app was designed by the French lecturers from CNRS-CEFE, [EOLAPP](https://shiny.cefe.cnrs.fr/eolapp/). [Here is a an introductory video in French](https://youtu.be/k8VA7JqfjXA).
+All clear?
+1. [Yes](Got it)
+2. [No](Le protocole national 2018)
 
 ## formule : EoA
-Dans ce cas particulier, les différentes formules ne peuvent pas estimer correctement la mortalité réelle car comment __"extrapoler à partir de (quasi) rien ?"__. Une autre approche est nécessaire : celle qui questionne la **__crédibilité__** des différents paramètres du suivi (plutôt que leur probabilité ou degré de confiance selon une distribution a posteriori). Huso et Dalthorp ont développé une autre application pour mieux rendre compte des résultats pour ce type de situation, c'est __**"Evidence of Absence"**__ . Elle est téléchargeable en open source dans sa [version 2.0 sur le site web de l'USGS (Etats-Unis)](https://pubs.usgs.gov/publication/ds1055). Elle fonctionne avec R 4.0 ou supérieur et différents packages, mais aussi elle nécessite ce programme gratuit d'analyse et modélisation statistiques  ["JAGS"](https://sourceforge.net/projects/mcmc-jags/).
+In this particular case, the different fomrulas cannot make a conclusive estimation of the real mortality. Another approach is required : the one which questions the **_credibility_** of the different paramaters of the monitoring (rather than the probability or the level of confidence based on a posterior distribution). Huso and Dalthorp have developped another open source software package called _**Evidence of Absence**_ which can be downloaded from the [USGS website
+](https://pubs.usgs.gov/publication/ds1055). It works on R 4.0 or more using various packages and this free stats programme ["JAGS"](https://sourceforge.net/projects/mcmc-jags/).
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1c/USGS_logo_green.svg)
-Enfin, des experts du bureau d'étude "Western Ecosystems Technology" ont développé une extension qui utilise davantage des valeurs des covariables pour affinier les modèles d'estimation. Plus de détails dans leur publication téléchargeable [ici](https://www.biorxiv.org/content/10.1101/2020.01.21.914754v3.full.pdf)
-Tu veux voir un autre sujet ?
-1. [Oui]()
-2. [Non](Non fin)
+In addition, experts from the american ecological consultancy firm "Western Ecosystems Technology" have developed an extension which uses more covariables in order to adjust even more the estimates. More details available [here](https://www.biorxiv.org/content/10.1101/2020.01.21.914754v3.full.pdf)
+Do you want to see something else ?
+1. [Yes]()
+2. [No](No the end)
 
 ## Le test de persistance
 - persistance
@@ -284,9 +286,9 @@ Pour en connaitre davantage sur les méthodes de suivi, voici plusieurs sources 
 * [https://www.lpo.fr/la-lpo-en-actions/connaissance-des-especes-sauvages/suivis-ornithologiques](https://www.lpo.fr/la-lpo-en-actions/connaissance-des-especes-sauvages/suivis-ornithologiques=)
 * [https://www.instinct-animal.fr/guide/ornithologie/inventaires-et-comptages-ornithologiques/](https://www.instinct-animal.fr/guide/ornithologie/inventaires-et-comptages-ornithologiques/=)
 
-Tu veux en apprendre plus ?
-1. [Oui]()
-2. [Non](Non fin)
+Do you wan to learn more?
+1. [Yes]()
+2. [No](Non the end)
 
 ## Non fin
 Malgré mes tentatives de vulgarisation, tu n'as pas bien compris. La prochaine étape consiste à se plonger dans les différentes références citées... ou alors,  tu ne veux simplement pas aller plus loin et fermer cette fenêtre ; )
