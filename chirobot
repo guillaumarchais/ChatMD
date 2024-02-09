@@ -28,7 +28,7 @@ tags: template
 - hétérodyne
 - division de fréquence
 - expansion de temps
-Les chauves-souris émettent des sons à des fréquences qui sont au-dessus de notre capacité auditive pour la plupart, on les nommment des ultrasons. Des technologies ont été développées pour nous permettre des les "entendre" :
+Les chauves-souris émettent des sons à des fréquences qui sont au-dessus de notre capacité auditive pour la plupart, on les nomment des ultrasons. Des technologies ont été développées pour nous permettre des les "entendre" :
 * **Hétérodyne** : deux signaux de fréquences différentes, appelées signal d'entrée et signal local, sont mélangés dans un dispositif appelé mélangeur. Le mélangeur produit un signal de sortie dont la fréquence est la somme ou la différence des fréquences des deux signaux d'entrée. Lorsque les deux signaux sont mélangés, le signal de sortie a une fréquence égale à la différence des deux fréquences d'entrée. Cette fréquence est appelée fréquence de battement. Le signal de battement est ensuite amplifié et démodulé. La démodulation consiste à convertir le signal de battement en un signal audible. On écoute en direct mais on ne peut y entendre qu'un gamme rédduite de fréquences à la fois (environ 5 kHz).
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LoKl0gnCoOg" target="_blank">
  <img src="http://img.youtube.com/vi/LoKl0gnCoOg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5" />
@@ -43,7 +43,7 @@ Voir les appareils qui utilisent ces technologies ?
 2. [Non]()
 
 ## sons types
-Les chauves-souris utilisent l'écholocation au cours de l'évolution depuis des millions d'année afin de pouvoir se déplacer dans l'obscurité. Elles émettent donc des sons de type **"sonar"** régulièrement pour sonder leur environnement direct et "voir" tous les obstacles présents dans l'espace arien et détecter les proies que sont les insectes volants. Elles ne sont pas aveugles pour autant mais le sens de la vue est secondaire.
+Les chauves-souris utilisent l'écholocation au cours de l'évolution depuis des millions d'années afin de pouvoir se déplacer dans l'obscurité. Elles émettent donc des sons de type **"sonar"** régulièrement pour sonder leur environnement direct et "voir" tous les obstacles présents dans l'espace aérien et détecter les proies que sont les insectes volants. Elles ne sont pas aveugles pour autant, mais le sens de la vue est secondaire.
 D'autres sons sont utilisés soit dans leur gîte pour s'exprimer auprès de leurs congénères (mère / progéniture notamment) ; ils sont plutôt longs et bas en fréquence, soit quand elles s'interagissent en vol sur un territoire de chasse par exemple. On parle de **cris sociaux**.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=acT9iogoqyg" target="_blank">
  <img src="http://img.youtube.com/vi/acT9iogoqyg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5" />
@@ -67,12 +67,12 @@ Voici les principaux critères de détermination des chauves-souris d'Europe sur
 * **Fréquence de pic** : la fréquence la plus élevée d'un signal ultrasonore. Elle est généralement exprimée en kHz (kilohertz). La fréquence de pic est un critère important pour l'identification des chauves-souris, car elle est souvent spécifique à une espèce ou à un groupe d'espèces.
 * **Largeur de bande** : la différence entre la fréquence de pic et la fréquence la plus basse du signal ultrasonore. Elle est généralement exprimée en kHz. La largeur de bande est également un critère important pour l'identification des chauves-souris, car elle peut varier en fonction de l'espèce et de la taille de l'animal.
 * **Durée** : d'un signal ultrasonore est exprimée en millisecondes (ms). La durée est un critère moins important que la fréquence de pic ou la largeur de bande, mais elle peut être utile pour distinguer certaines espèces.
-* **Rhythme** : nombre de pulsations par seconde. Il est généralement exprimé en pulsations par seconde (pps). Le rythme est un critère moins important que la fréquence de pic ou la largeur de bande, mais il peut être utile pour distinguer certaines espèces.
+* **Rhythme** : nombre de pulsations par seconde. Il est généralement exprimé en cris ou pulsations par seconde. Le rythme est un critère moins important que la fréquence de pic ou la largeur de bande, mais il peut être utile pour distinguer certaines espèces.
 * **Type de signal** : il existe deux principaux types de signaux ultrasonores émis par les chauves-souris : les signaux FM (fréquence modulée) et les signaux FC ou QFC (frequence contante ou quasi constante).
        - Les signaux FM sont caractérisés par une fréquence qui augmente rapidement puis diminue brusquement. Ils sont émis par la plupart des chauves-souris insectivores.
        - Les signaux CF sont caractérisés par une fréquence constante. Ils sont émis par les chauves-souris frugivores et nectarivores, mais aussi les rhinolophes en France qui ont la gueule en fer à cheval et pendent par les pieds dans leur gîte.
-* **Structure du signal** : peu être plus complexe que le simple type de signal. Par exemple, les signaux BF peuvent être composés de plusieurs éléments ou de plusieurs fréquences.
-L'identification des chauves-souris sur la base des fréquences de leurs émissions sonores nécessite une formation et une expérience spécifiques.
+* **Structure du signal** : peut être plus complexe que le simple type de signal. Par exemple, les signaux FM peuvent être composés de plusieurs éléments ou de plusieurs fréquences.
+L'identification des espèces de chauves-souris sur la base des fréquences de leurs émissions sonores nécessite une formation et une expérience spécifiques.
 
 Voir un tableau détaillant des groupes d'espèces ?
 1. [Oui](tableau especes)
@@ -93,7 +93,7 @@ _**Quelques espèces de chauves-souris européennes selon leurs groupes taxonomi
 | Noctilionidés | FM | 13-30 | [Noctule commune](https://inpn.mnhn.fr/espece/cd_nom/60468) (_Nyctalus noctula_), [Noctule de Leisler](https://inpn.mnhn.fr/espece/cd_nom/60461) (_Nyctalus leisleri_), [Grande Noctule](https://inpn.mnhn.fr/espece/cd_nom/60457) (_Nyctalus lasiopterus_) |
 | Myotis | FM | 15-100 | [Grand murin](https://inpn.mnhn.fr/espece/cd_nom/60418) (_Myotis myotis_), [Murin de Daubenton](https://inpn.mnhn.fr/espece/cd_nom/200118) (_Myotis daubentonii_), )[Murin à oreilles échancrées](https://inpn.mnhn.fr/espece/cd_nom/60400/) (_Myotis emarginatus_) |
 | Plecotus | FM abrupte | 20-40 | [Oreillard roux](https://inpn.mnhn.fr/espece/cd_nom/60518) (_Plecotus auritus_), [Oreillard gris](https://inpn.mnhn.fr/espece/cd_nom/60527) (_Plecotus austriacus_), [Oreillard montagnard](https://inpn.mnhn.fr/espece/cd_nom/163463) (_Plecotus macrobullaris_) |
-| Scotinomus | FM abrupte | 20-40 | [Sérotine commune](https://inpn.mnhn.fr/espece/cd_nom/60360) (_Eptesicus serotinus_), [Sérotine bicolore](https://inpn.mnhn.fr/espece/cd_nom/60537) (_Vespertilio murinus_), [Sérotine de Nilsson](https://inpn.mnhn.fr/espece/cd_nom/79302) (_Eptesicus nilssonii_) |
+| Eptesicus | FM abrupte | 20-40 | [Sérotine commune](https://inpn.mnhn.fr/espece/cd_nom/60360) (_Eptesicus serotinus_), [Sérotine bicolore](https://inpn.mnhn.fr/espece/cd_nom/60537) (_Vespertilio murinus_), [Sérotine de Nilsson](https://inpn.mnhn.fr/espece/cd_nom/79302) (_Eptesicus nilssonii_) |
 
 Retour au menu principal ?
 1. [Oui]()
@@ -114,7 +114,7 @@ Retour au menu principal ?
 - nyctalus
 - fréquences basses
 Les plus grosses espèces sont connues pour émettre à des fréquences plus basses pour les sons "sonar" ; soit entre 8 et 25 kHz en général (Molosse de Cestoni et les noctules).
-En hétérodyne, les sont plutôt graves et espacés car elles volent souvent à des hauteurs supérieures à 30 m et sur de longues distances (en dizaines de killomètres).
+En hétérodyne, les sont plutôt graves et espacés car elles volent souvent à des hauteurs supérieures à 30 m et sur de longues distances (en dizaines de kilomètres).
 [![Noc com chasse](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwxajF0MHB2M3h3eXRkZGIwNGFnN3R5aDBpMjhjZWZmaTI1M3ZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7L0SnBtFm5Rz4vjXqZ/giphy.gif)](https://youtube.com/shorts/IbPkGTADIeQ) _Guillaume  Marchais (Echo Meter Touch 2)_
 Dans l'exemple suivant, on peut bien voir la différence entre deux espèces : la petite (Pipistrelle commune) émet à des fréquences plus élevées que la grosse (Noctule commune) :
 [![Pip com et Noc com](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd6cTMwZHVxM2d5a2I2NDRybzNqZmdlNjFkcHNnY3c4azdwdHRlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I3TpZLlEyQftdbharU/giphy.gif)](https://youtube.com/shorts/o716J1PAqY4) _Guillaume  Marchais (Echo Meter Touch 2)_
@@ -189,7 +189,10 @@ Retour au menu principal ?
 Certaines espèces nécessitent un apprentissage avancé pour permettre de discriminer les espèces autant que possible dans les limites de la qualité de l'enregistrement et de la quantité de signaux. 
 Des livres, guides et tutoriels spécialisés permettent de se former dans une certaine mesure de manière autodidacte.
 Voici une liste de sources non exhaustives :
+- [https://www.vigienature.fr/fr/page/documentations-identification-acoustique](https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former)
  - [https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former](https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former)
+- [BARATAUD M., 2020. Ecologie acoustique des chiroptères d’Europe. Identification des espèces, études de leurs habitats et comportements de chasse](http://ecologieacoustique.fr/?page_id=13)
+- [RUSS J., 2023. Les chauves-souris - par le son](https://www.delachauxetniestle.com/livre/les-chauves-souris-par-le-son)
 Et une liste de logiciels gratuits : 
 - [Chirosurf](https://vigie-chiro.forumactif.com/t108-chirosurf-2-2-analyse-bioacoustique-gratuit-portable-01-01-24) : permet d'apprendre à décortiquer un fichier enregistré en expansion de temps  au format WAV
 - [Kaleidoscope Lite](https://www.wildlifeacoustics.com/products/kaleidoscope/kaleidoscope-lite) : permet de "manipuler" les fichiers bruts et les convertir à différents formats (WAV; ZC ; W4C)
