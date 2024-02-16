@@ -2,6 +2,7 @@
 maths : true
 gestionGrosMots: true
 rechercheContenu: true
+clavier: false
 ---
 # Chatbot : About environmental monitoring of onshore wind farms in France
 > **<span class="unique">I am a Chatbot [ChatMD](https://eyssette.forge.aeif.fr/chatMD) developped by [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) who compiles various publically-made sources that he did not produced himsel</span>**
@@ -192,10 +193,10 @@ Do you want to learn more?
 2. [No](Non fin)
 
 ## La correction surfacique
-Le [protocole national 2018](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf) demande de couvrir une surface homogène autour du mat de l'éolienne basé sur la longueur de la pale avec un rayon minimal de 50 m. Lorsque l'occupation du sol est trop dense en cultures (blé, maïs, betterave), il devient très difficile de pouvoir prospecter sans les endommager. Ainsi, il est généralement admis de ne pas du tout les prospecter afin de limiter la pénibilité et les dommages associés. La présence de bétail dans les pâtures peut aussi conduire à cette décision. Soit on retient un pourcentage simple sur l'ensemble de la surface théorique, soit on applique une méthode des cercles concentriques tous les 5 ou 10 m.
-Tu veux en apprendre plus ?
-1. [Oui](corr surfa DWP)
-2. [Non](Non fin)
+The [French protocol 2018](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf) requires to cover circle area with the radius corresponding to the leght of the blade. When there is too much crops (wheat, maize, beetroot...), it becomes coplicated to search without damaging them. It is then generally admitted to avoid these areas. Presence of cattle can also lead to the same decision. The simplest value corresponds to the proportional searched areas; and more adjusted one is to work out this every 5 or 10 m radius concentric circles (Arnett 2006) ; and an even more complex method is the Density-weighed proportion as described [here](https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite)
+Do you want to know more ?
+1. [Yes](corr surfa DWP)
+2. [No](Non fin)
 
 ## corr surfa DWP
 Plus récemment, un calcul savant intègre la densité probable selon la distance au mat => voir le [module DWP développé par l'USGS](https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite)
