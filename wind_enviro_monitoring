@@ -168,15 +168,15 @@ Do you want to see something else ?
 2. [No](No the end)
 
 ## Le test de persistance
-- persistance
-- test de persistance
-- taux de persistance
-- temps moyen
-Ce test consiste à déposer plusieurs leurres ou faux cadavres (souvent des souris, rats, gerbies congelées pour animalerie ou aussi des poussins ou autres volailles) sur les surfaces prospectables autour des éoliennes afin de rendre compte du temps de persistance à des périodes différentes (mai et septembre par exemple). Le protocole national 2018 demande d'en déposer au moins 3 par éolienne pour chaque test, mais il est recommandé de le pratiquer sur plusieurs éoliennes et sur les différents types de surface selon leur classe de visibilité (bonne et moyenne). En France, les persistances constatées sont souvent courtes (< 3 jours) car tous les faux cadavres sont déposés au même moment ; ce qui est un biais par rapport à la situation réelle des collisions (étalée dans le temps). Il est donc d'autant plus pertinent pour le limiter d'appliquer le taux de persistance à la période suivie correspondante avec de la mortalité brute avérée.
-[Pour aller plus loin](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067997)
-Tu veux voir un exemple ?
-1. [Oui](Je veux voir un exemple)
-2. [Non](Non fin)
+- persistence
+- persistence rate
+- persistence test
+- interval
+This consists in leaving on site various ploys or other similar carcasses (frozen mice or rats) on searched areas in order to assess the persistance in time at various periods of the year (May and September for instance). The Frenc protocole 2018 requires to use at least 3 per wind turbine for each sesssion, but it is recommended to increase this number to cover all types of visibility. In France, the persistance is relatively short (< 3 days) in open field when the ploys are left at the same time ; which is in itself a bias compared to the real situtation (relatively randomly distributed in time for a specific period). It is thus relevant to use a result for each specific tested period when making the estimations.
+[To go further](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067997)
+Do you want see an example ?
+1. [Yes](Je veux voir un exemple)
+2. [No](Non fin)
 
 ## Je veux voir un exemple
 Voir Fig 3 de cette [publication](https://www.sciencedirect.com/science/article/pii/S2351989422001512)
