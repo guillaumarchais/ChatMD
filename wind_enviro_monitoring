@@ -193,42 +193,40 @@ Do you want to learn more?
 2. [No](Non fin)
 
 ## La correction surfacique
-The [French protocol 2018](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf) requires to cover circle area with the radius corresponding to the leght of the blade. When there is too much crops (wheat, maize, beetroot...), it becomes coplicated to search without damaging them. It is then generally admitted to avoid these areas. Presence of cattle can also lead to the same decision. The simplest value corresponds to the proportional searched areas; and more adjusted one is to work out this every 5 or 10 m radius concentric circles (Arnett 2006) ; and an even more complex method is the Density-weighed proportion as described [here](https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite)
+The [French protocol 2018](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf) requires to cover circle area with the radius corresponding to the leght of the blade. When there is too much crops (wheat, maize, beetroot...), it becomes coplicated to search without damaging them. It is then generally admitted to avoid these areas. Presence of cattle can also lead to the same decision. The simplest value corresponds to the proportional searched areas; and more adjusted one is to work out this every 5 or 10 m radius concentric circles (Arnett 2006).
 Do you want to know more ?
 1. [Yes](corr surfa DWP)
 2. [No](Non fin)
 
 ## corr surfa DWP
-Plus récemment, un calcul savant intègre la densité probable selon la distance au mat => voir le [module DWP développé par l'USGS](https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite)
+More recently, an in-depth calculation of this parameter involves the probabilistic density in function of the distance to the mast => see this [module "DWP" developped by the experts form USGS](https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite)
 ![](https://www.researchgate.net/publication/358143833/figure/fig2/AS:1116884825055232@1643297501550/Estimation-of-fraction-of-carcasses-lying-within-the-searched-area-a-carcass-density_Q640.jpg)
-Tu veux en apprendre plus ?
-1. [Oui]()
-2. [Non](Non fin)
+Do you want to know more ?
+1. [Yes]()
+2. [No](Non fin)
 
 ## Le protocole allégé roads & pads
-- protocole
 - roads
 - pads
-- protocole roads & pads
-- protocole allégé
+- protocol roads & pads
+- simple protocol
 ![](https://media.giphy.com/media/aCleCvK8nyFxD5mIxV/giphy.gif)
-Les recherches de cadavres sont focalisées sur les surfaces les plus visibles, lesquelles sont souvent les plateformes et les chemins d'accès au plus loin possible des éoliennes (centaine de mètres). Ils sont plus faciles à parcourir et permettent une rapide détection (temps de parcours < 10 min). Ces passages "éclairs" peuvent donc être associés à d'autres passages (suivis comportementaux) afin d'augmenter leur fréquence (et ainsi réduire les temps d'intervalles) pour les sites qui font preuve d'une persistance (très) courte. 
-En général, cela ne représente que 10 à 30 % des surfaces à prospecter selon le protocole national 2018 (8000 à 10 000 m²) ; il faut donc les pratiquer en combinaison et alternance avec des passages "standard" complets, et sur les éoliennes non suivies pour les grands parcs (> 10  turbines). 
-C'est assez clair ?
-1. [Oui](J'ai compris)
-2. [Non](reference rp)
+The searches for carcasses are focused on areas with hig visibility only, which often are the platforms or pads and the access roads up to 120 m whenever possible. It usually takes less than 10 min to cover around 20 % of the standardised full plot (100 m square). These quick visits can also be carried out during other types of monitoring such as bird activity surveys or in alternance with standardises visits for all wind turbines in order to increase the frequency. This is particularly relevant for sites with very low persistence. 
+Is this clear ?
+1. [Yes](J'ai compris)
+2. [No](reference rp)
 
 ## reference rp
-Alors je t'invite à lire au moins le résumé de cette publication sur ce sujet :  ["Comparing methods to estimate the proportion of turbine-induced bird and bat mortality in the search area under a road and pad search protocol."](https://link.springer.com/article/10.1007/s10651-020-00466-0)
-Tu veux en apprendre plus ?
+This published paper investigates the comparaison of the roads & pads protocol to other with simulations using various parameters :  ["Comparing methods to estimate the proportion of turbine-induced bird and bat mortality in the search area under a road and pad search protocol."](https://link.springer.com/article/10.1007/s10651-020-00466-0)
+Do you want to learn more?
 1. [Oui]()
+2. [No](Non fin)
 
 ## suivi chiros
-- suivi acoustique
-- suivi nacelle
+- acoustic monitoring
 - nacelle
-- suivi chiroptères
-- suivi chauves-souris
+- bats 
+- bat monitoring
 En parallèle des recherches de cadavres de la faune volante, il est demandé d'enregistrer l'activité acoustique des chauves-souris à hauteur de rotation des pales ou de nacelle afin de pouvoir rendre des risques de collision pour ces espèces nocturnes. Des appareils utilisant des micros ultrasonores sophistiqués permettent de "capter" jusqu'à une certaine distance variant selon les espèces et des conditions météo (de 10 à 100 m approximativement). L'ensemble des sons est comptabilisés sous forme d'activité (contacts ou durée des fichiers) et ensuite corrélés aux conditions de vent et température. 
 ![](https://media.giphy.com/media/9gqC3kr1MEwxK9YP6T/giphy.gif)
 Tu veux voir des exemples ?
