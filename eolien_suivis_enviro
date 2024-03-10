@@ -174,7 +174,7 @@ Tu veux voir un autre sujet ?
 - taux de persistance
 - temps moyen
 Ce test consiste à déposer plusieurs leurres ou faux cadavres (souvent des souris, rats, gerbies congelées pour animalerie ou aussi des poussins ou autres volailles) sur les surfaces prospectables autour des éoliennes afin de rendre compte du temps de persistance à des périodes différentes (mai et septembre par exemple). Le protocole national 2018 demande d'en déposer au moins 3 par éolienne pour chaque test, mais il est recommandé de le pratiquer sur plusieurs éoliennes et sur les différents types de surface selon leur classe de visibilité (bonne et moyenne). En France, les persistances constatées sont souvent courtes (< 3 jours) car tous les faux cadavres sont déposés au même moment ; ce qui est un biais par rapport à la situation réelle des collisions (étalée dans le temps). Il est donc d'autant plus pertinent pour le limiter d'appliquer le taux de persistance à la période suivie correspondante avec de la mortalité brute avérée.
-[Pour aller plus loin](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067997)
+[Pour aller plus loin, lire cette [synthèse française par des experts du Museum National d'Histoire Naturelle / CESCO (partie 2.2 à partir de page 20](https://librairie.ademe.fr/cadic/8508/Rapport_Final_ademe_VFINAL_Chiro_eolien_2024.pdf) et cette publication anglophone ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067997)
 Tu veux voir un exemple ?
 1. [Oui](Je veux voir un exemple)
 2. [Non](Non fin)
@@ -244,7 +244,7 @@ En Europe, les allemands ont particulièrement étudié dans le cadre d'un progr
 ![](https://www.probat.org/fileadmin/_processed_/6/2/csm_ProBat_Fledermausaktivitaet_U.Eberius_7c7a0d4eb9.png =600x700)
 **Verteilung der Fledermausaktivität im Rotorbereich einer Windenergieanlage, Grafik: Ulrike Eberius**
 
-Plus récemment et en France, les chercheurs spécialisés du Museum d'Histoire Naturelle de Paris ont publié un article [(Barré et al., 2023)](https://www.sciencedirect.com/science/article/abs/pii/S0048969723000190) précisant davantage les facteurs pouvant influer l'activité et comment les itégrer pour mieux optimiser les algorithmes de bridage nocturne.
+Plus récemment et en France, les chercheurs spécialisés du Museum d'Histoire Naturelle de Paris ont publié un article [(Barré et al., 2023)](https://www.sciencedirect.com/science/article/abs/pii/S0048969723000190) précisant davantage les facteurs pouvant influer l'activité et comment les intégrer pour mieux optimiser les algorithmes de bridage nocturne.
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969723000190-ga1.jpg).
 De plus, un projet de recherche, nommé "OPRECH", a compilé les pratiques de bridage nocturne en France métroplitaine de 2010 à 2020. Le rapport complet et sa synthèse sont téléchargeables [ici](https://librairie.ademe.fr/energies-renouvelables-reseaux-et-stockage/6242-programme-oprech.html).
 ![](https://librairie.ademe.fr/698593-large_default/programme-oprech.jpg)
@@ -264,9 +264,10 @@ Tu savoir comment interpréter les résultats ?
 
 ## interprétation mortalité
 Plusieurs initiatives sont actuellement en cours pour compiler de nombreux résultats afin de pouvoir permettre des comparaisons entre les parcs éoliens selon les pays et régions. Il serait trop long de toutes les lister ici. En voici quelques-unes :
-* Allemagne : [Voigt et al. 2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512)
 * France > région Grand-Est : [CPIE Pays de Soulaines 2018](http://www.plume-de-naturalistes.fr/wp-content/uploads/2019/04/09_TERNOIS_03-2019_Impact-developpement-eolien_Plume3_195-212.pdf)
 * France > région Grand-Ouest : [Ouest Am](https://www.genie-ecologique.fr/synthese-des-donnees-de-suivis-post-implantation-deoliennes-dans-le-grand-ouest)
+* France > région Centre Val-de-Loire : [DREAL CVL](sm-ecologie.shinyapps.io/suivi_eolien/)
+* Allemagne : [Voigt et al. 2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512)
 * Espagne > région sud : [Salguero et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
 * Etats-Unis : [Lloyd et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
 
