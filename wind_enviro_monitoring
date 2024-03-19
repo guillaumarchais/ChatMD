@@ -227,9 +227,9 @@ Do you want to learn more?
 - nacelle
 - bats 
 - bat monitoring
-En parallèle des recherches de cadavres de la faune volante, il est demandé d'enregistrer l'activité acoustique des chauves-souris à hauteur de rotation des pales ou de nacelle afin de pouvoir rendre des risques de collision pour ces espèces nocturnes. Des appareils utilisant des micros ultrasonores sophistiqués permettent de "capter" jusqu'à une certaine distance variant selon les espèces et des conditions météo (de 10 à 100 m approximativement). L'ensemble des sons est comptabilisés sous forme d'activité (contacts ou durée des fichiers) et ensuite corrélés aux conditions de vent et température. 
+In parallel of fatality searches, bat activity is also monitored at nacelle height in order to understand better in which weather conditions bats are active throughout the seasons. This has been useful to work out bat curtailment plans specifically for each site.
 ![](https://media.giphy.com/media/9gqC3kr1MEwxK9YP6T/giphy.gif)
-Tu veux voir des exemples ?
+Do you want to see few examples ?
 1. [Oui](suivi chiros 2)
 2. [Non](Non fin)
 
@@ -238,27 +238,24 @@ Tu veux voir des exemples ?
 - allemand
 - infrarouge
 - Etats-Unis
-En Europe, les allemands ont particulièrement étudié dans le cadre d'un programme de recherche appliquée nommé "RENEBAT" qui s'est déroulé en 3 phases de 2007 à 2015. A partir des résultats de ces travaux, ils ont pu formalisé une modélisation de l'activité selon plusieurs paramètres et mettre à disposition des professionnels une application qui permet de déterminer un algorithme de bridage à partir des données collectées in situ (activité et méto) selon un protocole spécifique. Ils ont aussi pu montré que l'activité en altitude n'était pas significativementdifférente entre des habitats de milieux ouverts en plaine de milieux forestiers. Plus de détails sur leur site web [ici](https://www.probat.org/probat-7).
+In Europe, the germans used this [applied science tool](https://www.probat.org/probat-7) produced the research programm RENEBAT.
 ![](https://www.probat.org/fileadmin/_processed_/6/2/csm_ProBat_Fledermausaktivitaet_U.Eberius_7c7a0d4eb9.png =600x700)
 **Verteilung der Fledermausaktivität im Rotorbereich einer Windenergieanlage, Grafik: Ulrike Eberius**
 
-Plus récemment et en France, les chercheurs spécialisés du Museum d'Histoire Naturelle de Paris ont publié un article [(Barré et al., 2023)](https://www.sciencedirect.com/science/article/abs/pii/S0048969723000190) précisant davantage les facteurs pouvant influer l'activité et comment les itégrer pour mieux optimiser les algorithmes de bridage nocturne.
+In France and more recently, ademics from the Museum d'Histoire Naturelle de Paris have published this article [(Barré et al., 2023)](https://www.sciencedirect.com/science/article/abs/pii/S0048969723000190) going deeper into which covariables may influence bat activity at in order to elaborate tailored bat curailment algorithms.
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969723000190-ga1.jpg).
-De plus, un projet de recherche, nommé "OPRECH", a compilé les pratiques de bridage nocturne en France métroplitaine de 2010 à 2020. Le rapport complet et sa synthèse sont téléchargeables [ici](https://librairie.ademe.fr/energies-renouvelables-reseaux-et-stockage/6242-programme-oprech.html).
+In addition, this other research project named "OPRECH" has compiled all types of bat curtailments implemented in France from 2010 to 2020. Full report in French available [here](https://librairie.ademe.fr/energies-renouvelables-reseaux-et-stockage/6242-programme-oprech.html).
 ![](https://librairie.ademe.fr/698593-large_default/programme-oprech.jpg)
 
-Aux Etats-Unis, d'autres chercheurs ont parallèlement étudié l'activité à l'aide de caméras infrarouges au sein de la zone de rotation des pales. Publication de Goldenberg et al. 2021 consultable [ici](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7388).
-![](https://onlinelibrary.wiley.com/cms/asset/21e20d0d-c517-45b8-a95c-4f1481624e36/ece37388-fig-0002-m.jpg =500x700).
-
-Tu veux en apprendre plus ?
-1. [Oui]()
-2. [Non](Non fin)
+Do you want to learn more ?
+1. [Yes]()
+2. [No](Non fin)
 
 ## J'ai compris
-Bravo, tu en sais un peu plus maintenant ! 
-Tu savoir comment interpréter les résultats ?
-1. [Oui](interprétation mortalité)
-2. [Non](Non fin)
+Well done, now you know much more. 
+Do you want to learn how to interpret all these data ?
+1. [Yes](interprétation mortalité)
+2. [No](Non fin)
 
 ## interprétation mortalité
 Plusieurs initiatives sont actuellement en cours pour compiler de nombreux résultats afin de pouvoir permettre des comparaisons entre les parcs éoliens selon les pays et régions. Il serait trop long de toutes les lister ici. En voici quelques-unes :
@@ -274,14 +271,14 @@ Les progrès technologiques permettent aussi le développement de solutions d'in
 Que ce soit avec des caméras, des radars ou des micros de haute technologie, les ingénieurs tâchent d'améliorer leurs capacités de détection d'analyse automatique de leurs divers systèmes. Ceux-ci sont testés en situation réelle et vérifiés grâce aux suivis contrôlés par les services décentralisés de l'Etat.
 ![](https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif)
 
-Tu veux en apprendre plus ?
-1. [Oui]()
-2. [Non](Non fin)
+Do you want to learn more ?
+1. [Yes]()
+2. [No](Non fin)
 
 ## suivi ornitho
-L'activité des oiseaux fait aussi l'objet de suivi à l'aide de jumelles et longue-vue à partir de points d'observation autour des éoliennes.
+Bird monitoring surveys are carried out using binoculars, telescops and even laser range finders from various high-up spots in the vicinity of the wind energy facility. 
 ![](https://media.giphy.com/media/404zkerwWxIaOPEnzD/giphy.gif).
-Pour en connaitre davantage sur les méthodes de suivi, voici plusieurs sources :
+Here are references of protocols currently used in France:
 * [https://www.lpo.fr/la-lpo-en-actions/connaissance-des-especes-sauvages/suivis-ornithologiques](https://www.lpo.fr/la-lpo-en-actions/connaissance-des-especes-sauvages/suivis-ornithologiques=)
 * [https://www.instinct-animal.fr/guide/ornithologie/inventaires-et-comptages-ornithologiques/](https://www.instinct-animal.fr/guide/ornithologie/inventaires-et-comptages-ornithologiques/=)
 
@@ -291,5 +288,4 @@ Do you wan to learn more?
 
 ## Non fin
 Despite my attempts, it was not good enough. The next step involves reading the various quoted references... or you do not want to go further and shut this window ; )
-garisation, tu n'as pas bien compris. La prochaine étape consiste à se plonger dans les différentes références citées... ou alors,  tu ne veux simplement pas aller plus loin et fermer cette fenêtre ; )
 In any case, I invite you to look into this fairly complexe issue but quite major in the context of climate chage and biodiversity crisis. You may find interesting to browse these other web sites:  [Bats and wind](https://www.batsandwind.org)  [Windexchange](https://windexchange.energy.gov/projects/birds)  
