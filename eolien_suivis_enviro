@@ -144,7 +144,7 @@ Tu as compris ?
 2. [Non](Non fin)
 
 ## formule : meilleure
-Il a été montré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est de s'orienter vers l'application open source GenEst qu'elle a développé avec Dalthorp et al. => [https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
+Il a été montré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est de s'orienter vers l'application open source GenEst qu'elle a développé avec Simonis Dalthorp et al. => [https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
 [Voigt et al.2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512): <blockquote class="is-size-5 is-size-6-mobile has-text-justified">"..., we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines."</blockquote>.
 Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercheur Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf)
 ![](https://www.usgs.gov/media/images/genest-generalized-mortality-estimations-cover-art)
@@ -300,5 +300,5 @@ Malgré mes tentatives de vulgarisation, tu n'as pas bien compris. La prochaine 
 Dans tous les cas, je t'invite à chercher autrement comment comprendre ce sujet compliqué mais important dans un contexte actuel de crise climatique et d'érosion de la biodiversité. [Ce petit moteur de recherche dédié pourra t'y aider.](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/eolien-ecologie)
 ou également ces assistants IA (modèle Mistral 7B) préconfigurés par moi-même (clique "Try as a guest" puis "Start chatting"):
 * [Oiseaux et éolien](https://hf.co/chat/assistant/65ef8d46e78e06e44631567f)
-* [Chauves-souris et éolien](https://hf.co/chat/assistant/65ef8a14217e6028064807a9)
+* [Chauves-souris et éolien](https://huggingface.co/chat/assistant/65ef8a14217e6028064807a9)
 ![](https://media.giphy.com/media/VHrFbmOtBwysbsYnka/giphy.gif)
