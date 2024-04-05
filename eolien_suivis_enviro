@@ -118,7 +118,7 @@ Tu veux en savoir davantage ?
 ## formule : Erickson
 - Erickson
 L’estimateur Erickson et al. (2000) est fréquemment utilisé en France. Ce test a plutôt tendance à sous-estimer les données pour les taux de persistance courts mais pas pour les taux de persistance longs. Cette sous-estimation est aussi constatée par Péron (2018) qui suppose que cela peut être lié au postulat d’effort de recherche constant. La formule intègre la fréquence des passages mais n’est pas demandeuse quant à la durée moyenne entre les passages. 
-$$N = \frac{C * l}{t * d)} * A$$
+$$N = \frac{C * l}{t * d} * A$$
 Elle considère une diminution exponentielle des temps de disparition des cadavres qui peuvent être trouvés lors des passages ultérieurs au premier passage infructueux.
 On va plus loin ?
 1. [Oui](suite formules)
