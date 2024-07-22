@@ -147,7 +147,7 @@ It has been shown that there is not only one relevant or valid formula for all c
 For further details, I recommand the reading of this technical guidance by the [French lecturer Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf).
 ![](https://www.usgs.gov/media/images/genest-generalized-mortality-estimations-cover-art)
 All clear?
-1. [Yes](Got it)
+1. [Yes](Got it. Now, I would like to watch a video tutorial on GenEst such as this one from WREN by [Manuela Husos USGS](https://youtu.be/pSZDwiApigA?si=nCoDOg6vFgrKci2w))
 2. [No](No the end)
 
 ## formule : use
@@ -242,7 +242,7 @@ In Europe, the germans used this [applied science tool](https://www.probat.org/p
 ![](https://www.probat.org/fileadmin/_processed_/6/2/csm_ProBat_Fledermausaktivitaet_U.Eberius_7c7a0d4eb9.png =600x700)
 **Verteilung der Fledermausaktivität im Rotorbereich einer Windenergieanlage, Grafik: Ulrike Eberius**
 
-In France and more recently, ademics from the Museum d'Histoire Naturelle de Paris have published this article [(Barré et al., 2023)](https://www.sciencedirect.com/science/article/abs/pii/S0048969723000190) going deeper into which covariables may influence bat activity at in order to elaborate tailored bat curailment algorithms.
+In France and more recently, academics from the Museum d'Histoire Naturelle de Paris have published this article [(Barré et al., 2023)](https://www.sciencedirect.com/science/article/abs/pii/S0048969723000190) going deeper into which covariables may influence bat activity at in order to elaborate tailored bat curailment algorithms.
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969723000190-ga1.jpg).
 In addition, this other research project named "OPRECH" has compiled all types of bat curtailments implemented in France from 2010 to 2020. Full report in French available [here](https://librairie.ademe.fr/energies-renouvelables-reseaux-et-stockage/6242-programme-oprech.html).
 ![](https://librairie.ademe.fr/698593-large_default/programme-oprech.jpg)
@@ -252,7 +252,7 @@ Do you want to learn more ?
 2. [No](Non fin)
 
 ## J'ai compris
-Well done, now you know much more. 
+Well done, now you know much more. You may want to watch this video tutorial in English on data analysis by [P. Rabie from WEST Inc](https://eyssette.forge.aeif.fr/chatMD/#https://github.com/guillaumarchais/ChatMD/blob/main/)
 Do you want to learn how to interpret all these data ?
 1. [Yes](interprétation mortalité)
 2. [No](Non fin)
