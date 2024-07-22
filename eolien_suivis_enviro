@@ -27,7 +27,7 @@ rechercheContenu: true
 - collisions oiseaux
 - collisions chauves-souris
 - collision chiroptères
-Pour les oiseaux, le spectre d'espèces qui rentrent en collision est large mais celles qui se reproduisent en petite quantité sur une année sont particulièrement. Cela inclut la plupart des rapaces qui ont de grands domaines vitaux et plus souvent en petits effectifs que les passereaux par exemple, même en période migratoire; ainsi que les laridés (mouettes et goélands) plus proches du littoral, et les grues et cigognes qui semblent moins souvent être concernées.
+Pour les oiseaux, le spectre d'espèces qui rentrent en collision est large mais celles qui se reproduisent en petite quantité sur une année sont particulièrement touchées. Cela inclut la plupart des rapaces qui ont de grands domaines vitaux et plus souvent en petits effectifs que les passereaux par exemple, même en période migratoire; ainsi que les laridés (mouettes et goélands) plus proches du littoral, et éventuellement les grands voiliers (grues et cigognes) qui semblent moins souvent être concernées.
 ![](https://media.giphy.com/media/Qz7VpOlWMXYAM/giphy.gif)
 Pour les chauves-souris, ce sont notamment les espèces migratrices, grandes (noctules) ou petites ([Pipistrelle de Nathusius](https://youtu.be/ImYYqXYfTl0?si=AdOOy4fumnpiI9bx) pour la plus connue).
 ![](https://media.giphy.com/media/10I2yiQCXk4aaI/giphy.gif)
@@ -59,11 +59,11 @@ Les principales exigences sont les suivantes :
     * un carré de 100 m x 100 m ou des cercles concentriques d'un rayon égale à la longueur de la pale (minimum 50 m)
     * des transects distants de 5 à 10 m selon l'état du terrain et de la végétation 
 * **Les tests**
-    * un test permettant d'évaluer la détection de l'observateur avec des leurres
-    * un test permettant d'évaluer la persistance des cadavres in situ en fonction des charognards présents localement et des pratiques agricoles
-* l'enregistrement de l'activité des chauves-souris à hauteur de nacelle en continu sur une bonne partie de la saison
+    * un test permettant d'évaluer la **détection** de l'observateur avec des leurres
+    * un test permettant d'évaluer la **persistance** des cadavres in situ en fonction des charognards présents localement et des pratiques agricoles
+* l'enregistrement de **l'activité des chauves-souris à hauteur de nacelle en continu** sur une bonne partie de la saison
 **L'objectif est de déterminer les taux de mortalité réels en utilisant des modèles statistiques permettant de les estimer à partir de la mortalité brute constatée sur le terrain.**
-![](https://www.shutterstock.com/image-photo/common-buzzard-buteo-flight-wind-turbines-212637479)
+![]()
 Tu veux en apprendre plus ?
 1. [Oui]()
 2. [Non](Non fin)
