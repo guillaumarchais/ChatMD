@@ -5,7 +5,7 @@ rechercheContenu: true
 clavier: false
 ---
 # Chatbot : About environmental monitoring of onshore wind farms in France
-> **<span class="unique">I am a Chatbot [ChatMD](https://eyssette.forge.aeif.fr/chatMD) developped by [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) who compiles various publically-made sources that he did not produced himsel</span>**
+> **<span class="unique">I am a Chatbot [ChatMD](https://eyssette.forge.aeif.fr/chatMD) developped by [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) who compiles various publically-made sources that he did not produced himself</span>**
 >![](https://media.giphy.com/media/4CpdsmxdDpcmQ/giphy.gif)
 > I can help you understand the scientific aspects of this issue.
 >
@@ -61,7 +61,7 @@ The main requirements are as follows: :
     * a test enabling to assess the local persistence of the carcasses (scavenger presence and farming practices)
 * Continuous recording of bat activity at nacelle height for a large part of the season
 **The objective is to determine the real mortality rates by using statistical models to estimate them from the observed raw mortality on the ground.**
-![](https://www.shutterstock.com/image-photo/common-buzzard-buteo-flight-wind-turbines-212637479)
+![]()
 More?
 1. [Yes]()
 2. [No](Non fin)
@@ -259,17 +259,16 @@ Do you want to learn how to interpret all these data ?
 2. [No](Non fin)
 
 ## interprétation mortalité
-Plusieurs initiatives sont actuellement en cours pour compiler de nombreux résultats afin de pouvoir permettre des comparaisons entre les parcs éoliens selon les pays et régions. Il serait trop long de toutes les lister ici. En voici quelques-unes :
-* Allemagne : [Voigt et al. 2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512)
+Several initiatives are currently undergoing to pull together large amount of results enabling comparisons betewwen various wind farms of each region or country. Here is a few examples:
+* Germany : [Voigt et al. 2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512)
 * France > région Grand-Est : [CPIE Pays de Soulaines 2018](http://www.plume-de-naturalistes.fr/wp-content/uploads/2019/04/09_TERNOIS_03-2019_Impact-developpement-eolien_Plume3_195-212.pdf)
 * France > région Grand-Ouest : [Ouest Am](https://www.genie-ecologique.fr/synthese-des-donnees-de-suivis-post-implantation-deoliennes-dans-le-grand-ouest)
-* Espagne > région sud : [Salguero et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
-* Etats-Unis : [Lloyd et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
+* Spain > région sud : [Salguero et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
+* USA : [Lloyd et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
 
-Au-delà des comparaisons, **l'objectif principal est de réduire fortement la mortalité par le biais de différents solutions et mesures qui consistent à optimiser les arrêts des éoliennes aux périodes à risque et lors de situation critique (animaux volant trop proche des pales).**
-Assez basiquement, cela se concrétise par la présence de "surveillants" ou sentinelles sur le terrain qui peuvent d'une manière rapide déclencher un arrêt des turbines (avec une application de téléphonie mobile ou un appel d'urgence par exemple).
-Les progrès technologiques permettent aussi le développement de solutions d'ingénierie basées sur la détection vidéo et/ou audio à distance. Tout l'enjeu consiste à détecter suffisamment tôt l'oiseau de jour pour permettre le ralentissement de la rotation des pales à l'aide d'algorithmes sophistiqués ; et les chauves-souris avec des micros sensibles et résistants aux intempéries.
-Que ce soit avec des caméras, des radars ou des micros de haute technologie, les ingénieurs tâchent d'améliorer leurs capacités de détection d'analyse automatique de leurs divers systèmes. Ceux-ci sont testés en situation réelle et vérifiés grâce aux suivis contrôlés par les services décentralisés de l'Etat.
+Beyond the comparisons, **the main objective is to significantly reduce mortality through various solutions and measures that consist of optimizing wind turbine curtailments at risk periods and during critical situations (animals flying too close to the blades).** Quite basicly, this takes the form of the presence of "monitors" or sentinels in the field who can quickly trigger a shutdown of the turbines (with a mobile phone application or an emergency call for example).
+Technological advances also allow the development of engineering solutions based on remote video and/or audio detection. The challenge is to detect the bird early enough to slow down the rotation of the blades using sophisticated algorithms; and bats with sensitive, weather-resistant microphones.
+Whether it's with high-tech cameras, radars or microphones, engineers are trying to improve their automatic detection and analysis capabilities of their various systems. These are tested in real situations and verified through monitoring controlled by the State's decentralized services.
 ![](https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif)
 
 Do you want to learn more ?
