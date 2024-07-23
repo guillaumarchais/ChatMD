@@ -14,7 +14,7 @@ clavier: false
 > 1. [Which species are more sensitive to collisions with wind turbines](esp sensibles)
 > 2. [What is the national protocol for post-construction monitoring in France ?](Le protocole national 2018)
 > 3. [What is the "roads & pads" protocol](Le protocole allégé roads & pads)
-> 4. [About the search efficiency test](Le test de détection)
+> 4. [About the searcher efficiency test](Le test de détection)
 > 5. [About the persistence test](Le test de persistance)
 > 6. [About the area correction](La correction surfacique)
 > 7. [The statistical models for the estimation of mortality](Les formules d'estimation)
@@ -48,7 +48,7 @@ More ?
 - French national protocole 2018
 - standardised protocole in France
 - protocole France
-n France, a minimum set of practices for the research of birds and bats impacted by wind turbines has been established and validated. The first version of the protocol was published in 2015, and a more complete version was published in 2018. The second version is available for download [here](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf). 
+In France, a minimum set of practices for the research of birds and bats impacted by wind turbines has been established and validated. The first version of the protocol was published in 2015, and a more complete version was published in 2018. The second version is available for download [here](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf). 
 The main requirements are as follows: :
 * **The number of visits**
     * at least 20 visits per year 
@@ -61,7 +61,7 @@ The main requirements are as follows: :
     * a test enabling to assess the local persistence of the carcasses (scavenger presence and farming practices)
 * Continuous recording of bat activity at nacelle height for a large part of the season
 **The objective is to determine the real mortality rates by using statistical models to estimate them from the observed raw mortality on the ground.**
-![]()
+
 More?
 1. [Yes]()
 2. [No](Non fin)
@@ -219,7 +219,7 @@ Is this clear ?
 ## reference rp
 This published paper investigates the comparaison of the roads & pads protocol to other with simulations using various parameters :  ["Comparing methods to estimate the proportion of turbine-induced bird and bat mortality in the search area under a road and pad search protocol."](https://link.springer.com/article/10.1007/s10651-020-00466-0)
 Do you want to learn more?
-1. [Oui]()
+1. [Yes]()
 2. [No](Non fin)
 
 ## suivi chiros
