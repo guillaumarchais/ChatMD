@@ -94,10 +94,10 @@ Is that clear?
 - Jones
 The model from Jones et al. (2009) is based on the following hypothesis :
 * the mortality rate is considered globally constant on the intervall of consecutive searches ;
-* the duration of persistence of a carcass follows a negative exponantiel function, le taux de persistance is calculated as Tm (average duration in days) ;
+* the duration of persistence of a carcass follows a negative exponantiel function, the persistence rate is calculated as Tm (average duration in days) ;
 * the probability of the average removal on the complete interval (when animals can impacted at the beginning or the end of the interval) can be approximated  by the probability of removal at the middle of the interval.
-Jones uses the notion of the effective interval for calculating the corrective factor ê which corresponds to teh ratio between the duration before taht 99 % of carcasses are removed and the duration of the interval. Indeed, it is quite logic that when the interval is long then the persistance ratio gets closer to 0. The effective interval corresponds to the duration for which the persistance ratio is equal to 1 % (100 - 99 %).
-The average effective interval, Î is equal to : - log(0,01) x tm. With I having teh minimal value between I et Î, noted ê. 
+Jones uses the notion of the effective interval for calculating the corrective factor ê which corresponds to the ratio between the duration before that 99 % of carcasses are removed and the duration of the interval. Indeed, it is quite logic that when the interval is long then the persistance ratio gets closer to 0. The effective interval corresponds to the duration for which the persistance ratio is equal to 1 % (100 - 99 %).
+The average effective interval, Î is equal to : - log(0,01) x tm. With I having the minimal value between I et Î, noted ê. 
 More?
 1. [Yes](suite formules)
 2. [No](Non fin)
@@ -120,7 +120,7 @@ The Erickson's estimator (2000) used to be frequently used in France (previously
 
 More?
 1. [Yes](suite formules)
-2. [No]()
+2. [No](Non fin)
 
 ## suite formules
 - best
@@ -139,7 +139,7 @@ Erickson' formula is the simplest and the oldest one but often understimates as 
 For further details, I recommand the reading of this technical guidance by the [French lecturer Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf).
 All clear?
 1. [Yes](Got it)
-2. [No](No the end)
+2. [No](Non fin)
 
 ## formule : best
 It has been shown that there is not only one relevant or valid formula for all cases (long or short persistance etc...). Huso's formula (2010) is often used by dfault but it alo has its limits of validity when few carcasses have been found. It is is recommended to start using the open source R Package "GenEst" which Huso has developped with Dalthorp et al. => [https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
@@ -148,7 +148,7 @@ For further details, I recommand the reading of this technical guidance by the [
 ![](https://www.usgs.gov/media/images/genest-generalized-mortality-estimations-cover-art)
 All clear?
 1. [Yes](Got it. Now, I would like to watch a video tutorial on GenEst such as this one from WREN by [Manuela Husos USGS](https://youtu.be/pSZDwiApigA?si=nCoDOg6vFgrKci2w))
-2. [No](No the end)
+2. [No](Non fin)
 
 ## formule : use
 The French national protocol (2018) is requesting to use Huso's formula with two others to be able to show the variability of the resultats (median and confidence intervals) owing the various conditions.
@@ -166,7 +166,7 @@ In this particular case, the different fomrulas cannot make a conclusive estimat
 In addition, experts from the american ecological consultancy firm "Western Ecosystems Technology" have developed an extension which uses more covariables in order to adjust even more the estimates. More details available [here](https://www.biorxiv.org/content/10.1101/2020.01.21.914754v3.full.pdf)
 Do you want to go further ?
 1. [Watch a webinar on EoA with Manuelo Huso from USGS](https://youtu.be/xn8jD2TGQpY?si=Ql3N_WABpE4BM9JK&t=569)
-2. [No]()
+2. [No](Non fin)
 
 ## Le test de persistance
 - persistence
@@ -187,13 +187,13 @@ Doy want to know more?
 2. [No](Non fin)
 
 ## Le test de détection
-A searcher's detection capacity varies a lot depending the visbility conditions, his/her experience, tireness and so on... This test uses trial carcasses or similar objects placed on site in order to check how much of them are found indeed during a standard visit. The results must be tailored to each searcher, visibility class, size class and period of the year. Bad scores, i.e. below 50 %, have to well analysed as they mean that the search is not effective enough or the visibility is too poor.
+A searcher's detection capacity varies a lot depending the visibility conditions, his/her experience, tireness and so on... This test uses trial carcasses or similar objects placed on site in order to check how much of them are found indeed during a standard visit. The results must be tailored to each searcher, visibility class, size class and period of the year. Bad scores, i.e. below 50 %, have to well analysed as they mean that the search is not effective enough or the visibility is too poor.
 Do you want to learn more?
 1. [Yes]()
 2. [No](Non fin)
 
 ## La correction surfacique
-The [French protocol 2018](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf) requires to cover circle area with the radius corresponding to the leght of the blade. When there is too much crops (wheat, maize, beetroot...), it becomes coplicated to search without damaging them. It is then generally admitted to avoid these areas. Presence of cattle can also lead to the same decision. The simplest value corresponds to the proportional searched areas; and more adjusted one is to work out this every 5 or 10 m radius concentric circles (Arnett 2006).
+The [French protocol 2018](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf) requires to cover circle area with the radius corresponding to the leght of the blade. When there is too much crops (wheat, maize, beetroot...), it becomes complicated to search without damaging them. It is then generally admitted to avoid these areas. Presence of cattle can also lead to the same decision. The simplest value corresponds to the proportional searched areas; and more adjusted one is to work out this every 5 or 10 m radius concentric circles (Arnett 2006).
 Do you want to know more ?
 1. [Yes](corr surfa DWP)
 2. [No](Non fin)
@@ -230,8 +230,8 @@ Do you want to learn more?
 In parallel of fatality searches, bat activity is also monitored at nacelle height in order to understand better in which weather conditions bats are active throughout the seasons. This has been useful to work out bat curtailment plans specifically for each site.
 ![](https://media.giphy.com/media/9gqC3kr1MEwxK9YP6T/giphy.gif)
 Do you want to see few examples ?
-1. [Oui](suivi chiros 2)
-2. [Non](Non fin)
+1. [Yes](suivi chiros 2)
+2. [No](Non fin)
 
 ## suivi chiros 2
 - Probat
@@ -284,7 +284,7 @@ Here are references of protocols currently used in France:
 
 Do you wan to learn more?
 1. [Yes]()
-2. [No](Non the end)
+2. [No](Non fin)
 
 ## Non fin
 Despite my attempts, it was not good enough. The next step involves reading the various quoted references... or you do not want to go further and shut this window ; )
