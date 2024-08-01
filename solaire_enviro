@@ -17,23 +17,29 @@ rechercheContenu: true
 - chauves-souris
 - chiroptères
 Pour les chauves-souris, trois récentes études scientifiques ont été publiées à ce sujet.
+:::info Information
 *La Française et dernière en date par les chercheurs du [MNHN](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14555) :
 16 points d'échantillons appairés  solaire/habitat naturel pendant 7 nuits consécutives en septembre 2022 dans la vallée du Rhône (parcs de la CNR)
 -- mesures des micro trajectoires de vol par kit 4 micros 
 -- indices de sinuosité des trajectoires, des vitesses de vol et indices d'activité de chasse par enregistrement des "buzz" de capture de proies
 -- résultats : baisse de la sinuosité  et augmentation des vitesses de vol un peu significative au-dessus des panneaux solaires par rapport aux habitats naturels adjacents appairés (sauf Pip Nathusius mais possible confusion avec Pip Kuhl pas évoquée !) =>perte de favorabilité des territoires de chasse car les panneaux solaires peuvent réduire les quantités d'insectes volants
 -- recommandations : augmenter les haies autour des centrales PV, et éviter ou compenser les habitats riches en proies
- 
+:::
+
+:::success Correction
 *[La Hongroise](https://www.sciencedirect.com/science/article/pii/S2351989423001166) qui compare les habitats typiques (cultures, boisements, prairies, aquatiques ...) avec des centrales solaires à large échelle du pays  : 
 -- 15 sites éloignés (100 km environ)  avec plusieurs habitats échantillonnés simultanément 1 seule nuit de juillet à septembre 2020 sur les 4 -- premières heures de la nuit avec détecteurs Audiomoths.
 -- Résultats : les centrales solaires ont cumulé de l'activité de pipistrelles principalement (comme en zone urbanisée) et avaient des niveaux d'activité équivalents aux cultures, mais moindre que les autres habitats en général , pas de Barbastelle ou d'oreillards, peu de murins.
- 
+:::
+
+:::warning Attention !
 *[L'Anglaise](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14474)
 -- 19 sites échantillonnés avec milieux ouverts et forestiers appairés avec solaire VS contrôle
 -- de juillet à octobre 2019 et 2020, toute la nuit avec des SM3bat
 -- Résultats : l'activité de 6 espèces/groupes (i.e. E. serotinus, Myotis spp., Nyctalus spp., P. pipistrellus, P. pygmaeus and Plecotus spp.) étaient significativement impactées par les panneaux solaires.
 Seulement P. pipistrellus and Nyctalus spp. were significantly, étaient impactées quel que soit le type d'habitat.
 -- Enfin, nous n'avons trouvé aucune différence dans la richesse en espèces de chauves-souris entre les habitats des centrales solaires au sol et les habitats témoins appariés. Les mesures d'atténuation peuvent comprendre, sans toutefois s'y limiter, la réduction de la densité des panneaux dans l'empreinte du site, le maintien et l'amélioration de l'habitat limite dans sa superficie et sa diversité, et la plantation appropriée pour améliorer les ressources d'alimentation des espèces identifiées comme étant en péril par le développement.
+:::
 
 ## oiseaux
 - oiseaux
