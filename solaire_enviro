@@ -5,7 +5,7 @@ rechercheContenu: true
 ---
 # Chatbot : C'est quoi les impacts environnementaux des parcs solaires terrestres ?
 > **<span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas lui-même produit.</span>**
->![]()
+>![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhmbjF5aTR5YnU1ZmtwM2Zic3k0YXN2MnZiaTU3bHpiNGFpNXo3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/21GEOCTJJANSpY5dJX/giphy.gif)
 > 
 > Que veux-tu savoir exactement ? _**(faire dérouler l'écran vers le bas)**_
 >
@@ -18,7 +18,7 @@ rechercheContenu: true
 - chiroptères
 Pour les chauves-souris, trois récentes études scientifiques ont été publiées à ce sujet.
 :::info Information
-*La Française et dernière en date par les chercheurs du [MNHN](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14555) :
+*La Française* et dernière en date par les chercheurs du [MNHN](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.14555) :
 16 points d'échantillons appairés  solaire/habitat naturel pendant 7 nuits consécutives en septembre 2022 dans la vallée du Rhône (parcs de la CNR)
 -- mesures des micro trajectoires de vol par kit 4 micros 
 -- indices de sinuosité des trajectoires, des vitesses de vol et indices d'activité de chasse par enregistrement des "buzz" de capture de proies
@@ -27,13 +27,13 @@ Pour les chauves-souris, trois récentes études scientifiques ont été publié
 :::
 
 :::success Correction
-*[La Hongroise](https://www.sciencedirect.com/science/article/pii/S2351989423001166) qui compare les habitats typiques (cultures, boisements, prairies, aquatiques ...) avec des centrales solaires à large échelle du pays  : 
+*[La Hongroise]*(https://www.sciencedirect.com/science/article/pii/S2351989423001166) qui compare les habitats typiques (cultures, boisements, prairies, aquatiques ...) avec des centrales solaires à large échelle du pays  : 
 -- 15 sites éloignés (100 km environ)  avec plusieurs habitats échantillonnés simultanément 1 seule nuit de juillet à septembre 2020 sur les 4 -- premières heures de la nuit avec détecteurs Audiomoths.
 -- Résultats : les centrales solaires ont cumulé de l'activité de pipistrelles principalement (comme en zone urbanisée) et avaient des niveaux d'activité équivalents aux cultures, mais moindre que les autres habitats en général , pas de Barbastelle ou d'oreillards, peu de murins.
 :::
 
 :::warning Attention !
-*[L'Anglaise](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14474)
+*[L'Anglaise]*(https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14474)
 -- 19 sites échantillonnés avec milieux ouverts et forestiers appairés avec solaire VS contrôle
 -- de juillet à octobre 2019 et 2020, toute la nuit avec des SM3bat
 -- Résultats : l'activité de 6 espèces/groupes (i.e. E. serotinus, Myotis spp., Nyctalus spp., P. pipistrellus, P. pygmaeus and Plecotus spp.) étaient significativement impactées par les panneaux solaires.
@@ -49,7 +49,6 @@ Pour les oiseaux,
 - insectes
 - papillons
 - orthoptères
-
 Une [méta analyse des impacts du PV en AURA](https://dumas.ccsd.cnrs.fr/DUMAS/dumas-04583458v1) datant de 2023 indique que 
 :::info Information
 _"Malgré une forte amélioration de la qualité des EIE depuis 2010, des déséquilibres se maintiennent, avec notamment moins de rigueur apportée à la prospection des espèces à faible enjeux. Pour mesurer les impacts bruts des CPS dans la région, des inventaires ont été réalisé sur les taxons à faible enjeu. Les rhopalocères sont les plus touchés avec une diminution forte du nombre d’insecte entre les panneaux. La composition des populations d’orthoptères est impactée par la présence des CPS. Enfin, selon la diversité du site avant travaux, une centrale semble pouvoir amener de l’hétérogénéité et de la diversité dans les communautés végétales."_
