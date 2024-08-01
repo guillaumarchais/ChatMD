@@ -13,7 +13,7 @@ rechercheContenu: true
 > 2. [Les impacts sur les chauves-souris](chiros)
 > 3. [Les impacts sur les oiseaux](oiseaux)
 > 4. [Les impacts sur les insectes](insectes)
-> 5. [Un assistant IA préconfiguré pour poser des questions personalisées](assistant)
+> 5. [Un assistant IA préconfiguré pour poser des questions personalisées](Non fin)
 
 
 ## biodiversité
@@ -22,6 +22,10 @@ rechercheContenu: true
 En 2021, Enerplan, SER et les régions Nouvelle-Aquitaine, Occitanie et Provence Alpes Côte d’Azur ont publié [la synthèse de la première phase](https://media-exp1.licdn.com/dms/document/C561FAQG6gwhC3zVIoQ/feedshare-document-pdf-analyzed/0/1618837662379?e=1619074800&v=beta&t=cbCUIwzFFMRDI5d1uHw1yvuISyNPYEt5fzgFAAsMPn0) de leur analyse sur l’impact des parcs photovoltaïques au sol sur la biodiversité. Ce travail menée sur un temps relativement court (1er semestre 2020) a permis d’initier un bilan factuel des effets des parcs photovoltaïques sur la biodiversité. Il a vocation à être complété par une 2ème phase plus longue (2021-2022) au périmètre élargi (échelle nationale) et à l’analyse plus approfondie.
 
 L’étude s’est basée sur l’exploitation de 316 documents se rapportant à 111 parcs photovoltaïques, dont 41 parcs en PACA, 30 parcs en Nouvelle-Aquitaine, 29 parcs en Occitanie et 11 parcs dans d’autres régions, principalement en Auvergne-Rhône-Alpes, permettant d’étudier trois écosystèmes différents (atlantique, méditerranéen et médioeuropéen). L’analyse de l’impact a été réalisée sur les principales composantes biologiques étudiées dans les documents exploités : la flore et trois composantes faunistiques (les papillons de jour, les reptiles et les oiseaux). Les données étaient cependant trop peu nombreuses pour analyser les tendances d’évolution applicables à d’autres insectes, aux amphibiens, aux chauves-souris et aux mammifères terrestres.
+
+Retour au sommaire ?
+1. [Oui]()
+2. [Non](Non fin)
 
 ## chiros
 - chauves-souris
@@ -79,9 +83,7 @@ Retour au sommaire ?
 2. [Non](Non fin)
 
 
-## assistant
-J'ai préconfiguré un assistant IA sur l'énergie photovoltaïque et la biodiversité via la solution open source **Huggingchat** afin de pouvoir poser des questions plus détaillées sur ce thème environnemental : [clique ici](https://hf.co/chat/assistant/66aac1b063d43f745294c39b) pour accèder à une autre interface web.
+## Non fin
+Pour aller plus loin, j'ai préconfiguré un assistant IA sur l'énergie photovoltaïque et la biodiversité via la solution open source **Huggingchat** afin de pouvoir poser des questions plus détaillées sur ce thème environnemental : [clique ici](https://hf.co/chat/assistant/66aac1b063d43f745294c39b) pour accèder à une autre interface web.
 
-Retour au sommaire ?
-1. [Oui]()
-2. [Non](Non fin)
+
