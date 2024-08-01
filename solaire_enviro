@@ -12,6 +12,7 @@ rechercheContenu: true
 > 1. [Les impacts sur les chauves-souris](chiros)
 > 2. [Les impacts sur les oiseaux](oiseaux)
 > 3. [Les impacts sur les insectes](insectes)
+> 4. [Un assistant IA préconfiguré pour poser des questions personalisées](assistant)
 
 ## chiros
 - chauves-souris
@@ -53,4 +54,7 @@ Une [méta analyse des impacts du PV en AURA](https://dumas.ccsd.cnrs.fr/DUMAS/d
 :::info Information
 _"Malgré une forte amélioration de la qualité des EIE depuis 2010, des déséquilibres se maintiennent, avec notamment moins de rigueur apportée à la prospection des espèces à faible enjeux. Pour mesurer les impacts bruts des CPS dans la région, des inventaires ont été réalisé sur les taxons à faible enjeu. Les rhopalocères sont les plus touchés avec une diminution forte du nombre d’insecte entre les panneaux. La composition des populations d’orthoptères est impactée par la présence des CPS. Enfin, selon la diversité du site avant travaux, une centrale semble pouvoir amener de l’hétérogénéité et de la diversité dans les communautés végétales."_
 :::
+
+## assistant
+J'ai préconfiguré un assistant IA sur l'énergie photovoltaïque et la biodiversité via la solution open source **Huggingchat** afin de pouvoir poser des questions plus détaillées sur ce thème environnemental : [clique ici](https://hf.co/chat/assistant/66aac1b063d43f745294c39b) pour accèder à une autre interface web.
 
