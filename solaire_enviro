@@ -9,10 +9,19 @@ rechercheContenu: true
 > 
 > Que veux-tu savoir exactement ? _**(faire dérouler l'écran vers le bas)**_
 >
-> 1. [Les impacts sur les chauves-souris](chiros)
-> 2. [Les impacts sur les oiseaux](oiseaux)
-> 3. [Les impacts sur les insectes](insectes)
-> 4. [Un assistant IA préconfiguré pour poser des questions personalisées](assistant)
+> 1. [Les impacts sur la biodiversité en général](biodiversité)
+> 2. [Les impacts sur les chauves-souris](chiros)
+> 3. [Les impacts sur les oiseaux](oiseaux)
+> 4. [Les impacts sur les insectes](insectes)
+> 5. [Un assistant IA préconfiguré pour poser des questions personalisées](assistant)
+
+
+## biodiversité
+- biodiversité
+
+En 2021, Enerplan, SER et les régions Nouvelle-Aquitaine, Occitanie et Provence Alpes Côte d’Azur ont publié [la synthèse de la première phase](https://media-exp1.licdn.com/dms/document/C561FAQG6gwhC3zVIoQ/feedshare-document-pdf-analyzed/0/1618837662379?e=1619074800&v=beta&t=cbCUIwzFFMRDI5d1uHw1yvuISyNPYEt5fzgFAAsMPn0) de leur analyse sur l’impact des parcs photovoltaïques au sol sur la biodiversité. Ce travail menée sur un temps relativement court (1er semestre 2020) a permis d’initier un bilan factuel des effets des parcs photovoltaïques sur la biodiversité. Il a vocation à être complété par une 2ème phase plus longue (2021-2022) au périmètre élargi (échelle nationale) et à l’analyse plus approfondie.
+
+L’étude s’est basée sur l’exploitation de 316 documents se rapportant à 111 parcs photovoltaïques, dont 41 parcs en PACA, 30 parcs en Nouvelle-Aquitaine, 29 parcs en Occitanie et 11 parcs dans d’autres régions, principalement en Auvergne-Rhône-Alpes, permettant d’étudier trois écosystèmes différents (atlantique, méditerranéen et médioeuropéen). L’analyse de l’impact a été réalisée sur les principales composantes biologiques étudiées dans les documents exploités : la flore et trois composantes faunistiques (les papillons de jour, les reptiles et les oiseaux). Les données étaient cependant trop peu nombreuses pour analyser les tendances d’évolution applicables à d’autres insectes, aux amphibiens, aux chauves-souris et aux mammifères terrestres.
 
 ## chiros
 - chauves-souris
@@ -42,9 +51,19 @@ Seulement P. pipistrellus and Nyctalus spp. were significantly, étaient impact�
 -- Enfin, nous n'avons trouvé aucune différence dans la richesse en espèces de chauves-souris entre les habitats des centrales solaires au sol et les habitats témoins appariés. Les mesures d'atténuation peuvent comprendre, sans toutefois s'y limiter, la réduction de la densité des panneaux dans l'empreinte du site, le maintien et l'amélioration de l'habitat limite dans sa superficie et sa diversité, et la plantation appropriée pour améliorer les ressources d'alimentation des espèces identifiées comme étant en péril par le développement.
 :::
 
+Retour au sommaire ?
+1. [Oui]()
+2. [Non](Non fin)
+
+
 ## oiseaux
 - oiseaux
-Pour les oiseaux, 
+Pour les oiseaux, la LPO a produit une première synthèse bibliographique des impacts des centrales solaires au sol (octobre 2022) en [téléchargement ici](https://www.lpo.fr/la-lpo-en-actions/developpement-durable/energie/photovoltaique).
+L'Office Français pour la Biosiversité pilote un projet de recherche nommé ["Envoltaïque"](https://www.ofb.gouv.fr/actualites/etudier-les-effets-des-installations-photovoltaiques-sur-lavifaune) et financé par l'ADEME qui vise à étudier sur plusieurs sites et au moins 3 ans les comportements des oiseaux. 
+
+Retour au sommaire ?
+1. [Oui]()
+2. [Non](Non fin)
 
 ## insectes
 - insectes
@@ -55,6 +74,14 @@ Une [méta analyse des impacts du PV en AURA](https://dumas.ccsd.cnrs.fr/DUMAS/d
 _"Malgré une forte amélioration de la qualité des EIE depuis 2010, des déséquilibres se maintiennent, avec notamment moins de rigueur apportée à la prospection des espèces à faible enjeux. Pour mesurer les impacts bruts des CPS dans la région, des inventaires ont été réalisé sur les taxons à faible enjeu. Les rhopalocères sont les plus touchés avec une diminution forte du nombre d’insecte entre les panneaux. La composition des populations d’orthoptères est impactée par la présence des CPS. Enfin, selon la diversité du site avant travaux, une centrale semble pouvoir amener de l’hétérogénéité et de la diversité dans les communautés végétales."_
 :::
 
+Retour au sommaire ?
+1. [Oui]()
+2. [Non](Non fin)
+
+
 ## assistant
 J'ai préconfiguré un assistant IA sur l'énergie photovoltaïque et la biodiversité via la solution open source **Huggingchat** afin de pouvoir poser des questions plus détaillées sur ce thème environnemental : [clique ici](https://hf.co/chat/assistant/66aac1b063d43f745294c39b) pour accèder à une autre interface web.
 
+Retour au sommaire ?
+1. [Oui]()
+2. [Non](Non fin)
