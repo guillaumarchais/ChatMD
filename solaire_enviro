@@ -2,6 +2,8 @@
 maths : true
 gestionGrosMots: true
 rechercheContenu: true
+style: a{color:red}
+theme: bubbles
 ---
 # Chatbot : C'est quoi les impacts des parcs solaires terrestres sur les écosystèmes ?
 > **<span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas lui-même produit.</span>**
