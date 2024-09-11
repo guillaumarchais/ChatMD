@@ -16,7 +16,8 @@ clavier: false
 > 2. [Les impacts sur les chauves-souris](chiros)
 > 3. [Les impacts sur les oiseaux](oiseaux)
 > 4. [Les impacts sur les insectes](insectes)
-> 5. [Un assistant IA préconfiguré pour poser des questions personnalisées](Non fin)
+> 5. [Des exemples de mesures écologiques] (mesures)
+> 6. [Un assistant IA préconfiguré pour poser des questions personnalisées](Non fin)
 
 
 ## biodiversité
@@ -96,11 +97,76 @@ Retour au sommaire ?
 2. [Non](Non fin)
 
 
+## mesures
+- mesures
+- compensation
+- gestion
+
+Le [Conseil National de Protection de la Nature (CNPN)](https://www.avis-biodiversite.developpement-durable.gouv.fr/IMG/pdf/2024-16_avis_deploiement-photovoltaique-impacts-biodiversite_cnpn_du_19_06_2024_vf.pdf) recommande plusieurs mesures compensatoires pour minimiser les impacts des centrales photovoltaïques sur la biodiversité. Voici les principales mesures proposées :
+
+1. *Ouverture de milieux boisés et gestion consécutive* :
+   -- Vise à créer des habitats pour des espèces de landes, de pelouses calcicoles ou méditerranéennes.
+   -- Nécessite des modalités d'ouverture douces pour limiter le tassement des sols.
+
+2. *Gestion de milieux déjà ouverts ou semi-ouverts* :
+   -- Empêche le reboisement spontané ou programmé des landes et pelouses.
+   -- Requiert des modes de gestion non invasifs et adaptés aux objectifs écologiques.
+
+3. *Modification de la gestion forestière* :
+   -- Inclut le ralentissement du cycle d'exploitation, la plantation moins dense, et la gestion en futaie irrégulière.
+   -- Doit démontrer une additionnalité écologique par rapport aux pratiques existantes.
+
+4. **Désignation de forêts en zones de vieillissement ou de sénescence** :
+   - Crée des îlots de sénescence pour compenser la perte de vieux arbres et d'habitats à chiroptères.
+   - Les îlots doivent être suffisamment grands (au moins 3 ha) et de forme ronde pour limiter les effets de bordure.
+
+5. *Plantations de haies* :
+   -- Favorise les oiseaux des milieux agricoles et les chauves-souris.
+   -- Les haies doivent être composées d'essences locales et nourricières, et être bien entretenues.
+
+6. *Création de mares* :
+   -- Vise à recréer des habitats pour les amphibiens.
+   -- Les mares doivent être bien conçues, localisées, et accompagnées d'un suivi écologique.
+
+7. *Modification des modalités de fauche ou de pâturage existant* :
+   -- Améliore la diversité floristique et faunistique des prairies.
+   -- Nécessite un accompagnement technique et un suivi à long terme.
+
+8. *Conversion de cultures en prairie ou en friche herbacée* :
+   -- Doit être validée par un conventionnement à l’échelle de l’exploitation pour éviter les effets d’aubaine.
+   -- Requiert un suivi par des écologues ou gestionnaires de sites naturels.
+
+9. *Gestion d’un étang ou amélioration d’un plan d’eau existant* :
+   -- Vise à améliorer les habitats aquatiques pour les espèces locales.
+
+10. *Gestion ciblée d’espèces végétales protégées* :
+    -- Doit être validée par le Conservatoire Botanique National concerné.
+
+11. *Restauration d’une savane dégradée et rétrocession de savanes au Conservatoire du littoral* :
+    -ù- Particulièrement pertinent pour les projets en Guyane.
+
+12. *Acquisition et mise en protection d’une zone soumise à urbanisation potentielle* :
+    -- Mesure efficace pour protéger des zones naturelles menacées par l'urbanisation.
+
+13. *Installation d’un radar de détection des animaux le long des routes* :
+    -- Vise à éviter les accidents avec la faune.
+
+Ces mesures doivent être mises en œuvre avec un suivi rigoureux pour garantir leur efficacité et leur pérennité. Le CNPN insiste sur l'importance de la qualité des inventaires et de la planification pour assurer une compensation adéquate des impacts écologiques.
+
+
+Retour au sommaire ?
+1. [Oui]()
+2. [Non](Non fin)
+
+
+
 ## Non fin
 Pour t'aider davantage dans tes recherches, j'ai préconfiguré un assistant IA sur l'énergie photovoltaïque et la biodiversité via la solution open source **Huggingchat** afin de pouvoir poser des questions plus détaillées sur ce thème environnemental : [clique ici](https://hf.co/chat/assistant/66aac1b063d43f745294c39b) pour accèder à une autre interface web.
 
 :::info Information
 Pour les plus motivés et professionnels, le Conseil National de Protection de la Nature a publié le 19 juin 2024 [un avis détaillé de 90 pages sur les impacts environnementaux du PV au sol en France](https://www.avis-biodiversite.developpement-durable.gouv.fr/IMG/pdf/2024-16_avis_deploiement-photovoltaique-impacts-biodiversite_cnpn_du_19_06_2024_vf.pdf).
 :::
+
+
 
 
