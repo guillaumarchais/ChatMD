@@ -192,10 +192,13 @@ Return to the main menu?
 Certain species require advanced learning to allow for species discrimination as much as possible within the limits of recording quality and signal quantity.
 Specialized books, guides, and tutorials allow for self-learning to some extent.
 Here is a non-exhaustive list of sources:
-- [https://www.vigienature.fr/fr/page/documentations-identification-acoustique](https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former)
-- [https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former](https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former)
-- [BARATAUD M., 2020. Ecologie acoustique des chiroptères d’Europe. Identification des espèces, études de leurs habitats et comportements de chasse](http://ecologieacoustique.fr/?page_id=13)
-- [RUSS J., 2023. Les chauves-souris - par le son](https://www.delachauxetniestle.com/livre/les-chauves-souris-par-le-son)
+BOOKS
+- [BARATAUD, M. 2020. Acoustic ecology of European bats. Species Identification, Studies of Their Habitats and Foraging Behaviour. 2d ed. Biotope, Mèze; Muséum national d’histoire naturelle, Paris (Inventaires et biodiversité Series), 352 p.](http://geoeco.fr/ecologie_acoustique/en/index.html)
+- [RUSS J., 2021. Bat Calls of Britain and Europe. Pelagic publishing, 462 p. ](https://pelagicpublishing.com/products/bat-calls-of-britain-and-europe-russ-pelagic-9781784272258)
+- [MIDDLETON N., FROUD A., FRENCH K. 2022  Social Calls of the Bats of Britain and Ireland, 2nd., Pelagic publishig, 300 p.](https://pelagicpublishing.com/products/social-calls-of-the-bats-of-britain-and-ireland-2nd-edn)
+ONLINE DOCS
+- [Bayerische Landesamt für Umwelt, 2020. Analysis of Bat Call Recordings and Criteria for the Evaluation of Acoustic Identification of Species. Translation : David Lee](https://batability.co.uk/wp-content/uploads/2020/08/Analysis-of-Batcalls-1.pdf)
+- [MIDDLETON N., 2020. Analysis of Analook files - Tutorial, 23 p.](https://batability.co.uk/wp-content/uploads/2020/03/AnaLook-Analysis-Screen-Grab-Tutorial.pdf)
 
 And a list of free software packages:
 - [Kaleidoscope Lite](https://www.wildlifeacoustics.com/products/kaleidoscope/kaleidoscope-lite) : allows you to "manipulate" raw files and convert them to different formats (WAV; ZC ; W4C)
