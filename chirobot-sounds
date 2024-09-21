@@ -139,8 +139,8 @@ Return to the main menu?
 - guides
 I hope you have gained a better understanding of the sound universe of European bats.
 To further explore the topic, I recommend the following references:
-- [Ecologie acoustique des chiroptères d'Europe (Acoustic Ecology of European Bats) by M. Barataud](http://ecologieacoustique.fr/?page_id=13)
-- [Guides produced by the services of the Museum National d'Histoire Naturelle de Paris (National Museum of Natural History in Paris)](https://www.vigienature.fr/fr/page/documentations-identification-acoustique)
+- [BARATAUD M, 2020. Ecologie acoustique des chiroptères d'Europe (Acoustic Ecology of European Bats) ](http://ecologieacoustique.fr/?page_id=13)
+- [RUSS J., 2021. Bat Calls of Britain and Europe. Pelagic publishing, 462 p. ](https://pelagicpublishing.com/products/bat-calls-of-britain-and-europe-russ-pelagic-9781784272258)
 ![](https://media.giphy.com/media/VHrFbmOtBwysbsYnka/giphy.gif)
 
 Return to the main menu?
@@ -186,7 +186,7 @@ Return to the main menu?
 2. [No](No)
 
 ## analyse ordi
- - software
+- software
 - computer
 - training
 Certain species require advanced learning to allow for species discrimination as much as possible within the limits of recording quality and signal quantity.
@@ -206,7 +206,7 @@ And a list of free software packages:
 - [Chirosurf](https://vigie-chiro.forumactif.com/t108-chirosurf-2-2-analyse-bioacoustique-gratuit-portable-01-01-24) : allows you to learn how to dissect a recorded file in time expansion format WAV (French only)
 
 In Europe, the [BTO Acoustic Pipeline](https://www.bto.org/our-science/products-and-technologies/bto-acoustic-pipeline) provides tools for the detection and identification of birds, bats and other wildlife in both audible and ultrasonic sound recordings.
-In France, the [VIGI CHIROS national participatory science program](https://www.vigienature.fr/fr/page/participer-vigie-chiro) offers all participants the opportunity to upload or upload their recordings for automated analysis by their TADARIDA classifier.
+In France, the [VIGIECHIROS national participatory science program](https://www.vigienature.fr/fr/page/participer-vigie-chiro) offers all participants the opportunity to upload or upload their recordings for automated analysis by their TADARIDA classifier.
 
 Other advanced software solutions are available for purchase as an annual or permanent license:
 - Sonochiro from Biotope (Europe and Overseas)
