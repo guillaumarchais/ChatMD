@@ -1,7 +1,7 @@
 ---
 maths : true
 gestionGrosMots: true
-rechercheContenu: true
+rechercheContenu: false
 tags: template
 ---
 
@@ -42,7 +42,7 @@ Bats emit sounds at frequencies that are above our audible range for the most pa
 </a> _Guillaume  Marchais Kaleidoscope_
 Would you like to see the devices that use these technologies?
 1. [Yes](détecteurs)
-2. [No]()
+2. [No](No)
 
 ## sons types
 Bats have been using echolocation for millions of years to navigate in the dark. They regularly emit **"sonar"** type sounds to scan their immediate environment and "see" any obstacles or insects in the air. However, they are not blind and their sense of sight is secondary.
@@ -54,7 +54,7 @@ Finally, a captured animal will emit distress calls that are almost audible to h
 
 Learn more?
 1. [Yes](sons types 2)
-2. [No]()
+2. [No](No)
 
 ## sons types 2
 - duration
@@ -74,7 +74,7 @@ Identifying bat species based on the frequencies of their sound emissions requir
 
 See a table detailing the species groups?
 1. [Yes](tableau especes)
-2. [No]()
+2. [No](No)
 
  ## tableau especes
 - Bat species
@@ -95,6 +95,7 @@ _**A few European bat species according to their taxonomic groups and ultrasonic
 
 Return to the main menu?
 1. [Yes]()
+2. [No](No)
 
 
 ## esp haute
@@ -107,6 +108,7 @@ Their "big brother," the [Greater horseshoe bat](https://youtube.com/shorts/yqe4
 
 Return to the main menu?
 1. [Yes]()
+2. [No](No)
 
 
 ## esp basse
@@ -122,15 +124,16 @@ In the following example, you can clearly see the difference between two species
 
 Would you like to see more examples?
 1. [Yes](chirossons)
-2. [No]()
+2. [No](No)
 
 
 ## chirossons
-- [This mini website offers videos of various sounds recorded by Guillaume Marchais](https://padlet.com/gmarchais/chirossons-376pej6e7gr67tme)
+[This mini website offers videos of various sounds recorded by Guillaume Marchais](https://padlet.com/gmarchais/chirossons-376pej6e7gr67tme)
 <div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:480px;height:352px;max-width:100%"><iframe src="https://padlet.com/padlets/376pej6e7gr67tme/embeds/preview_embed" style="width:100%;height:100%;display:block;padding:0;margin:0" frameborder="0"></iframe></div>
-- This [dedicated search engine](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) can also help you find examples of sounds visible on spectrograms. (Click on the image search once you are on the results page. Entering scientific names will yield more examples from English-language sources).
+This [dedicated search engine](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) can also help you find examples of sounds visible on spectrograms. 
   _( Click on the image search once on the results page. Entering scientific names will yield more examples from English-language sources.)_
-
+Return to the main menu?
+1. [Yes]()
 
 ## No
 - references
@@ -144,6 +147,7 @@ To further explore the topic, I recommend the following references:
 
 Return to the main menu?
 1. [Yes]()
+
 
 
 
@@ -166,7 +170,7 @@ The other species can roughly be divided into two categories: those most commonl
 
 Would you like to see more examples?
 1. [Yes](chirossons)
-1. [No]()
+2. [No](No)
 
 
 ## détecteurs
