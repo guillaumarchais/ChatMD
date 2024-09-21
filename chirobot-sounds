@@ -21,7 +21,7 @@ tags: template
 > 7. [Devices that detect them](détecteurs)
 > 8. [Identification techniques from recordings](analyse ordi)
 > 9. [Social or atypical complicated sounds](socio)
-> 10. [Quizz](quizz)
+
 
 ## techno
 - technology
@@ -45,10 +45,205 @@ Would you like to see the devices that use these technologies?
 2. [No]()
 
 ## sons types
-Bats use echolocation to move around in the dark during evolution. They therefore regularly emit "
+Bats have been using echolocation for millions of years to navigate in the dark. They regularly emit **"sonar"** type sounds to scan their immediate environment and "see" any obstacles or insects in the air. However, they are not blind and their sense of sight is secondary.
+Other sounds are used for communication with their fellow bats, either in their roosts (such as between mother and offspring) where they are longer and lower in frequency, or when interacting with each other in flight over a hunting ground. These are known as **social calls**.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=acT9iogoqyg" target="_blank">
+ <img src="http://img.youtube.com/vi/acT9iogoqyg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5" />
+</a>_Guillaume  Marchais_
+Finally, a captured animal will emit distress calls that are almost audible to humans.
+Here is an extract from the old TV show "C'est pas sorcier" on the subject:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8f3Txe6mjag?si=bcIXp3SDU0_uYe4L&t=702" target="_blank">
+ <img src="http://img.youtube.com/vi/8f3Txe6mjag/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
+</a>
+
+Learn more?
+1. [Yes](sons types 2)
+2. [No]()
+
+## sons types 2
+- duration
+- peak frequency
+- signal
+- bandwidth
+Here are the main criteria for determining the species of European bats based on the frequencies of their sound emissions, which are used in combination to identify different species of bats.
+* **Peak frequency** : the highest frequency of an ultrasonic signal. It is generally expressed in kHz (kilohertz). The peak frequency is an important criterion for identifying bats, as it is often specific to a species or group of species.
+* **Bandwidth** : the difference between the peak frequency and the lowest frequency of the ultrasonic signal. It is generally expressed in kHz. Bandwidth is also an important criterion for identifying bats, as it can vary depending on the species and size of the animal.
+* **Duration** : of an ultrasonic signal is expressed in milliseconds (ms). Duration is less important than peak frequency or bandwidth, but it can be useful for distinguishing certain species.
+* **Rate** : number of pulses per second. It is generally expressed in calls or pulses per second. The rate is a less important criterion than peak frequency or bandwidth, but it can be useful for distinguishing certain species.
+* **Signal type** : there are two main types of ultrasonic signals emitted by bats: FM (frequency modulated) signals and FC or QFC (constant or quasi-constant frequency) signals.
+	- FM signals are characterized by a frequency that increases rapidly and then decreases suddenly. They are emitted by most insectivorous bats.
+	- FC signals are characterized by a constant frequency. They are emitted by fruit-eating and nectar-eating bats, as well as horseshoe bats in France that have a horse-shoe shaped mouth and hang upside down in their roosts.
+* **Signal structure** : can be more complex than the simple signal type. For example, FM signals can be composed of several elements or several frequencies.
+Identifying bat species based on the frequencies of their sound emissions requires specific training and experience.
+
+See a table detailing the species groups?
+1. [Yes](tableau especes)
+2. [No]()
+
+ # tableau especes
+- Bat species
+- Noctule
+- Oreillard
+- Horseshoe bat
+- Serotine
+- Pipistrelle
+_**A few European bat species according to their taxonomic groups and ultrasonic sonar frequencies**_
+| Group | Type of signal | Frequencies (kHz) | Examples |
+|---|---|---|---|
+| Rhinolophidae | FC | 80-120 | [Lesser horseshoe bat](https://inpn.mnhn.fr/espece/cd_nom/60313) (_Rhinolophus hipposideros_), [Greater horseshoe bat](https://inpn.mnhn.fr/espece/cd_nom/60295) (_Rhinolophus ferrumequinum_), [Mediterranean horseshoe bat](https://inpn.mnhn.fr/espece/cd_nom/60330) (_Rhinolophus euryale_) |
+| Vespertilionidae | FM | 30-60 | [Common pipistrelle](https://inpn.mnhn.fr/espece/cd_nom/60479) (_Pipistrellus pipistrellus_), [Kuhl's pipistrelle](https://inpn.mnhn.fr/espece/cd_nom/79303) (_Pipistrellus kuhlii_), [Savi's pipistrelle](https://inpn.mnhn.fr/espece/cd_nom/60506) (_Hypsugo savii_) |
+| Noctilionidae | FM | 13-30 | [Common noctule](https://inpn.mnhn.fr/espece/cd_nom/60468) (_Nyctalus noctula_), [Leisler's bat](https://inpn.mnhn.fr/espece/cd_nom/60461) (_Nyctalus leisleri_), [Greater noctule](https://inpn.mnhn.fr/espece/cd_nom/60457) (_Nyctalus lasiopterus_) |
+| Myotis | FM | 15-100 | [Greater mouse-eared bat](https://inpn.mnhn.fr/espece/cd_nom/60418) (_Myotis myotis_), [Daubenton's bat](https://inpn.mnhn.fr/espece/cd_nom/200118) (_Myotis daubentonii_), [Eared bat](https://inpn.mnhn.fr/espece/cd_nom/60400/) (_Myotis emarginatus_) |
+| Plecotus | FM abrupt | 20-40 | [Brown long-eared bat](https://inpn.mnhn.fr/espece/cd_nom/60518) (_Plecotus auritus_), [Grey long-eared bat](https://inpn.mnhn.fr/espece/cd_nom/60527) (_Plecotus austriacus_), [Alpine long-eared bat](https://inpn.mnhn.fr/espece/cd_nom/163463) (_Plecotus macrobullaris_) |
+| Eptesicus | FM abrupt | 20-40 | [Serotine bat](https://inpn.mnhn.fr/espece/cd_nom/60360) (_Eptesicus serotinus_), [Bicolored bat](https://inpn.mnhn.fr/espece/cd_nom/60537) (_Vespertilio murinus_), [Natterer's bat](https://inpn.mnhn.fr/espece/cd_nom/79302) (_Eptesicus nilssonii_) |
+
+Return to the main menu?
+1. [Yes]()
+
+
+## esp haute
+Horseshoe bats, which often hang upside down in caves and grottos, emit high-frequency constant frequency (CF) signals (> 80 kHz for the most "audible" harmonic). In heterodyne, their sonar signals are very fast and sharp. Here is an example for the [Lesser horseshoe bat](https://youtube.com/shorts/XgmC_SgB77o) that emits between 15 and 120 kHz:
+[![Lesser horseshoe bat heterodyne](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g2N3duc2dhMHg1OHloOW15NG96bGdtM3NjcnJzNW04NXRuNzB5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qyktulx4HtdOQ89CLw/giphy.gif)](https://youtube.com/shorts/XgmC_SgB77o) _Guillaume Marchais_
+In time expansion (x10), the sounds are even sharper:
+[![Lesser horseshoe bat expansion](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG0zYnowOTFpeGxiNzFubThvMHFvdndodXM5YTBtb3ZsYWZneHZzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ref4RmsSoar6ASZBB/giphy.gif)](https://youtube.com/shorts/vgahZM7Np5Y) _Guillaume Marchais_
+Their "big brother," the [Greater horseshoe bat](https://youtube.com/shorts/yqe4rqG5m2M) emits similar ultrasonic signals at a lower frequency:
+[![Greater horseshoe bat expansion](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFrc2NnbjVlcWU5ZzV1NGRoeXZwOXlrdGk5bWo3Nmx0N3M1bmk3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aGnJDGVuknjzaOhHmr/giphy.gif)](https://youtube.com/shorts/yqe4rqG5m2M) _Guillaume Marchais_
+
+Return to the main menu?
+1. [Yes]()
+
+
+## esp basse
+ - noctule
+- nyctalus
+- low frequencies
+The larger species are known to emit at lower frequencies for their "sonar" sounds, typically between 8 and 25 kHz (Cestoni's bat and noctules).
+In heterodyne, their sounds are rather low-pitched and widely spaced because they often fly at heights above 30 m and over long distances (tens of kilometers).
+[![Noctule hunting](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwxajF0MHB2M3h3eXRkZGIwNGFnN3R5aDBpMjhjZWZmaTI1M3ZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7L0SnBtFm5Rz4vjXqZ/giphy.gif)](https://youtube.com/shorts/IbPkGTADIeQ) _Guillaume Marchais (Echo Meter Touch 2)_
+
+In the following example, you can clearly see the difference between two species: the smaller one (Common pipistrelle) emits at higher frequencies than the larger one (Noctule commune):
+[![Common pipistrelle and Noctule commune](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd6cTMwZHVxM2d5a2I2NDRybzNqZmdlNjFkcHNnY3c4azdwdHRlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I3TpZLlEyQftdbharU/giphy.gif)](https://youtube.com/shorts/o716J1PAqY4) _Guillaume Marchais (Echo Meter Touch 2)_
+
+Would you like to see more examples?
+1. [Yes](chirossons)
+1. [No]()
 
 
 
+ ## chirossons
+- [This mini website offers videos of various sounds recorded by Guillaume Marchais](https://padlet.com/gmarchais/chirossons-376pej6e7gr67tme)
+<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:480px;height:352px;max-width:100%"><iframe src="https://padlet.com/padlets/376pej6e7gr67tme/embeds/preview_embed" style="width:100%;height:100%;display:block;padding:0;margin:0" frameborder="0"></iframe></div>
+- This [dedicated search engine](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) can also help you find examples of sounds visible on spectrograms. (Click on the image search once you are on the results page. Entering scientific names will yield more examples from English-language sources).
+  _( Click on the image search once on the results page. Entering scientific names will yield more examples from English-language sources.)_
 
 
 
+## Non
+- references
+- guides
+
+I hope you have gained a better understanding of the sound universe of European bats.
+To further explore the topic, I recommend the following references:
+- [Ecologie acoustique des chiroptères d'Europe (Acoustic Ecology of European Bats) by M. Barataud](http://ecologieacoustique.fr/?page_id=13)
+- [Guides produced by the services of the Museum National d'Histoire Naturelle de Paris (National Museum of Natural History in Paris)](https://www.vigienature.fr/fr/page/documentations-identification-acoustique)
+![](https://media.giphy.com/media/VHrFbmOtBwysbsYnka/giphy.gif)
+
+Return to the main menu?
+1. [Yes]()
+
+
+
+## esp commune
+- common species
+- common pipistrelle
+- common serotine
+- Daubenton's bat
+- Natterer's bat
+
+The other species can roughly be divided into two categories: those most commonly and least frequently detected.
+* **Common pipistrelle**: the most frequently encountered species in general
+[![Common pipistrelle hunting - expansion x10](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXg5M3RyMGs0M2VvNXhobGhzYjUyYzFuMjZoNHR3OXd4bHhhMHdkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XLhD3IR0osg6P1dItj/giphy.gif)](https://youtube.com/shorts/fpqj9ydZM4Y) _Guillaume Marchais (Echo Meter Touch 2)_
+* **Common serotine** *: a large species that hunts at the edge and often roosts in attics
+[![Common serotine hunting - expansion x10](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lrMTk1NXBzYWJ0YmNsMmJ5cDRhb3dkM2p4Zmc2cDNya2NoN3oxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IrNhlVXmcb4R9uTBW2/giphy.gif)](https://youtube.com/shorts/8FmeJPnSOY4) _Guillaume Marchais (Echo Meter Touch 2)_
+* **Daubenton's bat**: a species often encountered above lakes and waterways.
+[![Daubenton's bat hunting - expansion x10](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdpdjA5eHdpYmN3ejAxOWRid2c4eHg3bXB0ZTV4MHRxd2NlNHJ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rinkzjbBYH89MCTFsI/giphy.gif)](https://youtube.com/shorts/ovts9Ez3KLk) _Guillaume Marchais (Echo Meter Touch 2)_
+* **Natterer's bat**: a species often encountered in various rural areas
+[![Natterer's bat hunting - expansion x10](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDc3MDRybTNhYTNuNmx5eXByZndrc3RwemhidzE5Ynd5b3NuZDJrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wRrkRVlDZNaTXc3sCN/giphy.gif)](https://youtube.com/shorts/s3tleMoh92w) _Guillaume Marchais (Echo Meter Touch 2)_
+
+Would you like to see more examples?
+1. [Yes](chirossons)
+1. [No]()
+
+
+## détecteurs
+- detectors
+- microphone
+- microphones
+- device
+
+There are numerous devices that use one or more active or passive technologies. Active devices are used for self-prospecting, while passive devices are placed for one or more nights. Most are standalone, while others can be connected to a smartphone with a dedicated app.
+A comparison of active detectors has been compiled over the years by French expert [Michel Barataud](http://ecologieacoustique.fr/wp-content/uploads/Comparatif_detecteurs-manuels_MB.pdf).
+For passive detectors, there are models like the Audiomoth from Openacoustic, SMbat from Wildlife Acoustics, and Anabat from Titley scientific.
+They are available from French specialized suppliers such as [Biotope](https://leclub-biotope.com/fr/124-materiel-de-terrain-logiciels), [Wildcare](https://www.wildcare.eu/chauves-souris/detecteurs-portatifs.html), and [Jama](https://www.jama.fr/boutique/fr/prise-de-son/detecteurs-chauves-souris/batbox-60).
+Alternatively, an associative initiative offers the production of detectors from components in a self-managed collective. The approach is for an informed audience, as it requires delving into detailed documentation [here](https://framagit.org/PiBatRecorderPojects/TeensyRecorders) and spending some time on it... but the reward is at the end with high-quality detectors at a low cost (around 100 € per unit compared to 500 to 1500 € for those directly marketed).
+
+Return to the main menu?
+1. [Yes]()
+
+
+## analyse ordi
+ - software
+- computer
+- training
+
+Certain species require advanced learning to allow for species discrimination as much as possible within the limits of recording quality and signal quantity.
+Specialized books, guides, and tutorials allow for self-learning to some extent.
+Here is a non-exhaustive list of sources:
+- [https://www.vigienature.fr/fr/page/documentations-identification-acoustique](https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former)
+- [https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former](https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former)
+- [BARATAUD M., 2020. Ecologie acoustique des chiroptères d’Europe. Identification des espèces, études de leurs habitats et comportements de chasse](http://ecologieacoustique.fr/?page_id=13)
+- [RUSS J., 2023. Les chauves-souris - par le son](https://www.delachauxetniestle.com/livre/les-chauves-souris-par-le-son)
+
+And a list of free software packages:
+- [Kaleidoscope Lite](https://www.wildlifeacoustics.com/products/kaleidoscope/kaleidoscope-lite) : allows you to "manipulate" raw files and convert them to different formats (WAV; ZC ; W4C)
+- [AnalookW](https://users.lmi.net/corben/WinAnalook.htm#AnaLookW_Contents) : only allows analysis of lightweight ZC files with poor resolution. Useful for large volumes to process. [Video tutorials](https://youtu.be/FSVgMu8JOOc) by Guillaume Marchais explain the different steps of processing.
+- [Chirosurf](https://vigie-chiro.forumactif.com/t108-chirosurf-2-2-analyse-bioacoustique-gratuit-portable-01-01-24) : allows you to learn how to dissect a recorded file in time expansion format WAV (French only)
+
+In Europe, the [BTO Acoustic Pipeline](https://www.bto.org/our-science/products-and-technologies/bto-acoustic-pipeline) provides tools for the detection and identification of birds, bats and other wildlife in both audible and ultrasonic sound recordings.
+In France, the [VIGI CHIROS national participatory science program](https://www.vigienature.fr/fr/page/participer-vigie-chiro) offers all participants the opportunity to upload or upload their recordings for automated analysis by their TADARIDA classifier.
+
+Other advanced software solutions are available for purchase as an annual or permanent license:
+- Sonochiro from Biotope (Europe and Overseas)
+- Kaleidoscope pro from Wildlife Acoustics (International)
+- Sonobat (North America)
+
+
+## esp rare
+- rare species
+* The [murins](https://youtube.com/shorts/ZcZIt625iJ4) are a group of species that emit so-called frequency-modulated abrupt sounds, as the frequency drops rapidly in just a few milliseconds.
+[![Murins](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jyeng0Y2xyaTR2OWdvZDk2dDNsMXdhcHFqbmpyZG84ZWpsdXc3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BG7cIvh33KDA97BUvf/giphy.gif)](https://youtube.com/shorts/ZcZIt625iJ4) _Guillaume Marchais (Echo Meter Touch 2)_
+* The [oreillards](https://youtu.be/PJG16JBDlVA?si=zPHDFKLZ1Pya7s0K) are species with large ears relative to their body size and tend to emit ultrasounds through their nose. They are more discreet and therefore detected less frequently.
+[![Oreillards](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY1cGEzODdzd2llanlxNHF3ZmtobmJtZTUwMm16NWw5aGQ2eDhsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tLHH89M4sa00cytoPA/giphy.gif)](https://youtube.com/shorts/uO6JgctaViE) _Guillaume Marchais (Echo Meter Touch 2)_
+The Barbastelle is another discreet species that [prefers hunting nocturnal moths from the Tympanidae family](http://ecologieacoustique.fr/wp-content/uploads/Barataud_2011_Adaptation-sonar-B.barbastellus_capture-papillons.pdf) by jamming the "sonic trails" with an alternation of signals between 35 KhZ and 43 kHz approximately.
+[![Barbastelle](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Zndmh4ZmYybGkycHo1aTFibzI4b3o0aW90aWl4MDJjdWphNXJtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fU5k7LCUBUBs9Y3ptM/giphy.gif)](https://youtube.com/shorts/eA_8P5fo5NI) _Guillaume Marchais (Echo Meter Touch 2)_
+* This [dedicated search engine](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) can also help you find examples of sounds visible on spectrograms. (Click on the image search once on the results page. Entering scientific names will yield more examples from English-language sources).
+
+Return to the main menu?
+1. [Yes]()
+
+
+## socio
+- social
+- social calls
+- C1
+- D1
+- C2
+- D2
+
+* Social calls are more or less complex interaction sounds that require specific learning.
+* A thesis by German Guido Pfalzer has allowed for the creation of a first compilation for European species; [its English translation by Yann Galger is available here](https://drive.google.com/file/d/1aBBtsV2ezhd907e-sEGQm5Zj2L2OD0pL/view).
+* In France, [a compilation was produced by Olivier Vinet in 2023](https://www.vigienature.fr/sites/vigienature/files/documents/baseref_chiros-cs_vinet-bas_v1.pdf).
+* This [dedicated search engine](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) can also help you find examples of sounds visible on spectrograms. (Click on the image search once on the results page. Entering scientific names will yield more examples from English-language sources).
+
+Return to the main menu?
+1. [Yes]()
