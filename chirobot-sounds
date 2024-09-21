@@ -9,7 +9,7 @@ tags: template
 
 > **<span class="unique">I am a chatbot created with [ChatMD](https://eyssette.forge.aeif.fr/chatMD) based on the work of [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) who compiles publicly available information but does not produce it himself.</span>**
 >![](https://media.giphy.com/media/9gqC3kr1MEwxK9YP6T/giphy.gif)
-> I can help you learn about the sounds emitted by chiropterans with video clips. 
+> I can help you learn about the sounds emitted by European bats with video clips. 
 > What would you like to know exactly? **(scroll down)**
 >
 > 1. [Types of sounds](sons types)
@@ -51,10 +51,6 @@ Other sounds are used for communication with their fellow bats, either in their 
  <img src="http://img.youtube.com/vi/acT9iogoqyg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5" />
 </a>_Guillaume  Marchais_
 Finally, a captured animal will emit distress calls that are almost audible to humans.
-Here is an extract from the old TV show "C'est pas sorcier" on the subject:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8f3Txe6mjag?si=bcIXp3SDU0_uYe4L&t=702" target="_blank">
- <img src="http://img.youtube.com/vi/8f3Txe6mjag/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
-</a>
 
 Learn more?
 1. [Yes](sons types 2)
@@ -80,7 +76,7 @@ See a table detailing the species groups?
 1. [Yes](tableau especes)
 2. [No]()
 
- # tableau especes
+ ## tableau especes
 - Bat species
 - Noctule
 - Oreillard
@@ -114,7 +110,7 @@ Return to the main menu?
 
 
 ## esp basse
- - noctule
+- noctule
 - nyctalus
 - low frequencies
 The larger species are known to emit at lower frequencies for their "sonar" sounds, typically between 8 and 25 kHz (Cestoni's bat and noctules).
@@ -122,23 +118,21 @@ In heterodyne, their sounds are rather low-pitched and widely spaced because the
 [![Noctule hunting](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwxajF0MHB2M3h3eXRkZGIwNGFnN3R5aDBpMjhjZWZmaTI1M3ZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7L0SnBtFm5Rz4vjXqZ/giphy.gif)](https://youtube.com/shorts/IbPkGTADIeQ) _Guillaume Marchais (Echo Meter Touch 2)_
 
 In the following example, you can clearly see the difference between two species: the smaller one (Common pipistrelle) emits at higher frequencies than the larger one (Noctule commune):
-[![Common pipistrelle and Noctule commune](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd6cTMwZHVxM2d5a2I2NDRybzNqZmdlNjFkcHNnY3c4azdwdHRlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I3TpZLlEyQftdbharU/giphy.gif)](https://youtube.com/shorts/o716J1PAqY4) _Guillaume Marchais (Echo Meter Touch 2)_
+[![Common pipistrelle and Common noctule bats](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd6cTMwZHVxM2d5a2I2NDRybzNqZmdlNjFkcHNnY3c4azdwdHRlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I3TpZLlEyQftdbharU/giphy.gif)](https://youtube.com/shorts/o716J1PAqY4) _Guillaume Marchais (Echo Meter Touch 2)_
 
 Would you like to see more examples?
 1. [Yes](chirossons)
-1. [No]()
+2. [No]()
 
 
-
- ## chirossons
+## chirossons
 - [This mini website offers videos of various sounds recorded by Guillaume Marchais](https://padlet.com/gmarchais/chirossons-376pej6e7gr67tme)
 <div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:480px;height:352px;max-width:100%"><iframe src="https://padlet.com/padlets/376pej6e7gr67tme/embeds/preview_embed" style="width:100%;height:100%;display:block;padding:0;margin:0" frameborder="0"></iframe></div>
 - This [dedicated search engine](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) can also help you find examples of sounds visible on spectrograms. (Click on the image search once you are on the results page. Entering scientific names will yield more examples from English-language sources).
   _( Click on the image search once on the results page. Entering scientific names will yield more examples from English-language sources.)_
 
 
-
-## Non
+## No
 - references
 - guides
 
