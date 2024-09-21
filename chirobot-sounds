@@ -138,7 +138,6 @@ Return to the main menu?
 ## No
 - references
 - guides
-
 I hope you have gained a better understanding of the sound universe of European bats.
 To further explore the topic, I recommend the following references:
 - [Ecologie acoustique des chiroptères d'Europe (Acoustic Ecology of European Bats) by M. Barataud](http://ecologieacoustique.fr/?page_id=13)
@@ -157,7 +156,6 @@ Return to the main menu?
 - common serotine
 - Daubenton's bat
 - Natterer's bat
-
 The other species can roughly be divided into two categories: those most commonly and least frequently detected.
 * **Common pipistrelle**: the most frequently encountered species in general
 [![Common pipistrelle hunting - expansion x10](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXg5M3RyMGs0M2VvNXhobGhzYjUyYzFuMjZoNHR3OXd4bHhhMHdkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XLhD3IR0osg6P1dItj/giphy.gif)](https://youtube.com/shorts/fpqj9ydZM4Y) _Guillaume Marchais (Echo Meter Touch 2)_
@@ -178,7 +176,6 @@ Would you like to see more examples?
 - microphone
 - microphones
 - device
-
 There are numerous devices that use one or more active or passive technologies. Active devices are used for self-prospecting, while passive devices are placed for one or more nights. Most are standalone, while others can be connected to a smartphone with a dedicated app.
 A comparison of active detectors has been compiled over the years by French expert [Michel Barataud](http://ecologieacoustique.fr/wp-content/uploads/Comparatif_detecteurs-manuels_MB.pdf).
 For passive detectors, there are models like the Audiomoth from Openacoustic, SMbat from Wildlife Acoustics, and Anabat from Titley scientific.
@@ -187,13 +184,12 @@ Alternatively, an associative initiative offers the production of detectors from
 
 Return to the main menu?
 1. [Yes]()
-
+2. [No](No)
 
 ## analyse ordi
  - software
 - computer
 - training
-
 Certain species require advanced learning to allow for species discrimination as much as possible within the limits of recording quality and signal quantity.
 Specialized books, guides, and tutorials allow for self-learning to some extent.
 Here is a non-exhaustive list of sources:
@@ -215,12 +211,16 @@ Other advanced software solutions are available for purchase as an annual or per
 - Kaleidoscope pro from Wildlife Acoustics (International)
 - Sonobat (North America)
 
+Return to the main menu?
+1. [Yes]()
+2. [No](No)
+
 
 ## esp rare
 - rare species
-* The [murins](https://youtube.com/shorts/ZcZIt625iJ4) are a group of species that emit so-called frequency-modulated abrupt sounds, as the frequency drops rapidly in just a few milliseconds.
+* The [Myotis species](https://youtube.com/shorts/ZcZIt625iJ4) are a group of species that emit so-called frequency-modulated abrupt sounds, as the frequency drops rapidly in just a few milliseconds.
 [![Murins](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jyeng0Y2xyaTR2OWdvZDk2dDNsMXdhcHFqbmpyZG84ZWpsdXc3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BG7cIvh33KDA97BUvf/giphy.gif)](https://youtube.com/shorts/ZcZIt625iJ4) _Guillaume Marchais (Echo Meter Touch 2)_
-* The [oreillards](https://youtu.be/PJG16JBDlVA?si=zPHDFKLZ1Pya7s0K) are species with large ears relative to their body size and tend to emit ultrasounds through their nose. They are more discreet and therefore detected less frequently.
+* The [Plecotus species](https://youtu.be/PJG16JBDlVA?si=zPHDFKLZ1Pya7s0K) are species with large ears relative to their body size and tend to emit ultrasounds through their nose. They are more discreet and therefore detected less frequently.
 [![Oreillards](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY1cGEzODdzd2llanlxNHF3ZmtobmJtZTUwMm16NWw5aGQ2eDhsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tLHH89M4sa00cytoPA/giphy.gif)](https://youtube.com/shorts/uO6JgctaViE) _Guillaume Marchais (Echo Meter Touch 2)_
 The Barbastelle is another discreet species that [prefers hunting nocturnal moths from the Tympanidae family](http://ecologieacoustique.fr/wp-content/uploads/Barataud_2011_Adaptation-sonar-B.barbastellus_capture-papillons.pdf) by jamming the "sonic trails" with an alternation of signals between 35 KhZ and 43 kHz approximately.
 [![Barbastelle](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Zndmh4ZmYybGkycHo1aTFibzI4b3o0aW90aWl4MDJjdWphNXJtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fU5k7LCUBUBs9Y3ptM/giphy.gif)](https://youtube.com/shorts/eA_8P5fo5NI) _Guillaume Marchais (Echo Meter Touch 2)_
@@ -228,7 +228,7 @@ The Barbastelle is another discreet species that [prefers hunting nocturnal moth
 
 Return to the main menu?
 1. [Yes]()
-
+2. [No](No)
 
 ## socio
 - social
@@ -245,3 +245,4 @@ Return to the main menu?
 
 Return to the main menu?
 1. [Yes]()
+2. [No](No)
