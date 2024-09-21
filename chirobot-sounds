@@ -1,0 +1,56 @@
+ Here is the English translation in Markdown format:
+
+---
+maths : true
+gestionGrosMots: true
+rechercheContenu: true
+tags: template
+---
+
+# Chirobot-sounds: A brief guide to the sounds emitted by bats in France.
+
+> **<span class="unique">I am a chatbot created with [ChatMD](https://eyssette.forge.aeif.fr/chatMD) based on the work of [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) who compiles publicly available information but does not produce it himself.</span>**
+>![](https://media.giphy.com/media/9gqC3kr1MEwxK9YP6T/giphy.gif)
+> I can help you learn about the sounds emitted by chiropterans with video clips. 
+> What would you like to know exactly? **(scroll down)**
+>
+> 1. [Types of sounds](sons types)
+> 2. [Types of technology to allow us to hear them](techno)
+> 3. [Species that emit in very high frequencies](esp haute)
+> 4. [Species that emit in low frequencies](esp basse)
+> 5. [Species that often emit between 25 and 80 kHz](esp commune)
+> 6. [Species that rarely emit between 25 and 80 kHz](esp rare)
+> 7. [Devices that detect them](détecteurs)
+> 8. [Identification techniques from recordings](analyse ordi)
+> 9. [Social or atypical complicated sounds](socio)
+> 10. [Quizz](quizz)
+
+## techno
+- technology
+- listening
+- detector
+- heterodyne
+- frequency division
+- time expansion
+Bats emit sounds at frequencies that are above our audible range for the most part, called ultrasonic. Technologies have been developed to allow us to "hear" them:
+* **Heterodyne** : two signals of different frequencies, called the input signal and the local signal, are mixed in a device called a mixer. The mixer produces an output signal whose frequency is the sum or the difference of the two input frequencies. When the two signals are mixed, the output signal has a frequency equal to the difference of the two input frequencies. This frequency is called the beat frequency. The beat frequency is then amplified and demodulated. Demodulation consists of converting the beat frequency into an audible signal. It is listened to live but only a reduced range of frequencies can be heard at a time (approximately 5 kHz).
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=LoKl0gnCoOg" target="_blank">
+ <img src="http://img.youtube.com/vi/LoKl0gnCoOg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5" />
+</a> _Guillaume  Marchais Anabat Walkabout_
+* **Frequency division** : the microphone signal is then sent to a filter. The filter separates the different frequencies of the ultrasonic signal. The different frequencies can be heard simultaneously but with a muffled sound that crackles.
+* **Time expansion** works by sampling the audio signal at a frequency higher than the normal sampling frequency. This gives the audio signal greater temporal resolution, which allows the signal to be slowed down without losing data. In France, the sound is usually slowed down 10 times. A clear sound is heard but with a delay because it requires recording the live signal to be replayed.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=I1qYClcPkVs" target="_blank">
+ <img src="http://img.youtube.com/vi/I1qYClcPkVs/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5" />
+</a> _Guillaume  Marchais Kaleidoscope_
+Would you like to see the devices that use these technologies?
+1. [Yes](détecteurs)
+2. [No]()
+
+## sons types
+Bats use echolocation to move around in the dark during evolution. They therefore regularly emit "
+
+
+
+
+
+
