@@ -12,11 +12,11 @@ tags: template
 >
 > 1. [Les différents types de sons](sons types)
 > 2. [Les différents types de technologie pour nous permettre de les entendre](techno)
-> 3. [Les espèces qui émettent en très hautes fréquences](esp haute)
-> 4. [Les espèces qui émettent en basses fréquences](esp basse)
-> 5. [Les espèces qui émettent souvent entre 25 et 80 kHz](esp commune)
-> 6. [Les espèces qui rarement émettent entre 25 et 80 kHz](esp rare)
-> 7. [Les appareils qui les détectent](détecteurs)
+> 3. [Les appareils qui les détectent](détecteurs)
+> 4. [Les espèces qui émettent en très hautes fréquences](esp haute)
+> 5. [Les espèces qui émettent en basses fréquences](esp basse)
+> 6. [Les espèces qui émettent souvent entre 25 et 80 kHz](esp commune)
+> 7. [Les espèces qui émettent rarement entre 25 et 80 kHz](esp rare)
 > 8. [Les techniques d'identification à partir d'enregistrement](analyse ordi)
 > 9. [Les cris sociaux ou atypiques compliqués](socio)
 > 10. [Quizz](quizz)
@@ -43,7 +43,7 @@ Voir les appareils qui utilisent ces technologies ?
 2. [Non](Non)
 
 ## sons types
-Les chauves-souris utilisent l'écholocation au cours de l'évolution depuis des millions d'années afin de pouvoir se déplacer dans l'obscurité. Elles émettent donc des sons de type **"sonar"** régulièrement pour sonder leur environnement direct et "voir" tous les obstacles présents dans l'espace aérien et détecter les proies que sont les insectes volants. Elles ne sont pas aveugles pour autant, mais le sens de la vue est secondaire.
+Les chauves-souris utilisent l'écholocation depuis des millions d'années afin de pouvoir se déplacer dans l'obscurité. Elles émettent donc des sons de type **"sonar"** régulièrement pour sonder leur environnement direct et "voir" tous les obstacles présents dans l'espace aérien et détecter les proies que sont les insectes volants. Elles ne sont pas aveugles pour autant, mais le sens de la vue est secondaire.
 D'autres sons sont utilisés soit dans leur gîte pour s'exprimer auprès de leurs congénères (mère / progéniture notamment) ; ils sont plutôt longs et bas en fréquence, soit quand elles s'interagissent en vol sur un territoire de chasse par exemple. On parle de **cris sociaux**.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=acT9iogoqyg" target="_blank">
  <img src="http://img.youtube.com/vi/acT9iogoqyg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5" />
@@ -64,7 +64,7 @@ En savoir plus ?
 - signal
 - largeur de bande
 Voici les principaux critères de détermination des chauves-souris d'Europe sur la base des fréquences de leurs émissions sonores qui sont utilisés en combinaison pour identifier les différentes espèces de chauves-souris.
-* **Fréquence de pic** : la fréquence la plus élevée d'un signal ultrasonore. Elle est généralement exprimée en kHz (kilohertz). La fréquence de pic est un critère important pour l'identification des chauves-souris, car elle est souvent spécifique à une espèce ou à un groupe d'espèces.
+* **Pic de Fréquence** :  Le pic de fréquence (maximum d'énergie) est un critère important pour l'identification des chauves-souris, car elle est souvent spécifique à une espèce ou à un groupe d'espèces.
 * **Largeur de bande** : la différence entre la fréquence de pic et la fréquence la plus basse du signal ultrasonore. Elle est généralement exprimée en kHz. La largeur de bande est également un critère important pour l'identification des chauves-souris, car elle peut varier en fonction de l'espèce et de la taille de l'animal.
 * **Durée** : d'un signal ultrasonore est exprimée en millisecondes (ms). La durée est un critère moins important que la fréquence de pic ou la largeur de bande, mais elle peut être utile pour distinguer certaines espèces.
 * **Rhythme** : nombre de pulsations par seconde. Il est généralement exprimé en cris ou pulsations par seconde. Le rythme est un critère moins important que la fréquence de pic ou la largeur de bande, mais il peut être utile pour distinguer certaines espèces.
@@ -114,7 +114,7 @@ Retour au menu principal ?
 - nyctalus
 - fréquences basses
 Les plus grosses espèces sont connues pour émettre à des fréquences plus basses pour les sons "sonar" ; soit entre 8 et 25 kHz en général (Molosse de Cestoni et les noctules).
-En hétérodyne, les sont plutôt graves et espacés car elles volent souvent à des hauteurs supérieures à 30 m et sur de longues distances (en dizaines de kilomètres).
+En hétérodyne, les sons sont plutôt graves et espacés car elles volent souvent à des hauteurs supérieures à 30 m et sur de longues distances (en dizaines de kilomètres).
 [![Noc com chasse](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemwxajF0MHB2M3h3eXRkZGIwNGFnN3R5aDBpMjhjZWZmaTI1M3ZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7L0SnBtFm5Rz4vjXqZ/giphy.gif)](https://youtube.com/shorts/IbPkGTADIeQ) _Guillaume  Marchais (Echo Meter Touch 2)_
 Dans l'exemple suivant, on peut bien voir la différence entre deux espèces : la petite (Pipistrelle commune) émet à des fréquences plus élevées que la grosse (Noctule commune) :
 [![Pip com et Noc com](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd6cTMwZHVxM2d5a2I2NDRybzNqZmdlNjFkcHNnY3c4azdwdHRlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I3TpZLlEyQftdbharU/giphy.gif)](https://youtube.com/shorts/o716J1PAqY4) _Guillaume  Marchais (Echo Meter Touch 2)_
@@ -211,11 +211,11 @@ D'autres solutions informatiques élaborées sont disponibles à la vente sous f
 
 ## esp rare
 - rare
-* Les [murins](https://youtube.com/shorts/ZcZIt625iJ4) regroupent un groupe d'espèces qui émettent des sons dit de fréquence modulée abrupte car chute très rapidement en fréquence en quelques millisecondes.
+* Les [murins](https://youtube.com/shorts/ZcZIt625iJ4) regroupent un groupe d'espèces qui émettent des sons dit de fréquence modulée abrupte car chutent très rapidement en fréquence en quelques millisecondes.
 [![Murins](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jyeng0Y2xyaTR2OWdvZDk2dDNsMXdhcHFqbmpyZG84ZWpsdXc3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BG7cIvh33KDA97BUvf/giphy.gif)](https://youtube.com/shorts/ZcZIt625iJ4) _Guillaume  Marchais (Echo Meter Touch 2)_
-* Les [oreillards](https://youtu.be/PJG16JBDlVA?si=zPHDFKLZ1Pya7s0K) sont des espèces aux grandes oreilles par rapport à leur corps et tendent à émetrre des ultrasons passant par leur nez. Elles sont plus discrètes, donc détectées plus occasionnellement 
+* Les [oreillards](https://youtu.be/PJG16JBDlVA?si=zPHDFKLZ1Pya7s0K) sont des espèces aux grandes oreilles par rapport à leur corps et tendent à émettre des ultrasons passant par leur nez. Elles sont plus discrètes, donc détectées plus occasionnellement.
 [![Oreillards](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY1cGEzODdzd2llanlxNHF3ZmtobmJtZTUwMm16NWw5aGQ2eDhsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tLHH89M4sa00cytoPA/giphy.gif)](https://youtube.com/shorts/uO6JgctaViE) _Guillaume  Marchais (Echo Meter Touch 2)_
-La Barbastelle est une autre espèce discrète qui [chasse préférentiellement les papipllons de nuit de la famille des Tympanés](http://ecologieacoustique.fr/wp-content/uploads/Barataud_2011_Adaptation-sonar-B.barbastellus_capture-papillons.pdf) en brouillant les "pistes sonores" avec une alternance de signaux entre 35 KhZ et 43 kHz environ.
+La Barbastelle est une autre espèce discrète qui [chasse préférentiellement les papillons de nuit de la famille des Tympanés](http://ecologieacoustique.fr/wp-content/uploads/Barataud_2011_Adaptation-sonar-B.barbastellus_capture-papillons.pdf) en brouillant les "pistes sonores" avec une alternance de signaux entre 35 KhZ et 43 kHz environ.
 [![Barbastelle](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Zndmh4ZmYybGkycHo1aTFibzI4b3o0aW90aWl4MDJjdWphNXJtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fU5k7LCUBUBs9Y3ptM/giphy.gif)](https://youtube.com/shorts/eA_8P5fo5NI) _Guillaume  Marchais (Echo Meter Touch 2)_
 * Ce [petit moteur de recherche dédié](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) peut aussi à trouver des exemples de sons visibles sur spectrogramme. (Cliquer sur la recherche d'images une fois sur la page de résultats. Saisir des noms scientifiques permet de récolter davantage d'exemples à partir de sources anglophones).
 Retour au menu principal ?
