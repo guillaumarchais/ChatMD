@@ -24,7 +24,7 @@ tags: template
 ## techno
 - technologie
 - écoute
-- détecteur
+- acoustique
 - hétérodyne
 - division de fréquence
 - expansion de temps
@@ -106,7 +106,8 @@ _**Quelques espèces de chauves-souris européennes selon leurs groupes taxonomi
 | Eptesicus | FM abrupte | 20-40 | [Sérotine commune](https://inpn.mnhn.fr/espece/cd_nom/60360) (_Eptesicus serotinus_), [Sérotine bicolore](https://inpn.mnhn.fr/espece/cd_nom/60537) (_Vespertilio murinus_), [Sérotine de Nilsson](https://inpn.mnhn.fr/espece/cd_nom/79302) (_Eptesicus nilssonii_) |
 
 Retour au menu principal ?
-1. [Oui](Non)
+1. [Oui]()
+2. [Non](Non)
 
 ## esp haute
 Les rhinolophes qui ont souvent la tête en bas dans les grottes et les caves émettent des signaux de très haute fréquence constante (> 80 kHz pour l'harmonique la plus "audible").
@@ -142,6 +143,7 @@ D'autres exemples ?
 ## Non
 - références
 - guides
+- bilbiographie
 J'espère que tu as pu mieux comprendre l'univers sonore des chauves-souris européennes. 
 Pour aller plus loin, je recommande les références suivantes :
 * [Ecologie acoustique des chiroiptères d'Europe de M. Barataud](http://ecologieacoustique.fr/?page_id=13)
@@ -157,6 +159,8 @@ Retour au menu principal ?
 - sérotine commune
 - pipistrelle commune
 - souvent
+- commune
+- fréquente
 Les autres qui consituent la majeure partie peuvent grossièrement être séparées en deux catégories : les plus communément et les plus rarement détéctées.
 * **Pipistrelle commune** : l'espèce en général la plus souvent contactée
 [![Pip com chasse - expansion x10](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXg5M3RyMGs0M2VvNXhobGhzYjUyYzFuMjZoNHR3OXd4bHhhMHdkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XLhD3IR0osg6P1dItj/giphy.gif)](https://youtube.com/shorts/fpqj9ydZM4Y) _Guillaume  Marchais (Echo Meter Touch 2)_
@@ -176,13 +180,13 @@ D'autres exemples ?
 <div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:480px;height:352px;max-width:100%"><iframe src="https://padlet.com/padlets/376pej6e7gr67tme/embeds/preview_embed" style="width:100%;height:100%;display:block;padding:0;margin:0" frameborder="0"></iframe></div>
 * Et ce [petit moteur de recherche dédié](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) peut aussi aider à trouver des exemples de sons visibles sur spectrogramme. _(Cliquer sur la recherche d'images une fois sur la page de résultats. Saisir des noms scientifiques permet de récolter davantage d'exemples à partir de sources anglophones)_.
 
-
 Retour au menu principal ?
 1. [Oui]()
 2. [Non](Non)
 
 ## détecteurs
 - détecteurs
+- détecteur
 - micro
 - micros
 - appareil
@@ -202,6 +206,9 @@ Retour au menu principal ?
 - logiciels
 - ordinateur
 - formation
+- analyse
+- traitement
+- informatique
 Certaines espèces nécessitent un apprentissage avancé pour permettre de discriminer les espèces autant que possible dans les limites de la qualité de l'enregistrement et de la quantité de signaux. 
 Des livres, guides et tutoriels spécialisés permettent de se former dans une certaine mesure de manière autodidacte.
 Voici une liste de sources non exhaustives :
@@ -228,6 +235,7 @@ Retour au menu principal ?
 
 ## esp rare
 - rare
+- rares
 * Les [murins](https://youtube.com/shorts/ZcZIt625iJ4) regroupent un groupe d'espèces qui émettent des sons dit de fréquence modulée abrupte car chutent très rapidement en fréquence en quelques millisecondes.
 [![Murins](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jyeng0Y2xyaTR2OWdvZDk2dDNsMXdhcHFqbmpyZG84ZWpsdXc3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BG7cIvh33KDA97BUvf/giphy.gif)](https://youtube.com/shorts/ZcZIt625iJ4) _Guillaume  Marchais (Echo Meter Touch 2)_
 * Les [oreillards](https://youtu.be/PJG16JBDlVA?si=zPHDFKLZ1Pya7s0K) sont des espèces aux grandes oreilles par rapport à leur corps et tendent à émettre des ultrasons passant par leur nez. Elles sont plus discrètes, donc détectées plus occasionnellement.
