@@ -1,6 +1,8 @@
 ---
 maths : true
 gestionGrosMots: true
+style: a{color:red}
+theme: bubbles
 tags: template
 ---
 
