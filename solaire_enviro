@@ -16,13 +16,13 @@ clavier: false
 > 2. [Les impacts sur les chauves-souris](chiros)
 > 3. [Les impacts sur les oiseaux](oiseaux)
 > 4. [Les impacts sur les insectes](insectes)
-> 5. [Des exemples de mesures écologiques](mesures)
-> 6. [Un assistant IA préconfiguré pour poser des questions personnalisées](Non fin)
+> 5. [Les impacts sur les communautés végétales](plantes)
+> 6. [Des exemples de mesures écologiques](mesures)
+> 7. [Un assistant IA préconfiguré pour poser des questions personnalisées](Non fin)
 
 
 ## biodiversité
 - biodiversité
-
 En 2021, Enerplan, SER et les régions Nouvelle-Aquitaine, Occitanie et Provence Alpes Côte d’Azur ont publié [la synthèse de la première phase](https://media-exp1.licdn.com/dms/document/C561FAQG6gwhC3zVIoQ/feedshare-document-pdf-analyzed/0/1618837662379?e=1619074800&v=beta&t=cbCUIwzFFMRDI5d1uHw1yvuISyNPYEt5fzgFAAsMPn0) de leur analyse sur l’impact des parcs photovoltaïques au sol sur la biodiversité. Ce travail menée sur un temps relativement court (1er semestre 2020) a permis d’initier un bilan factuel des effets des parcs photovoltaïques sur la biodiversité. Il a vocation à être complété par une 2ème phase plus longue (2021-2022) au périmètre élargi (échelle nationale) et à l’analyse plus approfondie.
 
 L’étude s’est basée sur l’exploitation de 316 documents se rapportant à 111 parcs photovoltaïques, dont 41 parcs en PACA, 30 parcs en Nouvelle-Aquitaine, 29 parcs en Occitanie et 11 parcs dans d’autres régions, principalement en Auvergne-Rhône-Alpes, permettant d’étudier trois écosystèmes différents (atlantique, méditerranéen et médioeuropéen). L’analyse de l’impact a été réalisée sur les principales composantes biologiques étudiées dans les documents exploités : la flore et trois composantes faunistiques (les papillons de jour, les reptiles et les oiseaux). Les données étaient cependant trop peu nombreuses pour analyser les tendances d’évolution applicables à d’autres insectes, aux amphibiens, aux chauves-souris et aux mammifères terrestres.
@@ -91,6 +91,16 @@ Une [méta analyse des impacts du PV en AURA](https://dumas.ccsd.cnrs.fr/DUMAS/d
 :::info Information
 _"Malgré une forte amélioration de la qualité des EIE depuis 2010, des déséquilibres se maintiennent, avec notamment moins de rigueur apportée à la prospection des espèces à faible enjeux. Pour mesurer les impacts bruts des CPS dans la région, des inventaires ont été réalisé sur les taxons à faible enjeu. Les rhopalocères sont les plus touchés avec une diminution forte du nombre d’insecte entre les panneaux. La composition des populations d’orthoptères est impactée par la présence des CPS. Enfin, selon la diversité du site avant travaux, une centrale semble pouvoir amener de l’hétérogénéité et de la diversité dans les communautés végétales."_
 :::
+
+Retour au sommaire ?
+1. [Oui]()
+2. [Non](Non fin)
+
+## plantes
+- plantes
+- végétales
+- flore
+En 2024, une [méta-analyse des articles scientifiques publiés](https://enr-pprod.ofb.fr/actualites-biblios/meta-analyse-de-l-impact-des-centrales-photovoltaiques-sur-les-communautes-vegetales) met en évidence une diminution satistiquement significative de la diversité floristique sous les panneaux par rapport à l'espace inter-rang. En revanche, aucun effet statistiquement significatif des panneaux sur l'abondance végétale n'a été mis en évidence. En l'état actuel des connaissances disponibles, ces résultats restent à approfondir. Les scientifiques recommandent de poursuivre l'acquisition de données et leur analyse, au vu de la forte hétérogénité des effets des centrales PV au sol.
 
 Retour au sommaire ?
 1. [Oui]()
