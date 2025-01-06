@@ -30,12 +30,11 @@ tags: template
 - expansion de temps
 Les chauves-souris émettent des sons à des fréquences qui sont au-dessus de notre capacité auditive pour la plupart, on les nomment des ultrasons. Des technologies ont été développées pour nous permettre des les "entendre" :
 * **Hétérodyne** : deux signaux de fréquences différentes, appelées signal d'entrée et signal local, sont mélangés dans un dispositif appelé mélangeur. Le mélangeur produit un signal de sortie dont la fréquence est la somme ou la différence des fréquences des deux signaux d'entrée. Lorsque les deux signaux sont mélangés, le signal de sortie a une fréquence égale à la différence des deux fréquences d'entrée. Cette fréquence est appelée fréquence de battement. Le signal de battement est ensuite amplifié et démodulé. La démodulation consiste à convertir le signal de battement en un signal audible. On écoute en direct mais on ne peut y entendre qu'un gamme rédduite de fréquences à la fois (environ 5 kHz).
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=LoKl0gnCoOg"><img src="http://img.youtube.com/vi/LoKl0gnCoOg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="2" />
+<a href="https://youtu.be/LoKl0gnCoOg?feature=shared">
 </a> _Guillaume  Marchais Anabat Walkabout_
 * **La division de fréquence** : le signal du microphone est ensuite envoyé à un filtre. Le filtre sépare les différentes fréquences du signal d'ultrason. On entend en direct toutes les fréquences simultanément mais avec un son peu claire qui grésille.
 * **L'expansion de temps** fonctionne en échantillonnant le signal audio à une fréquence plus élevée que la fréquence d'échantillonnage normale. Cela donne au signal audio une plus grande résolution temporelle, ce qui permet de ralentir le signal sans perdre de données. En France, le son est ralenti 10 fois en général. On entend un son clair mais en différé car nécessite un enregistrement du direct à repasser.
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=I1qYClcPkVs" target="_blank">
- <img src="http://img.youtube.com/vi/I1qYClcPkVs/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=I1qYClcPkVs" width="240" height="180" border="2">
 </a> _Guillaume  Marchais Kaleidoscope_
 Voir les appareils qui utilisent ces technologies ?
 1. [Oui](détecteurs)
@@ -44,7 +43,7 @@ Voir les appareils qui utilisent ces technologies ?
 ## sons types
 Les chauves-souris utilisent l'écholocation depuis des millions d'années afin de pouvoir se déplacer dans l'obscurité. Elles émettent donc des sons de type **"sonar"** régulièrement pour sonder leur environnement direct et "voir" tous les obstacles présents dans l'espace aérien et détecter les proies que sont les insectes volants. Elles ne sont pas aveugles pour autant, mais le sens de la vue est secondaire. Elles émettent des cris aigus, généralement entre 14 kHz et 120 kHz, inaudibles pour l'oreille humaine.
 D'autres sons sont utilisés soit dans leur gîte pour s'exprimer auprès de leurs congénères (mère / progéniture notamment) ; ils sont plutôt longs et bas en fréquence, soit quand elles s'interagissent en vol sur un territoire de chasse par exemple. On parle de **cris sociaux**.
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=acT9iogoqyg"><img src="http://img.youtube.com/vi/acT9iogoqyg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5">
+<a href="https://youtube.com/shorts/jhJlrSFMFZ8?feature=share"><img src="http://img.youtube.com/vi/acT9iogoqyg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="2">
 </a>_Guillaume  Marchais_
 Enfin, un animal capturé va émettre des cris d'alerte et de stress quasiment audible pour nous les humains.
 
