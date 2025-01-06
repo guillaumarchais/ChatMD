@@ -33,14 +33,10 @@ tags: template
 - time expansion
 Bats emit sounds at frequencies that are above our audible range for the most part, called ultrasonic. Technologies have been developed to allow us to "hear" them:
 * **Heterodyne** : two signals of different frequencies, called the input signal and the local signal, are mixed in a device called a mixer. The mixer produces an output signal whose frequency is the sum or the difference of the two input frequencies. When the two signals are mixed, the output signal has a frequency equal to the difference of the two input frequencies. This frequency is called the beat frequency. The beat frequency is then amplified and demodulated. Demodulation consists of converting the beat frequency into an audible signal. It is listened to live but only a reduced range of frequencies can be heard at a time (approximately 5 kHz).
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=LoKl0gnCoOg" target="_blank">
- <img src="http://img.youtube.com/vi/LoKl0gnCoOg/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5" />
-</a> _Guillaume  Marchais Anabat Walkabout_
+[![Bat calls in heterodyne](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZqMmZnMncwbDVvdWFtY3F2MXk1cmpxOXlsZXN1Zm52dW1ybzQ2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MuCKUCBSv9UTtyIvLM/giphy.gif)](https://youtu.be/LoKl0gnCoOg?feature=shared) _Guillaume  Marchais Anabat Walkabout_
 * **Frequency division** : the microphone signal is then sent to a filter. The filter separates the different frequencies of the ultrasonic signal. The different frequencies can be heard simultaneously but with a muffled sound that crackles.
 * **Time expansion** works by sampling the audio signal at a frequency higher than the normal sampling frequency. This gives the audio signal greater temporal resolution, which allows the signal to be slowed down without losing data. In France, the sound is usually slowed down 10 times. A clear sound is heard but with a delay because it requires recording the live signal to be replayed.
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=I1qYClcPkVs" target="_blank">
- <img src="http://img.youtube.com/vi/I1qYClcPkVs/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="5" />
-</a> _Guillaume  Marchais Kaleidoscope_
+[![Bat calls in time expansion](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhqeDQzaDdkNnh5bmI0aGczMG93Z2ZydW5ubnluZTdkZGZnOGppaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1UI238Tx8nZQzDfK3/giphy.gif =400x300)](https://youtu.be/I1qYClcPkVs?feature=shared&t=3) _Guillaume  Marchais Kaleidoscope_
 Would you like to see the devices that use these technologies?
 1. [Yes](détecteurs)
 2. [No](No)
