@@ -163,6 +163,7 @@ Tu as compris ?
 ## formule : EoA
 Dans ce cas particulier, les différentes formules ne peuvent pas estimer correctement la mortalité réelle car comment __"extrapoler à partir de (quasi) rien ?"__. Une autre approche est nécessaire : celle qui questionne la **__crédibilité__** des différents paramètres du suivi (plutôt que leur probabilité ou degré de confiance selon une distribution a posteriori). Huso et Dalthorp ont développé une autre application pour mieux rendre compte des résultats pour ce type de situation, c'est __**"Evidence of Absence"**__ . Elle est téléchargeable en open source dans sa [version 2.0 sur le site web de l'USGS (Etats-Unis)](https://pubs.usgs.gov/publication/ds1055). Elle fonctionne avec R 4.0 ou supérieur et différents packages, mais aussi elle nécessite ce programme gratuit d'analyse et modélisation statistiques  ["JAGS"](https://sourceforge.net/projects/mcmc-jags/).
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1c/USGS_logo_green.svg)
+Voici une de mes vidéos qui présente ce logiciel un peu compliqué de première abord : ![Evidence of Absence 2 : intro français](https://youtu.be/aZrcJ62jTdk =700x500)
 Enfin, des experts du bureau d'étude "Western Ecosystems Technology" ont développé une extension qui utilise davantage des valeurs des covariables pour affiner les modèles d'estimation. Plus de détails dans leur publication téléchargeable [ici](https://www.biorxiv.org/content/10.1101/2020.01.21.914754v3.full.pdf)
 Tu veux voir un autre sujet ?
 1. [Oui]()
