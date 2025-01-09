@@ -143,7 +143,9 @@ Tu as compris ?
 ## formule : meilleure
 - meilleure
 Il a été montré qu'il n'y a pas une seule formule pertinente ou valide pour toutes les situations qui peuvent se présenter (persistance courte ou longue etc..). Celle de Huso 2010 est souvent retenue par défaut mais elle a aussi ses limites si peu de cadavres sont trouvés et/ou la persistance est courte tout le temps. Le mieux est de s'orienter vers l'application open source GenEst qu'elle a développé avec Simonis Dalthorp et al. => [https://www.usgs.gov/software/genest-a-generalized-estimator-mortality](https://www.usgs.gov/software/genest-a-generalized-estimator-mortality)
-[Voigt et al.2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512): <blockquote class="is-size-5 is-size-6-mobile has-text-justified">"..., we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines."</blockquote>.
+:::info Information
+[Voigt et al.2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512): _"..., we use the ‘GenEst’ value as this methodological approach is currently the most widely used statistical approach in estimating bat casualties at wind turbines."_
+:::
 Pour aller plus loin, je te recommande la lecture de cette [synthèse par le chercheur Aurélien Besnard du CNRS-CEFE](https://shiny.cefe.cnrs.fr/eolapp/estimations_de_mortalites.pdf)
 ![](https://www.usgs.gov/media/images/genest-generalized-mortality-estimations-cover-art)
 Tu as compris ?
