@@ -191,19 +191,28 @@ Tu veux en apprendre plus ?
 2. [Non](Non fin)
 
 ## Le test de détection
+- détection
+- test
+- observateur
 La capacité d'un obeservateur varie grandement selon les conditions de visbilité, l'expérience, la fatigue, etc... Ce test utilise des leurres qui sont déposés par dizaines à proximité d'une bonne partie des éoliennes afin de rendre compte d'un pourcentage d'entre eux retrouvés en situation de recherche normal. Les résultats sont déclinés par observateur, classe de visibilité, gabarit (petite et moyenne taille) et période. Des scores "mauvais" inférieurs à 50 % environ sont à analyser plus particulièrement afin de vérifier qu'ils ne sont pas  surtout liés à un manque d'attention ou concentration. 
 Tu veux en apprendre plus ?
 1. [Oui]()
 2. [Non](Non fin)
 
 ## La correction surfacique
+- surface
+- surfaces
+- surfacique
 Le [protocole national 2018](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf) demande de couvrir une surface homogène autour du mat de l'éolienne basé sur la longueur de la pale avec un rayon minimal de 50 m. Lorsque l'occupation du sol est trop dense en cultures (blé, maïs, betterave), il devient très difficile de pouvoir prospecter sans les endommager. Ainsi, il est généralement admis de ne pas du tout les prospecter afin de limiter la pénibilité et les dommages associés. La présence de bétail dans les pâtures peut aussi conduire à cette décision. Soit on retient un pourcentage simple sur l'ensemble de la surface théorique, soit on applique une méthode des cercles concentriques tous les 5 ou 10 m.
-![Distance probable au mat des cadavres selon les groupes](http://gmarchais.free.fr/eolien-enviro/IFC_carcass_density_distributions.JPG)
+![Distance probable au mat des cadavres selon les groupes](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxpbnJ1djQ2NTBmaGZrdHFmemRndHl2eGsybTl5YjI5a3RsZ25jbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PKGHwLgQgeWJEWBu3e/giphy.gif)
 Tu veux en apprendre plus ?
 1. [Oui](corr surfa DWP)
 2. [Non](Non fin)
 
 ## corr surfa DWP
+- DWP
+- densité
+- density
 Plus récemment, un calcul savant intègre la densité probable selon la distance au mat. Pour les geeks, voir le [module DWP développé par l'USGS](https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite)
 Pour une utilisation simplifiée, voir le tableur Excel (annexe D) produit par le [guide technique du IFC](https://www.ifc.org/en/insights-reports/2023/bird-bat-fatality-monitoring-onshore-wind-energy-facilities)
 ![](https://www.researchgate.net/publication/358143833/figure/fig2/AS:1116884825055232@1643297501550/Estimation-of-fraction-of-carcasses-lying-within-the-searched-area-a-carcass-density_Q640.jpg)
@@ -226,6 +235,7 @@ C'est assez clair ?
 
 ## reference rp
 Alors je t'invite à lire au moins le résumé de cette publication sur ce sujet :  ["Comparing methods to estimate the proportion of turbine-induced bird and bat mortality in the search area under a road and pad search protocol."](https://link.springer.com/article/10.1007/s10651-020-00466-0)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZmYWJ0YXF6c2psamd6Y3owaHN5dmVpNGpka2Y5bW90dG95bHNpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wgSuV17ZKT4ePSurCd/giphy.gif)
 Tu veux en apprendre plus ?
 1. [Oui]()
 2. [Non](Non fin)
