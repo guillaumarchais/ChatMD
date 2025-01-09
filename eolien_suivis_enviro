@@ -3,7 +3,7 @@ maths : true
 gestionGrosMots: true
 rechercheContenu: true
 ---
-# Chatbot : C'est quoi les suivis environnementaux des parcs éoliens terrestres ?
+# Chatbot : Suivis environnementaux des parcs éoliens terrestres
 > **<span class="unique">Je suis un chatbot créé avec [ChatMD](https://chatmd.forge.apps.education.fr/) à partir du travail de [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas lui-même produit.</span>**
 >![](https://media.giphy.com/media/4CpdsmxdDpcmQ/giphy.gif)
 > Je peux t'aider à comprendre les aspects scientifiques de ce sujet.
@@ -63,7 +63,7 @@ Les principales exigences sont les suivantes :
     * un test permettant d'évaluer la **persistance** des cadavres in situ en fonction des charognards présents localement et des pratiques agricoles
 * l'enregistrement de **l'activité des chauves-souris à hauteur de nacelle en continu** sur une bonne partie de la saison
 **L'objectif est d'estimer une mortalité via l'utilisation de modèles statistiques se basant sur une mortalité réelle corrigeant au mieux les biais du terrain (proportion réduite des surfaces prospectées, durée de persistance des cadavres, détection des observateurs).**
-![]()
+Fin 2024, un article a été publié par plusieurs scientifiques français qui propose plusieurs améliorations à ce protocole national : passages et tests plus réguliers, formalisation des données à fournir, estimations avec le logiciel GenEst. Lire [Suivis réglementaires de la mortalité dans les parcs éoliens : de l’analyse locale à l’approche intégrée](https://revue-set.fr/article/view/8312)
 Tu veux en apprendre plus ?
 1. [Oui]()
 2. [Non](Non fin)
@@ -174,6 +174,7 @@ Tu veux voir un autre sujet ?
 - taux de persistance
 - temps moyen
 Ce test consiste à déposer plusieurs leurres ou faux cadavres (souvent des souris, rats, gerbies congelées pour animalerie ou aussi des poussins ou autres volailles) sur les surfaces prospectables autour des éoliennes afin de rendre compte du temps de persistance à des périodes différentes (mai et septembre par exemple). Le protocole national 2018 demande d'en déposer au moins 3 par éolienne pour chaque test, mais il est recommandé de le pratiquer sur plusieurs éoliennes et sur les différents types de surface selon leur classe de visibilité (bonne et moyenne). En France, les persistances constatées sont assez souvent courtes (< 3 jours) car tous les faux cadavres sont déposés au même moment ; ce qui est un biais par rapport à la situation réelle des collisions (étalée dans le temps). Il est donc d'autant plus pertinent pour le limiter d'appliquer le taux de persistance à la période suivie correspondante avec de la mortalité brute avérée.
+![](http://gmarchais.free.fr/eolien-enviro/IFCE_Carcass_persistence_probablity.JPG)
 Pour aller plus loin, lire cette [synthèse française par des experts du Museum National d'Histoire Naturelle / CESCO : partie 2.2 à partir de page 20](https://librairie.ademe.fr/cadic/8508/Rapport_Final_ademe_VFINAL_Chiro_eolien_2024.pdf) et cette [publication récente de 2024](https://www.sciencedirect.com/science/article/pii/S0006320724000703)
 Tu veux voir un exemple ?
 1. [Oui](Je veux voir un exemple)
