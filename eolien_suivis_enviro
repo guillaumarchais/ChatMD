@@ -255,7 +255,7 @@ Tu veux en apprendre plus ?
 - nacelle
 - suivi chiroptères
 - suivi chauves-souris
-En parallèle des recherches de cadavres de la faune volante, il est demandé d'enregistrer l'activité acoustique des chauves-souris à hauteur de rotation des pales ou de nacelle afin de pouvoir rendre des risques de collision pour ces espèces nocturnes. Des appareils utilisant des micros ultrasonores sophistiqués permettent de "capter" jusqu'à une certaine distance variant selon les espèces et des conditions météo (de 10 à 100 m approximativement). L'ensemble des sons est comptabilisés sous forme d'activité (contacts ou durée des fichiers) et ensuite corrélés aux conditions de vent et température. 
+En parallèle des recherches de cadavres de la faune volante, il est demandé d'enregistrer l'activité acoustique des chauves-souris à hauteur de rotation des pales ou de nacelle afin de pouvoir rendre des risques de collision pour ces espèces nocturnes. Des appareils utilisant des micros ultrasonores sophistiqués permettent de "capter" jusqu'à une certaine distance variant selon les espèces et des conditions météo (de 10 à 100 m approximativement). L'ensemble des sons est comptabilisés sous forme d'activité (contacts ou durée des fichiers) et ensuite corrélés aux conditions de vent et température. La plupart des contacts de chauves-souris sont enregistrés à des vitesses de vent inférieures à 5,5 m/s. Au-delà de 8 m/s, l'activité des chiroptères devient pratiquement inexistante. L'activité des chiroptères augmente avec la température, particulièrement entre 10°C et 25°C.
 ![](https://media.giphy.com/media/9gqC3kr1MEwxK9YP6T/giphy.gif)
 Tu veux voir des exemples ?
 1. [Oui](suivi chiros 2)
@@ -266,7 +266,7 @@ Tu veux voir des exemples ?
 - allemand
 - infrarouge
 - Etats-Unis
-En Europe, les allemands ont particulièrement étudié dans le cadre d'un programme de recherche appliquée nommé "RENEBAT" qui s'est déroulé en 3 phases de 2007 à 2015. A partir des résultats de ces travaux, ils ont pu formalisé une modélisation de l'activité selon plusieurs paramètres et mettre à disposition des professionnels une application qui permet de déterminer un algorithme de bridage à partir des données collectées in situ (activité et météo) selon un protocole spécifique. Ils ont aussi pu montré que l'activité en altitude n'était pas significativementdifférente entre des habitats de milieux ouverts en plaine de milieux forestiers. Plus de détails sur leur site web [ici](https://www.probat.org/probat-7).
+En Europe, les allemands ont particulièrement étudié dans le cadre d'un programme de recherche appliquée nommé "RENEBAT" qui s'est déroulé en 3 phases de 2007 à 2015. A partir des résultats de ces travaux, ils ont pu formalisé une modélisation de l'activité selon plusieurs paramètres et mettre à disposition des professionnels une application qui permet de déterminer un algorithme de bridage à partir des données collectées in situ (activité et météo) selon un protocole spécifique. Ils ont aussi pu montré que l'activité en altitude n'était pas significativement différente entre des habitats de milieux ouverts en plaine de milieux forestiers. Plus de détails sur leur site web [ici](https://www.probat.org/probat-7).
 ![](https://www.probat.org/fileadmin/_processed_/6/2/csm_ProBat_Fledermausaktivitaet_U.Eberius_7c7a0d4eb9.png =600x700)
 **Verteilung der Fledermausaktivität im Rotorbereich einer Windenergieanlage, Grafik: Ulrike Eberius**
 
@@ -295,6 +295,7 @@ Plusieurs initiatives sont actuellement en cours pour compiler de nombreux résu
 * France > région Grand-Est : [CPIE Pays de Soulaines 2018](http://www.plume-de-naturalistes.fr/wp-content/uploads/2019/04/09_TERNOIS_03-2019_Impact-developpement-eolien_Plume3_195-212.pdf)
 * France > région Grand-Ouest : [Ouest Am](https://www.genie-ecologique.fr/synthese-des-donnees-de-suivis-post-implantation-deoliennes-dans-le-grand-ouest)
 * France > région Centre Val-de-Loire : [DREAL CVL](https://ssm-ecologie.shinyapps.io/suivi_eolien/)
+* France > région Occitanie > Aveyron / Lévezou : [CEN Occitanie 2022](https://plan-actions-chiropteres.fr/actualites-agenda/synthese-des-suivis-de-mortalite-des-chiropteres-de-parcs-eoliens-dans-le-levezou-aveyron)
 * Allemagne : [Voigt et al. 2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512)
 * Espagne > région sud : [Salguero et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
 * Etats-Unis : [Lloyd et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
