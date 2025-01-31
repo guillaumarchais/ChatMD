@@ -70,12 +70,12 @@ EoA comprend plusieurs modules :
  ```
  Où :
  - `X` est le nombre de cadavres trouvés.
- - `g` est la probabilité globale de détection.  
+ - `g` est la probabilité globale de détection. 
+
  **EoA** utilise une approche bayésienne avec distributions postérieures."
 
-La documentation complète publiée par les experts de l'USGS est [téléchargeable ici](https://pubs.usgs.gov/ds/1055/ds1055.pdf)
-
-[Je vous invite aussi à consulter mon autre chatbot dédié aux suivis environnementaux des parcs éoliens terrestres](https://gmarchais.free.fr/eolien-enviro)
+Je vous invite aussi à consulter [mon autre chatbot dédié aux suivis environnementaux des parcs éoliens terrestres](http://gmarchais.free.fr/eolien-enviro).
+Sinon, la documentation complète publiée par les experts de l'USGS est [téléchargeable ici.](https://pubs.usgs.gov/ds/1055/ds1055.pdf)
 
 1. [Retour au menu]()
 
@@ -84,7 +84,6 @@ La documentation complète publiée par les experts de l'USGS est [téléchargea
 - analyse
 - projection
 - cumulative
-
 
 📌 **Pourquoi projeter la mortalité ?**
 ✔️ Anticiper les tendances pour améliorer la gestion des espèces protégées.  
