@@ -92,7 +92,7 @@ La documentation complète publiée par les experts de l'USGS est [téléchargea
 ✔️ Optimiser les efforts de surveillance (coût, efficacité).  
 
 **Méthodes de projection dans EoA**
-**Evidence of Absence (EoA) v2.0** permet d’estimer les mortalités sur plusieurs années grâce à trois approches principales :
+EoA permet d’estimer les mortalités sur plusieurs années grâce à trois approches principales :
 
 | **Méthode**                 |  **Objectif** |
 |---------------------------------|----------------|
@@ -102,11 +102,9 @@ La documentation complète publiée par les experts de l'USGS est [téléchargea
 
 **Estimation de la mortalité cumulative**  
 EoA utilise une **distribution postérieure** pour estimer l'impact global sur plusieurs années.  
-
 📈 **Formule** :  M_total = ∑ M_année
 où `M_année` est la mortalité annuelle estimée.  
-
-**Exemple :**  
+Exemple : 
 - Année 1 : `M* = 10`  
 - Année 2 : `M* = 12`  
 - Année 3 : `M* = 8`  
@@ -115,39 +113,38 @@ où `M_année` est la mortalité annuelle estimée.
 
 **Projection de la mortalité future**  
 EoA peut simuler les tendances futures en utilisant des données historiques et des hypothèses sur l’évolution du site.  
-🔍 **Paramètres influençant la projection :**
-- 🏗 **Modifications du site** (ex. ajout de nouvelles éoliennes 🚧).
-- 📉 **Effet des mesures d’atténuation** (ex. arrêt temporaire des turbines ⚠️).
-- 📊 **Variabilité des conditions environnementales** (ex. migration des espèces 🦉).  
+🔍 **Paramètres influençant la projection :
+- 🏗 Modifications du site** (ex. ajout de nouvelles éoliennes 🚧).
+- 📉 Effet des mesures d’atténuation** (ex. arrêt temporaire des turbines ⚠️).
+- 📊 Variabilité des conditions environnementales** (ex. migration des espèces 🦉).  
 
 📈 **Graphique ASCII - Simulation de la mortalité sur 5 ans**  
 ```ascii
 Année      1    2    3    4    5
 Mortalité  ████ █████ ███ ████ ██
-
-**Exemple de scénario** :
+```
 👉 Si un site double son nombre d’éoliennes d’ici 5 ans, EoA peut estimer la mortalité projetée en ajustant M* en fonction du taux de mortalité (λ).
 
 **Test de dépassement des seuils de mortalité**
 Dans le cadre des réglementations environnementales, des seuils de mortalité sont définis. EoA permet d’évaluer la probabilité que ces seuils soient dépassés.
 
-📌 Seuil réglementaire : M_max = 50 morts/an
+📌 Seuil permis : M_max = 20 morts/an
 📉 Probabilité de dépassement : P(M > M_max) = ∫ f(M) dM   [Distribution postérieure]
 
 Interprétation :
-Si P(M > 50) = 5% 👉 Impact conforme ✅
-Si P(M > 50) = 30% 👉 Risque élevé ⚠️, mesures correctives nécessaires.
+- Si P(M > 20) = 5% 👉 Impact conforme ✅
+- Si P(M > 20) = 30% 👉 Risque élevé ⚠️, mesures correctives nécessaires.
 
 
 Pour améliorer la précision des projections, EoA propose plusieurs stratégies d’optimisation :
-🏷 Stratégie	📌 Effet attendu
-Augmenter la fréquence des recherches 📅	🔍 Améliore la détection des cadavres
-Étendre la surface de recherche 📍	📊 Capture plus de données pour affiner g
-Tester différentes méthodes de surveillance 🔬	🔢 Évalue l’impact des ajustements
-Intégrer les facteurs saisonniers 🌍	📈 Prend en compte la variabilité écologique
+- Augmenter la fréquence des recherches 📅	=> 🔍 Améliore la détection des cadavres
+- Étendre la surface de recherche 📍 =>	📊 Capture plus de données pour affiner g
+- Tester différentes méthodes de surveillance 🔬=>	🔢 Évalue l’impact des ajustements
+- Intégrer les facteurs saisonniers 🌍	> 📈 Prend en compte la variabilité écologique
+
 🔢 Exemple :
-👉 Actuellement : Recherches tous les 15 jours, probabilité de détection g = 0.3
-👉 Amélioration : Passer à 1 recherche/7 jours, g = 0.5, ce qui réduit l’incertitude sur M*
+👉 Actuellement : Recherches tous les 7 jours, probabilité de détection g = 0.3
+👉 Amélioration : Passer à 1 recherche/4 jours, g = 0.5, ce qui réduit l’incertitude sur M*
 
 1. [Retour au menu]()
 
