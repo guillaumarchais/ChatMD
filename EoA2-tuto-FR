@@ -6,17 +6,20 @@ rechercheContenu: true
 
 # 🤖 Chatbot Evidence of Absence (EoA) v2.0
 
-> 🛠 Bienvenue dans l'assistant interactif EoA 📊
+> 🛠 Bienvenue dans l'assistant interactif français pour EoA2  📊
 >
-> Ce chatbot vous aide à comprendre et utiliser le logiciel **Evidence of Absence (EoA) v2.0**, un outil d'estimation de la mortalité d'oiseaux et de chauves-souris dans les parcs éoliens.
+> Ce chatbot vous aide à comprendre et utiliser le logiciel **Evidence of Absence (EoA) v2.0**, un outil d'estimation de la mortalité d'oiseaux et de chauves-souris dans les parcs éoliens qui permet de
+>✔️ Estimer les impacts cumulatifs sur plusieurs années.
+>✔️ Simuler les effets futurs des modifications du site.
+>✔️ Vérifier si les seuils réglementaires sont respectés.
+>✔️ Ajuster la stratégie de suivi pour optimiser les efforts.
 >
-> 💡 **Comment utiliser ce chatbot ?**  
->Tapez une commande pour obtenir des informations spécifiques.  
+> 💡 **Tapez une commande pour obtenir des informations spécifiques.**
 > 1. [Installation et configuration](instal)
 > 2. [Utilisation du logiciel](util)
 > 3. [Concepts et explications](concept)
-> 4. [Système interactif de Q/R](question)
-> 5. [Analyse et exploration](analyse)
+> 4. [Analyse et scénario](analyse)
+> 5. [Comparaison avec les autres estimateurs](comparaison)
 > 6. [Aide et ressources](aide)
 
 ## instal
@@ -35,6 +38,13 @@ rechercheContenu: true
 - `saisie_donnees` – Comment saisir et structurer les données.
 - `resultats` – Explication des résultats fournis par **EoA**.
 
+"Dans R, exécutez les commandes suivantes :  
+```r
+ library(eoa)
+ eoa()
+ ```  
+ Assurez-vous que tous les packages sont installés correctement avant de démarrer."
+
  📌 **Commandes disponibles :**
 
 | 🔹 **Catégorie**              | 🔎 **Commande**             | 📌 **Description** |
@@ -47,13 +57,12 @@ rechercheContenu: true
 | 📈 **Exploration**             | `scenarios`                | Projections des mortalités et stratégies de suivi |
 | ❓ **Aide & FAQ**              | `aide`                     | Liste des commandes disponibles |
 
-
-"EoA comprend plusieurs modules :  
+EoA comprend plusieurs modules :  
 - **Classe unique** : analyse une seule période et classe de recherche.  
 - **Classes multiples** : combine plusieurs classes de recherche.  
 - **Plusieurs années** : estime l'impact cumulé et projette la mortalité future.  
 - **Compromis de conception** : optimise la surveillance.  
-- **Explorateur de scénarios** : évalue les impacts à long terme."
+- **Explorateur de scénarios** : évalue les impacts à long terme.
 
 1. [Retour au menu]()
 
@@ -75,20 +84,91 @@ rechercheContenu: true
 
 1. [Retour au menu]()
 
-## question
-Tapez `question` suivi de votre question. Par exemple :
-- `question Comment installer EoA ?`
-- `question Comment interpréter les résultats ?`
-- `question Quels sont les modules disponibles ?`
-
-1. [Retour au menu]()
-
-## analyse
+## scenario
 - `scenarios` – Projection des mortalités et stratégies de suivi.
-- `comparaison_modele` – Comparaison d'EoA avec d'autres estimateurs.
-- `questions_faq` – Réponses aux questions fréquentes.
+
+
+📊 Projection des mortalités et stratégies de suivi
+
+La projection des mortalités est essentielle pour anticiper l’impact des infrastructures (ex. parcs éoliens) sur la faune et ajuster les stratégies de suivi.
+
+📌 **Pourquoi projeter la mortalité ?**
+✔️ Anticiper les tendances pour améliorer la gestion des espèces protégées.  
+✔️ Vérifier la conformité avec les limites de mortalité autorisées.  
+✔️ Optimiser les efforts de surveillance (coût, efficacité).  
+
+### 🔹 **Méthodes de projection dans EoA**
+**Evidence of Absence (EoA) v2.0** permet d’estimer les mortalités sur plusieurs années grâce à trois approches principales :
+
+| **Méthode**                 |  **Objectif** |
+|---------------------------------|----------------|
+| **Estimation de la mortalité cumulative** | Évaluer l’impact total sur plusieurs années. |
+| **Projection de la mortalité future** | Simuler les effets de différentes stratégies de suivi. |
+| **Test de dépassement de seuils** | Déterminer si les limites de mortalité sont respectées. |
+
+---
+
+### 🔹 **1️⃣ Estimation de la mortalité cumulative**  
+EoA utilise une **distribution postérieure** pour estimer l'impact global sur plusieurs années.  
+
+📈 **Formule** :  M_total = ∑ M_année
+
+où `M_année` est la mortalité annuelle estimée.  
+
+🔢 **Exemple :**  
+- Année 1 : `M* = 10`  
+- Année 2 : `M* = 12`  
+- Année 3 : `M* = 8`  
+👉 **Mortalité cumulée** après 3 ans : `M_total = 10 + 12 + 8 = 30` cadavres.  
+
+---
+
+### 🔹 **2️⃣ Projection de la mortalité future**  
+EoA peut simuler les tendances futures en utilisant des données historiques et des hypothèses sur l’évolution du site.  
+
+🔍 **Paramètres influençant la projection :**
+- 🏗 **Modifications du site** (ex. ajout de nouvelles éoliennes 🚧).
+- 📉 **Effet des mesures d’atténuation** (ex. arrêt temporaire des turbines ⚠️).
+- 📊 **Variabilité des conditions environnementales** (ex. migration des espèces 🦉).  
+
+📈 **Graphique ASCII - Simulation de la mortalité sur 5 ans**  
+
+```ascii
+Année      1    2    3    4    5
+Mortalité  ████ █████ ███ ████ ██
+
+
+**Exemple de scénario** :
+👉 Si un site double son nombre d’éoliennes d’ici 5 ans, EoA peut estimer la mortalité projetée en ajustant M* en fonction du taux de mortalité (λ).
+
+🔹 3️⃣ **Test de dépassement des seuils de mortalité**
+Dans le cadre des réglementations environnementales, des seuils de mortalité sont définis. EoA permet d’évaluer la probabilité que ces seuils soient dépassés.
+
+📌 Seuil réglementaire : M_max = 50 morts/an
+📉 Probabilité de dépassement : P(M > M_max) = ∫ f(M) dM   [Distribution postérieure]
+
+Interprétation :
+Si P(M > 50) = 5% 👉 Impact conforme ✅
+Si P(M > 50) = 30% 👉 Risque élevé ⚠️, mesures correctives nécessaires.
+
+
+_*Pour améliorer la précision des projections, EoA propose plusieurs stratégies d’optimisation :*_
+🏷 Stratégie	📌 Effet attendu
+Augmenter la fréquence des recherches 📅	🔍 Améliore la détection des cadavres
+Étendre la surface de recherche 📍	📊 Capture plus de données pour affiner g
+Tester différentes méthodes de surveillance 🔬	🔢 Évalue l’impact des ajustements
+Intégrer les facteurs saisonniers 🌍	📈 Prend en compte la variabilité écologique
+🔢 Exemple :
+👉 Actuellement : Recherches tous les 15 jours, probabilité de détection g = 0.3
+👉 Amélioration : Passer à 1 recherche/7 jours, g = 0.5, ce qui réduit l’incertitude sur M*
 
 1. [Retour au menu]()
+
+
+## comparaison
+- `comparaison_modele` – Comparaison d'EoA avec d'autres estimateurs.
+
+
 
 ## aide
 - `aide` – Affiche la liste des commandes disponibles.
