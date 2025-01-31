@@ -45,18 +45,6 @@ rechercheContenu: true
  ```  
  Assurez-vous que tous les packages sont installés correctement avant de démarrer."
 
- 📌 **Commandes disponibles :**
-
-| 🔹 **Catégorie**              | 🔎 **Commande**             | 📌 **Description** |
-|--------------------------------|----------------------------|--------------------|
-| 🛠 **Installation**            | `installation`             | Instructions pour installer **EoA v2.0** |
-| 🖥 **Utilisation**             | `modules`                  | Présentation des modules de **EoA** |
-| 📝 **Saisie des données**      | `saisie_donnees`           | Explication sur la structuration des données |
-| 📊 **Analyse des résultats**   | `resultats`                | Explication des sorties de **EoA** |
-| 🔢 **Calculs & Modèles**      | `estimation`               | Méthodes d'estimation de la mortalité |
-| 📈 **Exploration**             | `scenarios`                | Projections des mortalités et stratégies de suivi |
-| ❓ **Aide & FAQ**              | `aide`                     | Liste des commandes disponibles |
-
 EoA comprend plusieurs modules :  
 - **Classe unique** : analyse une seule période et classe de recherche.  
 - **Classes multiples** : combine plusieurs classes de recherche.  
@@ -66,7 +54,7 @@ EoA comprend plusieurs modules :
 
 1. [Retour au menu]()
 
-## (concept)
+## concept
 - `estimation` – Explication de l'estimation de la mortalité (`M*`).
 - `probabilite_detection` – Comprendre la probabilité globale de détection (`g`).
 - `persistance` – Influence de la persistance des cadavres sur l'estimation.
