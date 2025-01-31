@@ -19,8 +19,9 @@ rechercheContenu: true
 > 7. [Les formules d'estimation de la mortalité](Les formules d'estimation)
 > 8. [Le suivi acoustique des chauves-souris](suivi chiros)
 > 9. [Le suivi ornithologique](suivi ornitho)
-> 10. [Quizz : une autre façon de s'informer](quizz)
-> 11. [Expert : Evaluation pluriannuelle des mortalités en fonction des bridages appliqués](pluriannuel)
+> 10. [FAQ : une autre façon de s'informer](FAQ)
+> 11. [Quizz : une autre façon de se former](quizz)
+> 12. [Expert : Evaluation pluriannuelle des mortalités en fonction des bridages appliqués](pluriannuel)
 
 ## esp sensibles
 - espèces sensibles
@@ -391,6 +392,47 @@ Une fois que l'on maitrise l'ensemble de ces éléments de suivi, la pratique pr
 Le premier indicateur est le déclencheur à long terme d'un seuil de mortalités cumulées, le second est le déclencheur du taux mortalité à court-terme, et le troisième est le seuil de réversion dans le cas plus rare où la mesure de réduction ("adaptative management action") s'avère surdimensionnée.
 [Je vous invite ainsi à consulter mes vidéos amateures dédiées à ce sujet d'expert](https://www.youtube.com/playlist?list=PL3LkDeGmG9TdNperp_RUc8Ziyph2BoNF7)
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhcGs4aXZlZXZiZjlyMjZuZmxuOWtpOGplcXBtbjhldDhmNjM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8Ty8tGp83pHRoqOti/giphy.gif)
+Tu veux en apprendre plus ?
+1. [Oui]()
+2. [Non](Non fin)
+
+## FAQ
+
+1. Comment les coefficients surfaciques sont-ils utilisés dans l'étude de la mortalité?
+:::info
+Les coefficients surfaciques servent à ajuster le nombre de cadavres trouvés en fonction de la proportion de surface prospectée, permettant ainsi d'estimer le nombre total de mortalités réelles. Ils sont essentiels pour comparer les données entre différentes zones et différents moments de l'année.
+:::
+
+2. Quelles sont les trois formules principales utilisées pour estimer la mortalité, et à quelles espèces s'appliquent-elles ?
+:::info
+Les trois formules principales sont Erickson, Jones, et Huso. La formule d’Erickson s’applique généralement à l’avifaune, tandis que celles de Jones et Huso sont utilisées à la fois pour l’avifaune et les chiroptères.
+:::
+
+3. Qu'est-ce que le coefficient de persistance des cadavres et comment varie-t-il pour les chiroptères ?
+:::info
+Le coefficient de persistance des cadavres est une mesure du temps pendant lequel un cadavre reste détectable dans l'environnement avant de se décomposer ou d'être enlevé. Il varie généralement pour les chiroptères en fonction de la saison et des conditions environnementales, mais il s'agit de quelques jours seulement la plupart du temps dû à de la prédation par les corneilles et renards par exemple.
+:::
+
+4. Quels sont les principaux habitats pris en compte lors du calcul des surfaces prospectables et non prospectables?
+:::info
+Les principaux habitats sont les cultures, les friches, les prairies, les plateformes et pistes. Ces catégories permettent une évaluation précise de la disponibilité des différentes zones pour la recherche des cadavres.
+:::
+
+5. Quel est le but des cercles concentriques dans le contexte des études de mortalité ?
+:::info
+Les cercles concentriques sont utilisés pour diviser la zone autour des éoliennes en différentes zones de distance. Cela permet d’analyser la répartition des cadavres en fonction de la distance de l’éolienne, afin d’identifier les zones de risque.
+:::
+
+7. Comment les données de mortalité mensuelle sont-elles calculées pour chaque éolienne ?
+:::info
+Les données de mortalité mensuelle sont calculées à l'aide des formules d'Erickson, Jones et Huso, en prenant en compte le nombre de cadavres retrouvés, les coefficients surfaciques, et le coefficient de persistance des cadavres. Les résultats sont ensuite présentés dans des tableaux synthétiques.
+:::
+
+8. Comment le statut biologique des espèces est-il catégorisé dans les rapports sur l'avifaune ?
+:::info
+Dans les rapports sur l’avifaune, le statut biologique des espèces est catégorisé comme hivernant, migrateur, nicheur, sédentaire, ou indéterminé. Ces catégories permettent d'évaluer comment les différentes espèces utilisent le territoire et sont affectées par le parc éolien.
+:::
+
 Tu veux en apprendre plus ?
 1. [Oui]()
 2. [Non](Non fin)
