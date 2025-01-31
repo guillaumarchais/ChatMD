@@ -4,11 +4,9 @@ gestionGrosMots: true
 rechercheContenu: true
 ---
 
-# 🤖 Chatbot Evidence of Absence (EoA) v2.0
+# 🤖 Chatbot d'introduction à "Evidence of Absence (EoA) v2.0"
 
-> 🛠 Bienvenue dans l'assistant interactif français pour EoA2  📊
->
-> Ce chatbot vous aide à comprendre et utiliser le logiciel **Evidence of Absence (EoA) v2.0**, un outil d'estimation de la mortalité d'oiseaux et de chauves-souris dans les parcs éoliens qui permet de
+> Ce chatbot vous aide à comprendre et installer le logiciel open source **Evidence of Absence (EoA) v2.0** publié par l'USGS, un outil d'estimation de la mortalité d'oiseaux et de chauves-souris dans les parcs éoliens qui permet de
 >✔️ Estimer les impacts cumulatifs d'un parc sur plusieurs années.
 >✔️ Vérifier si les seuils de mortalité acceptable sont respectés.
 >✔️ Ajuster la stratégie de suivi pour optimiser les efforts.
@@ -229,7 +227,7 @@ Prenons un site où :
 - `sources` – Liens vers la documentation officielle.
 📚 **Ressources utiles :**
 - 📄 **Guide officiel EoA** : [https://doi.org/10.3133/ds1055](https://doi.org/10.3133/ds1055)
-- 🌍 **Site Web USGS** : [https://www.usgs.gov/](https://www.usgs.gov/)
+- 🌍 **EoA3 sur Github** : [https://github.com/cran/eoa3/](https://github.com/cran/eoa3/)
 - 📊 **Téléchargement de R** : [https://www.r-project.org/](https://www.r-project.org/)
 
 
