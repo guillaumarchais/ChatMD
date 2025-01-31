@@ -14,8 +14,8 @@ rechercheContenu: true
 >✔️ Ajuster la stratégie de suivi pour optimiser les efforts.
 >
 > 💡 **Tapez une commande pour obtenir des informations spécifiques.**
-> 1. [Installation et configuration](instal)
-> 2. [Utilisation du logiciel](util)
+> 1. [Installation](instal)
+> 2. [Utilisation](util)
 > 3. [Concepts et explications](concept)
 > 4. [Analyse et scénario](analyse)
 > 5. [Comparaison avec les autres estimateurs](comparaison)
@@ -28,7 +28,15 @@ rechercheContenu: true
 Pour installer **EoA v2.0**, vous devez :  
 - Télécharger et installer **R v3.3.0 ou plus** : [https://www.r-project.org/](https://www.r-project.org/)  
 - Télécharger et installer **JAGS v4.2.0 ou plus** : [https://sourceforge.net/projects/mcmc-jags/files/]  
-- Installer les packages R requis : R6, matrixStats, rjags, tensorA, actuar, VGAM, tcltk2, tkrplot, gsl."
+- Installer les packages R requis : R6, matrixStats, rjags, tensorA, actuar, VGAM, tcltk2, tkrplot, gsl.
+
+Dans R, exécutez les commandes suivantes :  
+```r
+ library(eoa)
+ eoa()
+ ```  
+ Assurez-vous que tous les packages sont installés correctement avant de démarrer.
+
 1. [Retour au menu]()
 
 ## util
@@ -37,13 +45,6 @@ Pour installer **EoA v2.0**, vous devez :
 - `saisie_donnees` – Comment saisir et structurer les données.
 - `resultats` – Explication des résultats fournis par **EoA**.
 
-Dans R, exécutez les commandes suivantes :  
-```r
- library(eoa)
- eoa()
- ```  
- Assurez-vous que tous les packages sont installés correctement avant de démarrer."
-
 EoA comprend plusieurs modules :  
 - **Classe unique** : analyse une seule période et classe de recherche.  
 - **Classes multiples** : combine plusieurs classes de recherche.  
@@ -51,7 +52,7 @@ EoA comprend plusieurs modules :
 - **Compromis de conception** : optimise la surveillance.  
 - **Explorateur de scénarios** : évalue les impacts à long terme.
 
-[Je vous invite aussi à consulter mes vidéos tutoriels sur Youtube](https://www.youtube.com/playlist?list=PL3LkDeGmG9TdNperp_RUc8Ziyph2BoNF7)
+[Je vous invite à consulter mes vidéos tutoriels sur Youtube](https://www.youtube.com/playlist?list=PL3LkDeGmG9TdNperp_RUc8Ziyph2BoNF7)
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhcGs4aXZlZXZiZjlyMjZuZmxuOWtpOGplcXBtbjhldDhmNjM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8Ty8tGp83pHRoqOti/giphy.gif)
 
 1. [Retour au menu]()
@@ -74,8 +75,7 @@ EoA comprend plusieurs modules :
 
 La documentation complète publiée par les experts de l'USGS est [téléchargeable ici](https://pubs.usgs.gov/ds/1055/ds1055.pdf)
 
-[Je vous invite aussi à consulter mes vidéos tutoriels sur Youtube](https://www.youtube.com/playlist?list=PL3LkDeGmG9TdNperp_RUc8Ziyph2BoNF7)
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhcGs4aXZlZXZiZjlyMjZuZmxuOWtpOGplcXBtbjhldDhmNjM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8Ty8tGp83pHRoqOti/giphy.gif)
+[Je vous invite aussi à consulter mon autre chatbot dédié aux suivis environnementaux des parcs éoliens terrestres](https://gmarchais.free.fr/eolien-enviro)
 
 1. [Retour au menu]()
 
@@ -188,7 +188,7 @@ Différentes méthodes existent pour estimer la mortalité des espèces impacté
 ✔️ **Si les mortalités sont faibles ou incertaines**, un modèle bayésien comme **EoA** est plus fiable.  
 
 :::info
-Exemple d’estimation avec différents modèles**
+Exemple d’estimation avec différents modèles :
 Prenons un site où :
 - `X = 3` cadavres observés
 - `g = 0.2` (probabilité de détection estimée)
@@ -197,8 +197,8 @@ Prenons un site où :
 
 | 📊 **Modèle**         | 🔢 **Estimation M** | 📌 **Interprétation** |
 |---------------------|------------------|-----------------|
-| **Huso (2011)**     | `M* ≈ 20` | Correction mais biais possible si `k` est mal défini |
-| **EoA (v2.0)**      | `M* ≈ 25` | Approche bayésienne tenant compte des incertitudes |
+| Huso (2011)     | `M* ≈ 20` | Correction mais biais possible si `k` est mal défini |
+| EoA (v2.0)      | `M* ≈ 25` | Approche bayésienne tenant compte des incertitudes |
 :::
 
 1. [Je conclue ?](conclue)
