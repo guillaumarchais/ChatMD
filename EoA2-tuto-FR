@@ -100,18 +100,19 @@ EoA permet d’estimer les mortalités sur plusieurs années grâce à trois app
 | **Projection de la mortalité future** | Simuler les effets de différentes stratégies de suivi. |
 | **Test de dépassement de seuils** | Déterminer si les limites de mortalité sont respectées. |
 
-**Estimation de la mortalité cumulative**  
+**1) Estimation de la mortalité cumulative**  
 EoA utilise une **distribution postérieure** pour estimer l'impact global sur plusieurs années.  
 📈 **Formule** :  M_total = ∑ M_année
 où `M_année` est la mortalité annuelle estimée.  
+:::info
 Exemple : 
 - Année 1 : `M* = 10`  
 - Année 2 : `M* = 12`  
 - Année 3 : `M* = 8`  
 👉 **Mortalité cumulée** après 3 ans : `M_total = 10 + 12 + 8 = 30` cadavres.  
+:::
 
-
-**Projection de la mortalité future**  
+**2) Projection de la mortalité future**  
 EoA peut simuler les tendances futures en utilisant des données historiques et des hypothèses sur l’évolution du site.  
 🔍 **Paramètres influençant la projection :
 - 🏗 Modifications du site** (ex. ajout de nouvelles éoliennes 🚧).
@@ -125,16 +126,13 @@ Mortalité  ████ █████ ███ ████ ██
 ```
 👉 Si un site double son nombre d’éoliennes d’ici 5 ans, EoA peut estimer la mortalité projetée en ajustant M* en fonction du taux de mortalité (λ).
 
-**Test de dépassement des seuils de mortalité**
+**3)Test de dépassement des seuils de mortalité**
 Dans le cadre des réglementations environnementales, des seuils de mortalité sont définis. EoA permet d’évaluer la probabilité que ces seuils soient dépassés.
-
 📌 Seuil permis : M_max = 20 morts/an
 📉 Probabilité de dépassement : P(M > M_max) = ∫ f(M) dM   [Distribution postérieure]
-
 Interprétation :
 - Si P(M > 20) = 5% 👉 Impact conforme ✅
 - Si P(M > 20) = 30% 👉 Risque élevé ⚠️, mesures correctives nécessaires.
-
 
 Pour améliorer la précision des projections, EoA propose plusieurs stratégies d’optimisation :
 - Augmenter la fréquence des recherches 📅	=> 🔍 Améliore la détection des cadavres
@@ -142,10 +140,11 @@ Pour améliorer la précision des projections, EoA propose plusieurs stratégies
 - Tester différentes méthodes de surveillance 🔬=>	🔢 Évalue l’impact des ajustements
 - Intégrer les facteurs saisonniers 🌍	> 📈 Prend en compte la variabilité écologique
 
+:::info
 🔢 Exemple :
 👉 Actuellement : Recherches tous les 7 jours, probabilité de détection g = 0.3
 👉 Amélioration : Passer à 1 recherche/4 jours, g = 0.5, ce qui réduit l’incertitude sur M*
-
+:::
 1. [Retour au menu]()
 
 
