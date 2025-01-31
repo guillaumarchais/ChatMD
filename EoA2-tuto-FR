@@ -9,9 +9,8 @@ rechercheContenu: true
 > 🛠 Bienvenue dans l'assistant interactif français pour EoA2  📊
 >
 > Ce chatbot vous aide à comprendre et utiliser le logiciel **Evidence of Absence (EoA) v2.0**, un outil d'estimation de la mortalité d'oiseaux et de chauves-souris dans les parcs éoliens qui permet de
->✔️ Estimer les impacts cumulatifs sur plusieurs années.
->✔️ Simuler les effets futurs des modifications du site.
->✔️ Vérifier si les seuils réglementaires sont respectés.
+>✔️ Estimer les impacts cumulatifs d'un parc sur plusieurs années.
+>✔️ Vérifier si les seuils de mortalité acceptable sont respectés.
 >✔️ Ajuster la stratégie de suivi pour optimiser les efforts.
 >
 > 💡 **Tapez une commande pour obtenir des informations spécifiques.**
@@ -38,7 +37,7 @@ rechercheContenu: true
 - `saisie_donnees` – Comment saisir et structurer les données.
 - `resultats` – Explication des résultats fournis par **EoA**.
 
-"Dans R, exécutez les commandes suivantes :  
+Dans R, exécutez les commandes suivantes :  
 ```r
  library(eoa)
  eoa()
