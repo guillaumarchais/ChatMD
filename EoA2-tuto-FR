@@ -205,13 +205,13 @@ Prenons un site où :
 ## conclue
 📢 **Conclusion :**  
 👉 Huso (2011) est plus précis mais dépend de la valeur de `k`.  
-👉 EoA donne une meilleure estimation en intégrant l’incertitude ✅.  
+👉 EoA donne une meilleure estimation en intégrant l’incertitude et la crédibilité ✅.  
 
 :::info
 📌 **Pourquoi choisir EoA ?**
 - Idéal pour les faibles mortalités (ex. 0-10 cadavres trouvés)  
 - Corrige les biais des modèles classiques  
-- Prend en compte l’incertitude avec une approche bayésienne 
+- Prend en compte l’incertitude avec une approche bayésienne (intervalles de crédibilité)
 :::
 
 :::warning Attention !
