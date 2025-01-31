@@ -6,55 +6,22 @@ rechercheContenu: true
 
 # 🤖 Chatbot Evidence of Absence (EoA) v2.0
 
-## 🛠 Bienvenue dans l'assistant interactif EoA 📊
+> 🛠 Bienvenue dans l'assistant interactif EoA 📊
+>
+> Ce chatbot vous aide à comprendre et utiliser le logiciel **Evidence of Absence (EoA) v2.0**, un outil d'estimation de la mortalité d'oiseaux et de chauves-souris dans les parcs éoliens.
+>
+> 💡 **Comment utiliser ce chatbot ?**  
+>Tapez une commande pour obtenir des informations spécifiques.  
+> 1. Installation et configuration
+> 2. Utilisation du logiciel
+> 3. Concepts et explications
+> 4. Système interactif de Q/R
+> 5. Analyse et exploration
+> 6. Aide et ressources
 
-Ce chatbot vous aide à comprendre et utiliser le logiciel **Evidence of Absence (EoA) v2.0**, un outil d'estimation de la mortalité d'oiseaux et de chauves-souris dans les parcs éoliens.
-
-💡 **Comment utiliser ce chatbot ?**  
-Tapez une commande pour obtenir des informations spécifiques.  
-
----
-
-## 📌 **Commandes disponibles :**
-
-### 🔹 Installation et configuration
+## 🔹 Installation et configuration
 - `installation` – Instructions pour installer **EoA v2.0**.
 - `prerequis` – Liste des logiciels et packages nécessaires.
-
-### 🔹 Utilisation du logiciel
-- `modules` – Présentation des modules de **EoA**.
-- `lancer_logiciel` – Commandes pour démarrer EoA dans **R**.
-- `saisie_donnees` – Comment saisir et structurer les données.
-- `resultats` – Explication des résultats fournis par **EoA**.
-
-### 🔹 Concepts et explications
-- `estimation` – Explication de l'estimation de la mortalité (`M*`).
-- `probabilite_detection` – Comprendre la probabilité globale de détection (`g`).
-- `persistance` – Influence de la persistance des cadavres sur l'estimation.
-- `efficacite_chercheur` – Rôle des chercheurs et leur efficacité (`p` et `k`).
-- `calcul_mortalite` – Formules pour estimer la mortalité totale.
-
-### 🔹 Système interactif de Q/R
-Tapez `question` suivi de votre question. Par exemple :
-- `question Comment installer EoA ?`
-- `question Comment interpréter les résultats ?`
-- `question Quels sont les modules disponibles ?`
-
-Le chatbot vous fournira une réponse adaptée !
-
-### 🔹 Analyse et exploration
-- `scenarios` – Projection des mortalités et stratégies de suivi.
-- `comparaison_modele` – Comparaison d'EoA avec d'autres estimateurs.
-- `questions_faq` – Réponses aux questions fréquentes.
-
-### 🔹 Aide et ressources
-- `aide` – Affiche la liste des commandes disponibles.
-- `sources` – Liens vers la documentation officielle.
-
----
-
-## 🎯 **Exemples d'utilisation :**
-
 **1️⃣ Poser une question sur l'installation**  
 > **Utilisateur** : `question Comment installer EoA ?`  
 > **Chatbot** :  
@@ -62,40 +29,15 @@ Le chatbot vous fournira une réponse adaptée !
 > - Télécharger et installer **R v3.3.0 ou plus** : [https://www.r-project.org/](https://www.r-project.org/)  
 > - Télécharger et installer **JAGS v4.2.0 ou plus** : [https://sourceforge.net/projects/mcmc-jags/files/]  
 > - Installer les packages R requis : R6, matrixStats, rjags, tensorA, actuar, VGAM, tcltk2, tkrplot, gsl."
+1. [Retour au menu]()
 
-**2️⃣ Poser une question sur l'estimation de la mortalité**  
-> **Utilisateur** : `question Comment calculer la mortalité totale ?`  
-> **Chatbot** :  
-> "La mortalité totale (`M`) est estimée comme suit :  
-> ```
-> M* = X / g
-> ```
-> Où :
-> - `X` est le nombre de cadavres trouvés.
-> - `g` est la probabilité globale de détection.  
-> **EoA** utilise une approche bayésienne avec distributions postérieures."
+## 🔹 Utilisation du logiciel
+- `modules` – Présentation des modules de **EoA**.
+- `lancer_logiciel` – Commandes pour démarrer EoA dans **R**.
+- `saisie_donnees` – Comment saisir et structurer les données.
+- `resultats` – Explication des résultats fournis par **EoA**.
 
-**3️⃣ Poser une question sur les modules disponibles**  
-> **Utilisateur** : `question Quels sont les modules disponibles ?`  
-> **Chatbot** :  
-> "EoA comprend plusieurs modules :  
-> - **Classe unique** : analyse une seule période et classe de recherche.  
-> - **Classes multiples** : combine plusieurs classes de recherche.  
-> - **Plusieurs années** : estime l'impact cumulé et projette la mortalité future.  
-> - **Compromis de conception** : optimise la surveillance.  
-> - **Explorateur de scénarios** : évalue les impacts à long terme."
-
----
-
-## 📚 **Ressources utiles :**
-- 📄 **Guide officiel EoA** : [https://doi.org/10.3133/ds1055](https://doi.org/10.3133/ds1055)
-- 🌍 **Site Web USGS** : [https://www.usgs.gov/](https://www.usgs.gov/)
-- 📊 **Téléchargement de R** : [https://www.r-project.org/](https://www.r-project.org/)
-
----
-
-
-## 📌 **Commandes disponibles :**
+ 📌 **Commandes disponibles :**
 
 | 🔹 **Catégorie**              | 🔎 **Commande**             | 📌 **Description** |
 |--------------------------------|----------------------------|--------------------|
@@ -107,16 +49,61 @@ Le chatbot vous fournira une réponse adaptée !
 | 📈 **Exploration**             | `scenarios`                | Projections des mortalités et stratégies de suivi |
 | ❓ **Aide & FAQ**              | `aide`                     | Liste des commandes disponibles |
 
----
+** 2️⃣Poser une question sur les modules disponibles**  
+> **Utilisateur** : `question Quels sont les modules disponibles ?`  
+> **Chatbot** :  
+> "EoA comprend plusieurs modules :  
+> - **Classe unique** : analyse une seule période et classe de recherche.  
+> - **Classes multiples** : combine plusieurs classes de recherche.  
+> - **Plusieurs années** : estime l'impact cumulé et projette la mortalité future.  
+> - **Compromis de conception** : optimise la surveillance.  
+> - **Explorateur de scénarios** : évalue les impacts à long terme."
 
-## 📊 **Graphique ASCII - Probabilité de détection**  
+1. [Retour au menu]()
 
-```ascii
-Probabilité de détection (g)
---------------------------------
-1.0 |███████████████████
-0.8 |███████████████
-0.6 |███████████
-0.4 |███████
-0.2 |███
-0.0 |_
+## 🔹 Concepts et explications
+- `estimation` – Explication de l'estimation de la mortalité (`M*`).
+- `probabilite_detection` – Comprendre la probabilité globale de détection (`g`).
+- `persistance` – Influence de la persistance des cadavres sur l'estimation.
+- `efficacite_chercheur` – Rôle des chercheurs et leur efficacité (`p` et `k`).
+- `calcul_mortalite` – Formules pour estimer la mortalité totale.
+
+**3️⃣ Poser une question sur l'estimation de la mortalité**  
+> **Utilisateur** : `question Comment calculer la mortalité totale ?`  
+> **Chatbot** :  
+> "La mortalité totale (`M`) est estimée comme suit :  
+> ```
+> M* = X / g
+> ```
+> Où :
+> - `X` est le nombre de cadavres trouvés.
+> - `g` est la probabilité globale de détection.  
+> **EoA** utilise une approche bayésienne avec distributions postérieures."
+
+1. [Retour au menu]()
+
+## 🔹 Système interactif de Q/R
+Tapez `question` suivi de votre question. Par exemple :
+- `question Comment installer EoA ?`
+- `question Comment interpréter les résultats ?`
+- `question Quels sont les modules disponibles ?`
+
+1. [Retour au menu]()
+
+## 🔹 Analyse et exploration
+- `scenarios` – Projection des mortalités et stratégies de suivi.
+- `comparaison_modele` – Comparaison d'EoA avec d'autres estimateurs.
+- `questions_faq` – Réponses aux questions fréquentes.
+
+1. [Retour au menu]()
+
+## 🔹 Aide et ressources
+- `aide` – Affiche la liste des commandes disponibles.
+- `sources` – Liens vers la documentation officielle.
+📚 **Ressources utiles :**
+- 📄 **Guide officiel EoA** : [https://doi.org/10.3133/ds1055](https://doi.org/10.3133/ds1055)
+- 🌍 **Site Web USGS** : [https://www.usgs.gov/](https://www.usgs.gov/)
+- 📊 **Téléchargement de R** : [https://www.r-project.org/](https://www.r-project.org/)
+
+1. [Retour au menu]()
+
