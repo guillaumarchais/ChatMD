@@ -168,6 +168,84 @@ Intégrer les facteurs saisonniers 🌍	📈 Prend en compte la variabilité éc
 ## comparaison
 - `comparaison_modele` – Comparaison d'EoA avec d'autres estimateurs.
 
+## 🔬 Comparaison d'EoA avec d'autres estimateurs (`comparaison_modele`)
+
+### 📌 **Pourquoi comparer EoA avec d'autres modèles ?**
+Différentes méthodes existent pour estimer la mortalité des espèces impactées par des infrastructures comme les parcs éoliens. **Evidence of Absence (EoA)** se distingue par son approche bayésienne robuste, mais d'autres modèles sont aussi couramment utilisés.
+
+💡 **Objectif de la comparaison :**
+✔️ Identifier les forces et faiblesses de chaque modèle  
+✔️ Sélectionner l’outil le plus adapté selon les objectifs de l’étude  
+✔️ Comparer la précision des estimations et la prise en compte des incertitudes  
+
+---
+
+### 🔹 **Principaux modèles d'estimation de la mortalité**
+Les modèles d’estimation peuvent être classés selon leur approche statistique et leur complexité.
+
+| 📊 **Modèle**                 | 🔍 **Approche** | 📌 **Utilisation principale** | ✅ **Avantages** | ⚠️ **Limites** |
+|-----------------------------|---------------|----------------------|--------------|------------|
+| **Huso (2011)**             | Fréquentiste | Ajuste les estimations en tenant compte du taux de détection | 🔹 Prend en compte la persistance et l’efficacité de recherche 🔹 Corrige certains biais | ⚠️ Hypothèse forte : `k = 0` (carcasses manquées ne sont jamais retrouvées) |
+| **Huso (2014)** | Fréquentiste | Amélioration du modèle Huso (2011) avec une meilleure estimation de `k` | 🔹 Meilleure prise en compte de l’évolution de la détection 🔹 Plus flexible que Shoenfeld | ⚠️ Sous-estimation possible si `k` est mal défini |
+| **Bayesian Evidence of Absence (EoA)** | Bayésien | Estimation avec prise en compte des incertitudes | 🔹 Utilise une approche probabiliste 🔹 Fournit des intervalles de crédibilité 🔹 Convient aux faibles mortalités | ⚠️ Plus complexe à mettre en œuvre ⚠️ Nécessite R et JAGS |
+| **GenEst (Dalthorp et al., 2018)** | Bayésien | Estimation avancée avec ajustement des biais | 🔹 Outil flexible avec interface R-Shiny 🔹 Utilise des simulations pour mieux modéliser les incertitudes | ⚠️ Paramétrage plus long ⚠️ Dépend de la qualité des données |
+
+---
+
+### 🔹 **Différences entre approche fréquentiste et approche bayésienne**
+📊 **Fréquentiste (Erickso, Jones, Huso)**
+- 🔹 Utilise des estimations **fixes** basées sur les données observées.
+- 🔹 Ne prend pas en compte l'incertitude liée aux faibles observations.
+- 🔹 Peut sous-estimer la mortalité si la probabilité de détection (`g`) est faible.
+
+📈 **Bayésien (EoA, GenEst)**
+- 🔹 Modélise une **distribution de probabilité** pour les paramètres inconnus.
+- 🔹 Fournit des **intervalles de crédibilité** au lieu de simples estimations fixes.
+- 🔹 Plus adapté aux situations où peu de cadavres sont trouvés.
+
+📢 **💡 Recommandation :**
+✔️ **Si les mortalités sont élevées**, un modèle fréquentiste peut suffire.  
+✔️ **Si les mortalités sont faibles ou incertaines**, un modèle bayésien comme **EoA** est plus fiable.  
+
+---
+
+### 🔹 **Exemple d’estimation avec différents modèles**
+Prenons un site où :
+- `X = 3` cadavres observés
+- `g = 0.2` (probabilité de détection estimée)
+
+📢 **Résultats comparés :**  
+
+| 📊 **Modèle**         | 🔢 **Estimation M** | 📌 **Interprétation** |
+|---------------------|------------------|-----------------|
+| **Huso (2011)**     | `M* ≈ 20` | Correction mais biais possible si `k` est mal défini |
+| **EoA (v2.0)**      | `M* ≈ 25` | Approche bayésienne tenant compte des incertitudes |
+
+📢 **Conclusion :**  
+👉 **Huso (2011) est plus précis mais dépend de la valeur de `k`**.  
+👉 **EoA donne une meilleure estimation en intégrant l’incertitude** ✅.  
+
+---
+
+### 📌 **Pourquoi choisir Evidence of Absence (EoA) ?**
+✔️ **Idéal pour les faibles mortalités** (ex. 0-10 cadavres trouvés)  
+✔️ **Corrige les biais des modèles classiques**  
+✔️ **Prend en compte l’incertitude avec une approche bayésienne**  
+
+📉 **Quand éviter EoA ?**  
+⚠️ Si vous avez **beaucoup de données**, un modèle plus simple (Huso, GenEst) peut suffire.  
+⚠️ Si vous avez **peu de ressources informatiques**, EoA demande l’installation de **R** et **JAGS**.
+
+---
+
+## 🎯 **Résumé**
+📌 **Evidence of Absence (EoA) v2.0 :**  
+✔️ Approche **bayésienne**  
+✔️ Fiable pour les **faibles mortalités**  
+✔️ Fournit **des intervalles de crédibilité**  
+
+1. [Retour au menu]()
+
 
 
 ## aide
@@ -177,6 +255,8 @@ Intégrer les facteurs saisonniers 🌍	📈 Prend en compte la variabilité éc
 - 📄 **Guide officiel EoA** : [https://doi.org/10.3133/ds1055](https://doi.org/10.3133/ds1055)
 - 🌍 **Site Web USGS** : [https://www.usgs.gov/](https://www.usgs.gov/)
 - 📊 **Téléchargement de R** : [https://www.r-project.org/](https://www.r-project.org/)
+[Je vous invite ainsi à consulter mes vidéos amateures dédiées à ce sujet d'expert](https://www.youtube.com/playlist?list=PL3LkDeGmG9TdNperp_RUc8Ziyph2BoNF7)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhcGs4aXZlZXZiZjlyMjZuZmxuOWtpOGplcXBtbjhldDhmNjM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8Ty8tGp83pHRoqOti/giphy.gif)
 
 1. [Retour au menu]()
 
