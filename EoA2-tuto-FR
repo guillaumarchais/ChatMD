@@ -51,6 +51,9 @@ EoA comprend plusieurs modules :
 - **Compromis de conception** : optimise la surveillance.  
 - **Explorateur de scénarios** : évalue les impacts à long terme.
 
+[Je vous invite aussi à consulter mes vidéos tutoriels sur Youtube](https://www.youtube.com/playlist?list=PL3LkDeGmG9TdNperp_RUc8Ziyph2BoNF7)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhcGs4aXZlZXZiZjlyMjZuZmxuOWtpOGplcXBtbjhldDhmNjM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8Ty8tGp83pHRoqOti/giphy.gif)
+
 1. [Retour au menu]()
 
 ## concept
@@ -68,6 +71,11 @@ EoA comprend plusieurs modules :
  - `X` est le nombre de cadavres trouvés.
  - `g` est la probabilité globale de détection.  
  **EoA** utilise une approche bayésienne avec distributions postérieures."
+
+La documentation complète publiée par les experts de l'USGS est [téléchargeable ici](https://pubs.usgs.gov/ds/1055/ds1055.pdf)
+
+[Je vous invite aussi à consulter mes vidéos tutoriels sur Youtube](https://www.youtube.com/playlist?list=PL3LkDeGmG9TdNperp_RUc8Ziyph2BoNF7)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhcGs4aXZlZXZiZjlyMjZuZmxuOWtpOGplcXBtbjhldDhmNjM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8Ty8tGp83pHRoqOti/giphy.gif)
 
 1. [Retour au menu]()
 
@@ -221,8 +229,7 @@ Prenons un site où :
 - 📄 **Guide officiel EoA** : [https://doi.org/10.3133/ds1055](https://doi.org/10.3133/ds1055)
 - 🌍 **Site Web USGS** : [https://www.usgs.gov/](https://www.usgs.gov/)
 - 📊 **Téléchargement de R** : [https://www.r-project.org/](https://www.r-project.org/)
-[Je vous invite ainsi à consulter mes vidéos amateures dédiées à ce sujet d'expert](https://www.youtube.com/playlist?list=PL3LkDeGmG9TdNperp_RUc8Ziyph2BoNF7)
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhcGs4aXZlZXZiZjlyMjZuZmxuOWtpOGplcXBtbjhldDhmNjM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8Ty8tGp83pHRoqOti/giphy.gif)
+
 
 1. [Retour au menu]()
 
