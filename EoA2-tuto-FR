@@ -115,9 +115,9 @@ Exemple :
 **2) Projection de la mortalité future**  
 EoA peut simuler les tendances futures en utilisant des données historiques et des hypothèses sur l’évolution du site.  
 🔍 **Paramètres influençant la projection :
-- 🏗 Modifications du site** (ex. ajout de nouvelles éoliennes 🚧).
-- 📉 Effet des mesures d’atténuation** (ex. arrêt temporaire des turbines ⚠️).
-- 📊 Variabilité des conditions environnementales** (ex. migration des espèces 🦉).  
+- 🏗 Modifications du site (ex. ajout de nouvelles éoliennes 🚧).
+- 📉 Effet des mesures d’atténuation (ex. arrêt temporaire des turbines ⚠️).
+- 📊 Variabilité des conditions environnementales (ex. migration des espèces 🦉).  
 
 📈 **Graphique ASCII - Simulation de la mortalité sur 5 ans**  
 ```ascii
@@ -141,7 +141,7 @@ Pour améliorer la précision des projections, EoA propose plusieurs stratégies
 - Intégrer les facteurs saisonniers 🌍	> 📈 Prend en compte la variabilité écologique
 
 :::info
-🔢 Exemple :
+Exemple :
 👉 Actuellement : Recherches tous les 7 jours, probabilité de détection g = 0.3
 👉 Amélioration : Passer à 1 recherche/4 jours, g = 0.5, ce qui réduit l’incertitude sur M*
 :::
@@ -161,7 +161,6 @@ Différentes méthodes existent pour estimer la mortalité des espèces impacté
 ✔️ Comparer la précision des estimations et la prise en compte des incertitudes  
 
 **Principaux modèles d'estimation de la mortalité**
-Les modèles d’estimation peuvent être classés selon leur approche statistique et leur complexité.
 
 | 📊 **Modèle**                 | 🔍 **Approche** | 📌 **Utilisation principale** | ✅ **Avantages** | ⚠️ **Limites** |
 |-----------------------------|---------------|----------------------|--------------|------------|
@@ -170,6 +169,9 @@ Les modèles d’estimation peuvent être classés selon leur approche statistiq
 | **Bayesian Evidence of Absence (EoA)** | Bayésien | Estimation avec prise en compte des incertitudes | 🔹 Utilise une approche probabiliste 🔹 Fournit des intervalles de crédibilité 🔹 Convient aux faibles mortalités | ⚠️ Plus complexe à mettre en œuvre ⚠️ Nécessite R et JAGS |
 | **GenEst (Dalthorp et al., 2018)** | Bayésien | Estimation avancée avec ajustement des biais | 🔹 Outil flexible avec interface R-Shiny 🔹 Utilise des simulations pour mieux modéliser les incertitudes | ⚠️ Paramétrage plus long ⚠️ Dépend de la qualité des données |
 
+1. [Je continue ?](différences)
+
+## différences
 **Différences entre approche fréquentiste et approche bayésienne**
 📊 **Fréquentiste (Erickso, Jones, Huso)**
 -  Utilise des estimations **fixes** basées sur les données observées.
@@ -185,7 +187,8 @@ Les modèles d’estimation peuvent être classés selon leur approche statistiq
 ✔️ **Si les mortalités sont élevées**, un modèle fréquentiste peut suffire.  
 ✔️ **Si les mortalités sont faibles ou incertaines**, un modèle bayésien comme **EoA** est plus fiable.  
 
-**Exemple d’estimation avec différents modèles**
+:::info
+Exemple d’estimation avec différents modèles**
 Prenons un site où :
 - `X = 3` cadavres observés
 - `g = 0.2` (probabilité de détection estimée)
@@ -196,20 +199,27 @@ Prenons un site où :
 |---------------------|------------------|-----------------|
 | **Huso (2011)**     | `M* ≈ 20` | Correction mais biais possible si `k` est mal défini |
 | **EoA (v2.0)**      | `M* ≈ 25` | Approche bayésienne tenant compte des incertitudes |
+:::
 
+1. [Je conclue ?](conclue)
+
+## conclue
 📢 **Conclusion :**  
 👉 Huso (2011) est plus précis mais dépend de la valeur de `k`.  
 👉 EoA donne une meilleure estimation en intégrant l’incertitude ✅.  
 
+:::info
+📌 **Pourquoi choisir EoA ?**
+- Idéal pour les faibles mortalités (ex. 0-10 cadavres trouvés)  
+- Corrige les biais des modèles classiques  
+- Prend en compte l’incertitude avec une approche bayésienne 
+:::
 
-📌 **Pourquoi choisir Evidence of Absence (EoA) ?**
-✔️ - Idéal pour les faibles mortalités (ex. 0-10 cadavres trouvés)  
-✔️ - Corrige les biais des modèles classiques  
-✔️ - Prend en compte l’incertitude avec une approche bayésienne 
-
+:::warning Attention !
 📉 **Quand éviter EoA ?**  
 ⚠️ Si vous avez **beaucoup de données**, un modèle plus simple (Huso, GenEst) peut suffire.  
 ⚠️ Si vous avez **peu de ressources informatiques**, EoA demande l’installation de **R** et **JAGS**.
+:::
 
 1. [Retour au menu]()
 
