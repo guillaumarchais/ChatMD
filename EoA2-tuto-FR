@@ -79,15 +79,19 @@ La documentation complète publiée par les experts de l'USGS est [téléchargea
 
 1. [Retour au menu]()
 
+
 ## analyse
-- `scenarios` – Projection des mortalités et stratégies de suivi.
+- analyse
+- projection
+- cumulative
+
 
 📌 **Pourquoi projeter la mortalité ?**
 ✔️ Anticiper les tendances pour améliorer la gestion des espèces protégées.  
 ✔️ Vérifier la conformité avec les limites de mortalité autorisées.  
 ✔️ Optimiser les efforts de surveillance (coût, efficacité).  
 
- 🔹 **Méthodes de projection dans EoA**
+**Méthodes de projection dans EoA**
 **Evidence of Absence (EoA) v2.0** permet d’estimer les mortalités sur plusieurs années grâce à trois approches principales :
 
 | **Méthode**                 |  **Objectif** |
@@ -96,20 +100,20 @@ La documentation complète publiée par les experts de l'USGS est [téléchargea
 | **Projection de la mortalité future** | Simuler les effets de différentes stratégies de suivi. |
 | **Test de dépassement de seuils** | Déterminer si les limites de mortalité sont respectées. |
 
-🔹 **1️⃣ Estimation de la mortalité cumulative**  
+**Estimation de la mortalité cumulative**  
 EoA utilise une **distribution postérieure** pour estimer l'impact global sur plusieurs années.  
 
 📈 **Formule** :  M_total = ∑ M_année
 où `M_année` est la mortalité annuelle estimée.  
 
-🔢 **Exemple :**  
+**Exemple :**  
 - Année 1 : `M* = 10`  
 - Année 2 : `M* = 12`  
 - Année 3 : `M* = 8`  
 👉 **Mortalité cumulée** après 3 ans : `M_total = 10 + 12 + 8 = 30` cadavres.  
 
 
-🔹 **2️⃣ Projection de la mortalité future**  
+**Projection de la mortalité future**  
 EoA peut simuler les tendances futures en utilisant des données historiques et des hypothèses sur l’évolution du site.  
 🔍 **Paramètres influençant la projection :**
 - 🏗 **Modifications du site** (ex. ajout de nouvelles éoliennes 🚧).
@@ -124,7 +128,7 @@ Mortalité  ████ █████ ███ ████ ██
 **Exemple de scénario** :
 👉 Si un site double son nombre d’éoliennes d’ici 5 ans, EoA peut estimer la mortalité projetée en ajustant M* en fonction du taux de mortalité (λ).
 
-🔹 3️⃣ **Test de dépassement des seuils de mortalité**
+**Test de dépassement des seuils de mortalité**
 Dans le cadre des réglementations environnementales, des seuils de mortalité sont définis. EoA permet d’évaluer la probabilité que ces seuils soient dépassés.
 
 📌 Seuil réglementaire : M_max = 50 morts/an
@@ -135,7 +139,7 @@ Si P(M > 50) = 5% 👉 Impact conforme ✅
 Si P(M > 50) = 30% 👉 Risque élevé ⚠️, mesures correctives nécessaires.
 
 
-_*Pour améliorer la précision des projections, EoA propose plusieurs stratégies d’optimisation :*_
+Pour améliorer la précision des projections, EoA propose plusieurs stratégies d’optimisation :
 🏷 Stratégie	📌 Effet attendu
 Augmenter la fréquence des recherches 📅	🔍 Améliore la détection des cadavres
 Étendre la surface de recherche 📍	📊 Capture plus de données pour affiner g
@@ -149,7 +153,8 @@ Intégrer les facteurs saisonniers 🌍	📈 Prend en compte la variabilité éc
 
 
 ## comparaison
-- `comparaison_modele` – Comparaison d'EoA avec d'autres estimateurs.
+- comparaison
+- autres
 
 📌 **Pourquoi comparer EoA avec d'autres modèles ?**
 Différentes méthodes existent pour estimer la mortalité des espèces impactées par des infrastructures comme les parcs éoliens. **Evidence of Absence (EoA)** se distingue par son approche bayésienne robuste, mais d'autres modèles sont aussi couramment utilisés.
@@ -159,7 +164,7 @@ Différentes méthodes existent pour estimer la mortalité des espèces impacté
 ✔️ Sélectionner l’outil le plus adapté selon les objectifs de l’étude  
 ✔️ Comparer la précision des estimations et la prise en compte des incertitudes  
 
- 🔹 **Principaux modèles d'estimation de la mortalité**
+**Principaux modèles d'estimation de la mortalité**
 Les modèles d’estimation peuvent être classés selon leur approche statistique et leur complexité.
 
 | 📊 **Modèle**                 | 🔍 **Approche** | 📌 **Utilisation principale** | ✅ **Avantages** | ⚠️ **Limites** |
@@ -169,23 +174,22 @@ Les modèles d’estimation peuvent être classés selon leur approche statistiq
 | **Bayesian Evidence of Absence (EoA)** | Bayésien | Estimation avec prise en compte des incertitudes | 🔹 Utilise une approche probabiliste 🔹 Fournit des intervalles de crédibilité 🔹 Convient aux faibles mortalités | ⚠️ Plus complexe à mettre en œuvre ⚠️ Nécessite R et JAGS |
 | **GenEst (Dalthorp et al., 2018)** | Bayésien | Estimation avancée avec ajustement des biais | 🔹 Outil flexible avec interface R-Shiny 🔹 Utilise des simulations pour mieux modéliser les incertitudes | ⚠️ Paramétrage plus long ⚠️ Dépend de la qualité des données |
 
- 🔹 **Différences entre approche fréquentiste et approche bayésienne**
+**Différences entre approche fréquentiste et approche bayésienne**
 📊 **Fréquentiste (Erickso, Jones, Huso)**
-- 🔹 Utilise des estimations **fixes** basées sur les données observées.
-- 🔹 Ne prend pas en compte l'incertitude liée aux faibles observations.
-- 🔹 Peut sous-estimer la mortalité si la probabilité de détection (`g`) est faible.
+-  Utilise des estimations **fixes** basées sur les données observées.
+-  Ne prend pas en compte l'incertitude liée aux faibles observations.
+-  Peut sous-estimer la mortalité si la probabilité de détection (`g`) est faible.
 
 📈 **Bayésien (EoA, GenEst)**
-- 🔹 Modélise une **distribution de probabilité** pour les paramètres inconnus.
-- 🔹 Fournit des **intervalles de crédibilité** au lieu de simples estimations fixes.
-- 🔹 Plus adapté aux situations où peu de cadavres sont trouvés.
+-  Modélise une **distribution de probabilité** pour les paramètres inconnus.
+-  Fournit des **intervalles de crédibilité** au lieu de simples estimations fixes.
+-  Plus adapté aux situations où peu de cadavres sont trouvés.
 
 📢 **💡 Recommandation :**
 ✔️ **Si les mortalités sont élevées**, un modèle fréquentiste peut suffire.  
 ✔️ **Si les mortalités sont faibles ou incertaines**, un modèle bayésien comme **EoA** est plus fiable.  
 
----
-🔹 **Exemple d’estimation avec différents modèles**
+**Exemple d’estimation avec différents modèles**
 Prenons un site où :
 - `X = 3` cadavres observés
 - `g = 0.2` (probabilité de détection estimée)
@@ -198,15 +202,14 @@ Prenons un site où :
 | **EoA (v2.0)**      | `M* ≈ 25` | Approche bayésienne tenant compte des incertitudes |
 
 📢 **Conclusion :**  
-👉 **Huso (2011) est plus précis mais dépend de la valeur de `k`**.  
-👉 **EoA donne une meilleure estimation en intégrant l’incertitude** ✅.  
+👉 Huso (2011) est plus précis mais dépend de la valeur de `k`.  
+👉 EoA donne une meilleure estimation en intégrant l’incertitude ✅.  
 
----
 
 📌 **Pourquoi choisir Evidence of Absence (EoA) ?**
-✔️ **Idéal pour les faibles mortalités** (ex. 0-10 cadavres trouvés)  
-✔️ **Corrige les biais des modèles classiques**  
-✔️ **Prend en compte l’incertitude avec une approche bayésienne**  
+✔️ - Idéal pour les faibles mortalités (ex. 0-10 cadavres trouvés)  
+✔️ - Corrige les biais des modèles classiques  
+✔️ - Prend en compte l’incertitude avec une approche bayésienne 
 
 📉 **Quand éviter EoA ?**  
 ⚠️ Si vous avez **beaucoup de données**, un modèle plus simple (Huso, GenEst) peut suffire.  
