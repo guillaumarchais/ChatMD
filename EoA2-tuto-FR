@@ -25,7 +25,7 @@ rechercheContenu: true
 - `installation` – Instructions pour installer **EoA v2.0**.
 - `prerequis` – Liste des logiciels et packages nécessaires.
 
-"Pour installer **EoA v2.0**, vous devez :  
+Pour installer **EoA v2.0**, vous devez :  
 - Télécharger et installer **R v3.3.0 ou plus** : [https://www.r-project.org/](https://www.r-project.org/)  
 - Télécharger et installer **JAGS v4.2.0 ou plus** : [https://sourceforge.net/projects/mcmc-jags/files/]  
 - Installer les packages R requis : R6, matrixStats, rjags, tensorA, actuar, VGAM, tcltk2, tkrplot, gsl."
@@ -71,20 +71,15 @@ EoA comprend plusieurs modules :
 
 1. [Retour au menu]()
 
-## scenario
+## analyse
 - `scenarios` – Projection des mortalités et stratégies de suivi.
-
-
-📊 Projection des mortalités et stratégies de suivi
-
-La projection des mortalités est essentielle pour anticiper l’impact des infrastructures (ex. parcs éoliens) sur la faune et ajuster les stratégies de suivi.
 
 📌 **Pourquoi projeter la mortalité ?**
 ✔️ Anticiper les tendances pour améliorer la gestion des espèces protégées.  
 ✔️ Vérifier la conformité avec les limites de mortalité autorisées.  
 ✔️ Optimiser les efforts de surveillance (coût, efficacité).  
 
-### 🔹 **Méthodes de projection dans EoA**
+ 🔹 **Méthodes de projection dans EoA**
 **Evidence of Absence (EoA) v2.0** permet d’estimer les mortalités sur plusieurs années grâce à trois approches principales :
 
 | **Méthode**                 |  **Objectif** |
@@ -93,9 +88,8 @@ La projection des mortalités est essentielle pour anticiper l’impact des infr
 | **Projection de la mortalité future** | Simuler les effets de différentes stratégies de suivi. |
 | **Test de dépassement de seuils** | Déterminer si les limites de mortalité sont respectées. |
 
----
 
-### 🔹 **1️⃣ Estimation de la mortalité cumulative**  
+🔹 **1️⃣ Estimation de la mortalité cumulative**  
 EoA utilise une **distribution postérieure** pour estimer l'impact global sur plusieurs années.  
 
 📈 **Formule** :  M_total = ∑ M_année
@@ -110,7 +104,7 @@ où `M_année` est la mortalité annuelle estimée.
 
 ---
 
-### 🔹 **2️⃣ Projection de la mortalité future**  
+🔹 **2️⃣ Projection de la mortalité future**  
 EoA peut simuler les tendances futures en utilisant des données historiques et des hypothèses sur l’évolution du site.  
 
 🔍 **Paramètres influençant la projection :**
@@ -155,9 +149,7 @@ Intégrer les facteurs saisonniers 🌍	📈 Prend en compte la variabilité éc
 ## comparaison
 - `comparaison_modele` – Comparaison d'EoA avec d'autres estimateurs.
 
-## 🔬 Comparaison d'EoA avec d'autres estimateurs (`comparaison_modele`)
-
-### 📌 **Pourquoi comparer EoA avec d'autres modèles ?**
+📌 **Pourquoi comparer EoA avec d'autres modèles ?**
 Différentes méthodes existent pour estimer la mortalité des espèces impactées par des infrastructures comme les parcs éoliens. **Evidence of Absence (EoA)** se distingue par son approche bayésienne robuste, mais d'autres modèles sont aussi couramment utilisés.
 
 💡 **Objectif de la comparaison :**
@@ -165,9 +157,7 @@ Différentes méthodes existent pour estimer la mortalité des espèces impacté
 ✔️ Sélectionner l’outil le plus adapté selon les objectifs de l’étude  
 ✔️ Comparer la précision des estimations et la prise en compte des incertitudes  
 
----
-
-### 🔹 **Principaux modèles d'estimation de la mortalité**
+ 🔹 **Principaux modèles d'estimation de la mortalité**
 Les modèles d’estimation peuvent être classés selon leur approche statistique et leur complexité.
 
 | 📊 **Modèle**                 | 🔍 **Approche** | 📌 **Utilisation principale** | ✅ **Avantages** | ⚠️ **Limites** |
@@ -177,9 +167,7 @@ Les modèles d’estimation peuvent être classés selon leur approche statistiq
 | **Bayesian Evidence of Absence (EoA)** | Bayésien | Estimation avec prise en compte des incertitudes | 🔹 Utilise une approche probabiliste 🔹 Fournit des intervalles de crédibilité 🔹 Convient aux faibles mortalités | ⚠️ Plus complexe à mettre en œuvre ⚠️ Nécessite R et JAGS |
 | **GenEst (Dalthorp et al., 2018)** | Bayésien | Estimation avancée avec ajustement des biais | 🔹 Outil flexible avec interface R-Shiny 🔹 Utilise des simulations pour mieux modéliser les incertitudes | ⚠️ Paramétrage plus long ⚠️ Dépend de la qualité des données |
 
----
-
-### 🔹 **Différences entre approche fréquentiste et approche bayésienne**
+ 🔹 **Différences entre approche fréquentiste et approche bayésienne**
 📊 **Fréquentiste (Erickso, Jones, Huso)**
 - 🔹 Utilise des estimations **fixes** basées sur les données observées.
 - 🔹 Ne prend pas en compte l'incertitude liée aux faibles observations.
@@ -195,8 +183,7 @@ Les modèles d’estimation peuvent être classés selon leur approche statistiq
 ✔️ **Si les mortalités sont faibles ou incertaines**, un modèle bayésien comme **EoA** est plus fiable.  
 
 ---
-
-### 🔹 **Exemple d’estimation avec différents modèles**
+🔹 **Exemple d’estimation avec différents modèles**
 Prenons un site où :
 - `X = 3` cadavres observés
 - `g = 0.2` (probabilité de détection estimée)
@@ -214,7 +201,7 @@ Prenons un site où :
 
 ---
 
-### 📌 **Pourquoi choisir Evidence of Absence (EoA) ?**
+📌 **Pourquoi choisir Evidence of Absence (EoA) ?**
 ✔️ **Idéal pour les faibles mortalités** (ex. 0-10 cadavres trouvés)  
 ✔️ **Corrige les biais des modèles classiques**  
 ✔️ **Prend en compte l’incertitude avec une approche bayésienne**  
@@ -222,14 +209,6 @@ Prenons un site où :
 📉 **Quand éviter EoA ?**  
 ⚠️ Si vous avez **beaucoup de données**, un modèle plus simple (Huso, GenEst) peut suffire.  
 ⚠️ Si vous avez **peu de ressources informatiques**, EoA demande l’installation de **R** et **JAGS**.
-
----
-
-## 🎯 **Résumé**
-📌 **Evidence of Absence (EoA) v2.0 :**  
-✔️ Approche **bayésienne**  
-✔️ Fiable pour les **faibles mortalités**  
-✔️ Fournit **des intervalles de crédibilité**  
 
 1. [Retour au menu]()
 
