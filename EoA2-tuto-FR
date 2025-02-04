@@ -1,7 +1,7 @@
 ---
 maths : true
 gestionGrosMots: true
-rechercheContenu: true
+rechercheContenu: false
 ---
 
 # 🤖 Chatbot d'introduction à "Evidence of Absence (EoA) v2.0"
