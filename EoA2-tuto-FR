@@ -196,22 +196,22 @@ Prenons un site où :
 
 | 📊 **Modèle**         | 🔢 **Estimation M** | 📌 **Interprétation** |
 |---------------------|------------------|-----------------|
-| Huso (2011)     | `M* ≈ 20` | Correction mais biais possible si `k` est mal défini (valeur entre 0 et 1 indiquant les chances de retrouver un cadavre au passage suivant malgré sa dégradation)|
-| EoA (v2.0)      | `M* ≈ 25` | Approche bayésienne tenant compte des incertitudes et indiquant un niveau de crédibilité des résultats obtenus (absence prouvée par l'effort statisfaisant de recherche des cadavres) |
+| Huso (2011)     | `M* ≈ 20` | Correction mais biais possible si `k` est mal défini |
+| EoA (v2.0)      | `M* ≈ 25` | Approche bayésienne tenant compte des incertitudes et indiquant un niveau de crédibilité des résultats obtenus |
 :::
 
 1. [Je conclue ?](conclue)
 
 ## conclue
 📢 **Conclusion :**  
-👉 Huso (2011) est plus précis mais dépend de la valeur de `k`.  
-👉 EoA donne une meilleure estimation en intégrant l’incertitude et la crédibilité ✅.  
+👉 Huso (2011) est plus précis mais dépend de la valeur de `k` (valeur entre 0 et 1 indiquant les chances de retrouver un cadavre au passage suivant malgré sa dégradation).  
+👉 EoA donne une meilleure estimation en intégrant l’incertitude et la crédibilité (absence prouvée par l'effort statisfaisant de recherche des cadavres) ✅.  
 
 :::info
 📌 **Pourquoi choisir EoA ?**
 - Idéal pour les faibles mortalités (ex. 0-10 cadavres trouvés)  
 - Corrige les biais des modèles classiques  
-- Prend en compte l’incertitude avec une approche bayésienne (intervalles de crédibilité)
+- Prend en compte l’incertitude avec une approche bayésienne (fournit des intervalles de crédibilité des résultats de `M* très faibles)
 :::
 
 :::warning Attention !
