@@ -62,7 +62,7 @@ EoA comprend plusieurs modules :
 - `efficacite_chercheur` – Rôle des chercheurs et leur efficacité (`p` et `k`).
 - `calcul_mortalite` – Formules pour estimer la mortalité totale.
  
-"La mortalité totale (`M`) est estimée comme suit :  
+"La mortalité totale (`M`) est estimée de manière très basique comme suit :  
  ```
  M* = X / g
  ```
@@ -70,10 +70,12 @@ EoA comprend plusieurs modules :
  - `X` est le nombre de cadavres trouvés.
  - `g` est la probabilité globale de détection. 
 
- **EoA** utilise une approche bayésienne avec distributions postérieures."
+:::info
+ **EoA** utilise lui une approche bayésienne avec des distributions postérieures (approche probabilistique où l'on obtient une valeur médiane et un intervalle de confiance associé).
+:::
 
-Je vous invite aussi à consulter [mon autre chatbot dédié aux suivis environnementaux des parcs éoliens terrestres](http://gmarchais.free.fr/eolien-enviro).
-Sinon, la documentation complète publiée par les experts de l'USGS est [téléchargeable ici.](https://pubs.usgs.gov/ds/1055/ds1055.pdf)
+Je vous invite donc à consulter [mon autre chatbot dédié aux suivis environnementaux des parcs éoliens terrestres](http://gmarchais.free.fr/eolien-enviro) et qui présente les différentes formules et modèles statistiques élaborés.
+Pour aller plus loin, la documentation complète publiée par les experts de l'USGS est [téléchargeable ici.](https://pubs.usgs.gov/ds/1055/ds1055.pdf)
 
 1. [Retour au menu]()
 
@@ -91,16 +93,16 @@ Sinon, la documentation complète publiée par les experts de l'USGS est [télé
 **Méthodes de projection dans EoA**
 EoA permet d’estimer les mortalités sur plusieurs années grâce à trois approches principales :
 
-| **Méthode**                 |  **Objectif** |
+| **Méthode**                 |  _**Objectif**_ |
 |---------------------------------|----------------|
-| **Estimation de la mortalité cumulative** | Évaluer l’impact total sur plusieurs années. |
-| **Projection de la mortalité future** | Simuler les effets de différentes stratégies de suivi. |
-| **Test de dépassement de seuils** | Déterminer si les limites de mortalité sont respectées. |
+| Estimation de la mortalité cumulative | _Évaluer l’impact total sur plusieurs années_ |
+| Projection de la mortalité future | _Simuler les effets de différentes stratégies de suivi_ |
+| Test de dépassement de seuils | _Déterminer si les limites de mortalité sont respectées_ |
 
 **1) Estimation de la mortalité cumulative**  
-EoA utilise une **distribution postérieure** pour estimer l'impact global sur plusieurs années.  
+EoA utilise une **distribution des valeurs calculées dite postérieure** pour estimer l'impact global sur plusieurs années.  
 📈 **Formule** :  M_total = ∑ M_année
-où `M_année` est la mortalité annuelle estimée.  
+où `M_année` est la mortalité annuelle estimée `M*.  
 :::info
 Exemple : 
 - Année 1 : `M* = 10`  
@@ -111,15 +113,15 @@ Exemple :
 
 **2) Projection de la mortalité future**  
 EoA peut simuler les tendances futures en utilisant des données historiques et des hypothèses sur l’évolution du site.  
-🔍 **Paramètres influençant la projection :
+🔍 _Paramètres influençant la projection :_
 - 🏗 Modifications du site (ex. ajout de nouvelles éoliennes 🚧).
 - 📉 Effet des mesures d’atténuation (ex. arrêt temporaire des turbines ⚠️).
 - 📊 Variabilité des conditions environnementales (ex. migration des espèces 🦉).  
 
-📈 **Graphique ASCII - Simulation de la mortalité sur 5 ans**  
+📈 **Simulation de la mortalité sur 5 ans** (noter la réduction de `M*) 
 ```ascii
 Année      1    2    3    4    5
-Mortalité  ████ █████ ███ ████ ██
+Mortalité estimée  ████ █████ ███ ████ ██
 ```
 👉 Si un site double son nombre d’éoliennes d’ici 5 ans, EoA peut estimer la mortalité projetée en ajustant M* en fonction du taux de mortalité (λ).
 
@@ -194,8 +196,8 @@ Prenons un site où :
 
 | 📊 **Modèle**         | 🔢 **Estimation M** | 📌 **Interprétation** |
 |---------------------|------------------|-----------------|
-| Huso (2011)     | `M* ≈ 20` | Correction mais biais possible si `k` est mal défini |
-| EoA (v2.0)      | `M* ≈ 25` | Approche bayésienne tenant compte des incertitudes |
+| Huso (2011)     | `M* ≈ 20` | Correction mais biais possible si `k` est mal défini (valeur entre 0 et 1 indiquant les chances de retrouver un cadavre au passage suivant malgré sa dégradation)|
+| EoA (v2.0)      | `M* ≈ 25` | Approche bayésienne tenant compte des incertitudes et indiquant un niveau de crédibilité des résultats obtenus (absence prouvée par l'effort statisfaisant de recherche des cadavres) |
 :::
 
 1. [Je conclue ?](conclue)
