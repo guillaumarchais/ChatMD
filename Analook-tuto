@@ -1,9 +1,9 @@
 ---
 maths : true
 gestionGrosMots: true
-rechercheContenu: false
+rechercheContenu: true
+tags: template
 ---
-
 # 🦇 Guide Technique d'Utilisation d'AnalookW 4 pour l'Analyse des Sons de Chauves-Souris 🦇
 > **<span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas toutes lui-même produit (sauf si spécifié).</span>**
 
