@@ -42,6 +42,9 @@ AnalookW 4 est un logiciel développé par Chris Corben, conçu spécifiquement 
     *   **🎧 Formats de fichiers supportés :**  AnalookW 4 est conçu pour analyser des fichiers audio spécifiques aux enregistrements de chauves-souris (format ZERO CROSSING issus des anciens détecteurs Anabat en division de fréquence). La version gratuite du logiciel [Kaleidoscope Lite de Wildlife Acoustics](https://www.wildlifeacoustics.com/products/kaleidoscope) permet de convertir des fichiers WAV standards en ZV (div ratio 8 recommandé).
     *   **ℹ️ Informations d'en-tête (Header) :** Le document "GETTING STARTED" de l'Université de l'Idaho mentionne l'importance des informations d'en-tête dans les fichiers.  Familiarisez-vous avec la manière dont AnalookW 4 gère et utilise ces informations. [GETTING STARTED MOVING FILES TEXT HEADER INFORMATION - University of Idaho](https://objects.lib.uidaho.edu/taylorarchive/b2-Bats_03.pdf)
 
+Retour au sommaire ?
+1. [Oui]()
+2. [Suite](util1)
 
 ## util1
 - démarrage
@@ -56,6 +59,9 @@ AnalookW 4 est un logiciel développé par Chris Corben, conçu spécifiquement 
     *   **🧮 Extraction des paramètres :**  Apprenez à extraire les paramètres d'appel à partir des sonagrammes visualisés dans AnalookW 4. Le _[tutoriel vidéo n°3 de Guillaume Marchais](https://youtu.be/XXMNMGGYupM)_ présente des exemples de fichiers enregistrés.
 ![Tutoriel GM n°3](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXAzbWgyeGpoYnE1YnR3eGFidGN5dXY2NnB0bDJwZDMwZTh1ODB2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7MS0HjemziQgB2gFa/giphy.gif)
 
+Retour au sommaire ?
+1. [Oui]()
+2. [Suite](util2)
 
 ## util2
 1.  **🆔 Identification des Espèces :**
@@ -65,8 +71,11 @@ AnalookW 4 est un logiciel développé par Chris Corben, conçu spécifiquement 
 2.  **🎶 Analyse des Séquences d'Appels :**
     *   **🦉 Comportement et contexte :**  AnalookW 4 peut être utilisé pour filtrer les signaux dune ou groupe d'espèces particulier.  Le _[tutoriel vidéo n°4 de Guillaume Marchais](https://youtu.be/yJd4Iv8audg)_ présente un exemple pour l'espèce souvent enregistrée qu'est la Pipistrelle commune.
 ![Tutoriel GM n°4](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIzdDE2a3N2ZndzZGd1NDhzOTg1aHo3amlueGhzZmlmY3hjdG8zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0sAFZfBTaZn8G3277t/giphy.gif)
-    *   **🗣️ Types d'appels :**  Explorez la possibilité d'identifier différents types d'appels (socialisation, chasse, etc.) en fonction de leurs caractéristiques et séquences.
+    *   **🗣️ Types de cris ou signaux :**  Explorez la possibilité d'identifier différents types d'appels (socialisation, chasse, etc.) en fonction de leurs caractéristiques et séquences.
 
+Retour au sommaire ?
+1. [Oui]()
+2. [Suite](aide)
 
 ## aide
 
