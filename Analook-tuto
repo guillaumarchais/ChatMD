@@ -23,7 +23,7 @@ clavier: false
 > 4. [Aide et ressources](aide)
 
 
->[AnalookW 4!](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajA1OHg3bm53c3RwZmNicXdvbjI3eGx2Z25wN2Znb29oMTVsNHE5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nUGiKRujbBg1njYHlW/giphy.gif)
+>![AnalookW 4](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajA1OHg3bm53c3RwZmNicXdvbjI3eGx2Z25wN2Znb29oMTVsNHE5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nUGiKRujbBg1njYHlW/giphy.gif)
 
 
 ## instal
@@ -37,7 +37,7 @@ AnalookW 4 est un logiciel développé par Chris Corben, conçu spécifiquement 
 1.  **⚙️ Installation et Interface :**
     *   **⬇️ Téléchargement du logiciel :** Le logiciel AnalookW 4 est disponible auprès de Titley Scientific. Visitez la section "Software" de leur site web pour rechercher et télécharger le fichier d'installation.  [Software - Titley Scientific](https://www.titley-scientific.com/support/software/)
     *   **🖥️ Interface utilisateur :**  Familiarisez-vous avec l'interface du logiciel. Au démarrage, l'écran graphique initial est central. Explorez les menus et les options disponibles. Le [tutoriel vidéo n°1 de Guillaume Marchais] présente les menus.
-[Tutoriel GM n°1!](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl0cmF0dWVpMmp0MnV4amwydGxoOTJrMmhwbWU0ODdpeGtwMXJieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b7Ym1nZFd9oKDLyzjk/giphy.gif)
+![Tutoriel GM n°1](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl0cmF0dWVpMmp0MnV4amwydGxoOTJrMmhwbWU0ODdpeGtwMXJieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b7Ym1nZFd9oKDLyzjk/giphy.gif)
 
 2.  **🗂️ Organisation des Fichiers et Données :**
     *   **📂 Structure des dossiers :**  Organisez vos enregistrements de sons de chauves-souris dans une structure de dossiers claire et logique. Cela facilitera la gestion et l'analyse des données.
@@ -50,13 +50,13 @@ AnalookW 4 est un logiciel développé par Chris Corben, conçu spécifiquement 
 
 1.  **📈 Visualisation des Sonagrammes :**
     *   **🖼️ Affichage graphique :**  AnalookW 4 utilise un écran graphique pour visualiser les sonagrammes des sons de chauves-souris.  Le [tutoriel vidéo n°2 de Guillaume Marchais] présente des exemples de fichiers enregistrés.
-[Tutoriel GM n°2!](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHcyNXMwaDVjOTJwcDI5Z2k4dHM0MmVmbDFmMXgzd3RrZWg1bmQwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pcutJz0K0G3lOiTJBx/giphy.gif)
+![Tutoriel GM n°2](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHcyNXMwaDVjOTJwcDI5Z2k4dHM0MmVmbDFmMXgzd3RrZWg1bmQwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pcutJz0K0G3lOiTJBx/giphy.gif)
     *   **⚙️ Paramètres d'affichage :**  Expérimentez avec les paramètres d'affichage pour optimiser la visualisation des sonagrammes. Ajustez la résolution temporelle et fréquentielle, le contraste et la luminosité pour mettre en évidence les caractéristiques importantes des appels de chauves-souris.
 
 2.  **📏 Mesures et Paramètres des signaux :**
     *   **📝 Paramètres mesurés :**  Le site web de Chris Corben fournit des informations sur les différents paramètres mesurés par AnalookW 4.  Comprendre ces paramètres (fréquence, durée, pente, etc.) est crucial pour l'analyse. [Chris Corben - LMi.net](https://users.lmi.net/corben/)
     *   **🧮 Extraction des paramètres :**  Apprenez à extraire les paramètres d'appel à partir des sonagrammes visualisés dans AnalookW 4. Le [tutoriel vidéo n°3 de Guillaume Marchais] présente des exemples de fichiers enregistrés.
-[Tutoriel GM n°3!](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXAzbWgyeGpoYnE1YnR3eGFidGN5dXY2NnB0bDJwZDMwZTh1ODB2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7MS0HjemziQgB2gFa/giphy.gif)
+![Tutoriel GM n°3](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXAzbWgyeGpoYnE1YnR3eGFidGN5dXY2NnB0bDJwZDMwZTh1ODB2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7MS0HjemziQgB2gFa/giphy.gif)
 
 
 ## util2
@@ -66,7 +66,7 @@ AnalookW 4 est un logiciel développé par Chris Corben, conçu spécifiquement 
 
 2.  **🎶 Analyse des Séquences d'Appels :**
     *   **🦉 Comportement et contexte :**  AnalookW 4 peut être utilisé pour filtrer les signaux dune ou groupe d'espèces particulier.  Le [tutoriel vidéo n°4 de Guillaume Marchais] présente un exemple pour l'espèce souvent enregistrée qu'est la Pipistrelle commune.
-[Tutoriel GM n°4!](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIzdDE2a3N2ZndzZGd1NDhzOTg1aHo3amlueGhzZmlmY3hjdG8zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0sAFZfBTaZn8G3277t/giphy.gif)
+![Tutoriel GM n°4](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIzdDE2a3N2ZndzZGd1NDhzOTg1aHo3amlueGhzZmlmY3hjdG8zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0sAFZfBTaZn8G3277t/giphy.gif)
     *   **🗣️ Types d'appels :**  Explorez la possibilité d'identifier différents types d'appels (socialisation, chasse, etc.) en fonction de leurs caractéristiques et séquences.
 
 
