@@ -4,10 +4,10 @@ gestionGrosMots: true
 rechercheContenu: false
 ---
 
+# 🦇 Guide Technique d'Utilisation d'AnalookW 4 pour l'Analyse des Sons de Chauves-Souris 🦇
+> **<span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas toutes lui-même produit (sauf si spécifié).</span>**
 
-## 🦇 Guide Technique d'Utilisation d'AnalookW 4 pour l'Analyse des Sons de Chauves-Souris 🦇
-
-> Ce chatbot vous aide à comprendre et installer le logiciel gratuit **AnalookW 4** développé par le chiroptérologue Chris CORBEN, un outil d'estimation de la mortalité d'oiseaux et de chauves-souris dans les parcs éoliens qui permet de
+> Ce chatbot vous aide à comprendre et installer le logiciel gratuit **AnalookW 4** développé par le chiroptérologue Chris CORBEN qui permet de 
 >✔️ Visualiser et labeliser les ultrasons des chauves-souris sous forme de spectrogramme simple.
 >✔️ Filtrer les signaux selon plusieurs valeurs de fréquence, durée, pente, intervalle...
 >✔️ Scanner rapidement des jeux de données avec une arborescence de multiples sous-dossiers.
