@@ -4,7 +4,26 @@ gestionGrosMots: true
 rechercheContenu: false
 ---
 
+
 ## 🦇 Guide Technique d'Utilisation d'AnalookW 4 pour l'Analyse des Sons de Chauves-Souris 🦇
+
+> Ce chatbot vous aide à comprendre et installer le logiciel gratuit **AnalookW 4** développé par le chiroptérologue Chris CORBEN, un outil d'estimation de la mortalité d'oiseaux et de chauves-souris dans les parcs éoliens qui permet de
+>✔️ Visualiser et labeliser les ultrasons des chauves-souris sous forme de spectrogramme simple.
+>✔️ Filtrer les signaux selon plusieurs valeurs de fréquence, durée, pente, intervalle...
+>✔️ Scanner rapidement des jeux de données avec une arborescence de multiples sous-dossiers.
+>✔️ Générer un fichier comptabilisant l'ensemble des fichiers selon les labels renseignés pour tous les dossiers.
+>
+> 💡 **Tapez une commande pour obtenir des informations spécifiques.**
+> 1. [Installation](instal)
+> 2. [Utilisation](util)
+> 3. [Concepts et explications](concept)
+> 4. [Analyse et scénario](analyse)
+> 5. [Comparaison avec les autres estimateurs](comparaison)
+> 6. [Aide et ressources](aide)
+
+## instal
+- installation
+- prerequis
 
 **Introduction**
 
