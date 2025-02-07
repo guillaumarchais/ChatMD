@@ -15,8 +15,8 @@ tags: template
 >
 > 💡 **Tapez une commande pour obtenir des informations spécifiques.**
 > 1. [Installation](instal)
-> 2. [Utilisation](util)
-> 3. [Concepts et explications](concept)
+> 2. [Démarrage](util1)
+> 3. [Utilisation](util2)
 > 4. [Analyse et scénario](analyse)
 > 5. [Comparaison avec les autres estimateurs](comparaison)
 > 6. [Aide et ressources](aide)
@@ -29,8 +29,6 @@ tags: template
 
 AnalookW 4 est un logiciel développé par Chris Corben, conçu spécifiquement pour l'analyse des enregistrements audio de chauves-souris. Ce guide technique vise à fournir une compréhension structurée de son utilisation, en s'appuyant sur les ressources disponibles, notamment des tutoriels et la documentation existante. Bien qu'un manuel d'utilisation officiel unique et exhaustif ne soit pas publiquement disponible, ce guide compile les informations essentielles pour démarrer et approfondir l'analyse des sons de chauves-souris avec AnalookW 4.
 
-## 🚀 Chapitre 1 : Premiers Pas avec AnalookW 4 🚀
-
 1.  **⚙️ Installation et Interface :**
     *   **⬇️ Téléchargement du logiciel :** Le logiciel AnalookW 4 est disponible auprès de Titley Scientific. Visitez la section "Software" de leur site web pour rechercher et télécharger le fichier d'installation.  [Software - Titley Scientific](https://www.titley-scientific.com/support/software/)
     *   **🖥️ Interface utilisateur :**  Familiarisez-vous avec l'interface du logiciel. Au démarrage, l'écran graphique initial est central. Explorez les menus et les options disponibles. Le tutoriel de Neil Middleton fournit des captures d'écran utiles de l'interface. [AnaLook Analysis Screen Grab Tutorial (batability.co.uk)](https://batability.co.uk/wp-content/uploads/2020/03/AnaLook-Analysis-Screen-Grab-Tutorial.pdf)
@@ -40,7 +38,9 @@ AnalookW 4 est un logiciel développé par Chris Corben, conçu spécifiquement 
     *   **🎧 Formats de fichiers supportés :**  AnalookW 4 est conçu pour analyser des fichiers audio spécifiques aux enregistrements de chauves-souris. Vérifiez la documentation incluse dans le fichier ZIP de Titley Scientific pour connaître les formats de fichiers compatibles.
     *   **ℹ️ Informations d'en-tête (Header) :** Le document "GETTING STARTED" de l'Université de l'Idaho mentionne l'importance des informations d'en-tête dans les fichiers.  Familiarisez-vous avec la manière dont AnalookW 4 gère et utilise ces informations. [GETTING STARTED MOVING FILES TEXT HEADER INFORMATION - University of Idaho](https://objects.lib.uidaho.edu/taylorarchive/b2-Bats_03.pdf)
 
-## 📊 Chapitre 2 : Analyse de Base des Sons 📊
+
+## util1
+- démarrage
 
 1.  **📈 Visualisation des Sonagrammes :**
     *   **🖼️ Affichage graphique :**  AnalookW 4 utilise un écran graphique pour visualiser les sonagrammes des sons de chauves-souris.  Le tutoriel de Neil Middleton illustre l'écran d'analyse et les différentes visualisations disponibles. [AnaLook Analysis Screen Grab Tutorial (batability.co.uk)](https://batability.co.uk/wp-content/uploads/2020/03/AnaLook-Analysis-Screen-Grab-Tutorial.pdf)
@@ -50,8 +50,8 @@ AnalookW 4 est un logiciel développé par Chris Corben, conçu spécifiquement 
     *   **📝 Paramètres mesurés :**  Le site web de Chris Corben fournit des informations sur les différents paramètres mesurés par AnalookW 4.  Comprendre ces paramètres (fréquence, durée, pente, etc.) est crucial pour l'analyse. [Chris Corben - LMi.net](https://users.lmi.net/corben/)
     *   **🧮 Extraction des paramètres :**  Apprenez à extraire les paramètres d'appel à partir des sonagrammes visualisés dans AnalookW 4. Le tutoriel de Neil Middleton et le document de l'Université de l'Idaho peuvent contenir des instructions sur ce processus. [AnaLook Analysis Screen Grab Tutorial (batability.co.uk)](https://batability.co.uk/wp-content/uploads/2020/03/AnaLook-Analysis-Screen-Grab-Tutorial.pdf), [GETTING STARTED MOVING FILES TEXT HEADER INFORMATION - University of Idaho](https://objects.lib.uidaho.edu/taylorarchive/b2-Bats_03.pdf)
 
-## 🔍 Chapitre 3 : Analyse Avancée et Identification 🔍
 
+## util2
 1.  **🆔 Identification des Espèces :**
     *   **🔬 Analyse comparative :** Utilisez les paramètres d'appel extraits pour comparer les sons enregistrés avec des bibliothèques de référence ou des guides d'identification des espèces de chauves-souris.
     *   **⚠️ Variations intra-spécifiques :**  Soyez conscient des variations intra-spécifiques des appels de chauves-souris. L'identification basée uniquement sur les sons peut nécessiter une expertise et une connaissance approfondie des espèces locales.
@@ -60,7 +60,8 @@ AnalookW 4 est un logiciel développé par Chris Corben, conçu spécifiquement 
     *   **🦉 Comportement et contexte :**  AnalookW 4 peut être utilisé pour analyser des séquences d'appels et étudier le comportement des chauves-souris.  Le document de l'Université de l'Idaho mentionne l'identification des séquences d'appels inconnues. [GETTING STARTED MOVING FILES TEXT HEADER INFORMATION - University of Idaho](https://objects.lib.uidaho.edu/taylorarchive/b2-Bats_03.pdf)
     *   **🗣️ Types d'appels :**  Explorez la possibilité d'identifier différents types d'appels (socialisation, chasse, etc.) en fonction de leurs caractéristiques et séquences.
 
-## 💡 Chapitre 4 : Conseils et Dépannage 💡
+
+## aide
 
 1.  **❓ Menu d'Aide Intégré :**
     *   **🔑 Accès au menu d'aide :**  Le document de l'Université de l'Idaho indique qu'un menu d'aide est accessible directement dans Analook en appuyant sur la touche 'Backspace' sur l'écran graphique initial. Explorez ce menu pour obtenir des informations contextuelles et des conseils d'utilisation. [GETTING STARTED MOVING FILES TEXT HEADER INFORMATION - University of Idaho](https://objects.lib.uidaho.edu/taylorarchive/b2-Bats_03.pdf)
@@ -68,14 +69,9 @@ AnalookW 4 est un logiciel développé par Chris Corben, conçu spécifiquement 
 2.  **🌐 Ressources en Ligne et Communauté :**
     *   **🗣️ Forums et groupes de discussion :**  Recherchez des forums ou des groupes de discussion en ligne dédiés à l'étude des chauves-souris et à l'utilisation d'AnalookW 4.  Ces communautés peuvent être une source précieuse d'aide et de conseils.
     *   **📧 Contact avec Chris Corben :**  Si vous rencontrez des problèmes spécifiques ou avez des questions pointues, tenter de contacter Chris Corben via son site web ([Chris Corben - LMi.net](https://users.lmi.net/corben/)) peut être utile, bien que la réponse ne soit pas garantie.
+    *   **📄 Tutoriel de Neil Middleton :** [AnaLook Analysis Screen Grab Tutorial (batability.co.uk)](https://batability.co.uk/wp-content/uploads/2020/03/AnaLook-Analysis-Screen-Grab-Tutorial.pdf) - Tutoriel illustré (en anglais) pour l'analyse avec Analook.
+    *   **📖 Manuel d'AnalookW 4 (Titley Scientific) :**  Recherchez le fichier ZIP contenant la documentation sur le site de Titley Scientific. [Software - Titley Scientific](https://www.titley-scientific.com/support/software/)
+   *   **📝 Document "Getting Started" (Université de l'Idaho) :** [GETTING STARTED MOVING FILES TEXT HEADER INFORMATION - University of Idaho](https://objects.lib.uidaho.edu/taylorarchive/b2-Bats_03.pdf) - Guide de démarrage (version 3.5, informations utiles pour les versions plus récentes).
+   *   **👤 Site web de Chris Corben :** [Chris Corben - LMi.net](https://users.lmi.net/corben/) - Informations sur les paramètres et le fonctionnement du logiciel, contact possible avec le développeur.
 
-## 📚 Chapitre 5 : Ressources Complémentaires 📚
 
-1.  **📄 Tutoriel de Neil Middleton :** [AnaLook Analysis Screen Grab Tutorial (batability.co.uk)](https://batability.co.uk/wp-content/uploads/2020/03/AnaLook-Analysis-Screen-Grab-Tutorial.pdf) - Tutoriel illustré (en anglais) pour l'analyse avec Analook.
-2.  **📖 Manuel d'AnalookW 4 (Titley Scientific) :**  Recherchez le fichier ZIP contenant la documentation sur le site de Titley Scientific. [Software - Titley Scientific](https://www.titley-scientific.com/support/software/)
-3.  **📝 Document "Getting Started" (Université de l'Idaho) :** [GETTING STARTED MOVING FILES TEXT HEADER INFORMATION - University of Idaho](https://objects.lib.uidaho.edu/taylorarchive/b2-Bats_03.pdf) - Guide de démarrage (version 3.5, informations utiles pour les versions plus récentes).
-4.  **👤 Site web de Chris Corben :** [Chris Corben - LMi.net](https://users.lmi.net/corben/) - Informations sur les paramètres et le fonctionnement du logiciel, contact possible avec le développeur.
-
-**Conclusion**
-
-Ce guide technique compilé offre une base solide pour commencer à utiliser AnalookW 4. En explorant les ressources mentionnées et en pratiquant avec le logiciel, vous pourrez développer vos compétences en analyse des sons de chauves-souris. N'hésitez pas à consulter les ressources complémentaires et à rechercher de l'aide auprès de la communauté en ligne si nécessaire.
