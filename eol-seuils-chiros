@@ -1,0 +1,122 @@
+---
+maths : true
+gestionGrosMots: true
+rechercheContenu: true
+tags: template
+clavier: false
+---
+# Déterminattion des seuils de mortalité acceptable 
+> **<span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas toutes lui-même produit (sauf si spécifié).</span>**
+
+> Ce chatbot vous aide à comprendre  qui permet de 
+>✔️ Visualiser 
+>✔️ Filtrer 
+>✔️ Scanner 
+>✔️ Générer
+>
+> 💡 **Tapez une commande pour obtenir des informations spécifiques.**
+> 1. [Généralités](generalites)
+> 2. [Concept de Seuil](seuil1)
+> 3. [Utilisation](util2)
+> 4. [Aide et ressources](aide)
+
+
+## généralites
+- généralités
+
+En tant que biologiste intéressé par la dynamique des populations de chauves-souris en France, il est important de comprendre les différents aspects et calculs impliqués dans ce domaine. Voici une vue d'ensemble détaillée pour vous aider dans votre démarche :
+
+1. Espèces de chauves-souris en France et leur importance écologique
+
+La France métropolitaine abrite une diversité remarquable de chauves-souris, avec **34 espèces** recensées. Ces espèces jouent un rôle écologique crucial à travers différents aspects :
+
+*   **Régulation des populations d'insectes** : Les chauves-souris insectivores consomment de grandes quantités d'insectes, contribuant ainsi à contrôler les populations de ravageurs agricoles et forestiers, ainsi que de moustiques.
+*   **Pollinisation et dispersion des graines** : Bien que moins répandu en France que dans d'autres régions du monde, certaines espèces de chauves-souris peuvent participer à la pollinisation de certaines plantes et à la dispersion de leurs graines.
+*   **Indicateurs de la qualité de l'environnement** : La présence et la santé des populations de chauves-souris sont souvent considérées comme des indicateurs de la qualité des habitats et de la biodiversité en général.
+
+2. Données de population et sources d'information
+
+Pour étudier la dynamique des populations de chauves-souris, il est essentiel d'avoir accès à des données de suivi et de recensement. En France, plusieurs initiatives et sources d'information existent :
+
+*   **Le Plan National d'Actions en faveur des Chiroptères (PNA Chiroptères)** : Ce plan, coordonné par la Société Française pour l'Étude et la Protection des Mammifères (SFEPM), vise à améliorer la connaissance et la conservation des chauves-souris en France. Le site web du PNA Chiroptères ([https://plan-actions-chiropteres.fr/](https://plan-actions-chiropteres.fr/))  est une source d'information précieuse, proposant des bilans, des documents de synthèse et des actualités sur les chauves-souris. Un document de bilan du PNA2 mentionne des découvertes importantes de colonies de différentes natures entre 2009 et 2013 ([https://plan-actions-chiropteres.fr/sites/default/files/fichiers/plaquette_bilan_pna2_chiropteres_en.pdf](https://plan-actions-chiropteres.fr/sites/default/files/fichiers/plaquette_bilan_pna2_chiropteres_en.pdf)).
+*   **Vigie-Nature** : Ce programme de sciences participatives, porté par le Muséum National d'Histoire Naturelle et l'Office Français de la Biodiversité, inclut des protocoles de suivi des chauves-souris. Les données collectées peuvent être utilisées pour analyser les tendances des populations à différentes échelles.
+*   **Team-Chiro** : Ce site web ([https://croemer3.wixsite.com/teamchiro/population-trends](https://croemer3.wixsite.com/teamchiro/population-trends)) présente des tendances de population pour certaines espèces de chauves-souris en France, basées sur des données de suivi à long terme. Il met en évidence des variations significatives pour différentes espèces entre 2006 et 2023.
+
+3. Calculs et modèles de dynamique de population
+
+L'étude de la dynamique des populations de chauves-souris peut impliquer divers calculs et modèles, en fonction des objectifs de l'étude et des données disponibles. Voici quelques approches courantes :
+
+*   **Taux de croissance démographique (r)** : Ce taux mesure la variation de la taille d'une population au cours du temps. Il peut être calculé à partir des taux de natalité (b) et de mortalité (d) :  **r = b - d**. Un taux de croissance positif indique une population en expansion, tandis qu'un taux négatif signale un déclin.
+*   **Analyse des tendances de population** :  En utilisant des données de suivi à long terme, il est possible d'analyser les tendances des populations (augmentation, diminution, stabilité) et d'identifier des facteurs potentiels influençant ces tendances. Le site Team-Chiro ([https://croemer3.wixsite.com/teamchiro/population-trends](https://croemer3.wixsite.com/teamchiro/population-trends)) fournit des exemples de ces analyses pour différentes espèces en France.
+*   **Modèles matriciels de population** : Ces modèles, plus complexes, prennent en compte la structure en âge ou en stades de vie des populations, ainsi que les taux de transition entre ces classes. Ils permettent de simuler l'évolution des populations et d'évaluer l'impact de différents scénarios de gestion ou de perturbations.
+*   **Modèles de viabilité des populations (PVA)** : Ces modèles visent à évaluer la probabilité d'extinction d'une population dans un horizon temporel donné, en intégrant divers facteurs démographiques et environnementaux. Ils sont particulièrement utiles pour les espèces menacées et pour orienter les actions de conservation.
+
+4. Facteurs influençant la dynamique des populations de chauves-souris en France
+
+Plusieurs facteurs peuvent influencer la dynamique des populations de chauves-souris en France, et il est crucial de les prendre en compte dans les analyses et les modèles :
+
+*   **Destruction et fragmentation des habitats** : L'urbanisation, l'agriculture intensive, la déforestation et la rénovation des bâtiments peuvent entraîner la perte ou la dégradation des habitats de reproduction, de repos et d'alimentation des chauves-souris.
+*   **Perturbations des colonies** : Le dérangement des colonies, en particulier pendant les périodes de reproduction ou d'hibernation, peut avoir des conséquences néfastes sur la survie et la reproduction des chauves-souris.
+*   **Utilisation de pesticides** : La diminution des populations d'insectes due à l'utilisation de pesticides peut réduire la disponibilité de nourriture pour les chauves-souris insectivores.
+*   **Éoliennes** : Les collisions avec les éoliennes représentent une menace significative pour certaines espèces de chauves-souris en France, comme le souligne une étude de KTH Diva Portal ([https://kth.diva-portal.org/smash/get/diva2:1857372/FULLTEXT01.pdf](https://kth.diva-portal.org/smash/get/diva2:1857372/FULLTEXT01.pdf)). Plus de 80% des espèces de chauves-souris en France seraient affectées par ce problème.
+*   **Changements climatiques** : Les modifications du climat peuvent affecter la distribution des espèces, la disponibilité des ressources alimentaires et les cycles de vie des chauves-souris.
+
+5.  Approches de conservation et outils de suivi
+
+La conservation des chauves-souris en France repose sur différentes approches, allant de la protection des habitats à la sensibilisation du public. Le suivi des populations est un outil essentiel pour évaluer l'efficacité des mesures de conservation et adapter les stratégies si nécessaire. Les données collectées grâce aux programmes de suivi, comme Vigie-Nature, sont cruciales pour alimenter les calculs et les modèles de dynamique de population, et ainsi orienter les actions de conservation de manière éclairée.
+
+Pour approfondir vos connaissances, vous pouvez consulter les sites web mentionnés ci-dessus, ainsi que contacter la SFEPM et les associations locales de protection de la nature, qui sont souvent impliquées dans le suivi et l'étude des chauves-souris sur le terrain.
+
+
+## seuil1
+- seuil
+
+Il est important de noter qu'il n'existe pas de modèle unique et simple pour déterminer un seuil de mortalité "acceptable" pour chaque espèce de chauve-souris basé uniquement sur les listes rouges régionales françaises.  La notion de "seuil acceptable" est complexe et dépend de nombreux facteurs écologiques, démographiques et de conservation spécifiques à chaque espèce et à chaque contexte régional.
+
+Cependant, je peux vous proposer une approche méthodologique et des éléments à considérer pour construire un tel modèle, en utilisant les informations disponibles dans les listes rouges régionales et d'autres sources pertinentes.  Il est crucial de comprendre que ce modèle sera nécessairement une simplification et devra être adapté et affiné en fonction des données et des connaissances disponibles pour chaque espèce et région.
+
+**1. Éléments clés pour construire un modèle de seuil de mortalité acceptable**
+Statut de menace des listes rouges régionales comme point de départ :
+
+Les listes rouges régionales françaises, mises à jour régulièrement par le Comité français de l'UICN et le Muséum national d'Histoire naturelle, fournissent une évaluation du risque d'extinction de chaque espèce dans chaque région. Ces statuts (CR, EN, VU, NT, LC) sont un indicateur synthétique de la vulnérabilité de l'espèce et peuvent servir de base pour définir des seuils de mortalité différenciés.
+Recherchez les listes rouges régionales les plus récentes pour les chauves-souris en France. Une recherche rapide sur Google avec les termes "listes rouges régionales chauves-souris France" devrait vous diriger vers les sources officielles.
+Comprendre la signification écologique des statuts de menace :
+
+-- Espèces "En danger critique" (CR) et "En danger" (EN) : Ces espèces sont extrêmement vulnérables et proches de l'extinction. Pour ces espèces, tout seuil de mortalité additionnel devrait être considéré comme inacceptable, sauf s'il est démontré qu'il n'affecte pas la viabilité de la population (ce qui est très improbable). L'objectif de conservation doit être de réduire la mortalité à son minimum absolu et de favoriser la croissance démographique.
+-- Espèces "Vulnérables" (VU) : Ces espèces sont également menacées et présentent un risque élevé de passer dans les catégories supérieures de menace. Pour ces espèces, un seuil de mortalité acceptable serait extrêmement bas, et toute mortalité additionnelle devrait être compensée par des mesures de conservation actives (amélioration de l'habitat, réduction des perturbations, etc.).
+-- Espèces "Quasi menacées" (NT) : Ces espèces ne sont pas actuellement menacées mais sont proches de le devenir si les pressions persistent. Pour ces espèces, un seuil de mortalité légèrement plus élevé pourrait être toléré, mais il est crucial de surveiller attentivement les populations et de mettre en place des mesures préventives pour éviter qu'elles ne basculent dans les catégories de menace.
+-- Espèces "Préoccupation mineure" (LC) : Ces espèces sont considérées comme non menacées à l'échelle régionale. Un seuil de mortalité plus élevé pourrait être considéré comme acceptable, mais il est important de ne pas compromettre leur statut à long terme. Même pour ces espèces, une mortalité excessive ou non compensée pourrait devenir problématique, surtout si elle est concentrée sur certains types d'individus (reproducteurs, jeunes).
+
+**2. Intégrer les données démographiques et biologiques spécifiques à chaque espèce :**
+
+Le statut de menace est un indicateur général, mais il est essentiel de le compléter avec des informations spécifiques à chaque espèce, telles que :
+Taux de reproduction et longévité : Les espèces à faible taux de reproduction et longue durée de vie (comme beaucoup de chauves-souris) sont plus vulnérables à la mortalité additionnelle, car elles ont une capacité de récupération démographique plus lente.
+Taille et structure des populations régionales : Les petites populations isolées sont plus sensibles aux fluctuations démographiques et à la mortalité que les populations vastes et connectées.
+Tendances démographiques récentes : Les espèces dont les populations sont en déclin sont plus préoccupantes que celles dont les populations sont stables ou en augmentation. Le site Team-Chiro (https://croemer3.wixsite.com/teamchiro/population-trends) peut être une source d'information pour les tendances de population.
+Facteurs de mortalité spécifiques et leur importance relative : Certaines espèces sont plus sensibles à certains types de mortalité (éoliennes, pesticides, perte d'habitats, etc.). Il est important de considérer les principales menaces qui pèsent sur chaque espèce dans chaque région. L'étude de KTH Diva Portal (https://kth.diva-portal.org/smash/get/diva2:1857372/FULLTEXT01.pdf) met en évidence l'impact des éoliennes, mais d'autres facteurs peuvent être importants selon les espèces et les régions.
+Définir des seuils de mortalité relatifs et non absolus :
+
+Au lieu de chercher à définir un seuil de mortalité "acceptable" en nombre d'individus, il est plus pertinent de raisonner en termes de mortalité additionnelle relative par rapport à la mortalité naturelle et à la capacité de reproduction de l'espèce.
+Par exemple, pour une espèce "En danger critique", on pourrait considérer que toute mortalité additionnelle due à des activités humaines est inacceptable et doit être évitée ou compensée. Pour une espèce "Préoccupation mineure", on pourrait tolérer une certaine mortalité additionnelle, à condition qu'elle ne dépasse pas un certain pourcentage de la mortalité naturelle et qu'elle n'entraîne pas de déclin démographique à long terme.
+Mettre en place un suivi et une adaptation continue :
+
+Le "seuil de mortalité acceptable" ne doit pas être considéré comme une valeur fixe et immuable. Il doit être réévalué et ajusté régulièrement en fonction des nouvelles données de suivi des populations, des connaissances scientifiques et des changements environnementaux.
+Un système de suivi de la mortalité des chauves-souris (par exemple, via des réseaux de collecte de cadavres sous les éoliennes, des suivis de colonies, etc.) est indispensable pour évaluer l'impact réel des activités humaines et ajuster les seuils de mortalité en conséquence.
+Exemple d'approche simplifiée (à affiner)
+Voici un exemple d'approche très simplifiée pour illustrer le principe, en utilisant uniquement le statut de menace des listes rouges régionales comme base :
+
+Statut de menace (Liste Rouge Régionale)	Seuil de mortalité additionnelle "acceptable" (relatif)	Actions de gestion et de conservation
+En Danger Critique (CR) / En Danger (EN)	Nul ou extrêmement faible. Toute mortalité additionnelle est préoccupante.	Priorité absolue : Éviter toute mortalité additionnelle. Mesures de conservation maximales (protection stricte des habitats, réduction des perturbations, compensation obligatoire de toute mortalité résiduelle inévitable). Suivi démographique intensif.
+Vulnérable (VU)	Très faible. Mortalité additionnelle à minimiser et à compenser.	Minimiser la mortalité additionnelle autant que possible. Mesures de conservation renforcées (gestion des habitats, réduction des perturbations, mesures d'atténuation des impacts des activités humaines). Suivi démographique régulier.
+Quasi menacée (NT)	Faible à modéré, mais à surveiller attentivement. Mortalité additionnelle à contrôler pour éviter un basculement vers les catégories de menace.	Surveillance attentive des populations et des facteurs de mortalité. Mesures préventives pour limiter la mortalité additionnelle (gestion raisonnée des habitats, sensibilisation). Suivi démographique régulier.
+Préoccupation mineure (LC)	Modéré à potentiellement plus élevé, mais avec vigilance. Mortalité additionnelle à surveiller pour éviter un impact négatif à long terme.	Suivi de la mortalité et des tendances démographiques. Mesures de gestion si des signes de déclin apparaissent. Maintien de la qualité des habitats.
+
+_Important : Ce tableau est une simplification illustrative.  Un modèle robuste nécessiterait d'intégrer beaucoup plus de données et de connaissances spécifiques à chaque espèce et à chaque région.  Il est également crucial de consulter des experts en dynamique des populations de chauves-souris et en conservation pour affiner ce type de modèle et le rendre applicable sur le terrain._
+
+**3. Outils et ressources utiles**
+-- Listes Rouges Régionales françaises : Recherchez les publications les plus récentes sur le site du Comité français de l'UICN et du Muséum national d'Histoire naturelle.
+-- Plan National d'Actions en faveur des Chiroptères (PNA Chiroptères) : [https://plan-actions-chiropteres.fr/](https://plan-actions-chiropteres.fr) (pour des informations générales et des documents de synthèse)
+-- Société Française pour l'Étude et la Protection des Mammifères (SFEPM) : [https://www.sfepm.org](https://www.sfepm.org) (pour des experts et des données)
+-- Vigie-Nature : [https://www.vigienature.fr/fr/suivez-les-protocoles/chauves-souris](https://www.vigienature.fr/fr/suivez-les-protocoles/chauves-souris) (pour les protocoles de suivi des chauves-souris)
+-- Team-Chiro : [https://croemer3.wixsite.com/teamchiro/population-trends](https://croemer3.wixsite.com/teamchiro/population-trends) (pour les tendances de population)
+-- [Étude KTH Diva Portal sur les éoliennes et les chauves-souris](https://kth.diva-portal.org/smash/get/diva2:1857372/FULLTEXT01.pdf) (pour l'impact des éoliennes)
