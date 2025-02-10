@@ -17,7 +17,7 @@ clavier: false
 > 💡 **Tapez une commande pour obtenir des informations spécifiques.**
 > 1. [Généralités](generalites)
 > 2. [Concept de Seuil](seuil1)
-> 3. [Utilisation](util2)
+> 3. [Espèces](especes)
 > 4. [Aide et ressources](aide)
 
 
@@ -120,3 +120,196 @@ _Important : Ce tableau est une simplification illustrative.  Un modèle robuste
 -- Vigie-Nature : [https://www.vigienature.fr/fr/suivez-les-protocoles/chauves-souris](https://www.vigienature.fr/fr/suivez-les-protocoles/chauves-souris) (pour les protocoles de suivi des chauves-souris)
 -- Team-Chiro : [https://croemer3.wixsite.com/teamchiro/population-trends](https://croemer3.wixsite.com/teamchiro/population-trends) (pour les tendances de population)
 -- [Étude KTH Diva Portal sur les éoliennes et les chauves-souris](https://kth.diva-portal.org/smash/get/diva2:1857372/FULLTEXT01.pdf) (pour l'impact des éoliennes)
+
+## especes
+- espèces
+- espèce
+
+**NOCTULE COMMUNE**
+Pour appliquer le modèle de seuil de mortalité acceptable à la noctule commune (_Nyctalus noctula_) en France, nous devons suivre les étapes définies précédemment et rassembler des informations spécifiques à cette espèce.
+
+1. Statut de menace de la Noctule commune dans les listes rouges régionales françaises
+
+Commençons par déterminer le statut de menace de la Noctule commune dans les listes rouges régionales françaises les plus récentes.
+
+Les résultats de recherche indiquent que :
+
+*   **Liste rouge nationale (2017) : Vulnérable** ([https://uicn.fr/wp-content/uploads/2017/11/liste-rouge-mammiferes-de-france-metropolitaine.pdf](https://uicn.fr/wp-content/uploads/2017/11/liste-rouge-mammiferes-de-france-metropolitaine.pdf) et [https://inpn.mnhn.fr/espece/cd_nom/60468/tab/statut](https://inpn.mnhn.fr/espece/cd_nom/60468/tab/statut))
+*   **Plusieurs listes rouges régionales (Bretagne, Pays de la Loire, Centre-Val de Loire, Rhône-Alpes, Ile-de-France, Picardie, Alsace) :  Vulnérable ou Quasi menacée** ([https://inpn.mnhn.fr/espece/cd_nom/60468/tab/statut](https://inpn.mnhn.fr/espece/cd_nom/60468/tab/statut), [https://gmb.bzh/wp-content/uploads/2018/03/PosterNoctuleCommune35.pdf](https://gmb.bzh/wp-content/uploads/2018/03/PosterNoctuleCommune35.pdf), [https://paysdelaloire.lpo.fr/wp-content/uploads/2021/01/liste-rouge-mammiferes-continentaux-des-pays-de-la-loire_lpo_2020.pdf](https://paysdelaloire.lpo.fr/wp-content/uploads/2021/01/liste-rouge-mammiferes-continentaux-des-pays-de-la-loire_lpo_2020.pdf))
+
+Le statut de **"Vulnérable"** au niveau national indique que la Noctule commune est une espèce menacée en France et qu'elle présente un risque élevé de passer dans les catégories de menace supérieures si les pressions persistent.
+
+2. Données démographiques et biologiques spécifiques à la Noctule commune en France
+
+Pour affiner notre modèle, recherchons maintenant des informations sur la biologie et la démographie de la Noctule commune, en particulier en France.  Nous allons nous concentrer sur les aspects suivants :
+
+*   Taux de reproduction et longévité
+*   Taille et structure des populations régionales
+*   Tendances démographiques récentes
+*   Facteurs de mortalité spécifiques et leur importance relative
+
+Les recherches nous apportent des informations importantes sur la biologie, la démographie et les menaces pesant sur la Noctule commune en France :
+
+**Biologie et démographie :**
+
+*   **Habitat :**  Essentiellement forestier, mais s'adapte à divers milieux : forêts, prairies, zones humides, vergers, zones urbaines éclairées. Gîtes dans les cavités d'arbres, les bâtiments (fissures, combles), parfois les ponts et grottes. Peut utiliser des gîtes artificiels.
+*   **Migration :**  Espèce migratrice, capable de parcourir de longues distances (jusqu'à 1500 km). Une partie des populations serait sédentaire.
+*   **Longévité :**  Espérance de vie courte, estimée à seulement 2,2 ans, ce qui est très faible pour une chauve-souris.
+*   **Reproduction :**  Pas de détails précis trouvés dans les extraits, mais comme la plupart des chauves-souris, la Noctule commune a un faible taux de reproduction (généralement un seul jeune par portée et par an).
+*   **Tendances de population :** **Déclin significatif de la population en France.**  Les données du programme Vigie-Chiro indiquent une diminution de **52,5% entre 2006 et 2023**. Certaines sources mentionnent même un déclin de **88%** sur une période légèrement différente (possiblement 2006-2019).  Une légère augmentation non significative est observée sur la période récente 2014-2023, mais la tendance globale à long terme reste très préoccupante.
+
+**Menaces principales :**
+
+*   **Éoliennes : Mortalité importante due aux collisions avec les éoliennes.**  La Noctule commune est particulièrement vulnérable à ce type de mortalité, étant une espèce migratrice volant en hauteur.  Plusieurs sources soulignent l'impact majeur des éoliennes sur cette espèce.
+*   **Perte et dégradation des habitats :** Gestion forestière inappropriée (abattage des vieux arbres à cavités), rénovation des bâtiments (destruction de gîtes),  monoculture de résineux.
+*   **Hivers rigoureux :**  Peuvent entraîner une mortalité importante, en particulier lors de l'hibernation dans des gîtes arboricoles peu isolés.
+*   **Pesticides :**  Bien que moins explicitement mentionné pour la Noctule commune dans ces extraits, la réduction des populations d'insectes due aux pesticides est une menace générale pour les chauves-souris insectivores.
+
+3. Application du modèle de seuil de mortalité acceptable à la Noctule commune en France
+
+En appliquant notre modèle simplifié et en considérant le statut "Vulnérable" de la Noctule commune, son déclin démographique avéré, sa faible longévité et sa vulnérabilité aux éoliennes, nous pouvons définir un seuil de mortalité acceptable très bas :
+
+**Seuil de mortalité additionnelle "acceptable" pour la Noctule commune en France :  Extrêmement faible, voire nul.**
+
+**Justification :**
+
+*   **Statut "Vulnérable" et déclin démographique :**  L'espèce est déjà menacée et en déclin significatif. Toute mortalité additionnelle, même faible, peut aggraver ce déclin et compromettre la viabilité des populations à long terme.
+*   **Faible longévité et faible taux de reproduction :**  La courte durée de vie et le faible taux de reproduction de la Noctule commune limitent sa capacité à compenser les pertes dues à la mortalité additionnelle.
+*   **Vulnérabilité aux éoliennes :**  Les éoliennes représentent une menace majeure et avérée pour cette espèce.  Il est crucial de minimiser au maximum la mortalité due à cette source.
+
+4. Actions de gestion et de conservation recommandées
+
+Compte tenu du seuil de mortalité acceptable extrêmement bas pour la Noctule commune, des mesures de conservation fortes et prioritaires sont nécessaires :
+
+*   **Réduction drastique de la mortalité due aux éoliennes :**
+    *   **Évaluation environnementale rigoureuse** des projets éoliens, avec prise en compte spécifique de la Noctule commune et de ses corridors de migration.
+    *   **Évitement des zones sensibles** (zones de migration, zones de reproduction, zones d'alimentation) pour l'implantation d'éoliennes.
+    *   **Mise en place de mesures d'atténuation efficaces** dans les parcs éoliens existants et futurs :
+        *   **Arrêt des éoliennes par conditions de risque élevé** (périodes de migration, nuits chaudes et sans vent).
+        *   **Optimisation des seuils de déclenchement des arrêts** en fonction des données locales et des connaissances scientifiques les plus récentes.
+        *   **Mesures de dissuasion** (efficacité encore à prouver pour les chauves-souris).
+*   **Conservation et restauration des habitats :**
+    *   **Protection et gestion durable des forêts anciennes** et des vieux arbres à cavités, en particulier dans les zones importantes pour l'espèce.
+    *   **Maintien et restauration des prairies et des zones humides** qui constituent des terrains de chasse importants.
+    *   **Prise en compte des besoins de la Noctule commune dans les plans de gestion forestière** et les politiques d'aménagement du territoire.
+    *   **Préservation desContinuer à promouvoir la plantation d'essences locales** et la diversification des forêts.
+*   **Réduction de l'utilisation des pesticides :**
+    *   **Promotion de pratiques agricoles durables** limitant l'usage des pesticides, en particulier dans les zones de chasse de la Noctule commune.
+    *   **Mesures agroenvironnementales** favorisant la biodiversité des insectes.
+*   **Suivi démographique renforcé :**
+    *   **Mise en place d'un suivi national standardisé** des populations de Noctule commune, basé sur des protocoles acoustiques et des comptages de colonies.
+    *   **Utilisation des données de suivi pour évaluer l'efficacité des mesures de conservation** et adapter les stratégies si nécessaire.
+*   **Sensibilisation et information :**
+    *   **Sensibilisation des acteurs concernés** (gestionnaires forestiers, agriculteurs, développeurs éoliens, collectivités territoriales, grand public) aux enjeux de conservation de la Noctule commune et aux mesures à mettre en œuvre.
+    *   **Diffusion d'informations** sur la biologie de l'espèce, les menaces et les bonnes pratiques.
+
+Il est crucial de souligner que ce modèle et les seuils proposés sont indicatifs et nécessitent une validation et un affinage par des experts.  La conservation de la Noctule commune en France est un enjeu important qui demande une approche intégrée et concertée de la part de tous les acteurs.
+
+Tu veux approfondir par une approche régionale ?
+1. [Oui] (region)
+2. [Non]()
+
+
+## region
+
+**Déclinaison par région**
+
+CENTRE VAL DE LOIRE
+Bien sûr.  Pour proposer des calculs pour la Noctule commune se reproduisant en région Centre-Val de Loire et déterminer un seuil de mortalité acceptable lié aux parcs éoliens, il faut construire un modèle simplifié, tout en reconnaissant les limites et les incertitudes inhérentes à ce type d'exercice.
+
+**Important :** Il est crucial de comprendre que les calculs suivants sont basés sur des estimations et des simplifications.  Un modèle précis et robuste nécessiterait des données de terrain détaillées, des expertises spécifiques et des outils de modélisation démographique avancés.  L'objectif ici est de fournir une illustration de l'approche et des éléments à considérer, et non de définir un seuil de mortalité "officiel" ou applicable directement sur le terrain.
+
+### 1.  Données et estimations nécessaires pour le modèle
+
+Pour construire notre modèle simplifié, nous avons besoin d'estimer les paramètres suivants pour la population de Noctule commune en région Centre-Val de Loire :
+
+*   **Taille de la population de référence (N₀) :**  Il est très difficile d'estimer la taille exacte de la population de Noctule commune en Centre-Val de Loire.  Nous devrons probablement utiliser une estimation indirecte ou une densité moyenne extrapolée à la surface de la région considérée comme habitat favorable.  *Nous allons tenter de rechercher des estimations de population ou de densité.*
+*   **Taux de croissance démographique intrinsèque (r) ou taux de reproduction (λ) en absence de mortalité additionnelle :**  Ce paramètre représente la capacité de la population à croître dans des conditions optimales, sans mortalité due aux éoliennes.  Nous pouvons l'estimer à partir des caractéristiques biologiques de l'espèce (taux de natalité, mortalité naturelle). *Nous allons rechercher des données sur la reproduction et la mortalité naturelle de la Noctule commune.*
+*   **Mortalité annuelle due aux éoliennes (M_éolien) :**  Il faut estimer le nombre de Noctules communes tuées chaque année par l'ensemble des parcs éoliens en exploitation en 2024 en région Centre-Val de Loire.  Cela nécessite des données sur le nombre d'éoliennes, leur localisation par rapport aux habitats de l'espèce, et des taux de mortalité par éolienne et par espèce. *Nous allons rechercher des données sur la mortalité des chauves-souris due aux éoliennes en France, et en particulier pour la Noctule commune, et essayer de les régionaliser.*
+
+### 2.  Modèle démographique simplifié
+
+Nous allons utiliser un modèle démographique simple, basé sur le taux de croissance démographique, pour illustrer l'impact de la mortalité due aux éoliennes. Nous utiliserons une approche discrète, en considérant une population annuelle.
+
+L'évolution de la population d'année en année (Nt à Nt+1) peut être modélisée ainsi :
+
+**N_(t+1) = N_t + (r * N_t) - M_éolien**
+
+Où :
+
+*   **N_(t+1)** est la taille de la population à l'année t+1.
+*   **N_t** est la taille de la population à l'année t.
+*   **r** est le taux de croissance démographique intrinsèque (par exemple, si r = 0.1, cela signifie une croissance potentielle de 10% par an en absence de mortalité additionnelle).
+*   **M_éolien** est le nombre total de Noctules communes tuées par les éoliennes chaque année dans la région.
+
+**Seuil de mortalité acceptable :**
+
+Le seuil de mortalité acceptable peut être défini comme la mortalité maximale due aux éoliennes qui permet de maintenir la population stable ou en croissance à long terme.  En d'autres termes, nous cherchons la valeur de **M_éolien** pour laquelle **N_(t+1) >= N_t** ou, idéalement, **N_(t+1) > N_t** (pour permettre une croissance lente et compenser d'autres facteurs de mortalité non pris en compte ici).
+
+Mathématiquement, le seuil de mortalité acceptable (M_acceptable) correspond à :
+
+**M_acceptable = r * N_t**
+
+Cela signifie que la mortalité due aux éoliennes ne devrait pas dépasser le potentiel de croissance intrinsèque de la population.  Si la mortalité dépasse cette valeur, la population déclinera à long terme.
+
+### 3. Recherche de données et estimations des paramètres
+
+Effectuons maintenant des recherches pour estimer les paramètres nécessaires :
+
+Les résultats de recherche nous apportent des informations utiles, mais aussi des limites importantes pour notre modélisation :
+
+*   **Taille de la population (N₀) :** Aucune estimation de population pour la région Centre-Val de Loire n'est disponible. Les sources indiquent que l'espèce est "rare à commune", et qu'il existe de fortes densités dans la région Centre-Val de Loire à l'échelle nationale, mais sans quantification.  Nous ne pourrons pas utiliser de valeur précise pour N₀. Nous devrons donc raisonner en termes relatifs ou utiliser une densité hypothétique pour illustrer le calcul.
+*   **Taux de croissance démographique intrinsèque (r) :** Nous n'avons pas trouvé de valeur directe pour 'r'. Cependant, nous avons des informations sur la biologie de l'espèce :
+    *   Longévité courte : 2,2 ans en moyenne (mais potentiel jusqu'à 12 ans).
+    *   Faible taux de reproduction : généralement 1 jeune par an.
+    *   Ces éléments suggèrent un taux de croissance intrinsèque plutôt faible, typique des chauves-souris.  Pour simplifier et illustrer, nous pourrions hypothétiquement utiliser une valeur de **r = 0.1** (soit un potentiel de croissance de 10% par an en absence de mortalité additionnelle).  *Il est important de noter que cette valeur est hypothétique et devrait être validée ou affinée par des données plus précises.*
+*   **Mortalité due aux éoliennes (M_éolien) :**  Les recherches confirment la forte mortalité des Noctules communes due aux éoliennes en France.  Une étude mentionne que 31% des cadavres de chauves-souris retrouvés dans le Cher (région Centre-Val de Loire) sont des Noctules communes ou de Leisler.  Cependant, nous n'avons pas trouvé de taux de mortalité spécifique (nombre de morts par éolienne par an) pour la Noctule commune dans la région Centre-Val de Loire.  Nous savons que la région est concernée par l'éolien, et que la Noctule commune est vulnérable.  Pour illustrer, nous allons devoir faire une estimation hypothétique du taux de mortalité.
+*   **Nombre d'éoliennes en Centre-Val de Loire en 2024 :**  Nous avons une information de mars 2024 indiquant **156 parcs éoliens** et une autre source mentionne **570 éoliennes** en 2022 dans la région Centre-Val de Loire.  Utilisons **570 éoliennes** comme estimation approximative pour 2024.
+
+### 4.  Calcul du seuil de mortalité acceptable (illustratif)
+
+En raison du manque de données précises, nous allons procéder à un calcul illustratif, basé sur des hypothèses simplificatrices.
+
+**Hypothèses :**
+
+*   **Taux de croissance démographique intrinsèque (r) = 0.1** (10% par an). *Hypothèse à valider.*
+*   **Population de référence (N₀) :**  Nous ne pouvons pas utiliser de valeur précise. Nous allons donc exprimer le seuil de mortalité acceptable en pourcentage de la population de référence, ou en nombre d'individus par éolienne.
+*   **Nombre d'éoliennes en 2024 : 700.** *Estimation approximative.*
+
+**Calcul du seuil de mortalité acceptable total pour le parc éolien :**
+
+En utilisant la formule **M_acceptable = r * N_t**, et en prenant N_t comme la population de référence (N₀), nous obtenons :
+
+**M_acceptable = 0.1 * N₀**
+
+Cela signifie que, **pour maintenir une population stable (au mieux) avec un taux de croissance intrinsèque de 10%, la mortalité totale due aux éoliennes ne devrait pas dépasser 10% de la population de référence N₀.**
+
+**Seuil de mortalité acceptable par éolienne (illustratif) :**
+
+Pour exprimer cela en termes de mortalité par éolienne, nous devons diviser la mortalité totale acceptable par le nombre d'éoliennes :
+
+**M_acceptable_par_éolienne = M_acceptable / Nombre_éoliennes = (0.1 * N₀) / 700**
+
+**Limite de cette approche et nécessité de données de terrain :**
+
+*   **Absence de valeur pour N₀ :** Sans estimation de la taille de la population de Noctule commune en Centre-Val de Loire, nous ne pouvons pas obtenir de seuil de mortalité acceptable en nombre d'individus.  Le résultat est exprimé en fonction de N₀, qui reste inconnu.
+*   **Hypothèse sur 'r' :** La valeur de r = 0.1 est hypothétique.  Le taux de croissance réel peut être différent et varier selon les années et les conditions environnementales.
+*   **Mortalité par éolienne non uniforme :**  La mortalité n'est pas répartie uniformément sur toutes les éoliennes. Elle dépend de la localisation des éoliennes par rapport aux habitats, des conditions météorologiques, des caractéristiques des turbines, etc.  Un seuil moyen par éolienne est donc une simplification.
+*   **Autres facteurs non pris en compte :**  Le modèle simplifié ne prend en compte que la mortalité due aux éoliennes.  D'autres facteurs de mortalité (destruction d'habitats, pesticides, mortalité naturelle...) et d'autres facteurs démographiques (dispersion, immigration...) ne sont pas inclus, ce qui limite la portée du modèle.
+*   **Objectif de conservation :**  Maintenir la population stable est un objectif minimal.  Pour une espèce "Vulnérable" et en déclin, un objectif de conservation plus ambitieux serait de favoriser la croissance de la population.  Dans ce cas, le seuil de mortalité acceptable devrait être encore plus bas, voire proche de zéro.
+
+**En conclusion :**
+
+Ce calcul illustratif montre une approche possible pour déterminer un seuil de mortalité acceptable, mais il est **fortement limité par le manque de données précises**.  **En l'état actuel des connaissances, et compte tenu du statut "Vulnérable" de la Noctule commune et de son déclin avéré, on peut conclure que le seuil de mortalité acceptable due aux éoliennes en région Centre-Val de Loire est probablement extrêmement bas, voire proche de zéro.**
+
+Pour aller plus loin et obtenir des résultats plus robustes et utiles pour la gestion, il est **indispensable de réaliser des études de terrain approfondies** pour :
+
+*   **Estimer la taille et la structure des populations** de Noctule commune en Centre-Val de Loire.
+*   **Mesurer le taux de mortalité réel** due aux éoliennes dans la région, en tenant compte des différents parcs et des conditions locales.
+*   **Affiner l'estimation du taux de croissance démographique intrinsèque (r)** de l'espèce dans la région.
+*   **Développer des modèles démographiques plus complexes** intégrant différents facteurs et scénarios.
+
+Ces études nécessitent des compétences spécifiques en écologie des chauves-souris, en modélisation démographique et en suivi de la mortalité en milieu éolien. Il est recommandé de se rapprocher d'experts et d'organismes de recherche spécialisés pour mener à bien de telles investigations.
+
+
+
