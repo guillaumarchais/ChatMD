@@ -298,6 +298,10 @@ Pour exprimer cela en termes de mortalité par éolienne, nous devons diviser la
 *   **Autres facteurs non pris en compte :**  Le modèle simplifié ne prend en compte que la mortalité due aux éoliennes.  D'autres facteurs de mortalité (destruction d'habitats, pesticides, mortalité naturelle...) et d'autres facteurs démographiques (dispersion, immigration...) ne sont pas inclus, ce qui limite la portée du modèle.
 *   **Objectif de conservation :**  Maintenir la population stable est un objectif minimal.  Pour une espèce "Vulnérable" et en déclin, un objectif de conservation plus ambitieux serait de favoriser la croissance de la population.  Dans ce cas, le seuil de mortalité acceptable devrait être encore plus bas, voire proche de zéro.
 
+_Le statut "Vulnérable" vient confirmer et renforcer cette conclusion._
+
+En utilisant notre formule simplifiée :  M_acceptable = r * N₀,  et avec un taux de croissance intrinsèque hypothétique de r = 0.1, nous avions établi que la mortalité totale acceptable pour l'ensemble du parc éolien ne devrait pas dépasser 10% de la population de référence (N₀).  Et compte tenu du nombre d'éoliennes (700), cela se traduisait par un seuil de mortalité acceptable par éolienne extrêmement faible.
+
 **En conclusion :**
 
 Ce calcul illustratif montre une approche possible pour déterminer un seuil de mortalité acceptable, mais il est **fortement limité par le manque de données précises**.  **En l'état actuel des connaissances, et compte tenu du statut "Vulnérable" de la Noctule commune et de son déclin avéré, on peut conclure que le seuil de mortalité acceptable due aux éoliennes en région Centre-Val de Loire est probablement extrêmement bas, voire proche de zéro.**
@@ -309,7 +313,15 @@ Pour aller plus loin et obtenir des résultats plus robustes et utiles pour la g
 *   **Affiner l'estimation du taux de croissance démographique intrinsèque (r)** de l'espèce dans la région.
 *   **Développer des modèles démographiques plus complexes** intégrant différents facteurs et scénarios.
 
-Ces études nécessitent des compétences spécifiques en écologie des chauves-souris, en modélisation démographique et en suivi de la mortalité en milieu éolien. Il est recommandé de se rapprocher d'experts et d'organismes de recherche spécialisés pour mener à bien de telles investigations.
+Bien que la Noctule commune soit considérée comme présente sur l'ensemble du territoire français, y compris la région Centre-Val de Loire, et même qualifiée de commune dans cette région, les données disponibles ne permettent pas de quantifier sa population reproductrice régionale. Voici les éléments qui ressortent des recherches et qui expliquent cette absence d'estimation précise :
+
+-- Difficulté de recensement des gîtes : Les gîtes de la Noctule commune, situés principalement dans les cavités d'arbres et parfois dans les bâtiments, sont naturellement difficiles à localiser et à recenser. Cette discrétion rend complexe l'estimation des populations reproductrices.
+-- Absence de colonies de reproduction connues : Une source indique que malgré la preuve de reproduction de l'espèce en région Centre, aucun groupe de femelles n'a été trouvé en gîte de reproduction. Seules une vingtaine de colonies de mâles ont été recensées en été. Cela suggère que les colonies de reproduction sont soit très discrètes, soit peu nombreuses dans la région, ou encore situées dans des zones non encore inventoriées.
+-- Migration des femelles : La Noctule commune est une espèce migratrice. La plupart des femelles partent se reproduire dans le nord-est de l'Europe et reviennent en France après la période de reproduction pour s'accoupler et hiberner. Cette migration complexe rend difficile l'estimation d'une population reproductrice régionale stable.
+-- Efforts de recherche en cours : Le plan d'action pour la conservation de la Noctule commune en Pays de la Loire (région limitrophe) souligne la nécessité de discuter et tester différentes méthodes pour chercher les gîtes de reproduction et de faciliter la mise en commun des données. Cela indique que la recherche de colonies de reproduction et l'amélioration des estimations de population sont des axes de travail actuels.
+-- Concentration des suivis sur d'autres espèces : Dans le département du Cher (Centre-Val de Loire), les suivis de colonies de mise-bas semblent se concentrer davantage sur les Pipistrelles et les Sérotines communes, espèces dites plus communes et plus faciles à recenser en colonies de reproduction dans les bâtiments.
+
+En conclusion, bien que la Noctule commune soit présente et se reproduise en région Centre-Val de Loire, il n'existe pas actuellement d'estimation chiffrée de la taille de sa population reproductrice régionale.  Les raisons principales sont la discrétion de ses gîtes de reproduction, la migration des femelles et les difficultés générales de recensement de cette espèce. Les efforts de recherche se poursuivent pour améliorer les connaissances sur la répartition et la taille des populations de Noctule commune, y compris ses colonies de reproduction.
 
 
 
