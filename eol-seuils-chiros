@@ -15,10 +15,7 @@ clavier: false
 >✔️ Générer
 >
 > 💡 **Tapez une commande pour obtenir des informations spécifiques.**
-> 1. [Généralités](generalites)
-> 2. [Concept de Seuil](seuil1)
-> 3. [Espèces](especes)
-> 4. [Aide et ressources](aide)
+ 
 
 
 ## généralites
@@ -125,6 +122,10 @@ _Important : Ce tableau est une simplification illustrative.  Un modèle robuste
 - espèces
 - espèce
 
+> 1. [Noctule commune](noccom)
+> 2. [Milan royal](milroy)
+
+## noccom
 **NOCTULE COMMUNE**
 Pour appliquer le modèle de seuil de mortalité acceptable à la noctule commune (_Nyctalus noctula_) en France, nous devons suivre les étapes définies précédemment et rassembler des informations spécifiques à cette espèce.
 
@@ -161,18 +162,18 @@ Les recherches nous apportent des informations importantes sur la biologie, la d
 **Menaces principales :**
 
 *   **Éoliennes : Mortalité importante due aux collisions avec les éoliennes.**  La Noctule commune est particulièrement vulnérable à ce type de mortalité, étant une espèce migratrice volant en hauteur.  Plusieurs sources soulignent l'impact majeur des éoliennes sur cette espèce, notamment [celle-ci datant de janvier 2025 (Merlet et al.)](https://www.nature.com/articles/s41598-025-85636-5#Ack1) qui indiquent : 
-::info
-_Given these limitations, we estimate here the impact of wind energy production in France on migratory bats. To do this, we assume that mortality estimates from central Europe of 14 bats killed per wind turbine per year are representative for France9, which currently hosts about 9,700 onshore wind turbines with a total power capacity to 22.1 GW64. This leads to the inference that about 140,000 bats are killed per year at French wind turbines. In addition, we assume a relative proportion of about 18% for common noctule bats among bat carcasses found at wind turbines65, of which about 30% are long-distance migrants (this study50), . This corresponds to an estimated 25,200 common noctule bats killed at wind turbines per year in France, of which 17,640 are of regional and 7,560 of a north-eastern origin. This estimate should be refined on the basis of data from France, which is currently sparse or not easily accessible. For example, a report stated that only 6% of all bat carcasses at wind turbines in western France are attributable to common noctule bats66, and another report put the mortality rate of bats in France at only ~ 3–4 bats per wind turbine per year67. Furthermore, it has been claimed that about one third of wind turbines are operated with a curtailment scheme to protect bats68. Incorporating this data would lead to lower fatality estimates of migratory common noctule bats in France._
-::
+:::info
+_Given these limitations, we estimate here the impact of wind energy production in France on migratory bats. To do this, we assume that mortality estimates from central Europe of 14 bats killed per wind turbine per year are representative for France9, which currently hosts about 9,700 onshore wind turbines with a total power capacity to 22.1 GW. This leads to the inference that about 140,000 bats are killed per year at French wind turbines. In addition, we assume a relative proportion of about 18% for common noctule bats among bat carcasses found at wind turbines65, of which about 30% are long-distance migrants (this study). This corresponds to an estimated 25,200 common noctule bats killed at wind turbines per year in France, of which 17,640 are of regional and 7,560 of a north-eastern origin. This estimate should be refined on the basis of data from France, which is currently sparse or not easily accessible. For example, a report stated that only 6% of all bat carcasses at wind turbines in western France are attributable to common noctule bats, and another report put the mortality rate of bats in France at only ~ 3–4 bats per wind turbine per year67. Furthermore, it has been claimed that about one third of wind turbines are operated with a curtailment scheme to protect bats68. Incorporating this data would lead to lower fatality estimates of migratory common noctule bats in France._
+:::
 *   **Perte et dégradation des habitats :** Gestion forestière inappropriée (abattage des vieux arbres à cavités), rénovation des bâtiments (destruction de gîtes),  monoculture de résineux.
 *   **Hivers rigoureux :**  Peuvent entraîner une mortalité importante, en particulier lors de l'hibernation dans des gîtes arboricoles peu isolés.
 *   **Pesticides :**  Bien que moins explicitement mentionné pour la Noctule commune dans ces extraits, la réduction des populations d'insectes due aux pesticides est une menace générale pour les chauves-souris insectivores.
 
 3. Application du modèle de seuil de mortalité acceptable à la Noctule commune en France
 
-En appliquant notre modèle simplifié et en considérant le statut "Vulnérable" de la Noctule commune, son déclin démographique avéré, sa faible longévité et sa vulnérabilité aux éoliennes, nous pouvons définir un seuil de mortalité acceptable très bas :
+En appliquant notre modèle simplifié et en considérant le statut "Vulnérable" de la Noctule commune, son déclin démographique avéré, sa faible longévité et sa vulnérabilité aux éoliennes, nous pouvons définir un seuil de mortalité acceptable bas :
 
-**Seuil de mortalité additionnelle "acceptable" pour la Noctule commune en France :  Extrêmement faible, voire nul.**
+**Seuil de mortalité additionnelle "acceptable" pour la Noctule commune en France :  faible, voire très faible.**
 
 **Justification :**
 
