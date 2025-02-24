@@ -208,6 +208,7 @@ Prenons un site où :
 📢 **Conclusion :**  
 👉 Huso (2011) est plus précis mais dépend de la valeur de `k` (valeur entre 0 et 1 indiquant les chances de retrouver un cadavre au passage suivant malgré sa dégradation).  
 👉 EoA donne une meilleure estimation en intégrant l’incertitude et la crédibilité (absence prouvée par l'effort statisfaisant de recherche des cadavres) ✅.  
+Voici une [vidéo de présentation pédagogique simplifiée](https://youtu.be/dTsE0CIYVso) avec une application en ligne développée par le bureau d'études nord-américain [WEST Inc.](https://west-inc.com).
 
 :::info
 📌 **Pourquoi choisir EoA ?**
