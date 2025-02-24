@@ -6,6 +6,8 @@ rechercheContenu: false
 
 # 🤖 Chatbot d'introduction à "Evidence of Absence (EoA) v2.0"
 
+> **<span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas toutes lui-même produit (sauf si spécifié).</span>**
+
 > Ce chatbot vous aide à comprendre et installer le logiciel open source **Evidence of Absence (EoA) v2.0** publié par l'USGS, un outil d'estimation de la mortalité d'oiseaux et de chauves-souris dans les parcs éoliens qui permet de
 >✔️ Estimer les impacts cumulatifs d'un parc sur plusieurs années.
 >✔️ Vérifier si les seuils de mortalité acceptable sont respectés.
