@@ -3,6 +3,7 @@ maths : true
 gestionGrosMots: true
 rechercheContenu: true
 theme: bubbles
+style : a{color:purple}
 clavier: false
 ---
 # 🦇 Guide Technique d'Utilisation d'AnalookW 4 pour l'Analyse des Sons de Chauves-Souris 🦇
