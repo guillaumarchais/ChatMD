@@ -184,8 +184,14 @@ Tu veux voir un autre sujet ?
 - test de persistance
 - taux de persistance
 - temps moyen
-Ce test consiste à déposer plusieurs leurres ou faux cadavres (souvent des souris, rats, gerbies congelées pour animalerie ou aussi des poussins ou autres volailles) sur les surfaces prospectables autour des éoliennes afin de rendre compte du temps de persistance à des périodes différentes (mai et septembre par exemple). Le protocole national 2018 demande d'en déposer au moins 3 par éolienne pour chaque test, mais il est recommandé de le pratiquer sur plusieurs éoliennes et sur les différents types de surface selon leur classe de visibilité (bonne et moyenne). En France, les persistances constatées sont assez souvent courtes (< 3 jours) car tous les faux cadavres sont déposés au même moment ; ce qui est un biais par rapport à la situation réelle des collisions (étalée dans le temps). Il est donc d'autant plus pertinent pour le limiter d'appliquer le taux de persistance à la période suivie correspondante avec de la mortalité brute avérée.
-Pour aller plus loin, lire cette [synthèse française par des experts du Museum National d'Histoire Naturelle / CESCO : partie 2.2 à partir de page 20](https://librairie.ademe.fr/cadic/8508/Rapport_Final_ademe_VFINAL_Chiro_eolien_2024.pdf) et cette [publication récente de 2024](https://www.sciencedirect.com/science/article/pii/S0006320724000703)
+Ce test consiste à déposer plusieurs cadavres d'animaux (souvent des souris, rats, gerbies congelées pour animalerie, ou aussi des poussins ou autres volailles) sur les surfaces prospectables autour des éoliennes afin de rendre compte du temps de persistance à des périodes différentes (mai et septembre par exemple). 
+
+Le protocole national 2018 demande d'en déposer au moins 3 par éolienne pour chaque test, mais il est recommandé de le pratiquer sur plusieurs éoliennes et sur les différents types de surface selon leur classe de visibilité (bonne et moyenne). 
+
+En France, les persistances constatées sont assez souvent courtes (< 3 jours) car tous les faux cadavres sont déposés au même moment ; ce qui est un biais par rapport à la situation réelle des collisions (étalée dans le temps). Il est donc d'autant plus pertinent pour le limiter d'appliquer le taux de persistance à la période suivie correspondante avec de la mortalité brute avérée (et pas un test ralisé en mai avec des cadavres découverts en septembre par exemple).
+Pour aller plus loin, lire cette [synthèse française par des experts du Museum National d'Histoire Naturelle / CESCO : partie 2.2 à partir de page 20](https://librairie.ademe.fr/cadic/8508/Rapport_Final_ademe_VFINAL_Chiro_eolien_2024.pdf); 
+
+et aussi cette [publication récente de 2024](https://www.sciencedirect.com/science/article/pii/S0006320724000703)
 ![Distance probable au mat des cadavres selon les groupes](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxpbnJ1djQ2NTBmaGZrdHFmemRndHl2eGsybTl5YjI5a3RsZ25jbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PKGHwLgQgeWJEWBu3e/giphy.gif)
 Tu veux voir un exemple ?
 1. [Oui](Je veux voir un exemple)
@@ -202,7 +208,11 @@ Tu veux en apprendre plus ?
 - détection
 - test
 - observateur
-La capacité d'un observateur varie grandement selon les conditions de visbilité, l'expérience, la fatigue, etc... Ce test utilise des leurres qui sont déposés par dizaines à proximité d'une bonne partie des éoliennes afin de rendre compte d'un pourcentage d'entre eux retrouvés en situation de recherche normale. Les résultats sont déclinés par observateur, classe de visibilité, gabarit (petite et moyenne taille) et période. Des scores "mauvais" inférieurs à 50 % environ sont à analyser plus particulièrement afin de vérifier qu'ils ne sont pas  surtout liés à un manque d'attention ou de concentration.
+La capacité d'un observateur varie grandement selon les conditions de visbilité, l'expérience, la fatigue, etc... Ce test utilise des leurres qui sont déposés par dizaines à proximité d'une bonne partie des éoliennes afin de rendre compte d'un pourcentage d'entre eux retrouvés en situation de recherche normale. 
+
+Les résultats sont déclinés par observateur, classe de visibilité, gabarit (petite et moyenne taille) et période. Des scores "mauvais" inférieurs à 50 % environ sont à analyser plus particulièrement afin de vérifier qu'ils ne sont pas  surtout liés à un manque d'attention ou de concentration.
+
+Comme alternative et afin d'améliorer la détection, des chiens bien entrainés sont parfois utilisés car leur odorat leur permet d'atteindre des scores élevés (>90 %). Avec le développement de la technologie, des drones sont aussi testés. Tout repose sur la qualité des images et leurs méthodes d'analyse a posteriori. Les résultats varient évidemment en fonction la taille des cadavres et leur visibilité notamment (une chauve-souris ou un roitelet sera plus difficilement détectable qu'un martinet ou une buse par exemple). 
 ![Martinet](http://gmarchais.free.fr/eolien-enviro/martinet-dead.JPG)
 
 Tu veux en apprendre plus ?
@@ -213,7 +223,9 @@ Tu veux en apprendre plus ?
 - surface
 - surfaces
 - surfacique
-Le [protocole national 2018](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf) demande de couvrir une surface homogène autour du mat de l'éolienne basé sur la longueur de la pale avec un rayon minimal de 50 m. Lorsque l'occupation du sol est trop dense en cultures (blé, maïs, betterave), il devient très difficile de pouvoir prospecter sans les endommager. Ainsi, il est généralement admis de ne pas du tout les prospecter afin de limiter la pénibilité et les dommages associés. La présence de bétail dans les pâtures peut aussi conduire à cette décision. Soit on retient un pourcentage simple sur l'ensemble de la surface théorique, soit on applique une méthode des cercles concentriques tous les 5 ou 10 m.
+Le [protocole national 2018](https://eolien-biodiversite.com/IMG/pdf/protocole_de_suivi_revision_2018.pdf) demande de couvrir une surface homogène autour du mat de l'éolienne basé sur la longueur de la pale avec un rayon minimal de 50 m. Lorsque l'occupation du sol est trop dense en cultures (blé, maïs, betterave), il devient très difficile de pouvoir prospecter sans les endommager. Ainsi, il est généralement admis de ne pas du tout les prospecter afin de limiter la pénibilité et les dommages associés. La présence de bétail dans les pâtures peut aussi conduire à cette décision. 
+
+Pour le calcul des estimations avec les formules, soit on retient un pourcentage simple sur l'ensemble de la surface théorique, soit on applique une méthode des cercles concentriques tous les 5 ou 10 m [(Arnet et al., 2015)](https://docs.wind-watch.org/Bats%20and%20IWT%20in%20PA%20and%20WVa.pdf).
 
 Tu veux en apprendre plus ?
 1. [Oui](corr surfa DWP)
