@@ -2,6 +2,7 @@
 maths : true
 gestionGrosMots: true
 rechercheContenu: true
+theme: bubbles
 tags: template
 clavier: false
 ---
