@@ -258,7 +258,8 @@ Retour au menu principal ?
 ## batdetect
 - fichier
 - identification
-Un groupe de chercheurs [(Mac Adoha et al 2022)](https://www.biorxiv.org/content/10.1101/2022.12.14.520490v1.full.pdf) ont développé et mis en ligne une solution open source, [BATDETECT2](https://github.com/macaodha/batdetect2), qui permet d'utiliser des modèles de "deep-learning" en langague Python pour automatiquement identifier un fichier son. Ils ont entrainé des modèles avec des enregistrements de référence pour chaque espèce listée. Une démo en ligne sur la plateforme [HUGGINGFACE](https://huggingface.co/spaces/macaodha/batdetect2) *pour les espèces rencontrées au Royaume-Uni (nord de l'Europe de l'Ouest en général)* peut-être utilisée pour essayer d'identifier un fichier WAV à la fois. _Ne fonctione pas encore pour les cris sociaux ou atypiques._
+Un groupe de chercheurs [(Mac Adoha et al 2022)](https://www.biorxiv.org/content/10.1101/2022.12.14.520490v1.full.pdf) ont développé et mis en ligne une solution open source, [BATDETECT2](https://github.com/macaodha/batdetect2), qui permet d'utiliser des modèles de "deep-learning" en langague Python pour automatiquement identifier un fichier son. Ils ont entrainé des modèles avec des enregistrements de référence pour chaque espèce listée. 
+Une démo en ligne sur la plateforme [HUGGINGFACE](https://huggingface.co/spaces/macaodha/batdetect2) **pour les espèces rencontrées au Royaume-Uni (nord de l'Europe de l'Ouest en général)** peut-être utilisée pour essayer d'identifier un fichier WAV à la fois. _Ne fonctionne pas encore pour les cris sociaux ou atypiques._
 
 Retour au menu principal ?
 1. [Oui]()
