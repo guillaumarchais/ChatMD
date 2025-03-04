@@ -27,7 +27,7 @@ clavier: false
 - bat collisions
 Birds of all species can collide with wind turbines, but those that reproduce in small numbers are particularly vulnerable. This includes most raptors, which have large territories and are often found in small numbers, even during migration. Other species that are at risk include gulls and terns, which are found near coasts, and cranes and storks, which are less common.
 ![](https://media.giphy.com/media/Qz7VpOlWMXYAM/giphy.gif)
-Migratory bats are also particurlarly vulnerable such as the ([Nathusius' Pipistrelle ](https://youtu.be/ImYYqXYfTl0?si=AdOOy4fumnpiI9bx) in Europe.
+Migratory bats are also particurlarly vulnerable such as the ([Nathusius' Pipistrelle ](https://youtu.be/ImYYqXYfTl0?si=AdOOy4fumnpiI9bx) in Europe. This French article shows which species are the most sensivitve based on acoustic activity data recorded at height from measuring masts [(Roemer et al., 2017)](https://docs.wind-watch.org/Roemer.j.biocon.2017.09.pdf)
 ![](https://media.giphy.com/media/10I2yiQCXk4aaI/giphy.gif)
 More ?
 1. [Yes](Durr)
@@ -37,6 +37,8 @@ More ?
 - Durr
 - Dürr
 A German scientist, Tobias Dürr, has been collecting data on bird mortality at wind turbines in Europe for many years. This data is not complete, but it provides valuable insights into the species that are most at risk from wind turbines. The website [Landesamt für Umwelt Brandenburg](https://lfu.brandenburg.de/lfu/de/aufgaben/natur/artenschutz/vogelschutzwarte/arbeitsschwerpunkt-entwicklung-und-umsetzung-von-schutzstrategien/auswirkungen-von-windenergieanlagen-auf-voegel-und-fledermaeuse/) makes data avaliable for download as Excel spreadsheets (at the bottom of the page).
+
+Another published article, English this time, analyses at the world wide scale the vulnerability of differents groups of animals. Those which tends to fly below 30 m above ground level or migrate are arguably more at risk of collision. [(Thaxter et al., 2017)](https://royalsocietypublishing.org/doi/10.1098/rspb.2017.0829)
 
 Beyond the simple number of birds killed, it is important to consider the mortality rates relative to the populations of each species and their conservation status. This is because the impact of wind turbines on bird populations will vary depending on the size of the population, the number of wind turbines, and the conservation status of the species. This is issue is discussed in the article of the French journal "Eolien & Biodiversité" de 2022 (page 23) => [https://www.calameo.com/books/0063425990f6eb7c24b96](https://www.calameo.com/books/0063425990f6eb7c24b96)
 More ?
@@ -188,6 +190,9 @@ Doy want to know more?
 
 ## Le test de détection
 A searcher's detection capacity varies a lot depending the visibility conditions, his/her experience, tireness and so on... This test uses trial carcasses or similar objects placed on site in order to check how much of them are found indeed during a standard visit. The results must be tailored to each searcher, visibility class, size class and period of the year. Bad scores, i.e. below 50 %, have to well analysed as they mean that the search is not effective enough or the visibility is too poor.
+
+As an alternative and to improve detection, well-trained dogs are sometimes used because their sense of smell allows them to achieve high scores (>90%). With the development of technology, drones are also being tested. Everything depends on the quality of the images and their post-processing analysis methods. The results obviously vary depending on the size of the carcasses and their visibility in particular (a bat or a goldcrest will be more difficult to detect than a swift or a buzzard, for example).
+
 Do you want to learn more?
 1. [Yes]()
 2. [No](Non fin)
