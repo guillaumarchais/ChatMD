@@ -200,7 +200,9 @@ Do you want to know more ?
 
 ## corr surfa DWP
 More recently, an in-depth calculation of this parameter involves the probabilistic density in function of the distance to the mast => see this [module "DWP" developped by the experts form USGS](https://www.usgs.gov/software/density-weighted-proportion-dwp-tool-suite)
+For a simplified use, see this Excel file (appendix D) from the [IFC good practice handbook](https://www.ifc.org/en/insights-reports/2023/bird-bat-fatality-monitoring-onshore-wind-energy-facilities)
 ![](https://www.researchgate.net/publication/358143833/figure/fig2/AS:1116884825055232@1643297501550/Estimation-of-fraction-of-carcasses-lying-within-the-searched-area-a-carcass-density_Q640.jpg)
+
 Do you want to know more ?
 1. [Yes]()
 2. [No](Non fin)
@@ -218,6 +220,8 @@ Is this clear ?
 
 ## reference rp
 This published paper investigates the comparaison of the roads & pads protocol to other with simulations using various parameters :  ["Comparing methods to estimate the proportion of turbine-induced bird and bat mortality in the search area under a road and pad search protocol."](https://link.springer.com/article/10.1007/s10651-020-00466-0)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZmYWJ0YXF6c2psamd6Y3owaHN5dmVpNGpka2Y5bW90dG95bHNpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wgSuV17ZKT4ePSurCd/giphy.gif)
+[source : IFC 2023](https://www.ifc.org/en/insights-reports/2023/bird-bat-fatality-monitoring-onshore-wind-energy-facilities)
 Do you want to learn more?
 1. [Yes]()
 2. [No](Non fin)
@@ -228,6 +232,9 @@ Do you want to learn more?
 - bats 
 - bat monitoring
 In parallel of fatality searches, bat activity is also monitored at nacelle height in order to understand better in which weather conditions bats are active throughout the seasons. This has been useful to work out bat curtailment plans specifically for each site.
+
+After having filtered out noises, all the remaining sound files are counted and then correlated to weather conditions (wind speed and temperature at least). Most of these bat passes are recorded for wind speed below 6 m/s (see this French study compiling 3 years of monitoring at height on measuring masts [Labouré et al. 2020](http://www.museum-bourges.net/documents/laboure_m._et_al._-_analyse_activite_des_cs_en_fonction_meteo.pdf)). Au-delà de 8 m/s, l'activité des chiroptères résiduelle est très faible, et correspond à des grosses espèces migratrices (noctules notamment). L'activité des chiroptères augmente avec la température, particulièrement entre 10°C et 25°C.
+
 ![](https://media.giphy.com/media/9gqC3kr1MEwxK9YP6T/giphy.gif)
 Do you want to see few examples ?
 1. [Yes](suivi chiros 2)
@@ -238,6 +245,7 @@ Do you want to see few examples ?
 - allemand
 - infrarouge
 - Etats-Unis
+- OPRECH
 In Europe, the germans used this [applied science tool](https://www.probat.org/probat-7) produced the research programm RENEBAT.
 ![](https://www.probat.org/fileadmin/_processed_/6/2/csm_ProBat_Fledermausaktivitaet_U.Eberius_7c7a0d4eb9.png =600x700)
 **Verteilung der Fledermausaktivität im Rotorbereich einer Windenergieanlage, Grafik: Ulrike Eberius**
@@ -247,6 +255,17 @@ In France and more recently, academics from the Museum d'Histoire Naturelle de P
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969723000190-ga1.jpg).
 In addition, this other research project named "OPRECH" has compiled all types of bat curtailments implemented in France from 2010 to 2020. Full report in French available [here](https://librairie.ademe.fr/energies-renouvelables-reseaux-et-stockage/6242-programme-oprech.html).
 ![](https://librairie.ademe.fr/698593-large_default/programme-oprech.jpg)
+
+In the USA, other academics have studied at the same time the bat activity using infrared cameras within the rotor swept area : [Goldenberg et al. 2021(https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7388).
+![](https://onlinelibrary.wiley.com/cms/asset/21e20d0d-c517-45b8-a95c-4f1481624e36/ece37388-fig-0002-m.jpg =500x700).
+
+The most critical period for bat mortality is late summer and early autumn, particularly between August and October. Here are the main reasons:
+- Autumn migration: This period corresponds to the migration of bats to their hibernation and mating sites (swarming).
+- Peak activity: Chiropterological activity is highest during this period, thus increasing the risk of collision with wind turbines.
+- Juvenile dispersal: Late summer and early autumn correspond to the juvenile dispersal cycle, which are particularly vulnerable and inexperienced.
+- Reserve building: Bats intensify their hunting activity to build up their reserves in anticipation of hibernation.
+- Favorable weather conditions: This period often offers favorable weather conditions for bat activity (mild temperatures, low winds).
+It is important to note that a secondary mortality peak can also be observed in spring (May), corresponding to the emergence from hibernation and spring migration.
 
 Do you want to learn more ?
 1. [Yes]()
@@ -270,6 +289,8 @@ Several initiatives are currently undergoing to pull together large amount of re
 Beyond the comparisons, **the main objective is to significantly reduce mortality through various solutions and measures that consist of optimizing wind turbine curtailments at risk periods and during critical situations (animals flying too close to the blades).** Quite basicly, this takes the form of the presence of "monitors" or sentinels in the field who can quickly trigger a shutdown of the turbines (with a mobile phone application or an emergency call for example).
 Technological advances also allow the development of engineering solutions based on remote video and/or audio detection. The challenge is to detect the bird early enough to slow down the rotation of the blades using sophisticated algorithms; and bats with sensitive, weather-resistant microphones.
 Whether it's with high-tech cameras, radars or microphones, engineers are trying to improve their automatic detection and analysis capabilities of their various systems. These are tested in real situations and verified through monitoring controlled by the State's decentralized services.
+![](https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif)
+Here is a report in English by polish experts compiling the description of several bird protection systems  [PTA 2023](https://www.researchgate.net/publication/369474177_PROTECTION_OF_BIRDS_AGAINST_COLLISIONS_WITH_WIND_TURBINES_CHALLENGES_NEEDS_OPPORTUNITIES)
 ![](https://media.giphy.com/media/2i7jspnRBYgg6v4Oki/giphy.gif)
 
 Do you want to learn more ?
