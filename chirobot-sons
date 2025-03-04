@@ -265,7 +265,7 @@ En première approche, voici les formes et fréquences souvent rencontrées pour
 - plusieurs signaux complètement horizontaux et longs > 80 kHz (ou 55 kHz selon les appareils) : **Rhinolophes certain**
 - plusieurs signaux complètement verticaux t longs : **Murins probablement**  _(au-dessus d'un plan d'eau : Murin de Daubenton possible, si en Méditerranée alors Murin de Capacinni)_.
 - 2 signaux en alternance répétés entre 30 et 45 kHz : **Barbastelle d'Europe probable**
-- plusieurs petits signaux en virgule en S (sigmoïde) avec un son "nasillard" : **Oreillards probables**, gris ou roux en général _(montagnard si à la plage... non à la montagne évidemment ; )
+- plusieurs petits signaux en virgule en S (sigmoïde) avec un son "nasillard" : **Oreillards probables**, gris ou roux en général _(montagnard si à la plage... non à la montagne évidemment ; )_
 
 Pour essayer d'identifier à l'espèce : 
 Un groupe de chercheurs [Mac Adoha et al 2022](https://www.biorxiv.org/content/10.1101/2022.12.14.520490v1.full.pdf) ont développé et mis en ligne une solution open source, [BATDETECT2](https://github.com/macaodha/batdetect2), qui permet d'utiliser des modèles de "deep-learning" en langague Python pour automatiquement identifier un fichier son. Ils ont entrainé des modèles avec des enregistrements de référence pour chaque espèce listée. 
