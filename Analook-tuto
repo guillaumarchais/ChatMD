@@ -65,11 +65,11 @@ Retour au sommaire ?
 
 ## util2
 1.  **🆔 Identification des Espèces :**
-    *   **🔬 Analyse comparative :** Utilisez les paramètres d'appel extraits pour comparer les sons enregistrés avec des bibliothèques de référence ou des guides d'identification des espèces de chauves-souris.
+    *   **🔬 Analyse comparative :** Utilisez les paramètres des signaux extraits pour comparer les sons enregistrés avec des bibliothèques de référence ou des guides d'identification des espèces de chauves-souris. Par exemple avec [cet outil en ligne utiliant les références de Michel Barataud 2015](http://geoeco.fr/ecologie_acoustique/)
     *   **⚠️ Variations intra-spécifiques :**  Soyez conscient des variations intra-spécifiques des appels de chauves-souris. L'identification basée uniquement sur les sons peut nécessiter une expertise et une connaissance approfondie des espèces locales.
 
 2.  **🎶 Analyse des Séquences de signaux :**
-    *   **🦉 Comportement et contexte :**  AnalookW 4 peut être utilisé pour filtrer les signaux dune ou groupe d'espèces particulier.  Le _[tutoriel vidéo n°4 de Guillaume Marchais](https://youtu.be/yJd4Iv8audg)_ présente un exemple pour l'espèce souvent enregistrée qu'est la Pipistrelle commune.
+    *   **🦉 Comportement et contexte :**  AnalookW 4 peut être utilisé pour filtrer les signaux d'une ou groupe d'espèces particulier.  Le _[tutoriel vidéo n°4 de Guillaume Marchais](https://youtu.be/yJd4Iv8audg)_ présente un exemple pour l'espèce souvent enregistrée qu'est la **Pipistrelle commune**. Des filtres basiques sont décrits dans [l'Appendix II de ce rapport néerlandais](https://www.researchgate.net/publication/273136958_Windturbines_and_bats_in_the_Netherlands_-_Measuring_and_predicting)
 ![Tutoriel GM n°4](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIzdDE2a3N2ZndzZGd1NDhzOTg1aHo3amlueGhzZmlmY3hjdG8zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0sAFZfBTaZn8G3277t/giphy.gif)
 
 Retour au sommaire ?
