@@ -8,11 +8,11 @@ clavier: false
 # Détermination des seuils de mortalité acceptable pour les chauves-souris
 > **<span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD) à partir du travail de [Guillaume Marchais](https://www.linkedin.com/in/gmarchais) qui compile des informations disponibles publiquement mais qu'il n'a pas toutes lui-même produit (sauf si spécifié).</span>**
 
-> Ce chatbot présente les éléments théoriques qui tentent 
->✔️ Visualiser 
->✔️ Filtrer 
->✔️ Scanner 
->✔️ Générer
+> Ce chatbot présente les éléments théoriques qui tentent de
+>✔️ Vulgariser l'approche de l'impact des parcs éoliens sur les dynamiques de population sur les chiroptères en France métropolitaine.
+>✔️ Fournir un cadre méthodologique d'élaboration de seuil de mortalité acceptable par parc/région sur 10 à 30 ans.
+>✔️ Discuter de la faisabilité de cette méthode pour les différentes espèces.
+>✔️ Proposer des mesures effectives de gain net pour aller au-delà de la réduction
 >
 > 💡 **Tapez une commande pour obtenir des informations spécifiques.**
  
@@ -42,7 +42,7 @@ Pour étudier la dynamique des populations de chauves-souris, il est essentiel d
 *   **Vigie-Nature** : Ce programme de sciences participatives, porté par le Muséum National d'Histoire Naturelle et l'Office Français de la Biodiversité, inclut des protocoles de suivi des chauves-souris. Les données collectées peuvent être utilisées pour analyser les tendances des populations à différentes échelles.
 *   **Team-Chiro** : Ce site web ([https://croemer3.wixsite.com/teamchiro/population-trends](https://croemer3.wixsite.com/teamchiro/population-trends)) présente des tendances de population pour certaines espèces de chauves-souris en France, basées sur des données de suivi à long terme. Il met en évidence des variations significatives pour différentes espèces entre 2006 et 2023.
 
-C. MODELES DE DYNAMIQUES DE PÖPULATION
+C. MODELES DE DYNAMIQUES DE POPULATIONS
 
 L'étude de la dynamique des populations de chauves-souris peut impliquer divers calculs et modèles, en fonction des objectifs de l'étude et des données disponibles. Voici quelques approches courantes :
 
