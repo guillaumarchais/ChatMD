@@ -134,7 +134,7 @@ _Important : Ce tableau est une simplification illustrative.  Un modèle robuste
 **NOCTULE COMMUNE**
 Pour appliquer le modèle de seuil de mortalité acceptable à la noctule commune (_Nyctalus noctula_) en France, nous devons suivre les étapes définies précédemment et rassembler des informations spécifiques à cette espèce.
 
-_**1. Statut de menace de la Noctule commune dans les listes rouges régionales françaises**_
+### 1. Statut de menace de la Noctule commune dans les listes rouges régionales françaises
 
 Commençons par déterminer le statut de menace de la Noctule commune dans les listes rouges régionales françaises les plus récentes.
 
@@ -145,7 +145,7 @@ Les résultats de recherche indiquent que :
 
 Le statut de **"Vulnérable"** au niveau national indique que la Noctule commune est une espèce menacée en France et qu'elle présente un risque élevé de passer dans les catégories de menace supérieures si les pressions persistent.
 
-_**2. Données démographiques et biologiques spécifiques à la Noctule commune en France**_
+### 2. Données démographiques et biologiques spécifiques à la Noctule commune en France
 
 Pour affiner notre modèle, recherchons maintenant des informations sur la biologie et la démographie de la Noctule commune, en particulier en France.  Nous allons nous concentrer sur les aspects suivants :
 
@@ -174,7 +174,7 @@ _Given these limitations, we estimate here the impact of wind energy production 
 *   **Hivers rigoureux :**  Peuvent entraîner une mortalité importante, en particulier lors de l'hibernation dans des gîtes arboricoles peu isolés.
 *   **Pesticides :**  Bien que moins explicitement mentionné pour la Noctule commune dans ces extraits, la réduction des populations d'insectes due aux pesticides est une menace générale pour les chauves-souris insectivores.
 
-_**3. Application du modèle de seuil de mortalité acceptable à la Noctule commune en France**_
+### 3. Application du modèle de seuil de mortalité acceptable à la Noctule commune en France
 
 En appliquant notre modèle simplifié et en considérant le statut "Vulnérable" de la Noctule commune, son déclin démographique avéré, sa faible longévité et sa vulnérabilité aux éoliennes, nous pouvons définir un seuil de mortalité acceptable bas :
 
@@ -188,7 +188,7 @@ En appliquant notre modèle simplifié et en considérant le statut "Vulnérable
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp1bWsxbWVza21nZjRmOXozbHdybDl6OWQyZGtvdzN4NHlpejFvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/le5NC4jxDv5YHyO43P/giphy.gif)
 
-_**4. Actions de gestion et de conservation recommandées**_
+### 4. Actions de gestion et de conservation recommandées
 
 Compte tenu du seuil de mortalité acceptable extrêmement bas pour la Noctule commune, des mesures de conservation fortes et prioritaires sont nécessaires :
 
@@ -229,7 +229,7 @@ _**CENTRE VAL DE LOIRE**_
 
 Pour proposer des calculs pour la Noctule commune se reproduisant en région Centre-Val de Loire et déterminer un seuil de mortalité acceptable lié aux parcs éoliens, il faut construire un modèle simplifié, tout en reconnaissant les limites et les incertitudes inhérentes à ce type d'exercice.
 
-**Important :** Il est crucial de comprendre que les calculs suivants sont basés sur des estimations et des simplifications.  Un modèle précis et robuste nécessiterait des données de terrain détaillées, des expertises spécifiques et des outils de modélisation démographique avancés.  L'objectif ici est de fournir une illustration de l'approche et des éléments à considérer, et non de définir un seuil de mortalité "officiel" ou applicable directement sur le terrain.
+_**Important :** Il est crucial de comprendre que les calculs suivants sont basés sur des estimations et des simplifications.  Un modèle précis et robuste nécessiterait des données de terrain détaillées, des expertises spécifiques et des outils de modélisation démographique avancés.  L'objectif ici est de fournir une illustration de l'approche et des éléments à considérer, et non de définir un seuil de mortalité "officiel" ou applicable directement sur le terrain._
 
 ### 1.  Données et estimations nécessaires pour le modèle
 
