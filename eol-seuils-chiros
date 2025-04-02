@@ -85,30 +85,32 @@ Comprendre la signification écologique des statuts de menace :
 **2. Intégrer les données démographiques et biologiques spécifiques à chaque espèce :**
 
 Le statut de menace est un indicateur général, mais il est essentiel de le compléter avec des informations spécifiques à chaque espèce, telles que :
-Taux de reproduction et longévité : Les espèces à faible taux de reproduction et longue durée de vie (comme beaucoup de chauves-souris) sont plus vulnérables à la mortalité additionnelle, car elles ont une capacité de récupération démographique plus lente.
-Taille et structure des populations régionales : Les petites populations isolées sont plus sensibles aux fluctuations démographiques et à la mortalité que les populations vastes et connectées.
-Tendances démographiques récentes : Les espèces dont les populations sont en déclin sont plus préoccupantes que celles dont les populations sont stables ou en augmentation. Le site Team-Chiro (https://croemer3.wixsite.com/teamchiro/population-trends) peut être une source d'information pour les tendances de population.
-Facteurs de mortalité spécifiques et leur importance relative : Certaines espèces sont plus sensibles à certains types de mortalité (éoliennes, pesticides, perte d'habitats, etc.). Il est important de considérer les principales menaces qui pèsent sur chaque espèce dans chaque région. L'étude de KTH Diva Portal (https://kth.diva-portal.org/smash/get/diva2:1857372/FULLTEXT01.pdf) met en évidence l'impact des éoliennes, mais d'autres facteurs peuvent être importants selon les espèces et les régions.
-Définir des seuils de mortalité relatifs et non absolus :
+-- Taux de reproduction et longévité : Les espèces à faible taux de reproduction et longue durée de vie (comme beaucoup de chauves-souris) sont plus vulnérables à la mortalité additionnelle, car elles ont une capacité de récupération démographique plus lente.
+-- Taille et structure des populations régionales : Les petites populations isolées sont plus sensibles aux fluctuations démographiques et à la mortalité que les populations vastes et connectées.
+-- Tendances démographiques récentes : Les espèces dont les populations sont en déclin sont plus préoccupantes que celles dont les populations sont stables ou en augmentation. Le site Team-Chiro (https://croemer3.wixsite.com/teamchiro/population-trends) peut être une source d'information pour les tendances de population.
+-- Facteurs de mortalité spécifiques et leur importance relative : Certaines espèces sont plus sensibles à certains types de mortalité (éoliennes, pesticides, perte d'habitats, etc.). Il est important de considérer les principales menaces qui pèsent sur chaque espèce dans chaque région. L'étude de KTH Diva Portal (https://kth.diva-portal.org/smash/get/diva2:1857372/FULLTEXT01.pdf) met en évidence l'impact des éoliennes, mais d'autres facteurs peuvent être importants selon les espèces et les régions.
+
+**3. Définir des seuils de mortalité relatifs et non absolus :
 
 Au lieu de chercher à définir un seuil de mortalité "acceptable" en nombre d'individus, il est plus pertinent de raisonner en termes de mortalité additionnelle relative par rapport à la mortalité naturelle et à la capacité de reproduction de l'espèce.
 Par exemple, pour une espèce "En danger critique", on pourrait considérer que toute mortalité additionnelle due à des activités humaines est inacceptable et doit être évitée ou compensée. Pour une espèce "Préoccupation mineure", on pourrait tolérer une certaine mortalité additionnelle, à condition qu'elle ne dépasse pas un certain pourcentage de la mortalité naturelle et qu'elle n'entraîne pas de déclin démographique à long terme.
-Mettre en place un suivi et une adaptation continue :
+
+
+**4. Mettre en place un suivi et une adaptation continue :
 
 Le "seuil de mortalité acceptable" ne doit pas être considéré comme une valeur fixe et immuable. Il doit être réévalué et ajusté régulièrement en fonction des nouvelles données de suivi des populations, des connaissances scientifiques et des changements environnementaux.
 Un système de suivi de la mortalité des chauves-souris (par exemple, via des réseaux de collecte de cadavres sous les éoliennes, des suivis de colonies, etc.) est indispensable pour évaluer l'impact réel des activités humaines et ajuster les seuils de mortalité en conséquence.
 Exemple d'approche simplifiée (à affiner)
 Voici un exemple d'approche très simplifiée pour illustrer le principe, en utilisant uniquement le statut de menace des listes rouges régionales comme base :
-
-Statut de menace (Liste Rouge Régionale)	Seuil de mortalité additionnelle "acceptable" (relatif)	Actions de gestion et de conservation
-En Danger Critique (CR) / En Danger (EN)	Nul ou extrêmement faible. Toute mortalité additionnelle est préoccupante.	Priorité absolue : Éviter toute mortalité additionnelle. Mesures de conservation maximales (protection stricte des habitats, réduction des perturbations, compensation obligatoire de toute mortalité résiduelle inévitable). Suivi démographique intensif.
-Vulnérable (VU)	Très faible. Mortalité additionnelle à minimiser et à compenser.	Minimiser la mortalité additionnelle autant que possible. Mesures de conservation renforcées (gestion des habitats, réduction des perturbations, mesures d'atténuation des impacts des activités humaines). Suivi démographique régulier.
-Quasi menacée (NT)	Faible à modéré, mais à surveiller attentivement. Mortalité additionnelle à contrôler pour éviter un basculement vers les catégories de menace.	Surveillance attentive des populations et des facteurs de mortalité. Mesures préventives pour limiter la mortalité additionnelle (gestion raisonnée des habitats, sensibilisation). Suivi démographique régulier.
-Préoccupation mineure (LC)	Modéré à potentiellement plus élevé, mais avec vigilance. Mortalité additionnelle à surveiller pour éviter un impact négatif à long terme.	Suivi de la mortalité et des tendances démographiques. Mesures de gestion si des signes de déclin apparaissent. Maintien de la qualité des habitats.
+-- Statut de menace (Liste Rouge Régionale)	Seuil de mortalité additionnelle "acceptable" (relatif)	Actions de gestion et de conservation
+-- En Danger Critique (CR) / En Danger (EN)	Nul ou extrêmement faible. Toute mortalité additionnelle est préoccupante.	Priorité absolue : Éviter toute mortalité additionnelle. Mesures de conservation maximales (protection stricte des habitats, réduction des perturbations, compensation obligatoire de toute mortalité résiduelle inévitable). Suivi démographique intensif.
+-- Vulnérable (VU)	Très faible. Mortalité additionnelle à minimiser et à compenser.	Minimiser la mortalité additionnelle autant que possible. Mesures de conservation renforcées (gestion des habitats, réduction des perturbations, mesures d'atténuation des impacts des activités humaines). Suivi démographique régulier.
+-- Quasi menacée (NT)	Faible à modéré, mais à surveiller attentivement. Mortalité additionnelle à contrôler pour éviter un basculement vers les catégories de menace.	Surveillance attentive des populations et des facteurs de mortalité. Mesures préventives pour limiter la mortalité additionnelle (gestion raisonnée des habitats, sensibilisation). Suivi démographique régulier.
+-- Préoccupation mineure (LC)	Modéré à potentiellement plus élevé, mais avec vigilance. Mortalité additionnelle à surveiller pour éviter un impact négatif à long terme.	Suivi de la mortalité et des tendances démographiques. Mesures de gestion si des signes de déclin apparaissent. Maintien de la qualité des habitats.
 
 _Important : Ce tableau est une simplification illustrative.  Un modèle robuste nécessiterait d'intégrer beaucoup plus de données et de connaissances spécifiques à chaque espèce et à chaque région.  Il est également crucial de consulter des experts en dynamique des populations de chauves-souris et en conservation pour affiner ce type de modèle et le rendre applicable sur le terrain._
 
-**3. Outils et ressources utiles**
+**4. Outils et ressources utiles**
 -- Listes Rouges Régionales françaises : Recherchez les publications les plus récentes sur le site du Comité français de l'UICN et du Muséum national d'Histoire naturelle.
 -- Plan National d'Actions en faveur des Chiroptères (PNA Chiroptères) : [https://plan-actions-chiropteres.fr/](https://plan-actions-chiropteres.fr) (pour des informations générales et des documents de synthèse)
 -- Société Française pour l'Étude et la Protection des Mammifères (SFEPM) : [https://www.sfepm.org](https://www.sfepm.org) (pour des experts et des données)
