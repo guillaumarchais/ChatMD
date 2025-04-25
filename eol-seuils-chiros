@@ -148,20 +148,13 @@ Le statut de **"Vulnérable"** au niveau national indique que la Noctule commune
 
 Pour affiner notre modèle, recherchons maintenant des informations sur la biologie et la démographie de la Noctule commune, en particulier en France.  Nous allons nous concentrer sur les aspects suivants :
 
-*   Taux de reproduction et longévité
-*   Taille et structure des populations régionales
-*   Tendances démographiques récentes
-*   Facteurs de mortalité spécifiques et leur importance relative
-
-Les recherches nous apportent des informations importantes sur la biologie, la démographie et les menaces pesant sur la Noctule commune en France :
-
 **Biologie et démographie :**
 
 *   **Habitat :**  Essentiellement forestier, mais s'adapte à divers milieux : forêts, prairies, zones humides, vergers, zones urbaines éclairées. Gîtes dans les cavités d'arbres, les bâtiments (fissures, combles), parfois les ponts et grottes. Peut utiliser des gîtes artificiels.
 *   **Migration :**  Espèce migratrice, capable de parcourir de longues distances (jusqu'à 1500 km). Une partie des populations serait sédentaire.
 *   **Longévité :**  Espérance de vie courte, estimée à seulement 2,2 ans, ce qui est très faible pour une chauve-souris.
 *   **Reproduction :**  Pas de détails précis trouvés dans les extraits, mais comme la plupart des chauves-souris, la Noctule commune a un faible taux de reproduction (généralement un seul jeune par portée et par an).
-*   **Tendances de population :** **Déclin significatif de la population en France.**  Les données du programme Vigie-Chiro indiquent une diminution de **52,5% entre 2006 et 2023**. Certaines sources mentionnent même un déclin de **88%** sur une période légèrement différente (possiblement 2006-2019).  Une légère augmentation non significative est observée sur la période récente 2014-2023, mais la tendance globale à long terme reste très préoccupante.
+*   **Tendances de population :** **Déclin significatif de la population en France.**  Les données du programme Vigie-Chiro indiquent une diminution de **52,5% entre 2006 et 2023**.  Une légère augmentation non significative est observée sur la période récente 2014-2023 (+ 6,9 % (-12,2 % ; + 30,3 %)), mais la tendance globale à long terme reste préoccupante.
 
 **Menaces principales :**
 
@@ -241,9 +234,7 @@ Pour construire notre modèle simplifié, nous avons besoin d'estimer les param�
 ### 2.  Modèle démographique simplifié
 
 Nous allons utiliser un modèle démographique simple, basé sur le taux de croissance démographique, pour illustrer l'impact de la mortalité due aux éoliennes. Nous utiliserons une approche discrète, en considérant une population annuelle.
-
 L'évolution de la population d'année en année (Nt à Nt+1) peut être modélisée ainsi :
-
 **N_(t+1) = N_t + (r * N_t) - M_éolien**
 
 Où :
@@ -258,14 +249,11 @@ Où :
 Le seuil de mortalité acceptable peut être défini comme la mortalité maximale due aux éoliennes qui permet de maintenir la population stable ou en croissance à long terme.  En d'autres termes, nous cherchons la valeur de **M_éolien** pour laquelle **N_(t+1) >= N_t** ou, idéalement, **N_(t+1) > N_t** (pour permettre une croissance lente et compenser d'autres facteurs de mortalité non pris en compte ici).
 
 Mathématiquement, le seuil de mortalité acceptable (M_acceptable) correspond à :
-
 **M_acceptable = r * N_t**
 
 Cela signifie que la mortalité due aux éoliennes ne devrait pas dépasser le potentiel de croissance intrinsèque de la population.  Si la mortalité dépasse cette valeur, la population déclinera à long terme.
 
 ### 3. Recherche de données et estimations des paramètres
-
-Effectuons maintenant des recherches pour estimer les paramètres nécessaires :
 
 Les résultats de recherche nous apportent des informations utiles, mais aussi des limites importantes pour notre modélisation :
 
@@ -290,15 +278,12 @@ En raison du manque de données précises, nous allons procéder à un calcul il
 **Calcul du seuil de mortalité acceptable total pour le parc éolien :**
 
 En utilisant la formule **M_acceptable = r * N_t**, et en prenant N_t comme la population de référence (N₀), nous obtenons :
-
 **M_acceptable = 0.1 * N₀**
-
 Cela signifie que, **pour maintenir une population stable (au mieux) avec un taux de croissance intrinsèque de 10%, la mortalité totale due aux éoliennes ne devrait pas dépasser 10% de la population de référence N₀.**
 
 **Seuil de mortalité acceptable par éolienne (illustratif) :**
 
 Pour exprimer cela en termes de mortalité par éolienne, nous devons diviser la mortalité totale acceptable par le nombre d'éoliennes :
-
 **M_acceptable_par_éolienne = M_acceptable / Nombre_éoliennes = (0.1 * N₀) / 700**
 
 **Limite de cette approche et nécessité de données de terrain :**
@@ -340,4 +325,29 @@ Bien que la Noctule commune soit considérée comme présente sur l'ensemble du 
 
 **NOCTULE DE LEISLER**
 
+Pour appliquer le modèle de seuil de mortalité acceptable à la noctule de Leisler (_Nyctalus leislerii_) en France, nous devons suivre les étapes définies précédemment et rassembler des informations spécifiques à cette espèce.
 
+### 1. Statut de menace de la Noctule de Leisler dans les listes rouges régionales françaises
+
+Les résultats de recherche indiquent que :
+
+*   **Liste rouge nationale (2017) : Quasi menacée** ([https://uicn.fr/wp-content/uploads/2017/11/liste-rouge-mammiferes-de-france-metropolitaine.pdf](https://uicn.fr/wp-content/uploads/2017/11/liste-rouge-mammiferes-de-france-metropolitaine.pdf) et [https://inpn.mnhn.fr/espece/cd_nom/60463/tab/statut](https://inpn.mnhn.fr/espece/cd_nom/60463/tab/statut))
+*   **Plusieurs listes rouges régionales (Bretagne, Pays de la Loire, Centre-Val de Loire, Rhône-Alpes, Ile-de-France, Picardie, Alsace) :  Vulnérable ou Quasi menacée** ([https://inpn.mnhn.fr/espece/cd_nom/60468/tab/statut](https://inpn.mnhn.fr/espece/cd_nom/60468/tab/statut), [https://gmb.bzh/wp-content/uploads/2018/03/PosterNoctuleCommune35.pdf](https://gmb.bzh/wp-content/uploads/2018/03/PosterNoctuleCommune35.pdf), [https://paysdelaloire.lpo.fr/wp-content/uploads/2021/01/liste-rouge-mammiferes-continentaux-des-pays-de-la-loire_lpo_2020.pdf](https://paysdelaloire.lpo.fr/wp-content/uploads/2021/01/liste-rouge-mammiferes-continentaux-des-pays-de-la-loire_lpo_2020.pdf))
+
+Le statut de **"Quasi menacée"** au niveau national indique que la Noctule de Leisler présente un risque élevé de passer dans les catégories de menace supérieures si les pressions persistent.
+
+### 2. Données démographiques et biologiques spécifiques à la Noctule commune en France
+
+Pour affiner notre modèle, recherchons maintenant des informations sur la biologie et la démographie de la Noctule de Leisler, en particulier en France.  Nous allons nous concentrer sur les aspects suivants :
+
+**Biologie et démographie :**
+
+*   **Habitat :**  Essentiellement forestier, mais s'adapte à divers milieux : forêts, prairies, zones humides, vergers, zones urbaines éclairées. Gîtes dans les cavités d'arbres, les bâtiments (fissures, combles), parfois les ponts et grottes. Peut utiliser des gîtes artificiels.
+*   **Migration :**  Espèce migratrice, capable de parcourir de longues distances (jusqu'à 1500 km). Une partie des populations serait sédentaire.
+*   **Longévité :**  Espérance de vie courte, estimée à seulement 2,2 ans, ce qui est très faible pour une chauve-souris.
+*   **Reproduction :**  Pas de détails précis trouvés dans les extraits, mais comme la plupart des chauves-souris, la Noctule de Leisler a un faible taux de reproduction (généralement un seul jeune par portée et par an).
+*   **Tendances de population :** **Déclin significatif de la population en France.**  Les données du programme Vigie-Chiro indiquent une diminution de **21,3% entre 2006 et 2023**.  Une légère augmentation non significative est observée sur la période récente 2014-2023 (+ 76,3 % (+ 51,1 % ; + 105,9 %)), mais la tendance globale à long terme reste préoccupante.
+
+**Menaces principales :**
+
+*   **Éoliennes : Mortalité importante due aux collisions avec les éoliennes.**  La Noctule
