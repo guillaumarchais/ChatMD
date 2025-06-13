@@ -284,7 +284,7 @@ Retour au menu principal ?
 - multi
 - fichiers
 
-J'ai développé une mini web app [CHIROFILTRO](https://chirofiltro1.netlify.app/) qui permet de filtrer de nombreux fichiers (plusieurs centaines à la fois) à partir d'un fichier de mesures de paramètres (AML) que l'on obtient avec le logiciel gratuit [AnalookW de Chris Corben](https://users.lmi.net/corben/WinAnalook.htm#AnaLookW_Contents). Il faut s'inscrire pour ouvrir un compte (évite une utilisation chaotique par les spambots). Aucune donnée téléversée n'est conservée ; seules les noms de fichiers apparaissent, cela garantit une utilisation anonymisée.
+J'ai développé une mini web app [CHIROFILTRO](https://chirofiltro1.netlify.app/) qui permet de filtrer de nombreux fichiers (plusieurs centaines à la fois) à partir d'un fichier de mesures de paramètres (AML) que l'on obtient avec le logiciel gratuit [AnalookW de Chris Corben](https://users.lmi.net/corben/WinAnalook.htm#AnaLookW_Contents). Il faut s'inscrire pour ouvrir un compte (évite une utilisation chaotique par les spambots). Aucune donnée téléversée n'est conservée ; seules les noms de fichiers apparaissent, cela garantit une utilisation anonymisée (pas d'informations sur le site inventorié).
 
 Retour au menu principal ?
 1. [Oui]()
