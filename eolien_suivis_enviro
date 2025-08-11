@@ -410,12 +410,11 @@ Une fois que l'on maitrise l'ensemble de ces éléments de suivi, la pratique pr
 :::info
 Le premier indicateur est le déclencheur à long terme d'un seuil de mortalités cumulées, le second est le déclencheur du taux mortalité à court-terme, et le troisième est le seuil de réversion dans le cas plus rare où la mesure de réduction ("adaptative management action") s'avère surdimensionnée.
 :::
-
 Je vous invite ainsi à consulter cet autre chatbot dédié à [la présentation et modalités d'installation de EoA](https://chatmd.forge.apps.education.fr/#https://github.com/guillaumarchais/ChatMD/blob/main/EoA2-tuto-FR), et également à visionner [mes vidéos amateures dédiées à ce sujet d'expert](https://www.youtube.com/playlist?list=PL3LkDeGmG9TdNperp_RUc8Ziyph2BoNF7)
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhcGs4aXZlZXZiZjlyMjZuZmxuOWtpOGplcXBtbjhldDhmNjM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8Ty8tGp83pHRoqOti/giphy.gif)
-
+:::warning
 Si cela parait trop compliqué dans un premier temps, cette [application en ligne "RedukEol"](https://redukeol-fauna.netlify.app/) que j'ai développé permet de rendre compte plus simplement de l'évolution projetée des mortalités à partir de résultats issus de trois premières années, et de calculer l'impact relatif sur la population des espèces concernées de manière simplifiée.
-
+:::
 Tu veux la liste des sites web des DREAL qui mettent en ligne les rapports de suivi en France ?
 1. [Oui](rapports)
 2. [Non](Non fin)
