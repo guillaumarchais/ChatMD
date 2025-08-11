@@ -330,6 +330,7 @@ Plusieurs initiatives sont actuellement en cours pour compiler de nombreux résu
 Au-delà des comparaisons, **l'objectif principal est de réduire fortement la mortalité par le biais de différents solutions et mesures**. En amont de la construction, certains habitats de haute valeur sont évités autant que possible en laissant une distance tampon variable selon le contexte paysager, et une hauteur de bas de pale de plusieurs dizaines de mètres limitant les risques pour les espèces volant assez bas.
 En exploitation, d'autres mesures consistent à maintenir les habitats aux abords des éoliennes défavorables à la végétation et les insectes associés, éviter la pollution lumineuse et à optimiser les arrêts des éoliennes aux périodes à risque et lors de situation critique (animaux volant trop proche des pales).
 Assez basiquement, cela se concrétise par la présence de "surveillants" ou sentinelles sur le terrain qui peuvent d'une manière rapide déclencher un arrêt des turbines (avec une application de téléphonie mobile ou un appel d'urgence par exemple).
+
 Les progrès technologiques permettent aussi le développement de solutions d'ingénierie basées sur la détection vidéo et/ou audio à distance. Tout l'enjeu consiste à détecter suffisamment tôt l'oiseau de jour pour permettre le ralentissement de la rotation des pales à l'aide d'algorithmes sophistiqués ; et les chauves-souris avec des micros sensibles et résistants aux intempéries.
 Que ce soit avec des caméras, des radars ou des micros de haute technologie, les ingénieurs tâchent d'améliorer leurs capacités de détection d'analyse automatique de leurs divers systèmes. Ceux-ci sont testés en situation réelle et vérifiés grâce aux suivis contrôlés par les services décentralisés de l'Etat.
 Voici une synthèse en anglais produite par des experts polonais sur plusieurs systèmes de détection par caméra : [PTA 2023](https://www.researchgate.net/publication/369474177_PROTECTION_OF_BIRDS_AGAINST_COLLISIONS_WITH_WIND_TURBINES_CHALLENGES_NEEDS_OPPORTUNITIES)
@@ -412,9 +413,26 @@ Je vous invite ainsi à consulter cet autre chatbot dédié à [la présentation
 
 Si cela parait trop compliqué dans un premier temps, cette [application en ligne "RedukEol"](https://redukeol-fauna.netlify.app/) que j'ai développé permet de rendre compte plus simplement de l'évolution projetée des mortalités à partir de résultats issus de trois premières années, et de calculer l'impact relatif sur la population des espèces concernées de manière simplifiée.
 
+Tu veux la liste des sites web des DREAL qui mettent en ligne les rapports de suivi en France ?
+1. [Oui](rapports)
+2. [Non](Non fin)
+
+## rapports
+- rapport
+- rapports
+
+Plusieurs DREAL mettent en ligne les rapports des suivis environnementaux des parcs éoliens depuis 2018. En voici quelques-unes :
+* Région Hauts-de-France : [DREAL HdF](https://www.hauts-de-france.developpement-durable.gouv.fr/?Carte-regionale-des-suivis-environnementaux-parcs-eoliens-disponibles-en-DREAL)
+* Région Grand-Est : [DREAL Grand-Est](http://www.plume-de-naturalistes.fr/wp-content/uploads/2019/04/09_TERNOIS_03-2019_Impact-developpement-eolien_Plume3_195-212.pdf)
+* Région Normandie : [DREAL Normandie](https://www.normandie.developpement-durable.gouv.fr/etude-d-impact-sequence-erc-et-suivis-a5211.html)
+* Région Centre Val-de-Loire : [DREAL CVL](https://www.centre-val-de-loire.developpement-durable.gouv.fr/suivis-environnementaux-des-parcs-eoliens-a4559.html)
+* Région Bourgogne Franche-Comté : [DREAL BFC](https://ssm-ecologie.shinyapps.io/suivi_eolien_bfc/)
+* Région Occitanie : [DREAL Occitanie](https://www.occitanie.developpement-durable.gouv.fr/suivis-environnementaux-a23908.html)
+
 Tu veux en apprendre plus ?
 1. [Oui]()
 2. [Non](Non fin)
+
 
 ## FAQ
 
