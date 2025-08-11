@@ -407,7 +407,6 @@ Tu veux en apprendre plus ?
 - évaluation
 
 Une fois que l'on maitrise l'ensemble de ces éléments de suivi, la pratique professionelle amène à vouloir suivre l'évolution des mortalités sur plusieurs années en fonction des mesures de réduction qui sont mises en oeuvre. Celles-ci sont relativement élaborées et coûteuses ; il est donc nécessaire de rendre compte de leur efficacité en intégrant la variation inter annuelle et les différents biais. Pour cela, le logiciel open source de l'USGS **"Evidence of Absence 2.0"** permet de réaliser des projections sur la base de résultats acquis sur les suivis intensifs des premières années (n = 3 recommandé). On peut rendre compte avec un certain niveau de crédibilité du dépassement des seuils considérés acceptables (à déterminer avec d'autres méthodes comme [EolPop](https://shiny.cefe.cnrs.fr/eolpop/) pour les oiseaux nicheurs). 
-
 :::info
 Le premier indicateur est le déclencheur à long terme d'un seuil de mortalités cumulées, le second est le déclencheur du taux mortalité à court-terme, et le troisième est le seuil de réversion dans le cas plus rare où la mesure de réduction ("adaptative management action") s'avère surdimensionnée.
 :::
