@@ -319,6 +319,7 @@ Tu veux savoir comment interpréter les résultats ?
 - interprétation
 - résultats
 Plusieurs initiatives sont actuellement en cours pour compiler de nombreux résultats afin de pouvoir permettre des comparaisons entre les parcs éoliens selon les pays et régions. Il serait trop long de toutes les lister ici. En voici quelques-unes :
+:::spoiler
 * France > région Grand-Est : [CPIE Pays de Soulaines 2018](http://www.plume-de-naturalistes.fr/wp-content/uploads/2019/04/09_TERNOIS_03-2019_Impact-developpement-eolien_Plume3_195-212.pdf)
 * France > région Grand-Ouest : [Ouest Am](https://www.genie-ecologique.fr/synthese-des-donnees-de-suivis-post-implantation-deoliennes-dans-le-grand-ouest)
 * France > région Centre Val-de-Loire : [DREAL CVL](https://ssm-ecologie.shinyapps.io/suivi_eolien/)
@@ -326,7 +327,7 @@ Plusieurs initiatives sont actuellement en cours pour compiler de nombreux résu
 * Allemagne : [Voigt et al. 2022](https://www.sciencedirect.com/science/article/pii/S2351989422001512)
 * Espagne > région sud : [Salguero et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
 * Etats-Unis : [Lloyd et al. 2023](https://link.springer.com/article/10.1007/s10531-023-02674-z)
-
+:::
 Au-delà des comparaisons, **l'objectif principal est de réduire fortement la mortalité par le biais de différents solutions et mesures**. En amont de la construction, certains habitats de haute valeur sont évités autant que possible en laissant une distance tampon variable selon le contexte paysager, et une hauteur de bas de pale de plusieurs dizaines de mètres limitant les risques pour les espèces volant assez bas.
 En exploitation, d'autres mesures consistent à maintenir les habitats aux abords des éoliennes défavorables à la végétation et les insectes associés, éviter la pollution lumineuse et à optimiser les arrêts des éoliennes aux périodes à risque et lors de situation critique (animaux volant trop proche des pales).
 Assez basiquement, cela se concrétise par la présence de "surveillants" ou sentinelles sur le terrain qui peuvent d'une manière rapide déclencher un arrêt des turbines (avec une application de téléphonie mobile ou un appel d'urgence par exemple).
@@ -407,7 +408,10 @@ Tu veux en apprendre plus ?
 
 Une fois que l'on maitrise l'ensemble de ces éléments de suivi, la pratique professionelle amène à vouloir suivre l'évolution des mortalités sur plusieurs années en fonction des mesures de réduction qui sont mises en oeuvre. Celles-ci sont relativement élaborées et coûteuses ; il est donc nécessaire de rendre compte de leur efficacité en intégrant la variation inter annuelle et les différents biais. Pour cela, le logiciel open source de l'USGS **"Evidence of Absence 2.0"** permet de réaliser des projections sur la base de résultats acquis sur les suivis intensifs des premières années (n = 3 recommandé). On peut rendre compte avec un certain niveau de crédibilité du dépassement des seuils considérés acceptables (à déterminer avec d'autres méthodes comme [EolPop](https://shiny.cefe.cnrs.fr/eolpop/) pour les oiseaux nicheurs). 
 
+:::info
 Le premier indicateur est le déclencheur à long terme d'un seuil de mortalités cumulées, le second est le déclencheur du taux mortalité à court-terme, et le troisième est le seuil de réversion dans le cas plus rare où la mesure de réduction ("adaptative management action") s'avère surdimensionnée.
+:::
+
 Je vous invite ainsi à consulter cet autre chatbot dédié à [la présentation et modalités d'installation de EoA](https://chatmd.forge.apps.education.fr/#https://github.com/guillaumarchais/ChatMD/blob/main/EoA2-tuto-FR), et également à visionner [mes vidéos amateures dédiées à ce sujet d'expert](https://www.youtube.com/playlist?list=PL3LkDeGmG9TdNperp_RUc8Ziyph2BoNF7)
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFhcGs4aXZlZXZiZjlyMjZuZmxuOWtpOGplcXBtbjhldDhmNjM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8Ty8tGp83pHRoqOti/giphy.gif)
 
