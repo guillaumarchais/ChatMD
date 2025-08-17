@@ -111,6 +111,7 @@ Son "grand frère" le [Grand rhinolophe](https://youtube.com/shorts/yqe4rqG5m2M)
 [![Grand rhinolophe expansion](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFrc2NnbjVlcWU5ZzV1NGRoeXZwOXlrdGk5bWo3Nmx0N3M1bmk3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aGnJDGVuknjzaOhHmr/giphy.gif)](https://youtube.com/shorts/yqe4rqG5m2M) _Guillaume  Marchais_
 Retour au menu principal ?
 1. [Oui]()
+2. [Non](Non)
 
 ## esp basse
 - noctule
@@ -205,6 +206,7 @@ Retour au menu principal ?
 Certaines espèces nécessitent un apprentissage avancé pour permettre de discriminer les espèces autant que possible dans les limites de la qualité de l'enregistrement et de la quantité de signaux. 
 Des livres, guides et tutoriels spécialisés permettent de se former dans une certaine mesure de manière autodidacte.
 Voici une liste de sources non exhaustives :
+:::spoiler
 - [https://www.vigienature.fr/fr/page/documentations-identification-acoustique](https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former)
  - [https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former](https://vigie-chiro.forumactif.com/f26-formations-et-documents-pour-se-former)
 - [BARATAUD M., 2020. Ecologie acoustique des chiroptères d’Europe. Identification des espèces, études de leurs habitats et comportements de chasse](http://ecologieacoustique.fr/?page_id=13)
@@ -212,7 +214,8 @@ Voici une liste de sources non exhaustives :
 Et une liste de logiciels gratuits : 
 - [Chirosurf](https://vigie-chiro.forumactif.com/t108-chirosurf-2-2-analyse-bioacoustique-gratuit-portable-01-01-24) : permet d'apprendre à décortiquer un fichier enregistré en expansion de temps  au format WAV
 - [Kaleidoscope Lite](https://www.wildlifeacoustics.com/products/kaleidoscope/kaleidoscope-lite) : permet de "manipuler" les fichiers bruts et les convertir à différents formats (WAV; ZC ; W4C)
-- [AnalookW](https://users.lmi.net/corben/WinAnalook.htm#AnaLookW_Contents) : ne permet l'analyse que de fichiers de format ZC légers mais de pauvre résolution. Utile pour les gros volumes à traiter. Cet autre chatbot dédié vous présente [ce logiciel gratuit et léger](https://chatmd.forge.apps.education.fr/#https://github.com/guillaumarchais/ChatMD/blob/main/Analook-tuto) avec des [tutoriels vidéos](https://youtu.be/FSVgMu8JOOc) par Guillaume Marchais expliquent les différentes étapes du traitement.
+- [AnalookW](https://users.lmi.net/corben/WinAnalook.htm#AnaLookW_Contents) : permet l'analyse que de fichiers de format ZC légers mais de pauvre résolution. Utile pour les gros volumes à traiter. Cet autre chatbot dédié vous présente [ce logiciel gratuit et léger](https://chatmd.forge.apps.education.fr/#https://github.com/guillaumarchais/ChatMD/blob/main/Analook-tuto) avec des [tutoriels vidéos](https://youtu.be/FSVgMu8JOOc) par Guillaume Marchais expliquent les différentes étapes du traitement.
+:::
 
 Le [programme national de sciences participatives VIGI CHIROS](https://www.vigienature.fr/fr/page/participer-vigie-chiro) offre à tous participants la posibilité de déposer ou téléverser ses enregistremets pour une analyse automatisée par leur classificateur élaborateur TADARIDA.
 
@@ -236,9 +239,10 @@ Retour au menu principal ?
 La Barbastelle est une autre espèce discrète qui [chasse préférentiellement les papillons de nuit de la famille des Tympanés](http://ecologieacoustique.fr/wp-content/uploads/Barataud_2011_Adaptation-sonar-B.barbastellus_capture-papillons.pdf) en brouillant les "pistes sonores" avec une alternance de signaux entre 35 KhZ et 43 kHz environ.
 [![Barbastelle](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Zndmh4ZmYybGkycHo1aTFibzI4b3o0aW90aWl4MDJjdWphNXJtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fU5k7LCUBUBs9Y3ptM/giphy.gif)](https://youtube.com/shorts/eA_8P5fo5NI) _Guillaume  Marchais (Echo Meter Touch 2)_
 * Ce [petit moteur de recherche dédié](https://eyssette.forge.aeif.fr/cse/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) peut aussi à trouver des exemples de sons visibles sur spectrogramme. (Cliquer sur la recherche d'images une fois sur la page de résultats. Saisir des noms scientifiques permet de récolter davantage d'exemples à partir de sources anglophones).
-Retour au menu principal ?
-1. [Oui]()
-2. [Non](Non)
+
+D'autres exemples ?
+1. [Oui](chirossons)
+2. [Non]()
 
 ## socio
 - sociaux
@@ -250,7 +254,10 @@ Retour au menu principal ?
 * Les cris dit "sociaux" sont des sons d'interaction sociale plus ou moins complexes qui nécessitent un apprentissage spécifique. 
 * Une thèse de l'allemand Guido Pfalzer a permis de créer une première compilation pour les espèces européenes ; [sa traduction en anglais par Yann Galger est téléchargeable ici](https://drive.google.com/file/d/1aBBtsV2ezhd907e-sEGQm5Zj2L2OD0pL/view). 
 * En France, [une compilation a été produite par Olivier Vinet en 2023](https://www.vigienature.fr/sites/vigienature/files/documents/baseref_chiros-cs_vinet-bas_v1.pdf).
-* Ce [petit moteur de recherche dédié](https://cse.forge.apps.education.fr/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) peut aussi à trouver des exemples de sons visibles sur spectrogramme. (Cliquer sur la recherche d'images une fois sur la page de résultats. Saisir des noms scientifiques permet de récolter davantage d'exemples à partir de sources anglophones).
+
+:::info
+Ce [petit moteur de recherche dédié](https://cse.forge.apps.education.fr/#https://github.com/guillaumarchais/SearX/blob/main/chirossons) peut aussi à trouver des exemples de sons visibles sur spectrogramme. (Cliquer sur la recherche d'images une fois sur la page de résultats. Saisir des noms scientifiques permet de récolter davantage d'exemples à partir de sources anglophones).
+:::
 
 Retour au menu principal ?
 1. [Oui]()
@@ -270,8 +277,11 @@ En première approche, voici les formes et fréquences souvent rencontrées pour
 
 Pour essayer d'identifier à l'espèce : 
 Un groupe de chercheurs [Mac Adoha et al 2022](https://www.biorxiv.org/content/10.1101/2022.12.14.520490v1.full.pdf) ont développé et mis en ligne une solution open source, [BATDETECT2](https://github.com/macaodha/batdetect2), qui permet d'utiliser des modèles de "deep-learning" en langague Python pour automatiquement identifier un fichier son. Ils ont entrainé des modèles avec des enregistrements de référence pour chaque espèce listée. 
+
+:::warning
 Une démo en ligne sur la plateforme [HUGGINGFACE](https://huggingface.co/spaces/macaodha/batdetect2) **pour les espèces rencontrées au Royaume-Uni (nord de l'Europe de l'Ouest en général)** peut-être utilisée pour essayer d'identifier un fichier WAV à la fois. 
 _Ne fonctionne pas encore pour les cris sociaux ou atypiques._
+:::
 
 
 Retour au menu principal ?
@@ -285,6 +295,10 @@ Retour au menu principal ?
 - fichiers
 
 J'ai développé une mini web app [CHIROFILTRO](https://chirofiltro1.netlify.app/) qui permet de filtrer de nombreux fichiers (plusieurs centaines à la fois) à partir d'un fichier de mesures de paramètres (AML) que l'on obtient avec le logiciel gratuit [AnalookW de Chris Corben](https://users.lmi.net/corben/WinAnalook.htm#AnaLookW_Contents). Il faut s'inscrire pour ouvrir un compte (évite une utilisation chaotique par les spambots). Aucune donnée téléversée n'est conservée ; seules les noms de fichiers apparaissent, cela garantit une utilisation anonymisée (pas d'informations sur le site inventorié).
+
+:::info
+Voici un [premier tutoriel](https://youtu.be/bKSXKf7EJa8) sur Youtube pour commencer son utilisation.
+:::
 
 Retour au menu principal ?
 1. [Oui]()
