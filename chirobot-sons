@@ -218,8 +218,9 @@ Et une liste de logiciels gratuits :
 - [Kaleidoscope Lite](https://www.wildlifeacoustics.com/products/kaleidoscope/kaleidoscope-lite) : permet de "manipuler" les fichiers bruts et les convertir à différents formats (WAV; ZC ; W4C)
 - [AnalookW](https://users.lmi.net/corben/WinAnalook.htm#AnaLookW_Contents) : permet l'analyse que de fichiers de format ZC légers mais de pauvre résolution. Utile pour les gros volumes à traiter. Cet autre chatbot dédié vous présente [ce logiciel gratuit et léger](https://chatmd.forge.apps.education.fr/#https://github.com/guillaumarchais/ChatMD/blob/main/Analook-tuto) avec des [tutoriels vidéos](https://youtu.be/FSVgMu8JOOc) par Guillaume Marchais expliquent les différentes étapes du traitement.
 
-
+:::info
 Le [programme national de sciences participatives VIGI CHIROS](https://www.vigienature.fr/fr/page/participer-vigie-chiro) offre à tous participants la posibilité de déposer ou téléverser ses enregistremets pour une analyse automatisée par leur classificateur élaborateur TADARIDA.
+:::
 
 D'autres solutions informatiques élaborées sont disponibles à la vente sous forme de licence payante annuelle ou permanente :
 - Sonochiro de Biotope (Europe et Outre-mer)
