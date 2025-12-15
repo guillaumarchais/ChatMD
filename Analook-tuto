@@ -72,6 +72,9 @@ Retour au sommaire ?
     *   **🦉 Comportement et contexte :**  AnalookW 4 peut être utilisé pour filtrer les signaux d'une ou groupe d'espèces particulier.  Le _[tutoriel vidéo n°4 de Guillaume Marchais](https://youtu.be/yJd4Iv8audg)_ présente un exemple pour l'espèce souvent enregistrée qu'est la **Pipistrelle commune**. Des filtres basiques sont décrits dans [l'Appendix II de ce rapport néerlandais](https://www.researchgate.net/publication/273136958_Windturbines_and_bats_in_the_Netherlands_-_Measuring_and_predicting)
 ![Tutoriel GM n°4](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIzdDE2a3N2ZndzZGd1NDhzOTg1aHo3amlueGhzZmlmY3hjdG8zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0sAFZfBTaZn8G3277t/giphy.gif)
 
+3.  **🆔 Identification en masse par filtres :**
+    *   **🔬 Analyse semi-automatique :** J'ai développé une mini web app [CHIROFILTRO](https://chirofiltro1.netlify.app/) qui permet de filtrer de nombreux fichiers (plusieurs centaines à la fois) à partir d'un fichier de mesures de paramètres (AML) que l'on obtient avec AnalookW. Il faut s'inscrire pour ouvrir un compte (évite une utilisation chaotique par les spambots). Aucune donnée téléversée n'est conservée ; seules les noms de fichiers apparaissent, cela garantit une utilisation anonymisée (pas d'informations sur le site inventorié). Voici un [premier tutoriel sur Youtube](https://www.youtube.com/watch?v=bKSXKf7EJa8) pour commencer son utilisation.
+
 Retour au sommaire ?
 1. [Oui]()
 2. [Suite](aide)
