@@ -212,7 +212,7 @@ Voici une [vidéo de présentation pédagogique simplifiée](https://youtu.be/dT
 
 :::info
 📌 **Pourquoi choisir EoA ?**
-- Idéal pour les faibles mortalités (ex. 0-10 cadavres trouvés)  
+- Idéal pour les faibles mortalités (ex. 0-5 cadavres trouvés)  
 - Corrige les biais des modèles classiques  
 - Prend en compte l’incertitude avec une approche bayésienne (fournit des intervalles de crédibilité des résultats de `M* très faibles)
 :::
